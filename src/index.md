@@ -1,8 +1,9 @@
 ---
 title: This is my website
 ---
-# Welcome to my website
 
-This is my first page using **Lume**, a static site generator for Deno.
+<h1 class="font-display">Welcome to my website</h1>
 
-I hope you enjoy it.
+<p class="font-content">This is my first page using **Lume**, a static site generator for Deno.</p>
+
+<p class="font-detail">I hope you enjoy it.</p>
