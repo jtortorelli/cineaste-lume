@@ -6,6 +6,6 @@ const site = lume({
 });
 
 site.use(tailwindcss(/* Options */));
-site.add("styles.css"); //Add the entry point
+site.add("style.css"); //Add the entry point
 
 export default site;
