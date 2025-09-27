@@ -2,6 +2,7 @@ import lume from "lume/mod.ts";
 import tailwindcss from "lume/plugins/tailwindcss.ts";
 import googleFonts from "lume/plugins/google_fonts.ts";
 import icons from "lume/plugins/icons.ts";
+import inline from "lume/plugins/inline.ts";
 
 const site = lume({
   src: "./src",
@@ -15,6 +16,7 @@ site.use(
       "https://fonts.google.com/share?selection.family=Montserrat:ital,wght@0,100..900;1,100..900|Noto+Serif+JP:wght@200..900|Petrona:ital,wght@0,100..900;1,100..900|Sono:wght@200..800",
   })
 );
-site.use(icons(/* Options */));
+site.use(icons());
+site.use(inline());
 
 export default site;
