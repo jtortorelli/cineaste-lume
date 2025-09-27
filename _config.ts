@@ -1,10 +1,11 @@
 import lume from "lume/mod.ts";
-import lightningCSS from "lume/plugins/lightningcss.ts";
+import tailwindcss from "lume/plugins/tailwindcss.ts";
 
 const site = lume({
   src: "./src",
 });
 
-site.add("/styles.css");
-site.use(lightningCSS());
+site.use(tailwindcss(/* Options */));
+site.add("styles.css"); //Add the entry point
+
 export default site;
