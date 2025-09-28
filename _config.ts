@@ -3,10 +3,13 @@ import tailwindcss from "lume/plugins/tailwindcss.ts";
 import googleFonts from "lume/plugins/google_fonts.ts";
 import icons from "lume/plugins/icons.ts";
 import inline from "lume/plugins/inline.ts";
+import jsx from "lume/plugins/jsx.ts";
 
 const site = lume({
   src: "./src",
 });
+
+site.use(jsx());
 
 site.use(tailwindcss());
 site.add("style.css"); //Add the entry point
@@ -18,5 +21,6 @@ site.use(
 );
 site.use(icons());
 site.use(inline());
+site.add("/static");
 
 export default site;
