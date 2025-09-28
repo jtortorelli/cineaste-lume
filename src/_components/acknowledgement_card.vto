@@ -1,0 +1,59 @@
+<!-- <div>
+  Debug: {{ title }} | {{ domain }} | {{ url }} | {{ image_url }} | {{ author }}
+</div> -->
+
+<div class="p-5">
+  {{ if image_url }}
+  <div class="lg:h-[150px] flex lg:items-center justify-center">
+    <div>
+      {{ comp maybe_link_url }}
+      <img class="max-w-[150px] max-h-[150px]" src="{{ image_url }}" />
+      {{ /comp }}
+    </div>
+  </div>
+  {{ /if }}
+
+  <div class="text-center">
+    <div class="font-content text-gray-700">
+      {{ comp maybe_link_url  }}
+      {{ name }}
+      {{ /comp }}
+    </div>
+
+    {{ if subtitle }}
+    <div class="font-content text-gray-700 text-sm">
+      {{ subtitle }}
+    </div>
+    {{ /if }}
+
+    {{ if alias }}
+    <div class="font-content text-sm text-gray-500">aka {{ alias }}</div>
+    {{ /if }}
+
+    {{ if domain }}
+    <div class="font-detail text-red-500 text-xs">
+      {{ comp maybe_link_url }}
+      {{ domain }}
+      {{ /comp }}
+    </div>
+    {{/if}}
+
+    {{ if history }}
+    <div class="font-content text-sm text-gray-700">{{ history }}</div>
+    {{ /if }}
+
+    {{ if isbn }}
+    <div class="font-detail text-red-500 text-xs">ISBN: {{ isbn }}</div>
+    {{ /if }}
+
+    {{ if author }}
+    <div class="font-content text-sm text-gray-700">{{ author }}</div>
+    {{ /if }}
+
+    {{ if works }}
+    <div class="font-content text-sm text-gray-500">
+      {{ works }}
+    </div>
+    {{ /if }}
+  </div>
+</div>

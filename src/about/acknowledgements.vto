@@ -1,0 +1,53 @@
+---
+title: Acknowledgements
+influences:
+  - name: Barry's Temple of Godzilla
+    domain: godzillatemple.com
+    resource_url: http://godzillatemple.com
+    author: Barry Goldberg
+    image_url: /static/images/about/influences/barrys_temple_of_godzilla.gif
+---
+
+<div class="text-center w-fit m-auto">
+  <h1 class="font-display tracking-wider uppercase p-4 text-2xl text-gray-700">
+    About
+  </h1>
+</div>
+<div
+  class="text-sm font-detail uppercase w-fit m-auto text-center text-gray-500 pb-4"
+>
+  <div class="flex flex-col sm:flex-row">
+    <div>
+      <a
+        href="/about"
+        class="inline-block p-1 px-4 rounded-t-lg hover:text-gray-700"
+      >
+        The Gist
+      </a>
+    </div>
+    <div>
+      <a
+        href="/about/history"
+        class="inline-block p-1 px-4 rounded-t-lg hover:text-gray-700"
+      >
+        History
+      </a>
+    </div>
+    <div>
+      <a
+        href="/about/acknowledgements"
+        class="inline-block p-1 px-4 rounded-t-lg border-red-700 text-red-700"
+      >
+        Acknowledgements
+      </a>
+    </div>
+  </div>
+</div>
+
+{{comp named_divider {name: "Influences"} }}{{/comp}}
+<div class="lg:grid lg:grid-cols-3">
+  {{ for influence of influences }}
+  {{ comp acknowledgement_card {name: influence.name, domain: influence.domain, resource_url: influence.resource_url, author: influence.author, image_url: influence.image_url} }}
+  {{ /comp }}
+  {{ /for }}
+</div>
