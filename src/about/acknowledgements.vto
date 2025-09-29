@@ -6,6 +6,53 @@ influences:
     resource_url: http://godzillatemple.com
     author: Barry Goldberg
     image_url: /static/images/about/acknowledgements/influences/barrys_temple_of_godzilla.gif
+  - name: Godzilla and Other Monster Music
+    domain: godzillamonstermusic.com
+    resource_url: http://www.godzillamonstermusic.com/godzilla.htm
+    author: Lawrence Tuczynski
+    image_url: /static/images/about/acknowledgements/influences/godzilla_and_other_monster_music.jpg
+  - name: Godzilla Stomp
+    domain: gojistomp.org
+    alias: Gary's Godzilla Zone
+    author: "\"Gary\""
+    image_url: "/static/images/about/acknowledgements/influences/garys_godzilla_zone.jpg"
+  - name: "Godzilla Tower"
+    resource_url: "https://www.angelfire.com/movies/GodzillaTower/Homepage.htm"
+    domain: "angelfire.com/movies/GodzillaTower"
+    author: "\"Iguanoman\""
+    image_url: "/static/images/about/acknowledgements/influences/godzilla_tower.png"
+  - name: "Kaiju Headquarters"
+    domain: "kaijuhq.org"
+    author: "Jordan Twining"
+    image_url: "/static/images/about/acknowledgements/influences/kaiju_headquarters.jpg"
+  - name: "Kaijuphile"
+    alias: "Rodan's Roost"
+    domain: "kaijuphile.com"
+    author: "Clint Lee Warner & Brandon Waggle"
+    image_url: "/static/images/about/acknowledgements/influences/kaijuphile.jpg"
+  - name: Monster Zero News
+    domain: "monsterzero.us"
+    author: "Aaron Smith"
+    image_url: "/static/images/about/acknowledgements/influences/monster_zero_news.jpg"
+  - name: SciFi Japan
+    resource_url: "http://scifijapan.com/articles"
+    domain: "scifijapan.com"
+    author: "Keith Aiken & Bob Johnson"
+    image_url: "/static/images/about/acknowledgements/influences/scifi_japan.jpeg"
+  - name: "Stomp Tokyo"
+    resource_url: "http://www.stomptokyo.com/"
+    domain: "stomptokyo.com"
+    author: "Chris Holland & Scott Hamilton"
+    image_url: "/static/images/about/acknowledgements/influences/stomp_tokyo.jpg"
+  - name: Toho Kingdom
+    resource_url: "https://www.tohokingdom.com/"
+    domain: "tohokingdom.com"
+    author: "Anthony Romero & Co."
+    image_url: "/static/images/about/acknowledgements/influences/toho_kingdom.png"
+  - name: Tokyo Monsters
+    domain: "tokyomonsters.com"
+    author: "James Ballard"
+    image_url: "/static/images/about/acknowledgements/influences/tokyo_monsters.jpg"
 ---
 
 <div class="text-center w-fit m-auto">
@@ -47,7 +94,7 @@ influences:
 {{comp named_divider {name: "Influences"} }}{{/comp}}
 <div class="lg:grid lg:grid-cols-3">
   {{ for influence of influences }}
-  {{ comp acknowledgement_card {name: influence.name, domain: influence.domain, resource_url: influence.resource_url, author: influence.author, image_url: influence.image_url} }}
+  {{ comp acknowledgement_card {name: influence.name, domain: influence.domain, resource_url: influence.resource_url, author: influence.author, image_url: influence.image_url, alias: influence.alias} }}
   {{ /comp }}
   {{ /for }}
 </div>
