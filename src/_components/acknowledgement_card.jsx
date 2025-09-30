@@ -58,7 +58,12 @@ export default function ({
           <div class="font-content text-sm text-gray-700">{author}</div>
         )}
 
-        {works && <div class="font-content text-sm text-gray-500">{works}</div>}
+        {works && (
+          <div
+            class="font-content text-sm text-gray-500"
+            dangerouslySetInnerHTML={{ __html: works }}
+          />
+        )}
       </div>
     </div>
   );
