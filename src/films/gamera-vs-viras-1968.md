@@ -1,0 +1,148 @@
+---
+tags: ["cineaste", "films"]
+aliases:
+  - alias: Destroy All Planets
+    context: American Theatrical Release
+japanese_title: ガメラ対宇宙怪獣バイラス
+kaiju:
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/kaiju-avatars/teruo-aragaki-0.jpg?t=2023-09-01T02%3A53%3A05.810Z
+    name: Gamera
+    portrayals:
+      - people:
+          - name: Aragaki Teruo
+        type: Suit Actor
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/kaiju-avatars/genzo-wakayama-0.jpg?t=2023-09-01T02%3A52%3A46.313Z
+    name: Viras
+    portrayals:
+      - people:
+          - name: Wakayama Genzô
+        type: Voice
+      - type: Suit Actor
+poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/posters/gamera-vs-viras-1968.jpg
+release_date: 1968-03-20
+runtime: 72
+series:
+  entry_number: 4
+  next_entry:
+    slug: gamera-vs-guiron-1969
+    title: Gamera vs. Guiron
+    year: 1969
+  previous_entry:
+    slug: gamera-vs-gyaos-1967
+    title: Gamera vs. Gyaos
+    year: 1967
+  slug: gamera
+  title: Gamera
+staff:
+  - people:
+      - name: Yuasa Noriaki
+    role: Director
+  - people:
+      - name: Nagata Hidemasa
+    role: Producer
+  - people:
+      - name: Takahashi Nisan
+    role: Screenplay
+  - people:
+      - name: Kitazaki Akira
+    role: Photography
+  - people:
+      - name: Tobita Kimio
+    role: Sound
+  - people:
+      - name: Uehara Shôichi
+    role: Lighting
+  - people:
+      - name: Yano Tomohisa
+    role: Art
+  - people:
+      - name: Hirose Kenjirô
+    role: Music
+  - people:
+      - name: Sekiguchi Shôji
+    role: Editor
+studios:
+  - Daiei Film Co., Ltd.
+supporting_cast:
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/daigo-inoue-0.jpg
+    character_qualifiers:
+    name: Inoue Daigo
+    role: Soldier
+    uncredited: true
+title: Gamera vs. Viras
+top_billed_cast:
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/kojiro-hongo-0.jpg
+    character_qualifiers:
+    name: Hongô Kôjirô
+    role: Shimada Nobuhiko
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/michiko-yaegaki-0.jpg
+    character_qualifiers:
+    name: Yaegaki Michiko
+    role: Nakatani Mariko
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/mari-atsumi-0.jpg
+    character_qualifiers:
+    name: Atsumi Mari
+    role: Aoyama Junko
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/junko-yashiro-0.jpg
+    character_qualifiers:
+    name: Yashiro Junko
+    role: Shibata Masako
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/yoshiro-kitahara-0.jpg
+    character_qualifiers:
+    name: Kitahara Yoshirô
+    role: Nakatani
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/sho-natsuki-0.jpg
+    character_qualifiers:
+    name: Natsuki Shô
+    role: Viras Henchman
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/koji-fujiyama-0.jpg
+    character_qualifiers:
+    name: Fujiyama Kôji
+    role: SDF Commander
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/chikara-hashimoto-0.jpg
+    character_qualifiers:
+    name: Hashimoto Chikara
+    role: Viras Henchman
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/carl-craig-jr-0.jpg
+    character_qualifiers:
+    name: Carl Craig, Jr.
+    role: Jim Morgan
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/toru-takatsuka-0.jpg
+    character_qualifiers:
+    name: Takatsuka Tôru
+    role: Nakatani Masao
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/kenji-go-0.jpg
+    character_qualifiers:
+    name: Gô Kenji
+    role: Viras Henchman
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/munehiko-takada-0.jpg
+    character_qualifiers:
+    name: Takada Munehiko
+    role: Jim's Father
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/peter-williams-0.jpg
+    character_qualifiers:
+    name: Peter Williams
+    role: Doctor Dobby
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/ken-nakahara-0.jpg
+    character_qualifiers:
+    name: Nakahara Ken
+    role: Viras Henchman
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/keiichiro-yamane-0.jpg
+    character_qualifiers:
+    name: Yamane Keiichirô
+    role: Viras Henchman
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/saburo-shinoda-0.jpg
+    character_qualifiers:
+    name: Shinoda Saburô
+    role: Boy Scout Leader
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/mary-murrows-0.jpg
+    character_qualifiers:
+    name: Mary Murrows
+    role: Jim's Mother
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-viras-1968/cast-avatars/daihachi-kita-0.jpg
+    character_qualifiers:
+    name: Kita Daihachi
+    role: Dobby's Assistant
+translation: Gamera vs. Space Monster Viras
+transliteration: Gamera Tai Uchû Kaijû Bairasu
+---

@@ -4,11 +4,13 @@ import googleFonts from "lume/plugins/google_fonts.ts";
 import icons from "lume/plugins/icons.ts";
 import inline from "lume/plugins/inline.ts";
 import jsx from "lume/plugins/jsx.ts";
+import date from "lume/plugins/date.ts";
 
 const site = lume({
   src: "./src",
 });
 
+site.use(date());
 site.use(jsx());
 
 site.use(tailwindcss());

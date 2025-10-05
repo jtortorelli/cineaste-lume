@@ -1,0 +1,122 @@
+---
+tags: ["cineaste", "films"]
+japanese_title: 座頭市の歌が聞える
+original_works:
+  - authors:
+      - name: Shimozawa Kan
+        slug: shimozawa-kan
+    format: short story
+    slug: zatoichi
+    title:
+poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/posters/zatoichis-vengeance-1966.jpg
+release_date: 1966-05-03
+runtime: 83
+series:
+  entry_number: 13
+  next_entry:
+    slug: zatoichis-pilgrimage-1966
+    title: Zatoichi's Pilgrimage
+    year: 1966
+  previous_entry:
+    slug: zatoichi-and-the-chess-expert-1965
+    title: Zatoichi and the Chess Expert
+    year: 1965
+  slug: zatoichi
+  title: Zatoichi
+staff:
+  - people:
+      - name: Tanaka Tokuzô
+    role: Director
+  - people:
+      - name: Takaiwa Hajime
+    role: Screenplay
+  - people:
+      - name: Miyagawa Kazuo
+    role: Photography
+  - people:
+      - name: Kaibara Yukio
+    role: Sound
+  - people:
+      - name: Nakaoka Genken
+    role: Lighting
+  - people:
+      - name: Nishioka Yoshinobu
+    role: Art
+  - people:
+      - name: Ifukube Akira
+        slug: ifukube-akira
+    role: Music
+  - people:
+      - name: Suganuma Kanji
+    role: Editor
+studios:
+  - Daiei Film Co., Ltd.
+title: Zatoichi's Vengeance
+top_billed_cast:
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/shintaro-katsu-0.jpg
+    character_qualifiers:
+    name: Katsu Shintarô
+    role: Zatôichi
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/shigeru-amachi-0.jpg
+    character_qualifiers:
+    name: Amachi Shigeru
+    role: Kurobe Genpachirô
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/mayumi-ogawa-0.jpg
+    character_qualifiers:
+    name: Ogawa Mayumi
+    role: Ochô
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/kei-sato-0.jpg
+    character_qualifiers:
+    name: Satô Kei
+    role: Boss Gonzô
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/jun-hamamura-0.jpg
+    character_qualifiers:
+    name: Hamamura Jun
+    role: Blind Priest
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/mitsuko-yoshikawa-0.jpg
+    character_qualifiers:
+    name: Yoshikawa Mitsuko
+    role: Tamekichi's Mother
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/yukiko-komura-0.jpg
+    character_qualifiers:
+    name: Komura Yukiko
+    role: Otsuya
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/michi-azuma-0.jpg
+    character_qualifiers:
+    name: Azuma Michi
+    role: Oharu
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/masanori-michida-0.jpg
+    character_qualifiers:
+    name: Machida Masanori
+    role: Taichi
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/koichi-mizuhara-0.jpg
+    character_qualifiers:
+    name: Mizuhara Kôichi
+    role: Yahei
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/saburo-date-0.jpg
+    character_qualifiers:
+    name: Date Saburô
+    role: Hanji
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/kazue-tamaki-0.jpg
+    character_qualifiers:
+    name: Tamaki Kazue
+    role: Brothel Owner
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/yukio-horikita-0.jpg
+    character_qualifiers:
+    name: Horikita Yukio
+    role: Toramatsu
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/gen-kimura-0.jpg
+    character_qualifiers:
+    name: Kimura Gen
+    role: Tamekichi
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/sumao-ishihara-0.jpg
+    character_qualifiers:
+    name: Ishihara Sumao
+    role: Food Stand Owner
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/cast-avatars/gen-kuroki-0.jpg
+    character_qualifiers:
+    name: Kuroki Gen
+    role: Yakuza
+translation: I Can Hear the Song of Zatôichi
+transliteration: Zatôichi No Uta Ga Kikoeru
+---

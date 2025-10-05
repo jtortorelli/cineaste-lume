@@ -1,0 +1,170 @@
+---
+tags: ["cineaste", "films"]
+japanese_title: 新座頭市・破れ！唐人剣
+original_works:
+  - authors:
+      - name: Shimozawa Kan
+        slug: shimozawa-kan
+    format: short story
+    slug: zatoichi
+    title:
+poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/posters/zatoichi-meets-the-one-armed-swordsman-1971.jpg
+release_date: 1971-01-13
+runtime: 94
+series:
+  entry_number: 22
+  next_entry:
+    slug: zatoichi-at-large-1972
+    title: Zatoichi at Large
+    year: 1972
+  previous_entry:
+    slug: zatoichi-goes-to-the-fire-festival-1970
+    title: Zatoichi Goes to the Fire Festival
+    year: 1970
+  slug: zatoichi
+  title: Zatoichi
+staff:
+  - people:
+      - name: Yasuda Kimiyoshi
+    role: Director
+  - people:
+      - name: Katsu Shintarô
+    role: Producer
+  - people:
+      - name: Nishioka Hiroyoshi
+    role: Assistant Producer
+  - people:
+      - name: Yasuda Kimiyoshi
+      - name: Yamada Takayuki
+    role: Screenplay
+  - people:
+      - name: Makiura Chikashi
+    role: Photography
+  - people:
+      - name: Ôtani Iwao
+    role: Sound
+  - people:
+      - name: Mima Hiroshi
+    role: Lighting
+  - people:
+      - name: Nishioka Yoshinobu
+    role: Art
+  - people:
+      - name: Tomita Isao
+    role: Music
+  - people:
+      - name: Taniguchi Toshio
+    role: Editor
+studios:
+  - Toho Co., Ltd.
+  - Katsu Productions
+title: Zatoichi Meets the One-Armed Swordsman
+top_billed_cast:
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/shintaro-katsu-0.jpg
+    character_qualifiers:
+    name: Katsu Shintarô
+    role: Zatôichi
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/yuko-hamaki-0.jpg
+    character_qualifiers:
+    name: Hama Yuuko
+    role: Osen
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/koji-nambara-0.jpg
+    character_qualifiers:
+    name: Nambara Kôji
+    role: Kakuzen
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/michie-terada-0.jpg
+    character_qualifiers:
+    name: Terada Michie
+    role: Oyone
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/toru-abe-0.jpg
+    character_qualifiers:
+    name: Abe Tôru
+    role: Boss Tôbei
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/takamaru-sasaki-0.jpg
+    character_qualifiers:
+    name: Sasaki Takamaru
+    role: Monk
+    slug: sasaki-takamaru
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/tokue-hanasawa-0.jpg
+    character_qualifiers:
+    name: Hanasawa Tokue
+    role: Oyone's Father
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/shinsuke-minami-0.jpg
+    character_qualifiers:
+    name: Minami Shinsuke
+    role: Hanoichi
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/shoro-ito-0.jpg
+    character_qualifiers:
+    name: Itô Shorô
+    role: Shinshichi
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/mutsuo-totsuka-0.jpg
+    character_qualifiers:
+    name: Totsuka Mutsuo
+    role: Kame
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/wang-lin-0.jpg
+    character_qualifiers:
+    name: Wâng Líng
+    role: Ji Yumei
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/zhang-yi-0.jpg
+    character_qualifiers:
+    name: Zhâng Yí
+    role: Ji Xiangzhi
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/osamu-okawa-0.jpg
+    character_qualifiers:
+    name: Ôkawa Osamu
+    role: Masakichi
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/yuzo-hayakawa-0.jpg
+    character_qualifiers:
+    name: Hayakawa Yûzô
+    role: Sanai
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/shoji-mori-0.jpg
+    character_qualifiers:
+    name: Mori Shôji
+    role: Tamesuke
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/ichiro-yamamoto-0.jpg
+    character_qualifiers:
+    name: Yamamoto Ichirô
+    role: Genji
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/kin-omae-0.jpg
+    character_qualifiers:
+    name: Ômae Kin
+    role: Kanzô
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/masato-kagawa-0.jpg
+    character_qualifiers:
+    name: Kagawa Masato
+    role: Xiaorong
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/chikara-hashimoto-0.jpg
+    character_qualifiers:
+    name: Hashimoto Chikara
+    role: Yakuza
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/yuji-hamada-0.jpg
+    character_qualifiers:
+    name: Hamada Yûji
+    role: Yakuza
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/goro-kudan-0.jpg
+    character_qualifiers:
+    name: Kudan Gorô
+    role: Yakuza
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/kanae-kobayashi-0.jpg
+    character_qualifiers:
+    name: Kobayashi Kanae
+    role: Oyone's Mother
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/gen-kuroki-0.jpg
+    character_qualifiers:
+    name: Kuroki Gen
+    role: Yakuza
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/jun-katsumura-0.jpg
+    character_qualifiers:
+    name: Katsumura Jun
+    role: Yakuza
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/yutaro-ban-0.jpg
+    character_qualifiers:
+    name: Ban Yûtarô
+    role: Yakuza
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/cast-avatars/jimmy-wang-0.jpg
+    character_qualifiers:
+    name: Wáng Yu
+    role: Wang Kang
+translation: New Zatôichi Slash! Chinese Sword
+transliteration: Shin Zatôichi Yabure! Tôjinken
+---

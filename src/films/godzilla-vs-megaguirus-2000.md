@@ -1,0 +1,164 @@
+---
+tags: ["cineaste", "films"]
+japanese_title: ゴジラ×メガギラス G消滅作戦
+kaiju:
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/kaiju-avatars/tsutomu-kitagawa-0.jpg?t=2023-09-04T02%3A25%3A55.561Z
+    name: Godzilla
+    portrayals:
+      - people:
+          - name: Kitagawa Tsutomu
+        type: Suit Actor
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/kaiju-avatars/02070.jpg?t=2023-10-01T02%3A49%3A03.476Z
+    name: Megaguirus
+    portrayals:
+      - type: Puppet
+      - type: CGI
+poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/posters/godzilla-x-megaguirus-2000.jpg
+release_date: 2000-12-16
+runtime: 105
+series:
+  entry_number: 24
+  next_entry:
+    slug: godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001
+    title: "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack"
+    year: 2001
+  previous_entry:
+    slug: godzilla-2000-millennium-1999
+    title: "Godzilla 2000: Millennium"
+    year: 1999
+  slug: godzilla
+  title: Godzilla
+staff:
+  - people:
+      - name: Tezuka Masaaki
+    role: Director
+  - people:
+      - name: Suzuki Kenji
+    role: SFX
+  - people:
+      - name: Tomiyama Shôgo
+    role: Producer
+  - people:
+      - name: Kashiwabara Hiroshi
+      - name: Mimura Wataru
+    role: Screenplay
+  - people:
+      - name: Kishimoto Masahiro
+    role: Photography
+  - people:
+      - name: Seshimo Yukiharu
+    role: Art
+  - people:
+      - name: Saitô Teiichi
+    role: Sound
+  - people:
+      - name: Saito Kaoru
+    role: Lighting
+  - people:
+      - name: Fushima Shin'ichi
+    role: Editor
+  - people:
+      - name: Ôshima Michiru
+    role: Music
+  - people:
+      - name: Kikuchi Yûichi
+    role: SFX Assistant Director
+  - people:
+      - name: Onoue Katsurô
+        slug: onoue-katsuro
+    role: Physical FX Assistant
+studios:
+  - Toho Co., Ltd.
+supporting_cast:
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/hiroshi-kashiwabara-0.jpg
+    character_qualifiers:
+    name: Kashiwabara Hiroshi
+    role: MP
+    uncredited: false
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/kazuko-kato-0.jpg
+    character_qualifiers:
+    name: Katô Kazuko
+    role: Atsushi's Mother
+    uncredited: false
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/shigeo-kato-0.jpg
+    character_qualifiers:
+    name: Katô Shigeo
+    role: Janitor
+    slug: kato-shigeo
+    uncredited: false
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/susumu-kurobe-0.jpg
+    character_qualifiers:
+    name: Kurobe Susumu
+    role: Military Officer
+    slug: kurobe-susumu
+    uncredited: false
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/wataru-mimura-0.jpg
+    character_qualifiers:
+    name: Mimura Wataru
+    role: Military Officer
+    uncredited: false
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/masaaki-tezuka-0.jpg
+    character_qualifiers:
+    name: Tezuka Masaaki
+    role: Teacher on Playground
+    uncredited: false
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/koichi-ueda-0.jpg
+    character_qualifiers:
+    name: Ueda Kôichi
+    role: MP
+    uncredited: false
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/koichi-yamadera-0.jpg
+    character_qualifiers:
+    name: Yamadera Kôichi
+    role: TV Host
+    uncredited: false
+title: Godzilla vs. Megaguirus
+top_billed_cast:
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/misato-tanaka-0.jpg
+    character_qualifiers:
+    name: Tanaka Misato
+    role: Tsujimori Kiriko
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/shosuke-tanihara-0.jpg
+    character_qualifiers:
+    name: Tanihara Shôsuke
+    role: Kudô Gen
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/masanobu-katsumura-0.jpg
+    character_qualifiers:
+    name: Katsumura Masanobu
+    role: Nîkura Makoto
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/rinsaku-ikeuchi-0.jpg
+    character_qualifiers:
+    name: Ikeuchi Mansaku
+    role: Mima Kazuo
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/hiroyuki-suzuki-0.jpg
+    character_qualifiers:
+    name: Suzuki Hiroyuki
+    role: Hayasaka Atsushi
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/makiya-yamaguchi-0.jpg
+    character_qualifiers:
+    name: Yamaguchi Makiya
+    role: Hosono Seiichi
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/tetsuo-yamashita-0.jpg
+    character_qualifiers:
+    name: Yamashita Tetsuo
+    role: Okumura Tomoharu
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/toshiyuki-nagashima-0.jpg
+    character_qualifiers:
+    name: Nagashima Toshiyuki
+    role: Miyakawa Takuya
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/katsuo-nakamura-0.jpg
+    character_qualifiers:
+    name: Nakamura Katsuo
+    role: Doctor Yamaguchi Tsuyoshi
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/masato-ibu-0.jpg
+    character_qualifiers:
+    name: Ibu Masatô
+    role: Sugiura Motohiko
+  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/cast-avatars/yuriko-hoshi-0.jpg
+    character_qualifiers:
+    name: Hoshi Yuriko
+    role: Doctor Yoshizawa Yoshino
+    slug: hoshi-yuriko
+translation: Godzilla × Megaguirus G Annihilation Operation
+transliteration: Gojira × Megagirasu G Shômetsu Sakusen
+---
