@@ -1,0 +1,38 @@
+---
+title: People
+---
+
+<div class="text-center w-fit m-auto">
+  <h1 class="font-display tracking-wider uppercase p-4 text-2xl text-gray-700">
+    People
+  </h1>
+</div>
+<div class="flex flex-col sm:flex-row sm:flex-wrap justify-center gap-4">
+  {{ for p of search.pages('cineaste people', 'url') }}
+  <div class="flex flex-row sm:flex-col sm:w-32 items-center gap-3">
+    <div>
+      <a href="{{ p.url }}">
+        <img
+          class="h-[100px] w-[100px] max-w-[150px] rounded-lg drop-shadow-lg"
+          src="{{ p.avatar_url }}"
+        />
+      </a>
+    </div>
+    <div class="sm:text-center">
+      <a href="{{ p.url }}">
+        <div class="font-content text-sm">{{ p.name }}</div>
+        {{ if p.profession }}
+        <div class="font-detail text-xs text-gray-500">
+          {{ p.profession }}
+        </div>
+        {{ /if }}
+        {{ if p.type == "person" }}
+        <div class="font-detail text-xs text-red-700">
+          {{ comp person_date_range {p: p} }}{{ /comp }}
+        </div>
+        {{ /if }}
+      </a>
+    </div>
+  </div>
+  {{ /for }}
+</div>

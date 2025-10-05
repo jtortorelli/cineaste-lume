@@ -1,0 +1,35 @@
+---
+tags: ["cineaste", "people"]
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/otowa-nobuko/otowa-nobuko.jpg?t=2024-04-01T19%3A19%3A13.345Z
+birth_name: Kaji Nobuko
+birth_place: Saihaku, Tottori, Japan
+cause_of_death: Cirrhosis
+dob: 1924-10-01
+dob_resolution: exact
+dod: 1993-12-22
+dod_resolution: exact
+japanese_birth_name: 加治信子
+japanese_name: 乙羽信子
+name: Otowa Nobuko
+profession: Actress
+spouses:
+  - name: Shindô Kaneto
+type: person
+works:
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    roles:
+      - name: Dancing Goddess
+        uncredited: false
+    slug: three-treasures-1959
+    title: The Three Treasures
+    year: 1959
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/last-war-1961/posters/last-war-1961.jpg
+    roles:
+      - name: Tamura Yoshi
+        uncredited: false
+    slug: last-war-1961
+    title: The Last War
+    year: 1961
+---

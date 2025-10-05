@@ -1,0 +1,50 @@
+---
+tags: ["cineaste", "people"]
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/mihashi-tatsuya/mihashi-tatsuya.jpg
+birth_place: Tokyo, Japan
+cause_of_death: Myocardial Infarction
+dob: 1923-11-02
+dob_resolution: exact
+dod: 2004-05-15
+dod_resolution: exact
+japanese_name: 三橋達也
+name: Mihashi Tatsuya
+profession: Actor
+spouses:
+  - name: Anzai Kyôko
+    slug: anzai-kyoko
+type: person
+works:
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/human-vapor-1960/posters/human-vapor-1960.jpg
+    roles:
+      - name: Detective Okamoto Kenji
+        uncredited: false
+    slug: human-vapor-1960
+    title: The Human Vapor
+    year: 1960
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/high-and-low-1963/posters/high-and-low-1963.jpg
+    roles:
+      - name: Kawanishi
+        uncredited: false
+    slug: high-and-low-1963
+    title: High and Low
+    year: 1963
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventure-of-kigan-castle-1966/posters/adventures-of-taklamakan-1966.jpg
+    roles:
+      - name: The King
+        uncredited: false
+    slug: adventure-of-kigan-castle-1966
+    title: The Adventure of Kigan Castle
+    year: 1966
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/posters/casshern-2004.jpg
+    roles:
+      - name: Doctor Furoi
+        uncredited: false
+    slug: casshern-2004
+    title: Casshern
+    year: 2004
+---

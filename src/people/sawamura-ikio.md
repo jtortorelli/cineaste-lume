@@ -1,0 +1,193 @@
+---
+tags: ["cineaste", "people"]
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sawamura-ikio/sawamura-ikio.jpg?t=2024-04-02T00%3A08%3A48.773Z
+birth_name: Okabe Shizuo
+birth_place: Tochigi, Japan
+cause_of_death: Heart Failure
+dob: 1905-09-04
+dob_resolution: exact
+dod: 1975-09-20
+dod_resolution: exact
+japanese_birth_name: 岡部静雄
+japanese_name: 沢村いき雄
+name: Sawamura Ikio
+profession: Actor
+type: person
+works:
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-iii-duel-at-ganryu-island-1956/posters/samurai-iii-duel-at-ganryu-island-1956.jpg
+    roles:
+      - name: Innkeeper
+        uncredited: false
+    slug: samurai-iii-duel-at-ganryu-island-1956
+    title: "Samurai III: Duel at Ganryu Island"
+    year: 1956
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/throne-of-blood-1957/posters/throne-of-blood-1957.jpg
+    roles:
+      - name: Washizu Soldier
+        uncredited: false
+    slug: throne-of-blood-1957
+    title: Throne of Blood
+    year: 1957
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hidden-fortress-1958/posters/hidden-fortress-1958.jpg
+    roles:
+      - name: Yamana Priest
+        uncredited: false
+    slug: hidden-fortress-1958
+    title: The Hidden Fortress
+    year: 1958
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    roles:
+      - name: Lecherous Deity
+        uncredited: false
+    slug: three-treasures-1959
+    title: The Three Treasures
+    year: 1959
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/battle-in-outer-space-1959/posters/battle-in-outer-space-1959.jpg
+    roles:
+      - name: Line Inspector
+        uncredited: false
+    slug: battle-in-outer-space-1959
+    title: Battle in Outer Space
+    year: 1959
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/secret-of-the-telegian-1960/posters/secret-of-the-telegian-1960.jpg
+    roles:
+      - name: Thriller Show Announcer
+        uncredited: false
+    slug: secret-of-the-telegian-1960
+    title: The Secret of the Telegian
+    year: 1960
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daredevil-in-the-castle-1961/posters/daredevil-in-the-castle-1961.jpg
+    roles:
+      - name: Rice Customer
+        uncredited: false
+    slug: daredevil-in-the-castle-1961
+    title: Daredevil in the Castle
+    year: 1961
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/yojimbo-1961/posters/yojimbo-1961.jpg
+    roles:
+      - name: Corrupt Bailiff
+        uncredited: false
+    slug: yojimbo-1961
+    title: Yojimbo
+    year: 1961
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gorath-1962/posters/gorath-1962.jpg
+    roles:
+      - name: Taxi Driver
+        uncredited: false
+    slug: gorath-1962
+    title: Gorath
+    year: 1962
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-vs-godzilla-1962/posters/king-kong-vs-godzilla-1962.jpg
+    roles:
+      - name: Island Priest
+        uncredited: false
+    slug: king-kong-vs-godzilla-1962
+    title: King Kong vs. Godzilla
+    year: 1962
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/high-and-low-1963/posters/high-and-low-1963.jpg
+    roles:
+      - name: Train Crew
+        uncredited: false
+    slug: high-and-low-1963
+    title: High and Low
+    year: 1963
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/atragon-1963/posters/atragon-1963.jpg
+    roles:
+      - name: Taxi Driver
+        uncredited: false
+    slug: atragon-1963
+    title: Atragon
+    year: 1963
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-vs-godzilla-1964/posters/mothra-vs-godzilla-1964.jpg
+    roles:
+      - name: Village Priest
+        uncredited: false
+    slug: mothra-vs-godzilla-1964
+    title: Mothra vs. Godzilla
+    year: 1964
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/posters/ghidorah-the-three-headed-monster-1964.jpg
+    roles:
+      - name: Fisherman
+        uncredited: false
+    slug: ghidorah-the-three-headed-monster-1964
+    title: Ghidorah, the Three-Headed Monster
+    year: 1964
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/frankenstein-conquers-the-world-1965/posters/frankenstein-conquers-the-world-1965.jpg
+    roles:
+      - name: Man Walking Dog
+        uncredited: false
+    slug: frankenstein-conquers-the-world-1965
+    title: Frankenstein Conquers the World
+    year: 1965
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventure-of-kigan-castle-1966/posters/adventures-of-taklamakan-1966.jpg
+    roles:
+      - name: Slave Auctioneer
+        uncredited: false
+    slug: adventure-of-kigan-castle-1966
+    title: The Adventure of Kigan Castle
+    year: 1966
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/war-of-the-gargantuas-1966/posters/war-of-the-gargantuas-1966.jpg
+    roles:
+      - name: Fisherman
+        uncredited: false
+    slug: war-of-the-gargantuas-1966
+    title: War of the Gargantuas
+    year: 1966
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ebirah-horror-of-the-deep-1966/posters/godzilla-vs-the-sea-monster-1966.jpg
+    roles:
+      - name: Captive Islander
+        uncredited: false
+    slug: ebirah-horror-of-the-deep-1966
+    title: Ebirah, Horror of the Deep
+    year: 1966
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-escapes-1967/posters/king-kong-escapes-1967.jpg
+    roles:
+      - name: Islander
+        uncredited: false
+    slug: king-kong-escapes-1967
+    title: King Kong Escapes
+    year: 1967
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/destroy-all-monsters-1968/posters/destroy-all-monsters-1968.jpg
+    roles:
+      - name: Mountaineer
+        uncredited: false
+    slug: destroy-all-monsters-1968
+    title: Destroy All Monsters
+    year: 1968
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/all-monsters-attack-1969/posters/godzillas-revenge-1969.jpg
+    roles:
+      - name: Bartender
+        uncredited: false
+    slug: all-monsters-attack-1969
+    title: All Monsters Attack
+    year: 1969
+  - format: film
+    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/posters/terror-of-mechagodzilla-1975.jpg
+    roles:
+      - name: Mafune's Manservant
+        uncredited: false
+    slug: terror-of-mechagodzilla-1975
+    title: Terror of Mechagodzilla
+    year: 1975
+---
