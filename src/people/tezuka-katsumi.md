@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tezuka-katsumi/tezuka-katsumi.jpg?t=2024-04-02T00%3A11%3A39.841Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tezuka-katsumi/tezuka-katsumi.jpg
 dob: 1912-08-21
 dob_resolution: exact
 dod: unknown
@@ -11,7 +11,7 @@ profession: Suit Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/posters/godzilla-1954.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
     roles:
       - actor_alias: ""
         name: Godzilla
@@ -24,7 +24,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-raids-again-1955/posters/godzilla-raids-again-1955.jpg
+    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.jpg
     roles:
       - name: Anguirus
         qualifiers:
@@ -34,7 +34,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rodan-1956/posters/rodan-1956.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
     roles:
       - name: Meganulon
         qualifiers:
@@ -46,7 +46,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     roles:
       - name: Mogera
         qualifiers:
@@ -56,7 +56,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/posters/varan-the-unbelievable-1958.jpg
+    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.jpg
     roles:
       - name: Varan
         qualifiers:
@@ -66,7 +66,7 @@ works:
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/h-man-1958/posters/h-man-1958.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
     roles:
       - name: Fishing Captain
         uncredited: false
@@ -74,7 +74,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Utte Soldier
         uncredited: false
@@ -82,7 +82,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/battle-in-outer-space-1959/posters/battle-in-outer-space-1959.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
     roles:
       - name: Military Officer
         uncredited: false
@@ -90,7 +90,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-1961/posters/mothra-1961.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
     roles:
       - name: Mothra
         qualifiers:
@@ -100,7 +100,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gorath-1962/posters/gorath-1962.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
     roles:
       - name: Magma
         qualifiers:
@@ -110,7 +110,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-vs-godzilla-1962/posters/king-kong-vs-godzilla-1962.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
     roles:
       - name: Godzilla
         qualifiers:
@@ -120,7 +120,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/matango-1963/posters/matango-1963.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.jpg
     roles:
       - name: Official
         uncredited: false
@@ -128,7 +128,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/atragon-1963/posters/atragon-1963.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
     roles:
       - name: Military Officer
         uncredited: false
@@ -136,7 +136,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-vs-godzilla-1964/posters/mothra-vs-godzilla-1964.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
     roles:
       - name: Godzilla
         qualifiers:
@@ -146,7 +146,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/posters/ghidorah-the-three-headed-monster-1964.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
     roles:
       - name: Godzilla
         qualifiers:

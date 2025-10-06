@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/okawa-henry/okawa-henry.jpg?t=2024-04-01T19%3A18%3A22.332Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/okawa-henry/okawa-henry.jpg
 birth_name: Ôkawa Heihachirô
 birth_place: Saitama, Japan
 cause_of_death: Cerebral Hemorrhage
@@ -15,7 +15,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     roles:
       - name: Interpreter
         uncredited: false
@@ -23,7 +23,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/posters/ghidorah-the-three-headed-monster-1964.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
     roles:
       - name: UFO Club Member
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/war-of-the-gargantuas-1966/posters/war-of-the-gargantuas-1966.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
     roles:
       - name: Doctor
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/destroy-all-monsters-1968/posters/destroy-all-monsters-1968.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
     roles:
       - name: UNSC Personnel
         uncredited: false

@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: ジュブナイル
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/posters/juvenile-2000.jpg
+poster_url: /static/images/films/juvenile-2000/posters/poster.jpg
 release_date: 2000-07-15
 runtime: 105
 staff:
@@ -56,129 +56,129 @@ studios:
   - Robot Communications, Inc.
 title: Juvenile
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/shingo-katori-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/shingo-katori-0.jpg
     character_qualifiers:
     name: Katori Shingo
     role: Kanzaki Sôichirô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/miki-sakai-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/miki-sakai-0.jpg
     character_qualifiers:
     name: Sakai Miki
     role: Kinoshita Noriko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/anne-suzuki-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/anne-suzuki-0.jpg
     character_qualifiers:
     name: Suzuki Anne
     role: Kinoshita Misaki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/yuya-endo-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/yuya-endo-0.jpg
     character_qualifiers:
     name: Endô Yûya
     role: Sakamoto Yûsuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/kyotaro-shimizu-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/kyotaro-shimizu-0.jpg
     character_qualifiers:
     name: Shimizu Kyôtarô
     role: Ôno Hidetaka
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/yuki-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/yuki-0.jpg
     character_qualifiers:
     name: Yûki
     role: Matsuoka Toshiya
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/kinzo-sakura-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/kinzo-sakura-0.jpg
     character_qualifiers:
     name: Sakura Kinzô
     role: Junkyard Manager
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/katsumi-takahashi-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/katsumi-takahashi-0.jpg
     character_qualifiers:
     name: Takahashi Katsumi
     role: Yûsuke's Father
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/kuniko-asagi-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/kuniko-asagi-0.jpg
     character_qualifiers:
     name: Asagi Kuniko
     role: Yûsuke's Mother
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/kazue-tsunogae-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/kazue-tsunogae-0.jpg
     character_qualifiers:
     name: Tsunogae Kazue
     role: Candy Shop Woman
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/takashi-matsuo-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/takashi-matsuo-0.jpg
     character_qualifiers:
     name: Matsuo Takashi
     role: Misawa
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/yuji-ogata-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/yuji-ogata-0.jpg
     character_qualifiers:
     name: Ogata Yûji
     role: Electronics Shop Owner
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/hiroshi-tahara-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/hiroshi-tahara-0.jpg
     character_qualifiers:
     name: Tahara Hiroshi
     role: Researcher
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/masaomi-hiraga-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/masaomi-hiraga-0.jpg
     character_qualifiers:
     name: Hiraga Masaomi
     role: Captain
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/nobuhiko-kuroki-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/nobuhiko-kuroki-0.jpg
     character_qualifiers:
     name: Kuroki Nobuhiko
     role: First Mate
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/yuo-yamane-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/yuo-yamane-0.jpg
     character_qualifiers:
     name: Yamane Yûo
     role: Sailor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/kenichiro-tanabe-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/kenichiro-tanabe-0.jpg
     character_qualifiers:
     name: Tanabe Ken'ichirô
     role: Sailor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/kazushige-komatsu-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/kazushige-komatsu-0.jpg
     character_qualifiers:
     name: Komatsu Kazushige
     role: Takanoda's Father
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/laura-umihara-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/laura-umihara-0.jpg
     character_qualifiers:
     name: Umihara Laura
     role: Takanoda's Mother
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/jun-mizukami-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/jun-mizukami-0.jpg
     character_qualifiers:
     name: Mizukami Jun
     role: Takanoda Mitsuharu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/miki-kitabayashi-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/miki-kitabayashi-0.jpg
     character_qualifiers:
     name: Kitabayashi Miki
     role: Woman on Date
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/satoshi-tanihata-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/satoshi-tanihata-0.jpg
     character_qualifiers:
     name: Tanihata Satoshi
     role: Man on Date
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/shojiro-suzuki-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/shojiro-suzuki-0.jpg
     character_qualifiers:
     name: Suzuki Shôjirô
     role: Youth
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/kenji-noritomo-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/kenji-noritomo-0.jpg
     character_qualifiers:
     name: Noritomo Kenji
     role: Youth
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/megumi-hayashibara-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/megumi-hayashibara-0.jpg
     character_qualifiers:
     name: Hayashibara Megumi
     qualifiers: Voice
     role: Tetra
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/megumi-hayashibara-1.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/megumi-hayashibara-1.jpg
     character_qualifiers:
     name: Hayashibara Megumi
     role: Researcher
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/isao-takeno-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/isao-takeno-0.jpg
     character_qualifiers:
     name: Takeno Isao
     qualifiers: Voice
     role: Void<span class="italic">-seijin</span>
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/jay-kabira-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/jay-kabira-0.jpg
     character_qualifiers: Adult
     name: Jay Kabira
     role: Ôno Hidetaka
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/ko-takasugi-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/ko-takasugi-0.jpg
     character_qualifiers: Adult
     name: Takasugi Kô
     role: Matsuoka Toshiya
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/tamaki-ogawa-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/tamaki-ogawa-0.jpg
     character_qualifiers: Adult
     name: Ogawa Tamaki
     role: Kinoshita Misaki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/juvenile-2000/cast-avatars/hidetaka-yoshioka-0.jpg
+  - avatar_url: /static/images/films/juvenile-2000/cast-avatars/hidetaka-yoshioka-0.jpg
     character_qualifiers: Adult
     name: Yoshioka Hidetaka
     role: Sakamoto Yûsuke

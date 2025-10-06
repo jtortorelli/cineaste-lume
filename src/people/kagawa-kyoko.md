@@ -12,7 +12,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Princess Miyazu
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daredevil-in-the-castle-1961/posters/daredevil-in-the-castle-1961.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
     roles:
       - name: Ai
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-1961/posters/mothra-1961.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
     roles:
       - name: Hanamura Michi
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/high-and-low-1963/posters/high-and-low-1963.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
     roles:
       - name: Gondô Reiko
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/posters/ballad-2009.jpg
+    poster_url: /static/images/films/ballad-2009/posters/poster.jpg
     roles:
       - name: Yoshino
         uncredited: false

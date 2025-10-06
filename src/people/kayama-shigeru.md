@@ -15,17 +15,17 @@ profession: Author
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/posters/godzilla-1954.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
     slug: godzilla-1954
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-raids-again-1955/posters/godzilla-raids-again-1955.jpg
+    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.jpg
     slug: godzilla-raids-again-1955
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     slug: mysterians-1957
     staff:
       - role: Screenplay

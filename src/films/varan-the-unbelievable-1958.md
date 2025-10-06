@@ -2,7 +2,7 @@
 tags: ["cineaste", "films"]
 japanese_title: 大怪獣バラン
 kaiju:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/kaiju-avatars/katsumi-tezuka-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/kaiju-avatars/katsumi-tezuka-0.jpg
     name: Varan
     portrayals:
       - people:
@@ -11,7 +11,7 @@ kaiju:
           - name: Nakajima Haruo
             slug: nakajima-haruo
         type: Suit Actor
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/posters/varan-the-unbelievable-1958.jpg
+poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.jpg
 release_date: 1958-10-14
 runtime: 82
 staff:
@@ -62,19 +62,19 @@ staff:
 studios:
   - Toho Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/yoshio-katsube-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/yoshio-katsube-0.jpg
     character_qualifiers:
     name: Katsube Yoshio
     role: Reporter
     slug: katsube-yoshio
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/yutaka-oka-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/yutaka-oka-0.jpg
     character_qualifiers:
     name: Oka Yutaka
     role: Bomber Pilot
     slug: oka-yutaka
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/keiji-sakakida-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/keiji-sakakida-0.jpg
     character_qualifiers:
     name: Sakakida Keiji
     role: Truck Driver
@@ -82,118 +82,118 @@ supporting_cast:
     uncredited: true
 title: Varan the Unbelievable
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/kozo-nomura-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/kozo-nomura-0.jpg
     character_qualifiers:
     name: Nomura Kôzô
     role: Uozaki Kenji
     slug: nomura-kozo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/ayumi-sonoda-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/ayumi-sonoda-0.jpg
     character_qualifiers:
     name: Sonoda Ayumi
     role: Shinjô Yuriko
     slug: sonoda-ayumi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/koreya-senda-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/koreya-senda-0.jpg
     character_qualifiers:
     name: Senda Koreya
     role: Doctor Sugimoto
     slug: senda-koreya
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/akihiko-hirata-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/akihiko-hirata-0.jpg
     character_qualifiers:
     name: Hirata Akihiko
     role: Doctor Fujimura
     slug: hirata-akihiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/fuyuki-murakami-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/fuyuki-murakami-0.jpg
     character_qualifiers:
     name: Murakami Fuyuki
     role: Doctor Majima
     slug: murakami-fuyuki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/yoshio-tsuchiya-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/yoshio-tsuchiya-0.jpg
     character_qualifiers:
     name: Tsuchiya Yoshio
     role: Officer Katsumoto
     slug: tsuchiya-yoshio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/minosuke-yamada-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/minosuke-yamada-0.jpg
     character_qualifiers:
     name: Yamada Minosuke
     role: Defense Secretary
     slug: yamada-minosuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/hisaya-ito-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/hisaya-ito-0.jpg
     character_qualifiers:
     name: Itô Hisaya
     role: Shinjô Ichirô
     slug: ito-hisaya
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/yoshibumi-tajima-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/yoshibumi-tajima-0.jpg
     character_qualifiers:
     name: Tajima Yoshibumi
     role: Naval Officer
     slug: tajima-yoshibumi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/nadao-kirino-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/nadao-kirino-0.jpg
     character_qualifiers:
     name: Kirino Nadao
     role: Kawada Yutaka
     slug: kirino-nadao
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/akira-sera-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/akira-sera-0.jpg
     character_qualifiers:
     name: Sera Akira
     role: Village Priest
     slug: sera-akira
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/akio-kusama-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/akio-kusama-0.jpg
     character_qualifiers:
     name: Kusama Akio
     role: Soldier
     slug: kusama-akio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/fuminto-matsuo-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/fuminto-matsuo-0.jpg
     character_qualifiers:
     name: Matsuo Fumindo
     role: Horiguchi
     slug: matsuo-fumindo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/soji-ubukata-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/soji-ubukata-0.jpg
     character_qualifiers:
     name: Ubukata Sôji
     role: Policeman
     slug: ubukata-soji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/mitsuo-tsuda-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/mitsuo-tsuda-0.jpg
     character_qualifiers:
     name: Tsuda Mitsuo
     role: Soldier
     slug: tsuda-mitsuo
   - alias: Kumagai Jirô
-    avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/takuzo-kumagai-0.jpg
+    avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/takuzo-kumagai-0.jpg
     character_qualifiers:
     name: Kumagai Takuzô
     role: Soldier
     slug: kumagai-takuzo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/shoichi-hirose-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/shoichi-hirose-0.jpg
     character_qualifiers:
     name: Hirose Shôichi
     role: Fisherman
     slug: hirose-shoichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/keisuke-yamada-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/keisuke-yamada-0.jpg
     character_qualifiers:
     name: Yamada Keisuke
     role: Soldier
     slug: yamada-keisuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/hideo-shibuya-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/hideo-shibuya-0.jpg
     character_qualifiers:
     name: Shibuya Hideo
     role: Reporter
     slug: shibuya-hideo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/masaki-shinohara-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/masaki-shinohara-0.jpg
     character_qualifiers:
     name: Shinohara Masaki
     role: Fisherman
     slug: shinohara-masaki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/rinsaku-ogata-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/rinsaku-ogata-0.jpg
     character_qualifiers:
     name: Ogata Rinsaku
     role: Soldier
     slug: ogata-rinsaku
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/junichiro-mukai-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/junichiro-mukai-0.jpg
     character_qualifiers:
     name: Mukai Jun'ichirô
     role: Soldier
     slug: mukai-junichiro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/cast-avatars/haruya-sakamoto-0.jpg
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/haruya-sakamoto-0.jpg
     character_qualifiers:
     name: Sakamoto Haruya
     role: Soldier

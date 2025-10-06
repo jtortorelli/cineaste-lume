@@ -26,7 +26,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-1961/posters/mothra-1961.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
     roles:
       - name: Clark Nelson
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/last-war-1961/posters/last-war-1961.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
     roles:
       - name: Watkins
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/message-from-space-1978/posters/message-from-space-1978.jpg
+    poster_url: /static/images/films/message-from-space-1978/posters/poster.jpg
     roles:
       - name: Earth Federation Commander
         uncredited: false

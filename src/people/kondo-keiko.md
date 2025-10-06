@@ -9,7 +9,7 @@ profession: Singer
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invisible-man-1954/posters/invisible-man-1954.jpg
+    poster_url: /static/images/films/invisible-man-1954/posters/poster.jpg
     roles:
       - name: Mari
         uncredited: false
@@ -17,7 +17,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/samurai-ii-duel-at-ichijoji-temple-1955.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
     roles:
       - name: Hagerin Wataru
         uncredited: false

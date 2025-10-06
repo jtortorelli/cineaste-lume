@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/posters/zatoichi-in-desperation-1972.jpg
+poster_url: /static/images/films/zatoichi-in-desperation-1972/posters/poster.jpg
 release_date: 1972-09-02
 runtime: 95
 series:
@@ -58,75 +58,75 @@ studios:
   - Katsu Productions
 title: Zatoichi in Desperation
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/shintaro-katsu-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/shintaro-katsu-0.jpg
     character_qualifiers:
     name: Katsu Shintarô
     role: Zatôichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/kiwako-taichi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/kiwako-taichi-0.jpg
     character_qualifiers:
     name: Taichi Kiwako
     role: Nishikigi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/kyoko-yoshizawa-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/kyoko-yoshizawa-0.jpg
     character_qualifiers:
     name: Yoshizawa Kyôko
     role: Kaede
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/joji-takagi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/joji-takagi-0.jpg
     character_qualifiers:
     name: Takagi Jôji
     role: Kamijô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/asao-koike-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/asao-koike-0.jpg
     character_qualifiers:
     name: Koike Asao
     role: Boss Mangorô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/kyoko-yoshizawa-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/kyoko-yoshizawa-0.jpg
     character_qualifiers:
     name: Harukawa Masumi
     role: Ohama
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/naoe-fushimi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/naoe-fushimi-0.jpg
     character_qualifiers:
     name: Fushimi Naoe
     role: Old Woman
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/yoshihiko-aoyama-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/yoshihiko-aoyama-0.jpg
     character_qualifiers:
     name: Aoyama Yoshihiko
     role: Tokujirô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/hideji-otaki-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/hideji-otaki-0.jpg
     character_qualifiers:
     name: Ôtaki Hideji
     role: Boss Sukegorô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/jukei-fujioka-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/jukei-fujioka-0.jpg
     character_qualifiers:
     name: Fujioka Jûkei
     role: Inokichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/shinkan-koumi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/shinkan-koumi-0.jpg
     character_qualifiers:
     name: Koumi Shinkan
     role: Shinkichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/teruo-matsuyama-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/teruo-matsuyama-0.jpg
     character_qualifiers:
     name: Matsuyama Teruo
     role: Ihachi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/kazuko-tajima-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/kazuko-tajima-0.jpg
     character_qualifiers:
     name: Tajima Kazuko
     role: Hanasato
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/yuji-hamada-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/yuji-hamada-0.jpg
     character_qualifiers:
     name: Hamada Yûji
     role: Nisuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/shoji-mori-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/shoji-mori-0.jpg
     character_qualifiers:
     name: Mori Shôji
     role: Ginzô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/jun-katsumura-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/jun-katsumura-0.jpg
     character_qualifiers:
     name: Katsumura Jun
     role: Ruffian
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/tokio-oki-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/tokio-oki-0.jpg
     character_qualifiers:
     name: Oki Tokio
     role: Fisherman
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-in-desperation-1972/cast-avatars/katsuo-nakamura-0.jpg
+  - avatar_url: /static/images/films/zatoichi-in-desperation-1972/cast-avatars/katsuo-nakamura-0.jpg
     character_qualifiers:
     name: Nakamura Katsuo
     role: Ushimatsu

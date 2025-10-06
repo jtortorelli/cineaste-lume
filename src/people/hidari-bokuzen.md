@@ -20,7 +20,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/seven-samurai-1954/posters/seven-samurai-1954.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
     roles:
       - name: Yôhei
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Deity
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/human-vapor-1960/posters/human-vapor-1960.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
     roles:
       - name: Jiya
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-flashing-sword-1964/posters/zatoichis-flashing-sword-1964.jpg
+    poster_url: /static/images/films/zatoichis-flashing-sword-1964/posters/poster.jpg
     roles:
       - name: Kyûbei
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: Zatoichi's Flashing Sword
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-the-giant-monster-1965/posters/gamera-the-giant-monster-1965.jpg
+    poster_url: /static/images/films/gamera-the-giant-monster-1965/posters/poster.jpg
     roles:
       - name: Drunk Old Man
         uncredited: false

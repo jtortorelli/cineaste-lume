@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: platinum-data
     title: Platinum Data
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/posters/platina-data-2013.jpg
+poster_url: /static/images/films/platinum-data-2013/posters/poster.jpg
 release_date: 2013-03-16
 runtime: 133
 staff:
@@ -50,60 +50,60 @@ studios:
   - Nippan Group Holdings, Inc.
   - Yahoo! JAPAN
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/toshimasa-komatsu-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/toshimasa-komatsu-0.jpg
     character_qualifiers:
     name: Komatsu Toshimasa
     role: Technician
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/shigemitsu-ogi-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/shigemitsu-ogi-0.jpg
     character_qualifiers:
     name: Ogi Shigemitsu
     role: Shôgo's Neighbor
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/asahi-yoshida-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/asahi-yoshida-0.jpg
     character_qualifiers:
     name: Yoshida Asahi
     role: Security Guard
     uncredited: false
 title: Platinum Data
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/kazunari-ninomiya-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/kazunari-ninomiya-0.jpg
     character_qualifiers:
     name: Ninomiya Kazunari
     role: Kagura Ryûhei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/honami-suzuki-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/honami-suzuki-0.jpg
     character_qualifiers:
     name: Suzuki Honami
     role: Mizukami Reiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/katsuhisa-namase-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/katsuhisa-namase-0.jpg
     character_qualifiers:
     name: Namase Katsuhisa
     role: Shiga Takashi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/anne-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/anne-0.jpg
     character_qualifiers:
     name: Anne
     role: Shiratori Risa
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/kiko-mizuhara-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/kiko-mizuhara-0.jpg
     character_qualifiers:
     name: Mizuhara Kiko
     role: Tateshina Saki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/kaname-endo-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/kaname-endo-0.jpg
     character_qualifiers:
     name: Endô Kaname
     role: Tokura Minoru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/soko-wada-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/soko-wada-0.jpg
     character_qualifiers:
     name: Wada Sôkô
     role: Tateshina Kôsaku
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/masato-hagiwara-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/masato-hagiwara-0.jpg
     character_qualifiers:
     name: Hagiwara Masato
     role: Kagura Shôgo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/ikuji-nakamura-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/ikuji-nakamura-0.jpg
     character_qualifiers:
     name: Nakamura Ikuji
     role: Nasu Masayuki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/platinum-data-2013/cast-avatars/etsushi-toyokawa-0.jpg
+  - avatar_url: /static/images/films/platinum-data-2013/cast-avatars/etsushi-toyokawa-0.jpg
     character_qualifiers:
     name: Toyokawa Etsushi
     role: Asama Reiji

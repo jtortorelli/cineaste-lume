@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/omura-senkichi/omura-senkichi.jpg?t=2024-04-01T19%3A18%3A45.224Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/omura-senkichi/omura-senkichi.jpg
 birth_place: Tokyo, Japan
 dob: 1922-04-27
 dob_resolution: exact
@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/seven-samurai-1954/posters/seven-samurai-1954.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
     roles:
       - name: Fleeing Bandit
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-raids-again-1955/posters/godzilla-raids-again-1955.jpg
+    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.jpg
     roles:
       - name: Convict
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-iii-duel-at-ganryu-island-1956/posters/samurai-iii-duel-at-ganryu-island-1956.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
     roles:
       - name: Gambler
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/throne-of-blood-1957/posters/throne-of-blood-1957.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
     roles:
       - name: Washizu Soldier
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     roles:
       - name: Villager
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hidden-fortress-1958/posters/hidden-fortress-1958.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
     roles:
       - name: Akizuki Soldier
         uncredited: false
@@ -60,7 +60,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/h-man-1958/posters/h-man-1958.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
     roles:
       - name: Fisherman
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Yamato Villager
         uncredited: false
@@ -76,7 +76,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/secret-of-the-telegian-1960/posters/secret-of-the-telegian-1960.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
     roles:
       - name: Islander
         uncredited: false
@@ -84,7 +84,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/yojimbo-1961/posters/yojimbo-1961.jpg
+    poster_url: /static/images/films/yojimbo-1961/posters/poster.jpg
     roles:
       - name: Corrupt Official
         uncredited: false
@@ -92,7 +92,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-vs-godzilla-1962/posters/king-kong-vs-godzilla-1962.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
     roles:
       - name: Guide
         uncredited: false
@@ -100,7 +100,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/high-and-low-1963/posters/high-and-low-1963.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
     roles:
       - name: Hospital Outpatient
         uncredited: false
@@ -108,7 +108,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-vs-godzilla-1964/posters/mothra-vs-godzilla-1964.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
     roles:
       - name: Fisherman
         uncredited: false
@@ -116,7 +116,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/posters/ghidorah-the-three-headed-monster-1964.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
     roles:
       - name: Mt. Aso Tourist
         uncredited: false
@@ -124,7 +124,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/frankenstein-conquers-the-world-1965/posters/frankenstein-conquers-the-world-1965.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
     roles:
       - name: TV Cameraman
         uncredited: false
@@ -132,7 +132,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/kagemusha-1980/posters/kagemusha-1980.jpg
+    poster_url: /static/images/films/kagemusha-1980/posters/poster.jpg
     roles:
       - name: Takeda Stableboy
         uncredited: false
@@ -140,7 +140,7 @@ works:
     title: Kagemusha
     year: 1980
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-1989/posters/zatoichi-1989.jpg
+    poster_url: /static/images/films/zatoichi-1989/posters/poster.jpg
     roles:
       - name: Prisoner
         uncredited: false

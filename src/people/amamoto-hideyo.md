@@ -23,7 +23,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Deity
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/secret-of-the-telegian-1960/posters/secret-of-the-telegian-1960.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
     roles:
       - name: Bodyguard
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daredevil-in-the-castle-1961/posters/daredevil-in-the-castle-1961.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
     roles:
       - name: Portuguese Interpretor
         uncredited: false
@@ -47,7 +47,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/yojimbo-1961/posters/yojimbo-1961.jpg
+    poster_url: /static/images/films/yojimbo-1961/posters/poster.jpg
     roles:
       - name: Seibei Underling
         uncredited: false
@@ -55,7 +55,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gorath-1962/posters/gorath-1962.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
     roles:
       - name: Barfly
         uncredited: false
@@ -63,7 +63,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/matango-1963/posters/matango-1963.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.jpg
     roles:
       - name: Mushroom Man
         uncredited: false
@@ -71,7 +71,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/lost-world-of-sinbad-1963/posters/samurai-pirate-1963.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
     roles:
       - name: Granny
         uncredited: false
@@ -79,7 +79,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/atragon-1963/posters/atragon-1963.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
     roles:
       - name: Mû High Priest
         uncredited: false
@@ -87,7 +87,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/dogora-1964/posters/dogora-the-space-monster-1964.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
     roles:
       - name: Gangster
         uncredited: false
@@ -95,7 +95,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/posters/ghidorah-the-three-headed-monster-1964.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
     roles:
       - name: Salno's Manservant
         uncredited: false
@@ -103,7 +103,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventure-of-kigan-castle-1966/posters/adventures-of-taklamakan-1966.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
     roles:
       - name: Granny the Witch
         uncredited: false
@@ -111,7 +111,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ebirah-horror-of-the-deep-1966/posters/godzilla-vs-the-sea-monster-1966.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
     roles:
       - name: Red Bamboo Officer
         uncredited: false
@@ -119,7 +119,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-escapes-1967/posters/king-kong-escapes-1967.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
     roles:
       - name: Dr. Who
         uncredited: false
@@ -127,7 +127,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/all-monsters-attack-1969/posters/godzillas-revenge-1969.jpg
+    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.jpg
     roles:
       - name: Minami Shinpei
         uncredited: false
@@ -139,10 +139,10 @@ works:
       - episode_count: 16
         name: Dr. Shinigami
     title: Kamen Rider
-    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/kamen-rider-1971/title-cards/E9B5Y4uUYAMJsaS.jpg?t=2024-10-30T00:53:34.427Z
+    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/kamen-rider-1971/title-cards/E9B5Y4uUYAMJsaS.jpg
     year: 1973
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/message-from-space-1978/posters/message-from-space-1978.jpg
+    poster_url: /static/images/films/message-from-space-1978/posters/poster.jpg
     roles:
       - name: Elder Dark
         uncredited: false
@@ -150,7 +150,7 @@ works:
     title: Message from Space
     year: 1978
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/red-spectacles-1987/posters/red-spectacles-1987.jpg
+    poster_url: /static/images/films/red-spectacles-1987/posters/poster.jpg
     roles:
       - name: Moongaze Ginji
         uncredited: false
@@ -158,7 +158,7 @@ works:
     title: The Red Spectacles
     year: 1987
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/posters/eko-eko-azarak-ii-birth-of-the-wizard-1996.jpg
+    poster_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/posters/poster.jpg
     roles:
       - name: Elder
         uncredited: false
@@ -166,7 +166,7 @@ works:
     title: "Eko Eko Azarak II: Birth of the Wizard"
     year: 1996
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001/posters/gmk-2001.jpg
+    poster_url: /static/images/films/godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001/posters/poster.jpg
     roles:
       - name: Isayama Yoshitoshi
         uncredited: false
@@ -174,7 +174,7 @@ works:
     title: "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack"
     year: 2001
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/kamen-rider-the-first-2005/posters/masked-rider-the-first-2005.jpg
+    poster_url: /static/images/films/kamen-rider-the-first-2005/posters/poster.jpg
     roles:
       - name: Shocker Chief
         qualifiers:

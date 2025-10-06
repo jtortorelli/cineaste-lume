@@ -10,7 +10,7 @@ original_works:
     format: novel
     slug: spiral
     title: Spiral
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/spiral-1998/posters/rasen-1998.jpg
+poster_url: /static/images/films/spiral-1998/posters/poster.jpg
 release_date: 1998-01-31
 runtime: 97
 series:
@@ -58,47 +58,47 @@ studios:
   - Asmik Ace, Inc.
   - Omega Project Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/spiral-1998/cast-avatars/daisuke-ban-0.jpg
+  - avatar_url: /static/images/films/spiral-1998/cast-avatars/daisuke-ban-0.jpg
     character_qualifiers:
     name: Ban Daisuke
     role: Ikuma Heihachirô
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/spiral-1998/cast-avatars/yutaka-matsushige-0.jpg
+  - avatar_url: /static/images/films/spiral-1998/cast-avatars/yutaka-matsushige-0.jpg
     character_qualifiers:
     name: Matsushige Yutaka
     role: Yoshino Kenzô
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/spiral-1998/cast-avatars/nanako-matsushima-0.jpg
+  - avatar_url: /static/images/films/spiral-1998/cast-avatars/nanako-matsushima-0.jpg
     character_qualifiers:
     name: Matsushima Nanako
     role: Asakawa Reiko
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/spiral-1998/cast-avatars/shigemitsu-ogi-0.jpg
+  - avatar_url: /static/images/films/spiral-1998/cast-avatars/shigemitsu-ogi-0.jpg
     character_qualifiers:
     name: Ogi Shigemitsu
     role: Maekawa
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/spiral-1998/cast-avatars/hinako-saeki-0.jpg
+  - avatar_url: /static/images/films/spiral-1998/cast-avatars/hinako-saeki-0.jpg
     character_qualifiers:
     name: Saeki Hinako
     role: Yamamura Sadako
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/spiral-1998/cast-avatars/shingo-tsurumi-0.jpg
+  - avatar_url: /static/images/films/spiral-1998/cast-avatars/shingo-tsurumi-0.jpg
     character_qualifiers:
     name: Tsurumi Shingo
     role: Miyashita
     uncredited: false
 title: Spiral
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/spiral-1998/cast-avatars/koichi-sato-0.jpg
+  - avatar_url: /static/images/films/spiral-1998/cast-avatars/koichi-sato-0.jpg
     character_qualifiers:
     name: Satô Kôichi
     role: Andô Mitsuo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/spiral-1998/cast-avatars/miki-nakatani-0.jpg
+  - avatar_url: /static/images/films/spiral-1998/cast-avatars/miki-nakatani-0.jpg
     character_qualifiers:
     name: Nakatani Miki
     role: Takano Mai
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/spiral-1998/cast-avatars/hiroyuki-sanada-0.jpg
+  - avatar_url: /static/images/films/spiral-1998/cast-avatars/hiroyuki-sanada-0.jpg
     character_qualifiers:
     name: Sanada Hiroyuki
     role: Takayama Ryûji

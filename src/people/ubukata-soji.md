@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ubukata-soji/ubukata-soji.jpg?t=2024-04-02T00%3A20%3A23.144Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ubukata-soji/ubukata-soji.jpg
 birth_place: Tokyo, Japan
 dob: 1908-03-29
 dob_resolution: exact
@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     roles:
       - name: Doctor Noda
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/posters/varan-the-unbelievable-1958.jpg
+    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.jpg
     roles:
       - name: Policeman
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/h-man-1958/posters/h-man-1958.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
     roles:
       - name: Police Executive
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daredevil-in-the-castle-1961/posters/daredevil-in-the-castle-1961.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
     roles:
       - name: Court Samurai
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/last-war-1961/posters/last-war-1961.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
     roles:
       - name: Minister
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/high-and-low-1963/posters/high-and-low-1963.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
     roles:
       - name: Detective
         uncredited: true
@@ -60,7 +60,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-vs-godzilla-1964/posters/mothra-vs-godzilla-1964.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
     roles:
       - name: Reporter
         uncredited: true
@@ -68,7 +68,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/posters/ghidorah-the-three-headed-monster-1964.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
     roles:
       - name: MP
         uncredited: true
@@ -76,7 +76,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/frankenstein-conquers-the-world-1965/posters/frankenstein-conquers-the-world-1965.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
     roles:
       - name: Reporter
         uncredited: true
@@ -84,7 +84,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invasion-of-astro-monster-1965/posters/monster-zero-1965.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
     roles:
       - name: PM
         uncredited: true
@@ -92,7 +92,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/war-of-the-gargantuas-1966/posters/war-of-the-gargantuas-1966.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
     roles:
       - name: Reporter
         uncredited: true
@@ -100,7 +100,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/destroy-all-monsters-1968/posters/destroy-all-monsters-1968.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
     roles:
       - name: Reporter
         uncredited: true
@@ -108,7 +108,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/posters/godzilla-vs-hedorah-1971.jpg
+    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.jpg
     roles:
       - name: Talking Head
         uncredited: true

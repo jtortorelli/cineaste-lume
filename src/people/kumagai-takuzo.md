@@ -17,7 +17,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/seven-samurai-1954/posters/seven-samurai-1954.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Gisaku's Son
@@ -26,7 +26,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-i-musashi-miyamoto-1954/posters/samurai-i-musashi-miyamoto-1954.jpg
+    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.jpg
     roles:
       - name: Villager
         uncredited: true
@@ -34,7 +34,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/posters/godzilla-1954.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
     roles:
       - name: Undersecretary of Defense
         uncredited: true
@@ -42,7 +42,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invisible-man-1954/posters/invisible-man-1954.jpg
+    poster_url: /static/images/films/invisible-man-1954/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: MP
@@ -54,7 +54,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-raids-again-1955/posters/godzilla-raids-again-1955.jpg
+    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.jpg
     roles:
       - name: Fishery Employee
         uncredited: true
@@ -62,7 +62,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/samurai-ii-duel-at-ichijoji-temple-1955.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
     roles:
       - name: Yoshioka Samurai
         uncredited: true
@@ -70,7 +70,7 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-iii-duel-at-ganryu-island-1956/posters/samurai-iii-duel-at-ganryu-island-1956.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Okinaga Samurai
@@ -79,7 +79,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rodan-1956/posters/rodan-1956.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Policeman
@@ -88,7 +88,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Soldier
@@ -97,7 +97,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/posters/varan-the-unbelievable-1958.jpg
+    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Soldier
@@ -106,7 +106,7 @@ works:
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hidden-fortress-1958/posters/hidden-fortress-1958.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Yamana Soldier
@@ -115,7 +115,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/h-man-1958/posters/h-man-1958.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Soldier
@@ -124,7 +124,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Yamato Villager
@@ -133,7 +133,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/battle-in-outer-space-1959/posters/battle-in-outer-space-1959.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Military Officer
@@ -142,7 +142,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/secret-of-the-telegian-1960/posters/secret-of-the-telegian-1960.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Tourist
@@ -151,7 +151,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/human-vapor-1960/posters/human-vapor-1960.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Newspaper Executive
@@ -160,7 +160,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/yojimbo-1961/posters/yojimbo-1961.jpg
+    poster_url: /static/images/films/yojimbo-1961/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Seibei Underling
@@ -169,7 +169,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/last-war-1961/posters/last-war-1961.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Minister
@@ -178,7 +178,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sanjuro-1962/posters/sanjuro-1962.jpg
+    poster_url: /static/images/films/sanjuro-1962/posters/poster.jpg
     roles:
       - name: Samurai Reading Notice
         uncredited: true
@@ -188,7 +188,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gorath-1962/posters/gorath-1962.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Minister
@@ -197,7 +197,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-vs-godzilla-1962/posters/king-kong-vs-godzilla-1962.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Military Officer
@@ -206,7 +206,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/high-and-low-1963/posters/high-and-low-1963.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
     roles:
       - name: Detective
         uncredited: true
@@ -214,7 +214,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/matango-1963/posters/matango-1963.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Doctor
@@ -223,7 +223,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/atragon-1963/posters/atragon-1963.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
     roles:
       - actor_alias: Kumagai Jirô
         name: Military Officer
@@ -232,7 +232,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-vs-godzilla-1964/posters/mothra-vs-godzilla-1964.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
     roles:
       - name: Fisherman
         uncredited: false
@@ -240,7 +240,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/dogora-1964/posters/dogora-the-space-monster-1964.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
     roles:
       - name: Military Officer
         uncredited: false
@@ -248,7 +248,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/posters/ghidorah-the-three-headed-monster-1964.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
     roles:
       - name: MP
         uncredited: false
@@ -256,7 +256,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invasion-of-astro-monster-1965/posters/monster-zero-1965.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
     roles:
       - name: Soldier
         uncredited: false
@@ -264,7 +264,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/war-of-the-gargantuas-1966/posters/war-of-the-gargantuas-1966.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
     roles:
       - name: Military Officer
         uncredited: false
@@ -272,7 +272,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/destroy-all-monsters-1968/posters/destroy-all-monsters-1968.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
     roles:
       - name: Military Officer
         uncredited: true
@@ -280,7 +280,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/posters/space-amoeba-1970.jpg
+    poster_url: /static/images/films/space-amoeba-1970/posters/poster.jpg
     roles:
       - name: Islander
         uncredited: true
@@ -288,7 +288,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/submersion-of-japan-1973/posters/submersion-of-japan-1973.jpg
+    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.jpg
     roles:
       - name: Disaster Prevention Center Director
         uncredited: false
@@ -296,7 +296,7 @@ works:
     title: Submersion of Japan
     year: 1973
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/posters/prophecies-of-nostradamus-1974.jpg
+    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.jpg
     roles:
       - name: Minister
         uncredited: true
@@ -304,7 +304,7 @@ works:
     title: Prophecies of Nostradamus
     year: 1974
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/posters/terror-of-mechagodzilla-1975.jpg
+    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.jpg
     roles:
       - name: Military Officer
         uncredited: true

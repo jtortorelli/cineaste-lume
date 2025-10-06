@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/uehara-ken/uehara-ken.jpg?t=2024-04-02T00%3A20%3A32.661Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/uehara-ken/uehara-ken.jpg
 birth_name: Ikehata Kiyoaki
 birth_place: Tokyo, Japan
 cause_of_death: Heart Failure
@@ -21,7 +21,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-1961/posters/mothra-1961.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
     roles:
       - name: Doctor Harada
         uncredited: false
@@ -29,7 +29,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/last-war-1961/posters/last-war-1961.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
     roles:
       - name: Minister
         uncredited: false
@@ -37,7 +37,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gorath-1962/posters/gorath-1962.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
     roles:
       - name: Doctor Kôno
         uncredited: false
@@ -45,7 +45,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/atragon-1963/posters/atragon-1963.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
     roles:
       - name: Admiral Kusumi
         uncredited: false

@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/dogora-1964/posters/dogora-the-space-monster-1964.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
     roles:
       - name: Truck Driver
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ebirah-horror-of-the-deep-1966/posters/godzilla-vs-the-sea-monster-1966.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
     roles:
       - name: Ichino
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/posters/son-of-godzilla-1967.jpg
+    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
     roles:
       - name: Pilot
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/destroy-all-monsters-1968/posters/destroy-all-monsters-1968.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
     roles:
       - name: Ogata
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/all-monsters-attack-1969/posters/godzillas-revenge-1969.jpg
+    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.jpg
     roles:
       - name: Detective
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: All Monsters Attack
     year: 1969
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/posters/space-amoeba-1970.jpg
+    poster_url: /static/images/films/space-amoeba-1970/posters/poster.jpg
     roles:
       - name: Yokoyama
         uncredited: false

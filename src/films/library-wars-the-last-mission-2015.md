@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: library-wars
     title: Library Wars
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/posters/library-wars-the-last-mission-2015.jpg
+poster_url: /static/images/films/library-wars-the-last-mission-2015/posters/poster.jpg
 release_date: 2015-10-10
 runtime: 120
 series:
@@ -60,95 +60,95 @@ studios:
   - The Mainichi Newspapers Co., Ltd.
   - Hokkaido Broadcasting Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/joji-abe-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/joji-abe-0.jpg
     character_qualifiers:
     name: Abe Jôji
     role: Itagaki Shinsuke
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/shohei-abe-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/shohei-abe-0.jpg
     character_qualifiers:
     name: Abe Shôhei
     role: Tezuka Kei's Assistant
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/kazuyuki-aijima-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/kazuyuki-aijima-0.jpg
     character_qualifiers:
     name: Aijima Kazuyuki
     role: Oitani Gen
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/yukijiro-hotaru-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/yukijiro-hotaru-0.jpg
     character_qualifiers:
     name: Hotaru Yukijirô
     role: Sugawara
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/david-ito-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/david-ito-0.jpg
     character_qualifiers:
     name: David Itô
     role: Interrogator
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/kazuki-namioka-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/kazuki-namioka-0.jpg
     character_qualifiers:
     name: Namioka Kazuki
     role: Shindô
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/satoshi-nikaido-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/satoshi-nikaido-0.jpg
     character_qualifiers:
     name: Nikaidô Satoshi
     role: Ibaraki Prefecture Governor
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/hirota-otsuka-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/hirota-otsuka-0.jpg
     character_qualifiers:
     name: Ôtsuka Hirota
     role: Nomura
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/ryushin-tei-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/ryushin-tei-0.jpg
     character_qualifiers:
     name: Tei Ryûshin
     role: Ogata Akiya
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/toru-tezuka-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/toru-tezuka-0.jpg
     character_qualifiers:
     name: Tezuka Tôru
     role: Interrogator
     uncredited: false
 title: "Library Wars: The Last Mission"
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/junichi-okada-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/junichi-okada-0.jpg
     character_qualifiers:
     name: Okada Jun'ichi
     role: Dôjô Atsushi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/nana-eikura-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/nana-eikura-0.jpg
     character_qualifiers:
     name: Eikura Nana
     role: Kasahara Iku
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/kei-tanaka-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/kei-tanaka-0.jpg
     character_qualifiers:
     name: Tanaka Kei
     role: Komaki Mikihisa
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/sota-fukushi-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/sota-fukushi-0.jpg
     character_qualifiers:
     name: Fukushi Sôta
     role: Tezuka Hikaru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/naomi-nishida-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/naomi-nishida-0.jpg
     character_qualifiers:
     name: Nishida Naomi
     role: Origuchi Maki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/jun-hashimoto-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/jun-hashimoto-0.jpg
     character_qualifiers:
     name: Hashimoto Jun
     role: Genda Ryûsuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/tao-tsuchiya-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/tao-tsuchiya-0.jpg
     character_qualifiers:
     name: Tsuchiya Tao
     role: Nakazawa Marie
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/tori-matsuzaka-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/tori-matsuzaka-0.jpg
     character_qualifiers:
     name: Matsuzaka Tôri
     role: Tezuka Kei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/chiaki-kuriyama-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/chiaki-kuriyama-0.jpg
     character_qualifiers:
     name: Kuriyama Chiaki
     role: Shibasaki Asako
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/library-wars-the-last-mission-2015/cast-avatars/koji-ishizaka-0.jpg
+  - avatar_url: /static/images/films/library-wars-the-last-mission-2015/cast-avatars/koji-ishizaka-0.jpg
     character_qualifiers:
     name: Ishizaka Kôji
     role: Nishina Iwao

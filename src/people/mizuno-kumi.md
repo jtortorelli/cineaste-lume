@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/mizuno-kumi/mizuno-kumi.jpg?t=2024-04-01T19%3A16%3A17.716Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/mizuno-kumi/mizuno-kumi.jpg
 birth_name: Igarashi Maya
 birth_place: Sanjo, Niigata, Japan
 dob: 1937-01-01
@@ -15,7 +15,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Azami
         uncredited: false
@@ -23,7 +23,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gorath-1962/posters/gorath-1962.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
     roles:
       - name: Nomura Takiko
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/matango-1963/posters/matango-1963.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.jpg
     roles:
       - name: Sekiguchi Mami
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/lost-world-of-sinbad-1963/posters/samurai-pirate-1963.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
     roles:
       - name: Miwa
         uncredited: false
@@ -47,7 +47,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/whirlwind-1964/posters/whirlwind-1964.jpg
+    poster_url: /static/images/films/whirlwind-1964/posters/poster.jpg
     roles:
       - name: Orie
         uncredited: false
@@ -55,7 +55,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/frankenstein-conquers-the-world-1965/posters/frankenstein-conquers-the-world-1965.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
     roles:
       - name: Doctor Togami Sueko
         uncredited: false
@@ -63,7 +63,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invasion-of-astro-monster-1965/posters/monster-zero-1965.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
     roles:
       - name: Namikawa
         uncredited: false
@@ -71,7 +71,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/war-of-the-gargantuas-1966/posters/war-of-the-gargantuas-1966.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
     roles:
       - name: Akemi
         uncredited: false
@@ -79,7 +79,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ebirah-horror-of-the-deep-1966/posters/godzilla-vs-the-sea-monster-1966.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
     roles:
       - name: Dayo
         uncredited: false
@@ -87,7 +87,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-against-mechagodzilla-2002/posters/godzilla-x-mechagodzilla-2002.jpg
+    poster_url: /static/images/films/godzilla-against-mechagodzilla-2002/posters/poster.jpg
     roles:
       - name: Prime Minister Tsuge Machiko
         uncredited: false
@@ -95,7 +95,7 @@ works:
     title: Godzilla Against Mechagodzilla
     year: 2002
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-final-wars-2004/posters/godzilla-final-wars-2004.jpg
+    poster_url: /static/images/films/godzilla-final-wars-2004/posters/poster.jpg
     roles:
       - name: Commander Namikawa Reiko
         uncredited: false

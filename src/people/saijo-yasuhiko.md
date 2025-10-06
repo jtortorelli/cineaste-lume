@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/saijo-yasuhiko/saijo-yasuhiko.jpg?t=2024-04-01T19%3A19%3A50.980Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/saijo-yasuhiko/saijo-yasuhiko.jpg
 birth_place: Tokyo, Japan
 dob: 1939-02-20
 dob_resolution: exact
@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/secret-of-the-telegian-1960/posters/secret-of-the-telegian-1960.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
     roles:
       - name: Reporter
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gorath-1962/posters/gorath-1962.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
     roles:
       - name: Spaceship Crew
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/frankenstein-conquers-the-world-1965/posters/frankenstein-conquers-the-world-1965.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
     roles:
       - name: TV Cameraman
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/war-of-the-gargantuas-1966/posters/war-of-the-gargantuas-1966.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
     roles:
       - name: Man in Convertible
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/posters/son-of-godzilla-1967.jpg
+    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
     roles:
       - name: Suzuki
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/destroy-all-monsters-1968/posters/destroy-all-monsters-1968.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
     roles:
       - name: SY-3 Crew
         uncredited: false
@@ -58,7 +58,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/latitude-zero-1969/posters/latitude-zero-1969.jpg
+    poster_url: /static/images/films/latitude-zero-1969/posters/poster.jpg
     roles:
       - name: Sailor
         uncredited: false

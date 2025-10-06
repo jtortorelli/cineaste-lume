@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hidden-fortress-1958/posters/hidden-fortress-1958.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
     roles:
       - name: Man at Fire Festival
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/h-man-1958/posters/h-man-1958.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
     roles:
       - name: Uchida
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/lost-world-of-sinbad-1963/posters/samurai-pirate-1963.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
     roles:
       - name: The Black Pirate
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/whirlwind-1964/posters/whirlwind-1964.jpg
+    poster_url: /static/images/films/whirlwind-1964/posters/poster.jpg
     roles:
       - name: Kusanagi Shûri
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventure-of-kigan-castle-1966/posters/adventures-of-taklamakan-1966.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
     roles:
       - name: Gorjaka
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samaritan-zatoichi-1968/posters/samaritan-zatoichi-1968.jpg
+    poster_url: /static/images/films/samaritan-zatoichi-1968/posters/poster.jpg
     roles:
       - name: Kashiwazaki Yasaburô
         uncredited: false
@@ -62,7 +62,7 @@ works:
     title: Samaritan Zatoichi
     year: 1968
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/message-from-space-1978/posters/message-from-space-1978.jpg
+    poster_url: /static/images/films/message-from-space-1978/posters/poster.jpg
     roles:
       - name: Urocco
         uncredited: false
@@ -70,7 +70,7 @@ works:
     title: Message from Space
     year: 1978
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/princess-mononoke-1997/posters/princess-mononoke-1997.jpg
+    poster_url: /static/images/films/princess-mononoke-1997/posters/poster.jpg
     roles:
       - name: Nago
         qualifiers:

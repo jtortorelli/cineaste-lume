@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/yojimbo-1961/posters/yojimbo-1961.jpg
+    poster_url: /static/images/films/yojimbo-1961/posters/poster.jpg
     roles:
       - name: Seibei Underling
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/last-war-1961/posters/last-war-1961.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
     roles:
       - name: Helicopter Crew
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-vs-godzilla-1962/posters/king-kong-vs-godzilla-1962.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
     roles:
       - name: Reporter
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventure-of-kigan-castle-1966/posters/adventures-of-taklamakan-1966.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
     roles:
       - name: Palace Guard
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-escapes-1967/posters/king-kong-escapes-1967.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
     roles:
       - name: Who Henchman
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/destroy-all-monsters-1968/posters/destroy-all-monsters-1968.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
     roles:
       - name: Special Police
         uncredited: false
@@ -58,7 +58,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-gigan-1972/posters/godzilla-vs-gigan-1972.jpg
+    poster_url: /static/images/films/godzilla-vs-gigan-1972/posters/poster.jpg
     roles:
       - name: Policeman
         uncredited: false

@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 紅い眼鏡/The Red Spectacles
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/red-spectacles-1987/posters/red-spectacles-1987.jpg
+poster_url: /static/images/films/red-spectacles-1987/posters/poster.jpg
 release_date: 1987-02-07
 runtime: 116
 series:
@@ -44,48 +44,48 @@ staff:
 studios:
   - Omnibus Promotion, Inc.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/red-spectacles-1987/cast-avatars/yoshitada-mitsui-0.jpg
+  - avatar_url: /static/images/films/red-spectacles-1987/cast-avatars/yoshitada-mitsui-0.jpg
     character_qualifiers:
     name: Mitsui Yoshitada
     role: Bunmei's Henchman
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/red-spectacles-1987/cast-avatars/hiroo-oikawa-0.jpg
+  - avatar_url: /static/images/films/red-spectacles-1987/cast-avatars/hiroo-oikawa-0.jpg
     character_qualifiers:
     name: Oikawa Hirô
     role: Hotel Receptionist
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/red-spectacles-1987/cast-avatars/fumihiko-tachiki-0.jpg
+  - avatar_url: /static/images/films/red-spectacles-1987/cast-avatars/fumihiko-tachiki-0.jpg
     character_qualifiers:
     name: Tachiki Fumihiko
     role: Bunmei's Henchman
     uncredited: false
 title: The Red Spectacles
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/red-spectacles-1987/cast-avatars/shigeru-chiba-0.jpg
+  - avatar_url: /static/images/films/red-spectacles-1987/cast-avatars/shigeru-chiba-0.jpg
     character_qualifiers:
     name: Chiba Shigeru
     role: Todome Kôichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/red-spectacles-1987/cast-avatars/machiko-washio-0.jpg
+  - avatar_url: /static/images/films/red-spectacles-1987/cast-avatars/machiko-washio-0.jpg
     character_qualifiers:
     name: Washio Machiko
     role: Washio Midori
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/red-spectacles-1987/cast-avatars/hideyuki-tanaka-0.jpg
+  - avatar_url: /static/images/films/red-spectacles-1987/cast-avatars/hideyuki-tanaka-0.jpg
     character_qualifiers:
     name: Tanaka Hideyuki
     role: Toribe Sôichirô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/red-spectacles-1987/cast-avatars/tessho-genda-0.jpg
+  - avatar_url: /static/images/films/red-spectacles-1987/cast-avatars/tessho-genda-0.jpg
     character_qualifiers:
     name: Genda Tesshô
     role: Muroto Bunmei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/red-spectacles-1987/cast-avatars/mako-hyodo-0.jpg
+  - avatar_url: /static/images/films/red-spectacles-1987/cast-avatars/mako-hyodo-0.jpg
     character_qualifiers:
     name: Hyôdô Mako
     role: Young Lady
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/red-spectacles-1987/cast-avatars/yasuo-otsuka-0.jpg
+  - avatar_url: /static/images/films/red-spectacles-1987/cast-avatars/yasuo-otsuka-0.jpg
     character_qualifiers:
     name: Ôtsuka Yasuo
     role: Taxy Driver
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/red-spectacles-1987/cast-avatars/hideyo-amamoto-0.jpg
+  - avatar_url: /static/images/films/red-spectacles-1987/cast-avatars/hideyo-amamoto-0.jpg
     character_qualifiers:
     name: Amamoto Hideyo
     role: Moongaze Ginji

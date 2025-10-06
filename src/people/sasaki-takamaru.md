@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sasaki-takamaru/sasaki-takamaru.jpg?t=2024-04-02T00%3A08%3A06.406Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sasaki-takamaru/sasaki-takamaru.jpg
 birth_place: Kawakami, Hokkaido, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan
@@ -20,7 +20,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-iii-duel-at-ganryu-island-1956/posters/samurai-iii-duel-at-ganryu-island-1956.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
     roles:
       - name: Iwama Kakubei
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/throne-of-blood-1957/posters/throne-of-blood-1957.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
     roles:
       - name: Tsuzuki Kuniharu
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/secret-of-the-telegian-1960/posters/secret-of-the-telegian-1960.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
     roles:
       - name: Doctor Niki
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/human-vapor-1960/posters/human-vapor-1960.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
     roles:
       - name: Police Executive
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gorath-1962/posters/gorath-1962.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
     roles:
       - name: Prime Minister Seki
         uncredited: false
@@ -60,7 +60,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invasion-of-astro-monster-1965/posters/monster-zero-1965.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
     roles:
       - name: Prime Minister
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-the-one-armed-swordsman-1971/posters/zatoichi-meets-the-one-armed-swordsman-1971.jpg
+    poster_url: /static/images/films/zatoichi-meets-the-one-armed-swordsman-1971/posters/poster.jpg
     roles:
       - name: Monk
         uncredited: false

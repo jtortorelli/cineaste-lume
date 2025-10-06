@@ -22,7 +22,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/posters/godzilla-1954.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
     roles:
       - name: Eiko<span class="italic">-maru</span> Radio Operator
         uncredited: true
@@ -30,7 +30,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/samurai-ii-duel-at-ichijoji-temple-1955.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
     roles:
       - name: Yoshioka Denshichirô
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/throne-of-blood-1957/posters/throne-of-blood-1957.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
     roles:
       - name: Washizu Soldier
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hidden-fortress-1958/posters/hidden-fortress-1958.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
     roles:
       - name: Yamana Border Guard
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Okabi
         uncredited: false
@@ -62,7 +62,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daredevil-in-the-castle-1961/posters/daredevil-in-the-castle-1961.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
     roles:
       - name: Hanawa Danemon
         uncredited: false
@@ -70,7 +70,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-vs-godzilla-1962/posters/king-kong-vs-godzilla-1962.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
     roles:
       - name: Furue Kinsaburô
         uncredited: false
@@ -78,7 +78,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/atragon-1963/posters/atragon-1963.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
     roles:
       - name: Nishibe Yoshito
         uncredited: false
@@ -86,7 +86,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-vs-godzilla-1964/posters/mothra-vs-godzilla-1964.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
     roles:
       - name: Nakamura Jirô
         uncredited: false
@@ -94,7 +94,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/posters/space-amoeba-1970.jpg
+    poster_url: /static/images/films/space-amoeba-1970/posters/poster.jpg
     roles:
       - name: Advertising Chief
         uncredited: false
@@ -102,7 +102,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/year-one-in-the-north-2005/posters/North%20Zero%20Year.jpg
+    poster_url: /static/images/films/year-one-in-the-north-2005/posters/poster.jpg
     roles:
       - name: Nakano Kamejirô
     title: Year One in the North

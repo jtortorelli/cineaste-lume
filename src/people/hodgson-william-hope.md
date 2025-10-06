@@ -39,7 +39,7 @@ works:
     title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/books/suspicion-1957/Suspicion%20TV%20Title%20Card.jpg
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/matango-1963/posters/matango-1963.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.jpg
     slug: matango-1963
     staff:
       - role: Original Work

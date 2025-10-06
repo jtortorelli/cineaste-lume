@@ -17,7 +17,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     roles:
       - name: Doctor DeGracia
         uncredited: false
@@ -25,7 +25,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/battle-in-outer-space-1959/posters/battle-in-outer-space-1959.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
     roles:
       - name: Doctor Immelman
         uncredited: false
@@ -33,7 +33,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-1961/posters/mothra-1961.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
     roles:
       - name: Rolisican Ambassador
         uncredited: false
@@ -41,7 +41,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/last-war-1961/posters/last-war-1961.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
     roles:
       - name: Federation Missile Commander
         uncredited: false
@@ -49,7 +49,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-vs-godzilla-1962/posters/king-kong-vs-godzilla-1962.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
     roles:
       - name: Scientist
         uncredited: false
@@ -57,7 +57,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-vs-godzilla-1964/posters/mothra-vs-godzilla-1964.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
     roles:
       - name: Military Advisor
         qualifiers:
@@ -67,7 +67,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/posters/goke-body-snatcher-from-hell-1968.jpg
+    poster_url: /static/images/films/goke-body-snatcher-from-hell-1968/posters/poster.jpg
     roles:
       - name: UK Ambassador
         qualifiers:
@@ -77,7 +77,7 @@ works:
     title: Goke, Body Snatcher from Hell
     year: 1968
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/genocide-1968/posters/genocide-1968.jpg
+    poster_url: /static/images/films/genocide-1968/posters/poster.jpg
     roles:
       - name: USAF Officer
         uncredited: false

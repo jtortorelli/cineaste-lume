@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/murakami-fuyuki/murakami-fuyuki.jpg?t=2024-04-01T19%3A16%3A34.646Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/murakami-fuyuki/murakami-fuyuki.jpg
 birth_name: Murakami Saishû
 birth_place: Tokuyama, Yamaguchi, Japan
 cause_of_death: Stomach Cancer
@@ -16,7 +16,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/posters/godzilla-1954.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
     roles:
       - name: Doctor Tanabe
         uncredited: false
@@ -24,7 +24,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invisible-man-1954/posters/invisible-man-1954.jpg
+    poster_url: /static/images/films/invisible-man-1954/posters/poster.jpg
     roles:
       - name: Newspaper Editor
         uncredited: false
@@ -32,7 +32,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rodan-1956/posters/rodan-1956.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
     roles:
       - name: Doctor Minami
         uncredited: false
@@ -40,7 +40,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     roles:
       - name: Doctor Kawanami
         uncredited: false
@@ -48,7 +48,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/posters/varan-the-unbelievable-1958.jpg
+    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.jpg
     roles:
       - name: Doctor Majima
         uncredited: false
@@ -56,7 +56,7 @@ works:
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Deity
         uncredited: false
@@ -64,7 +64,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/battle-in-outer-space-1959/posters/battle-in-outer-space-1959.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
     roles:
       - name: Detective Iriake
         uncredited: false
@@ -72,7 +72,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/secret-of-the-telegian-1960/posters/secret-of-the-telegian-1960.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
     roles:
       - name: Doctor Miura
         uncredited: false
@@ -80,7 +80,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/human-vapor-1960/posters/human-vapor-1960.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
     roles:
       - name: Doctor Sano
         uncredited: false
@@ -88,7 +88,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invasion-of-astro-monster-1965/posters/monster-zero-1965.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
     roles:
       - name: PM
         uncredited: false

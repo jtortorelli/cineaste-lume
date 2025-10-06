@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/posters/zatoichi-at-large-1972.jpg
+poster_url: /static/images/films/zatoichi-at-large-1972/posters/poster.jpg
 release_date: 1972-01-15
 runtime: 90
 series:
@@ -57,75 +57,75 @@ studios:
   - Katsu Productions
 title: Zatoichi at Large
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/shintaro-katsu-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/shintaro-katsu-0.jpg
     character_qualifiers:
     name: Katsu Shintarô
     role: Zatôichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/hisaya-morishige-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/hisaya-morishige-0.jpg
     character_qualifiers:
     name: Morishige Hisaya
     role: Tôbei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/etsushi-takahashi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/etsushi-takahashi-0.jpg
     character_qualifiers:
     name: Takahashi Etsushi
     role: Denjûrô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/naoko-otani-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/naoko-otani-0.jpg
     character_qualifiers:
     name: Ôtani Naoko
     role: Oyae
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/nikaku-shofukutei-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/nikaku-shofukutei-0.jpg
     character_qualifiers:
     name: Shôfukutei Nikaku
     role: Mameroku
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/ikkaku-tanabe-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/ikkaku-tanabe-0.jpg
     character_qualifiers:
     name: Tanabe Ikkaku
     role: Ryûji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/toshie-shoji-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/toshie-shoji-0.jpg
     character_qualifiers:
     name: Shôji Toshie
     role: Umesuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/reiji-shoji-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/reiji-shoji-0.jpg
     character_qualifiers:
     name: Shôji Reiji
     role: Dankurô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/osamu-sakai-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/osamu-sakai-0.jpg
     character_qualifiers:
     name: Sakai Osamu
     role: Seiji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/renji-ishibashi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/renji-ishibashi-0.jpg
     character_qualifiers:
     name: Ishibashi Renji
     role: Gonroku
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/shigako-shimegi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/shigako-shimegi-0.jpg
     character_qualifiers:
     name: Shimegi Shigako
     role: Dice Thrower
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/ken-okamoto-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/ken-okamoto-0.jpg
     character_qualifiers:
     name: Okamoto Ken
     role: Kenta
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/tsutomu-akashi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/tsutomu-akashi-0.jpg
     character_qualifiers:
     name: Akashi Tsutomu
     role: Satarô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/osamu-okawa-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/osamu-okawa-0.jpg
     character_qualifiers:
     name: Ôkawa Osamu
     role: Denzô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/shintaro-nanjo-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/shintaro-nanjo-0.jpg
     character_qualifiers:
     name: Nanjô Shintarô
     role: Merchant
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/teruko-omi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/teruko-omi-0.jpg
     character_qualifiers:
     name: Ômi Teruko
     role: Souvenir Shop Woman
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/jun-katsumura-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/jun-katsumura-0.jpg
     character_qualifiers:
     name: Katsumura Jun
     role: Traveler
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-at-large-1972/cast-avatars/rentaro-mikuni-0.jpg
+  - avatar_url: /static/images/films/zatoichi-at-large-1972/cast-avatars/rentaro-mikuni-0.jpg
     character_qualifiers:
     name: Mikuni Rentarô
     role: Boss Tetsugorô

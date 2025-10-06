@@ -14,7 +14,7 @@ profession: Director
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rashomon-1950/posters/rashomon-1950.jpg
+    poster_url: /static/images/films/rashomon-1950/posters/poster.jpg
     slug: rashomon-1950
     staff:
       - role: Director
@@ -22,7 +22,7 @@ works:
     title: Rashomon
     year: 1950
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/seven-samurai-1954/posters/seven-samurai-1954.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
     slug: seven-samurai-1954
     staff:
       - role: Director
@@ -30,7 +30,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/throne-of-blood-1957/posters/throne-of-blood-1957.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
     slug: throne-of-blood-1957
     staff:
       - role: Director
@@ -39,7 +39,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hidden-fortress-1958/posters/hidden-fortress-1958.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
     slug: hidden-fortress-1958
     staff:
       - role: Director
@@ -48,7 +48,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/yojimbo-1961/posters/yojimbo-1961.jpg
+    poster_url: /static/images/films/yojimbo-1961/posters/poster.jpg
     slug: yojimbo-1961
     staff:
       - role: Director
@@ -56,7 +56,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sanjuro-1962/posters/sanjuro-1962.jpg
+    poster_url: /static/images/films/sanjuro-1962/posters/poster.jpg
     slug: sanjuro-1962
     staff:
       - role: Director
@@ -64,7 +64,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/high-and-low-1963/posters/high-and-low-1963.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
     slug: high-and-low-1963
     staff:
       - role: Director
@@ -72,7 +72,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/kagemusha-1980/posters/kagemusha-1980.jpg
+    poster_url: /static/images/films/kagemusha-1980/posters/poster.jpg
     slug: kagemusha-1980
     staff:
       - role: Director
@@ -81,14 +81,14 @@ works:
     title: Kagemusha
     year: 1980
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/tsubaki-sanjuro-2007/posters/tsubaki-sanjuro-2007.jpg
+    poster_url: /static/images/films/tsubaki-sanjuro-2007/posters/poster.jpg
     slug: tsubaki-sanjuro-2007
     staff:
       - role: Screenplay
     title: Tsubaki Sanjuro
     year: 2007
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hidden-fortress-the-last-princess-2008/posters/hidden-fortress-the-last-princess-2008.jpg
+    poster_url: /static/images/films/hidden-fortress-the-last-princess-2008/posters/poster.jpg
     slug: hidden-fortress-the-last-princess-2008
     staff:
       - role: Story

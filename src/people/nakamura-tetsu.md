@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/nakamura-tetsu/nakamura-tetsu.jpg?t=2024-04-01T19%3A17%3A13.032Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/nakamura-tetsu/nakamura-tetsu.jpg
 birth_name: Nakamura Satoshi
 birth_place: Vancouver, British Columbia, Canada
 cause_of_death: Heart Failure
@@ -15,7 +15,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     roles:
       - name: Doctor Kôda
         uncredited: false
@@ -23,7 +23,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/h-man-1958/posters/h-man-1958.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
     roles:
       - name: Chin
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/human-vapor-1960/posters/human-vapor-1960.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
     roles:
       - name: Newspaper Executive
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-1961/posters/mothra-1961.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
     roles:
       - name: Nelson's Henchman
         uncredited: false
@@ -47,7 +47,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/lost-world-of-sinbad-1963/posters/samurai-pirate-1963.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
     roles:
       - name: Archer
         uncredited: false
@@ -55,7 +55,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/atragon-1963/posters/atragon-1963.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
     roles:
       - name: Cargo Ship Captain
         uncredited: false
@@ -63,7 +63,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/latitude-zero-1969/posters/latitude-zero-1969.jpg
+    poster_url: /static/images/films/latitude-zero-1969/posters/poster.jpg
     roles:
       - name: Doctor Okada
         uncredited: false
@@ -71,7 +71,7 @@ works:
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/posters/space-amoeba-1970.jpg
+    poster_url: /static/images/films/space-amoeba-1970/posters/poster.jpg
     roles:
       - name: Ombo
         uncredited: false
@@ -79,7 +79,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/submersion-of-japan-1973/posters/submersion-of-japan-1973.jpg
+    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.jpg
     roles:
       - name: UN Ambassador
         uncredited: false

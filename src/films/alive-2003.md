@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: alive
     title: Alive
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/posters/alive-2003.jpg
+poster_url: /static/images/films/alive-2003/posters/poster.jpg
 release_date: 2003-06-21
 runtime: 150
 staff:
@@ -55,70 +55,70 @@ studios:
   - SKYWORKS
   - Suplex, Inc.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/yuichiro-arai-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/yuichiro-arai-0.jpg
     character_qualifiers:
     name: Arai Yûichirô
     role: SWAT
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/kenji-matsuda-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/kenji-matsuda-0.jpg
     character_qualifiers:
     name: Matsuda Kenji
     role: SWAT Leader
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/minoru-matsumoto-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/minoru-matsumoto-0.jpg
     character_qualifiers:
     name: Matsumoto Minoru
     role: SWAT
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/kazuhito-oba-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/kazuhito-oba-0.jpg
     character_qualifiers:
     name: Ôba Kazushi
     role: SWAT
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/yoji-tanaka-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/yoji-tanaka-0.jpg
     character_qualifiers:
     name: Tanaka Yôji
     role: Hair Cut Guard
     uncredited: false
 title: Alive
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/hideo-sakaki-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/hideo-sakaki-0.jpg
     character_qualifiers:
     name: Sakaki Hideo
     role: Yashiro Tenshû
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/ryo-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/ryo-0.jpg
     character_qualifiers:
     name: Ryô
     role: Saegusa Yurika
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/koyuki-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/koyuki-0.jpg
     character_qualifiers:
     name: Koyuki
     role: Saegusa Asuka
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/shun-sugata-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/shun-sugata-0.jpg
     character_qualifiers:
     name: Sugata Shun
     role: Matsuda
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/erika-oda-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/erika-oda-0.jpg
     character_qualifiers:
     name: Oda Erika
     role: Hara Misako
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/tak-sakaguchi-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/tak-sakaguchi-0.jpg
     character_qualifiers:
     name: Sakaguchi Tak
     role: Zeros
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/jun-kunimura-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/jun-kunimura-0.jpg
     character_qualifiers:
     name: Kunimura Jun
     role: Kojima
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/renji-ishibashi-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/renji-ishibashi-0.jpg
     character_qualifiers:
     name: Ishibashi Renji
     role: Chief
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/bengal-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/bengal-0.jpg
     character_qualifiers:
     name: Bengal
     role: Tokutake
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/alive-2003/cast-avatars/tetta-sugimoto-0.jpg
+  - avatar_url: /static/images/films/alive-2003/cast-avatars/tetta-sugimoto-0.jpg
     character_qualifiers:
     name: Sugimoto Tetta
     role: Gondô

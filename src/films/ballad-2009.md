@@ -8,7 +8,7 @@ original_works:
     format: screenplay
     slug: crayon-shin-chan-fierceness-that-invites-storm-the-battle-of-the-warring-states
     title: "Crayon Shin-chan: Fierceness That Invites Storm! The Battle of the Warring States"
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/posters/ballad-2009.jpg
+poster_url: /static/images/films/ballad-2009/posters/poster.jpg
 release_date: 2009-09-05
 runtime: 132
 staff:
@@ -65,97 +65,97 @@ studios:
   - The Asahi Shimbun Company
   - Nagoya Broadcasting Network Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/toshiki-ayata-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/toshiki-ayata-0.jpg
     character_qualifiers:
     name: Ayata Toshiki
     role: Court Samurai
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/yasuyuki-hirata-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/yasuyuki-hirata-0.jpg
     character_qualifiers:
     name: Hirata Yasuyuki
     role: Takatora Samurai
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/kisuke-iida-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/kisuke-iida-0.jpg
     character_qualifiers:
     name: Îda Kisuke
     role: Watchtower Samurai
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/junkichi-orimoto-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/junkichi-orimoto-0.jpg
     character_qualifiers:
     name: Orimoto Junkichi
     role: Court Samurai
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/sumina-teramoto-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/sumina-teramoto-0.jpg
     character_qualifiers:
     name: Teramoto Sumina
     role: "Shin'ichi's Girlfriend"
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/toshihiro-yashiba-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/toshihiro-yashiba-0.jpg
     character_qualifiers:
     name: Yashiba Toshihiro
     role: Kasuga Girlfriend
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/masayuki-yui-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/masayuki-yui-0.jpg
     character_qualifiers:
     name: Yui Masayuki
     role: Court Samurai
     uncredited: false
 title: Ballad
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/tsuyoshi-kusanagi-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/tsuyoshi-kusanagi-0.jpg
     character_qualifiers:
     name: Kusanagi Tsuyoshi
     role: Ijiri Matabei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/yui-aragaki-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/yui-aragaki-0.jpg
     character_qualifiers:
     name: Aragaki Yui
     role: Princess Ren
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/yui-natsukawa-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/yui-natsukawa-0.jpg
     character_qualifiers:
     name: Natsukawa Yui
     role: Kawakami Misako
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/michitaka-tsutsui-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/michitaka-tsutsui-0.jpg
     character_qualifiers:
     name: Tsutsui Michitaka
     role: Kawakami Akira
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/akashi-takei-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/akashi-takei-0.jpg
     character_qualifiers:
     name: Takei Akashi
     role: Kawakami Shin'ichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/mitsuru-fukikoshi-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/mitsuru-fukikoshi-0.jpg
     character_qualifiers:
     name: Fukikoshi Mitsuru
     role: Ninemon
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/yuki-saito-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/yuki-saito-0.jpg
     character_qualifiers:
     name: Saitô Yuki
     role: Osato
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/reo-yoshitake-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/reo-yoshitake-0.jpg
     character_qualifiers:
     name: Yoshitake Leo
     role: Bunshirô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/kazuki-namioka-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/kazuki-namioka-0.jpg
     character_qualifiers:
     name: Namioka Kazuki
     role: Hikozô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/shun-sugata-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/shun-sugata-0.jpg
     character_qualifiers:
     name: Sugata Shun
     role: Gisuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/kyoko-kagawa-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/kyoko-kagawa-0.jpg
     character_qualifiers:
     name: Kagawa Kyôko
     role: Yoshino
     slug: kagawa-kyoko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/yukiyoshi-ozawa-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/yukiyoshi-ozawa-0.jpg
     character_qualifiers:
     name: Ozawa Yukiyoshi
     role: Yasunaga
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/atsuo-nakamura-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/atsuo-nakamura-0.jpg
     character_qualifiers:
     name: Nakamura Atsuo
     role: Yasutsuna
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ballad-2009/cast-avatars/takao-osawa-0.jpg
+  - avatar_url: /static/images/films/ballad-2009/cast-avatars/takao-osawa-0.jpg
     character_qualifiers:
     name: Ôsawa Takao
     role: Ôkurai Takatora

@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/seven-samurai-1954/posters/seven-samurai-1954.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
     roles:
       - name: Gisaku
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/posters/godzilla-1954.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
     roles:
       - name: Izuma
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/samurai-ii-duel-at-ichijoji-temple-1955.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
     roles:
       - name: Nikkan
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-iii-duel-at-ganryu-island-1956/posters/samurai-iii-duel-at-ganryu-island-1956.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
     roles:
       - name: Nikkan
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/throne-of-blood-1957/posters/throne-of-blood-1957.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
     roles:
       - name: Warlord
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hidden-fortress-1958/posters/hidden-fortress-1958.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
     roles:
       - name: Priest in Crowd
         uncredited: false

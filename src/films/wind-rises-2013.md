@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 風立ちぬ
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wind-rises-2013/posters/wind-rises-2013.jpg
+poster_url: /static/images/films/wind-rises-2013/posters/poster.jpg
 release_date: 2013-07-20
 runtime: 126
 staff:
@@ -45,57 +45,57 @@ studios:
   - KDDI Corporation
 title: The Wind Rises
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wind-rises-2013/cast-avatars/hideaki-anno-0.jpg
+  - avatar_url: /static/images/films/wind-rises-2013/cast-avatars/hideaki-anno-0.jpg
     character_qualifiers:
     name: An'no Hideaki
     qualifiers: Voice
     role: Horikoshi Jirô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wind-rises-2013/cast-avatars/miori-takimoto-0.jpg
+  - avatar_url: /static/images/films/wind-rises-2013/cast-avatars/miori-takimoto-0.jpg
     character_qualifiers:
     name: Takimoto Miori
     qualifiers: Voice
     role: Satomi Nahoko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wind-rises-2013/cast-avatars/hidetoshi-nishijima-0.jpg
+  - avatar_url: /static/images/films/wind-rises-2013/cast-avatars/hidetoshi-nishijima-0.jpg
     character_qualifiers:
     name: Nishijima Hidetoshi
     qualifiers: Voice
     role: Honjô Kiro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wind-rises-2013/cast-avatars/masahiko-nishimura-0.jpg
+  - avatar_url: /static/images/films/wind-rises-2013/cast-avatars/masahiko-nishimura-0.jpg
     character_qualifiers:
     name: Nishimura Masahiko
     qualifiers: Voice
     role: Kurokawa
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wind-rises-2013/cast-avatars/stephen-albert-0.jpg
+  - avatar_url: /static/images/films/wind-rises-2013/cast-avatars/stephen-albert-0.jpg
     character_qualifiers:
     name: Stephen Albert
     qualifiers: Voice
     role: Castorp
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wind-rises-2013/cast-avatars/morio-kazama-0.jpg
+  - avatar_url: /static/images/films/wind-rises-2013/cast-avatars/morio-kazama-0.jpg
     character_qualifiers:
     name: Kazama Morio
     qualifiers: Voice
     role: Satomi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wind-rises-2013/cast-avatars/keiko-takeshita-0.jpg
+  - avatar_url: /static/images/films/wind-rises-2013/cast-avatars/keiko-takeshita-0.jpg
     character_qualifiers:
     name: Takeshita Keiko
     qualifiers: Voice
     role: Mrs. Horikoshi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wind-rises-2013/cast-avatars/mirai-shida-0.jpg
+  - avatar_url: /static/images/films/wind-rises-2013/cast-avatars/mirai-shida-0.jpg
     character_qualifiers:
     name: Shida Mirai
     qualifiers: Voice
     role: Horikoshi Kayo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wind-rises-2013/cast-avatars/jun-kunimura-0.jpg
+  - avatar_url: /static/images/films/wind-rises-2013/cast-avatars/jun-kunimura-0.jpg
     character_qualifiers:
     name: Kunimura Jun
     qualifiers: Voice
     role: Hattori
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wind-rises-2013/cast-avatars/shinobu-otake-0.jpg
+  - avatar_url: /static/images/films/wind-rises-2013/cast-avatars/shinobu-otake-0.jpg
     character_qualifiers:
     name: Ôtake Shinobu
     qualifiers: Voice
     role: Mrs. Kurokawa
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wind-rises-2013/cast-avatars/mansai-nomura-0.jpg
+  - avatar_url: /static/images/films/wind-rises-2013/cast-avatars/mansai-nomura-0.jpg
     character_qualifiers:
     name: Nomura Mansai
     qualifiers: Voice

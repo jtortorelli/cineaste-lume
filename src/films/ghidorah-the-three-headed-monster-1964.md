@@ -5,7 +5,7 @@ aliases:
     context: American Theatrical Release
 japanese_title: 三大怪獣 地球最大の決戦
 kaiju:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/kaiju-avatars/haruo-nakajima-0.jpg?t=2023-09-02T22%3A10%3A09.571Z
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/kaiju-avatars/haruo-nakajima-0.jpg
     name: Godzilla
     portrayals:
       - people:
@@ -14,17 +14,17 @@ kaiju:
           - name: Nakajima Haruo
             slug: nakajima-haruo
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/kaiju-avatars/koji-uruki-0.jpg?t=2023-09-02T22%3A10%3A49.132Z
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/kaiju-avatars/koji-uruki-0.jpg
     name: Rodan
     portrayals:
       - people:
           - name: Uruki Kôji
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/kaiju-avatars/02279.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/kaiju-avatars/02279.jpg
     name: Mothra
     portrayals:
       - type: Puppet
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/kaiju-avatars/shoichi-hirose-0.jpg?t=2023-09-02T22%3A10%3A53.976Z
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/kaiju-avatars/shoichi-hirose-0.jpg
     name: King Ghidorah
     portrayals:
       - people:
@@ -33,7 +33,7 @@ kaiju:
           - name: Hirose Shôichi
             slug: hirose-shoichi
         type: Suit Actor
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/posters/ghidorah-the-three-headed-monster-1964.jpg
+poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
 release_date: 1964-12-20
 runtime: 93
 series:
@@ -97,239 +97,239 @@ staff:
 studios:
   - Toho Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kazuo-hinata-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kazuo-hinata-0.jpg
     name: Hinata Kazuo
     role: Serginan on Plane
     slug: hinata-kazuo
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kazuo-hinata-2.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kazuo-hinata-2.jpg
     name: Hinata Kazuo
     role: MP
     slug: hinata-kazuo
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kazuo-hinata-1.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kazuo-hinata-1.jpg
     name: Hinata Kazuo
     role: Reporter
     slug: hinata-kazuo
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/minoru-ito-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/minoru-ito-0.jpg
     name: Itô Minoru
     role: Reporter
     slug: ito-minoru
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/shigeo-kato-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/shigeo-kato-0.jpg
     name: Katô Shigeo
     role: Mt. Aso Tourist
     slug: kato-shigeo
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/seishiro-kuno-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/seishiro-kuno-0.jpg
     name: Kuno Seishirô
     role: Waiter
     slug: kuno-seishiro
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/akio-kusama-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/akio-kusama-0.jpg
     name: Kusama Akio
     role: MP
     slug: kusama-akio
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/junpei-natsuki-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/junpei-natsuki-0.jpg
     name: Natsuki Junpei
     role: UFO Club Member
     slug: natsuki-junpei
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/tadashi-okabe-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/tadashi-okabe-0.jpg
     name: Okabe Tadashi
     role: Tsukamoto's Assistant
     slug: okabe-tadashi
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/keiji-sakakida-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/keiji-sakakida-0.jpg
     name: Sakakida Keiji
     role: Serginan Official
     slug: sakakida-keiji
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/jiro-suzukawa-1.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/jiro-suzukawa-1.jpg
     name: Suzukawa Jirô
     role: Reporter
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/jiro-suzukawa-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/jiro-suzukawa-0.jpg
     name: Suzukawa Jirô
     role: Bystander
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/soji-ubukata-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/soji-ubukata-0.jpg
     name: Ubukata Sôji
     role: MP
     slug: ubukata-soji
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/keisuke-yamada-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/keisuke-yamada-0.jpg
     name: Yamada Keisuke
     role: Prime Minister
     slug: yamada-keisuke
     uncredited: true
 title: Ghidorah, the Three-Headed Monster
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yosuke-natsuki-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yosuke-natsuki-0.jpg
     name: Natsuki Yôsuke
     role: Detective Shindô Keiji
     slug: natsuki-yosuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yuriko-hoshi-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yuriko-hoshi-0.jpg
     name: Hoshi Yuriko
     role: Shindô Naoko
     slug: hoshi-yuriko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/hiroshi-koizumi-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/hiroshi-koizumi-0.jpg
     name: Koizumi Hiroshi
     role: Doctor Murai
     slug: koizumi-hiroshi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/takashi-shimura-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/takashi-shimura-0.jpg
     name: Shimura Takashi
     role: Doctor Tsukamoto
     slug: shimura-takashi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/the-peanuts-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/the-peanuts-0.jpg
     name: The Peanuts
     role: The Shobijin
     slug: peanuts
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/akiko-wakabayashi-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/akiko-wakabayashi-0.jpg
     name: Wakabayashi Akiko
     role: Princess Salno
     slug: wakabayashi-akiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/hisaya-ito-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/hisaya-ito-0.jpg
     name: Itô Hisaya
     role: Malmess
     slug: ito-hisaya
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/susumu-kurobe-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/susumu-kurobe-0.jpg
     name: Kurobe Susumu
     role: Assassin
     slug: kurobe-susumu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/akihiko-hirata-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/akihiko-hirata-0.jpg
     name: Hirata Akihiko
     role: Chief Okita
     slug: hirata-akihiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kenji-sahara-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kenji-sahara-0.jpg
     name: Sahara Kenji
     role: Editor
     slug: sahara-kenji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/toru-ibuki-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/toru-ibuki-0.jpg
     name: Ibuki Tôru
     role: Assassin
     slug: ibuki-toru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kozo-nomura-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kozo-nomura-0.jpg
     name: Nomura Kôzô
     role: Geologist
     slug: nomura-kozo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yoshibumi-tajima-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yoshibumi-tajima-0.jpg
     name: Tajima Yoshibumi
     role: Cruise Ship Captain
     slug: tajima-yoshibumi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/hideyo-amamoto-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/hideyo-amamoto-0.jpg
     name: Amamoto Hideyo
     role: Salno's Manservant
     slug: amamoto-hideyo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yoshio-kosugi-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yoshio-kosugi-0.jpg
     name: Kosugi Yoshio
     role: Infant Island Chieftan
     slug: kosugi-yoshio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/minoru-takada-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/minoru-takada-0.jpg
     name: Takada Minoru
     role: Defense Minister
     slug: takada-minoru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yuriko-hanabusa-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yuriko-hanabusa-0.jpg
     name: Hanabusa Yuriko
     role: Shindô's Mother
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/haruya-kato-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/haruya-kato-0.jpg
     name: Katô Haruya
     role: Reporter
     slug: kato-haruya
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/ikio-sawamura-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/ikio-sawamura-0.jpg
     name: Sawamura Ikio
     role: Fisherman
     slug: sawamura-ikio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/nakajiro-tomita-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/nakajiro-tomita-0.jpg
     name: Tomita Nakajirô
     role: General
     slug: tomita-nakajiro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/shigeki-ishida-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/shigeki-ishida-0.jpg
     name: Ishida Shigeki
     role: MP
     slug: ishida-shigeki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/shin-otomo-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/shin-otomo-0.jpg
     name: Ôtomo Shin
     role: Sergina Opposition Leader
     slug: otomo-shin
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yutaka-nakayama-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yutaka-nakayama-0.jpg
     name: Nakayama Yutaka
     role: Mt. Aso Tourist
     slug: nakayama-yutaka
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/senkichi-omura-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/senkichi-omura-0.jpg
     name: Ômura Senkichi
     role: Mt. Aso Tourist
     slug: omura-senkichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/somesho-matsumoto-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/somesho-matsumoto-0.jpg
     name: Matsumoto Someshô
     role: UFO Club President
     slug: matsumoto-somesho
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kazuo-suzuki-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kazuo-suzuki-0.jpg
     name: Suzuki Kazuo
     role: Assassin
     slug: suzuki-kazuo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/senya-aozora-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/senya-aozora-0.jpg
     name: Aozora Sen'ya
     role: TV Presenter
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/ichiya-aozora-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/ichiya-aozora-0.jpg
     name: Aozora Ichiya
     role: TV Presenter
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/shoichi-hirose-1.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/shoichi-hirose-1.jpg
     name: Hirose Shôichi
     role: Villager
     slug: hirose-shoichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/henry-okawa-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/henry-okawa-0.jpg
     name: Henry Okawa
     role: UFO Club Member
     slug: okawa-henry
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/junichiro-mukai-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/junichiro-mukai-0.jpg
     name: Mukai Jun'ichirô
     role: MP
     slug: mukai-junichiro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/seiji-ikeda-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/seiji-ikeda-0.jpg
     name: Ikeda Seiji
     role: Village Policeman
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/hideo-shibuya-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/hideo-shibuya-0.jpg
     name: Shibuya Hideo
     role: Volcanologist
     slug: shibuya-hideo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/hideo-shibuya-1.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/hideo-shibuya-1.jpg
     name: Shibuya Hideo
     role: Villager
     slug: shibuya-hideo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/koji-uno-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/koji-uno-0.jpg
     name: Uno Kôji
     role: Hotel Clerk
     slug: uno-koji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/takuzo-kumagai-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/takuzo-kumagai-0.jpg
     name: Kumagai Takuzô
     role: MP
     slug: kumagai-takuzo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/mitsuo-tsuda-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/mitsuo-tsuda-0.jpg
     name: Tsuda Mitsuo
     role: MP
     slug: tsuda-mitsuo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yoshio-katsube-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yoshio-katsube-0.jpg
     name: Katsube Yoshio
     role: Reporter
     slug: katsube-yoshio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kamayuki-tsubono-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/kamayuki-tsubono-0.jpg
     name: Tsubono Kamayuki
     role: Cruise Ship Sailor
     slug: tsubono-kamayuki
   - alias: Echigo Kenzô
-    avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/ken-echigo-0.jpg
+    avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/ken-echigo-0.jpg
     name: Echigo Ken
     role: Bystander
     slug: echigo-ken
   - alias: Echigo Kenzô
-    avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/ken-echigo-1.jpg
+    avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/ken-echigo-1.jpg
     name: Echigo Ken
     role: Café Patron
     slug: echigo-ken
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yutaka-oka-0.jpg
+  - avatar_url: /static/images/films/ghidorah-the-three-headed-monster-1964/cast-avatars/yutaka-oka-0.jpg
     name: Oka Yutaka
     role: Dam Worker
     slug: oka-yutaka

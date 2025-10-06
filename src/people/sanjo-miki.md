@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sanjo-miki/sanjo-miki.jpg?t=2024-04-02T00%3A08%3A01.570Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sanjo-miki/sanjo-miki.jpg
 birth_place: Kyoto, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan
@@ -14,7 +14,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invisible-man-1954/posters/invisible-man-1954.jpg
+    poster_url: /static/images/films/invisible-man-1954/posters/poster.jpg
     roles:
       - name: Michiyo
         uncredited: false

@@ -2,19 +2,19 @@
 tags: ["cineaste", "films"]
 japanese_title: 怪獣大奮戦 ダイゴロウ対ゴリアス
 kaiju:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/kaiju-avatars/tetsuo-yamamura-0.jpg?t=2023-09-01T02%3A24%3A17.357Z
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/kaiju-avatars/tetsuo-yamamura-0.jpg
     name: Daigorô
     portrayals:
       - people:
           - name: Yamamura Tetsuo
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/kaiju-avatars/hisashi-kato-0.jpg?t=2023-09-01T02%3A24%3A26.214Z
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/kaiju-avatars/hisashi-kato-0.jpg
     name: Goliath
     portrayals:
       - people:
           - name: Katô Hisashi
         type: Suit Actor
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/posters/daigoro-vs-goliath-1972.jpg
+poster_url: /static/images/films/daigoro-vs-goliath-1972/posters/poster.jpg
 release_date: 1972-12-17
 runtime: 85
 staff:
@@ -54,68 +54,68 @@ studios:
   - Tsuburaya Productions Co., Ltd.
 title: Daigoro vs. Goliath
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/shinsuke-minami-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/shinsuke-minami-0.jpg
     character_qualifiers:
     name: Minami Shinsuke
     role: Onizawa Kumagorô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/kazuya-kosaka-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/kazuya-kosaka-0.jpg
     character_qualifiers:
     name: Kosaka Kazuya
     role: Saitô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/akiji-kobayashi-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/akiji-kobayashi-0.jpg
     character_qualifiers:
     name: Kobayashi Akiji
     role: Suzuki Hitoshi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/hachiro-misumi-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/hachiro-misumi-0.jpg
     character_qualifiers:
     name: Misumi Hachirô
     role: Hachigorô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/jun-hamamura-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/jun-hamamura-0.jpg
     character_qualifiers:
     name: Hamamura Jun
     role: Doctor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/hideo-sunazuka-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/hideo-sunazuka-0.jpg
     character_qualifiers:
     name: Sunazuka Hideo
     role: Salaryman
     slug: sunazuka-hideo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/masao-komatsu-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/masao-komatsu-0.jpg
     character_qualifiers:
     name: Komatsu Masao
     role: Yoshiko's Date
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/kiyoshi-hitomi-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/kiyoshi-hitomi-0.jpg
     character_qualifiers:
     name: Hitomi Kiyoshi
     role: TV Announcer
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/fusako-amachi-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/fusako-amachi-0.jpg
     character_qualifiers:
     name: Amachi Fusako
     role: Yoshiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/reiko-hitomi-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/reiko-hitomi-0.jpg
     character_qualifiers:
     name: Hitomi Reiko
     role: Onizawa Umeko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/miyako-tasaka-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/miyako-tasaka-0.jpg
     character_qualifiers:
     name: Tasaka Miyako
     role: Young Woman
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/chizuko-tashiro-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/chizuko-tashiro-0.jpg
     character_qualifiers:
     name: Tashiro Chizuko
     role: Saito's Girlfriend
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/daisuke-wakayama-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/daisuke-wakayama-0.jpg
     character_qualifiers:
     name: Wakamiya Daisuke
     role: Bartender
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/genpei-imamura-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/genpei-imamura-0.jpg
     character_qualifiers:
     name: Imamura Genpei
     role: Zookeeper
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/tomonori-yazaki-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/tomonori-yazaki-0.jpg
     character_qualifiers:
     name: Yazaki Tomonori
     role: Tarô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daigoro-vs-goliath-1972/cast-avatars/hiroshi-inuzuka-0.jpg
+  - avatar_url: /static/images/films/daigoro-vs-goliath-1972/cast-avatars/hiroshi-inuzuka-0.jpg
     character_qualifiers:
     name: Inuzuka Hiroshi
     role: Oji-san the Inventor

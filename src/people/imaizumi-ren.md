@@ -9,7 +9,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/posters/godzilla-1954.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
     roles:
       - name: Coast Guard Officer
         uncredited: false
@@ -17,7 +17,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/samurai-ii-duel-at-ichijoji-temple-1955.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
     roles:
       - name: Yoshioka Samurai
         uncredited: false
@@ -25,7 +25,7 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rodan-1956/posters/rodan-1956.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
     roles:
       - name: Doctor Sunagawa
         uncredited: false
@@ -33,7 +33,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     roles:
       - name: Adachi's Assistant
         uncredited: false

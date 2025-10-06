@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/rankin-arthur/rankin-arthur.jpg?t=2024-04-01T19%3A19%3A24.500Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/rankin-arthur/rankin-arthur.jpg
 birth_place: New York City, New York, United States
 death_place: Harrington Sound, Bermuda
 dob: 1924-07-19
@@ -13,7 +13,7 @@ profession: Producer
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-escapes-1967/posters/king-kong-escapes-1967.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
     slug: king-kong-escapes-1967
     staff:
       - role: Technical Adviser

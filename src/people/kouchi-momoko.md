@@ -16,7 +16,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/posters/godzilla-1954.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
     roles:
       - name: Yamane Emiko
         uncredited: false
@@ -24,7 +24,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     roles:
       - name: Iwamoto Hiroko
         uncredited: false
@@ -32,7 +32,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/posters/godzilla-vs-destroyer-1995.jpg
+    poster_url: /static/images/films/godzilla-vs-destoroyah-1995/posters/poster.jpg
     roles:
       - name: Yamane Emiko
         uncredited: false

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yanagiya-kingoro/yanagiya-kingoro.jpg?t=2024-04-02T00%3A22%3A15.705Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yanagiya-kingoro/yanagiya-kingoro.jpg
 birth_name: Yamashita Keitarô
 birth_place: Tokyo, Japan
 cause_of_death: Stomach Cancer
@@ -15,7 +15,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Omoikane
         uncredited: false

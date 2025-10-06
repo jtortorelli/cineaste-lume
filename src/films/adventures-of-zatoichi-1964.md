@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/posters/adventures-of-zatoichi-1964.jpg
+poster_url: /static/images/films/adventures-of-zatoichi-1964/posters/poster.jpg
 release_date: 1964-12-30
 runtime: 86
 series:
@@ -51,101 +51,101 @@ staff:
 studios:
   - Daiei Film Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/jun-katsumura-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/jun-katsumura-0.jpg
     character_qualifiers:
     name: Katsumura Jun
     role: Yakuza
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/gen-kuroki-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/gen-kuroki-0.jpg
     character_qualifiers:
     name: Kuroki Gen
     role: Yakuza
     uncredited: true
 title: Adventures of Zatoichi
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/shintaro-katsu-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/shintaro-katsu-0.jpg
     character_qualifiers:
     name: Katsu Shintarô
     role: Zatôichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/miwa-takada-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/miwa-takada-0.jpg
     character_qualifiers:
     name: Takada Miwa
     role: Osaki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/eiko-taki-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/eiko-taki-0.jpg
     character_qualifiers:
     name: Taki Eiko
     role: Osen
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/mikijiro-hira-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/mikijiro-hira-0.jpg
     character_qualifiers:
     name: Hira Mikijirô
     role: Oki Gônosuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/akitake-kono-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/akitake-kono-0.jpg
     character_qualifiers:
     name: Kôno Akitake
     role: Kashima Gorôta
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/tomosaburo-ii-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/tomosaburo-ii-0.jpg
     character_qualifiers:
     name: Ii Tomisaburô
     role: Gijû
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/koichi-mizuhara-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/koichi-mizuhara-0.jpg
     character_qualifiers:
     name: Mizuhara Kôichi
     role: Kamazô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/kichijiro-ueda-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/kichijiro-ueda-0.jpg
     character_qualifiers:
     name: Ueda Kichijirô
     role: Boss Jinbei
     slug: ueda-kichijiro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/jotaro-senba-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/jotaro-senba-0.jpg
     character_qualifiers:
     name: Senba Jôtarô
     role: Shinsuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/nakajiro-tomita-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/nakajiro-tomita-0.jpg
     character_qualifiers:
     name: Tomita Nakajirô
     role: Kanjûrô
     slug: tomita-nakajiro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/ikuko-mori-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/ikuko-mori-0.jpg
     character_qualifiers:
     name: Môri Ikuko
     role: Hanokama
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/yusaku-terashima-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/yusaku-terashima-0.jpg
     character_qualifiers:
     name: Terashima Yûsaku
     role: Yahei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/daimaru-nakata-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/daimaru-nakata-0.jpg
     character_qualifiers:
     name: Nakata Daimaru
     role: Daimaru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/raketto-nakata-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/raketto-nakata-0.jpg
     character_qualifiers:
     name: Nakata Raketto
     role: Rakechi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/gen-kimura-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/gen-kimura-0.jpg
     character_qualifiers:
     name: Kimura Gen
     role: Yukiyoshi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/tokio-oki-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/tokio-oki-0.jpg
     character_qualifiers:
     name: Oki Tokio
     role: Kumusuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/ichi-koshikawa-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/ichi-koshikawa-0.jpg
     character_qualifiers:
     name: Koshikawa Ichi
     role: Merchant
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/sumao-ishihara-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/sumao-ishihara-0.jpg
     character_qualifiers:
     name: Ishihara Sumao
     role: Merchant
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/teruko-omi-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/teruko-omi-0.jpg
     character_qualifiers:
     name: Ômi Teruko
     role: Merchant
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/hideki-ninomiya-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/hideki-ninomiya-0.jpg
     character_qualifiers:
     name: Ninomiya Hideki
     role: Sankichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/cast-avatars/kayo-mikimoto-0.jpg
+  - avatar_url: /static/images/films/adventures-of-zatoichi-1964/cast-avatars/kayo-mikimoto-0.jpg
     character_qualifiers:
     name: Mikimoto Kayo
     role: Tavern Girl

@@ -2,7 +2,7 @@
 tags: ["cineaste", "films"]
 japanese_title: 怪獣島の決戦 ゴジラの息子
 kaiju:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/kaiju-avatars/haruo-nakajima-0.jpg?t=2023-09-04T18%3A02%3A49.691Z
+  - avatar_url: /static/images/films/son-of-godzilla-1967/kaiju-avatars/haruo-nakajima-0.jpg
     name: Godzilla
     portrayals:
       - people:
@@ -13,22 +13,22 @@ kaiju:
           - name: Nakajima Haruo
             slug: nakajima-haruo
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/kaiju-avatars/little-man-machan-0.jpg?t=2023-09-04T18%3A03%3A04.210Z
+  - avatar_url: /static/images/films/son-of-godzilla-1967/kaiju-avatars/little-man-machan-0.jpg
     name: Minilla
     portrayals:
       - people:
           - name: Little Man Mâchan
             slug: little-man-machan
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/kaiju-avatars/00899.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/kaiju-avatars/00899.jpg
     name: Kamacuras
     portrayals:
       - type: Puppet
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/kaiju-avatars/01787.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/kaiju-avatars/01787.jpg
     name: Kumonga
     portrayals:
       - type: Puppet
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/posters/son-of-godzilla-1967.jpg
+poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
 release_date: 1967-12-16
 runtime: 86
 series:
@@ -98,62 +98,62 @@ staff:
 studios:
   - Toho Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/osman-yusef-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/osman-yusef-0.jpg
     name: Osman Yusuf
     role: Submarine Officer
     slug: yusuf-osman
     uncredited: true
 title: Son of Godzilla
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/tadao-takashima-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/tadao-takashima-0.jpg
     name: Takashima Tadao
     role: Doctor Kusumi
     slug: takashima-tadao
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/beverly-maeda-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/beverly-maeda-0.jpg
     name: Maeda Beverly
     role: Saeko
     slug: maeda-beverly
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/akira-kubo-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/akira-kubo-0.jpg
     name: Kubo Akira
     role: Maki Gorô
     slug: kubo-akira
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/akihiko-hirata-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/akihiko-hirata-0.jpg
     name: Hirata Akihiko
     role: Fujisaki
     slug: hirata-akihiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/kenji-sahara-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/kenji-sahara-0.jpg
     name: Sahara Kenji
     role: Morio
     slug: sahara-kenji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/yoshio-tsuchiya-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/yoshio-tsuchiya-0.jpg
     name: Tsuchiya Yoshio
     role: Furukawa
     slug: tsuchiya-yoshio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/susumu-kurobe-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/susumu-kurobe-0.jpg
     name: Kurobe Susumu
     role: Pilot
     slug: kurobe-susumu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/kazuo-suzuki-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/kazuo-suzuki-0.jpg
     name: Suzuki Kazuo
     role: Pilot
     slug: suzuki-kazuo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/kenichiro-maruyama-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/kenichiro-maruyama-0.jpg
     name: Maruyama Ken'ichirô
     role: Ozawa
     slug: maruyama-kenichiro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/seishiro-kuno-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/seishiro-kuno-0.jpg
     name: Kuno Seishirô
     role: Tashiro
     slug: kuno-seishiro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/yasuhiko-saijo-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/yasuhiko-saijo-0.jpg
     name: Saijô Yasuhiko
     role: Suzuki
     slug: saijo-yasuhiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/chotaro-togin-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/chotaro-togin-0.jpg
     name: Tôgin Chôtarô
     role: Pilot
     slug: togin-chotaro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/cast-avatars/wataru-omae-0.jpg
+  - avatar_url: /static/images/films/son-of-godzilla-1967/cast-avatars/wataru-omae-0.jpg
     name: Ômae Wataru
     role: Pilot
     slug: omae-wataru

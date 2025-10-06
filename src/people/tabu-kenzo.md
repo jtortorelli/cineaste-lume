@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tabu-kenzo/tabu-kenzo.jpg?t=2024-04-02T00%3A10%3A21.293Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tabu-kenzo/tabu-kenzo.jpg
 birth_name: Tabu Yasutarô
 birth_place: Kyoto, Japan
 cause_of_death: Brain Tumor
@@ -15,7 +15,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/seven-samurai-1954/posters/seven-samurai-1954.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
     roles:
       - name: Peasant
         uncredited: true
@@ -23,7 +23,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-i-musashi-miyamoto-1954/posters/samurai-i-musashi-miyamoto-1954.jpg
+    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.jpg
     roles:
       - name: Soldier
         uncredited: true
@@ -31,7 +31,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/samurai-ii-duel-at-ichijoji-temple-1955.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
     roles:
       - name: Togishi Kôsuke
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-vs-godzilla-1962/posters/king-kong-vs-godzilla-1962.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
     roles:
       - name: TV Host
         uncredited: false
@@ -47,7 +47,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-vs-godzilla-1964/posters/mothra-vs-godzilla-1964.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
     roles:
       - name: Industrial Park Developer
         uncredited: false
@@ -55,7 +55,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/frankenstein-conquers-the-world-1965/posters/frankenstein-conquers-the-world-1965.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
     roles:
       - name: Skeptical Reporter
         uncredited: false
@@ -63,7 +63,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invasion-of-astro-monster-1965/posters/monster-zero-1965.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
     roles:
       - name: X<span class="italic">-seijin</span> Earth Commander
         uncredited: false
@@ -71,7 +71,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-challenged-1967/posters/zatoichi-challenged-1967.jpg
+    poster_url: /static/images/films/zatoichi-challenged-1967/posters/poster.jpg
     roles:
       - name: Manzô
         uncredited: false
@@ -79,7 +79,7 @@ works:
     title: Zatoichi Challenged
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-goes-to-the-fire-festival-1970/posters/zatoichi-goes-to-the-fire-festival-1970.jpg
+    poster_url: /static/images/films/zatoichi-goes-to-the-fire-festival-1970/posters/poster.jpg
     roles:
       - name: Lecherous Bidder
         uncredited: false
@@ -87,7 +87,7 @@ works:
     title: Zatoichi Goes to the Fire Festival
     year: 1970
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/posters/zatoichis-conspiracy-1973.jpg
+    poster_url: /static/images/films/zatoichis-conspiracy-1973/posters/poster.jpg
     roles:
       - name: Traveler
         uncredited: false
@@ -95,7 +95,7 @@ works:
     title: Zatoichi's Conspiracy
     year: 1973
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-1989/posters/zatoichi-1989.jpg
+    poster_url: /static/images/films/zatoichi-1989/posters/poster.jpg
     roles:
       - name: Big Boss
         uncredited: false

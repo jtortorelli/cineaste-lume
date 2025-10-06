@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Amatsumara
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sanjuro-1962/posters/sanjuro-1962.jpg
+    poster_url: /static/images/films/sanjuro-1962/posters/poster.jpg
     roles:
       - name: Kimura
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/submersion-of-japan-1973/posters/submersion-of-japan-1973.jpg
+    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.jpg
     roles:
       - name: Doctor Tadokoro Yûsuke
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: Submersion of Japan
     year: 1973
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/return-of-godzilla-1984/posters/return-of-godzilla-1984.jpg
+    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.jpg
     roles:
       - name: Prime Minister Mitamura Seiki
         uncredited: false

@@ -5,28 +5,28 @@ aliases:
     context: American Theatrical Release
 japanese_title: ゲゾラ・ガニメ・カメーバ 決戦！ 南海の大怪獣
 kaiju:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/kaiju-avatars/haruo-nakajima-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/kaiju-avatars/haruo-nakajima-0.jpg
     name: Gezora
     portrayals:
       - people:
           - name: Nakajima Haruo
             slug: nakajima-haruo
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/kaiju-avatars/haruo-nakajima-1.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/kaiju-avatars/haruo-nakajima-1.jpg
     name: Ganime
     portrayals:
       - people:
           - name: Nakajima Haruo
             slug: nakajima-haruo
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/kaiju-avatars/haruyoshi-nakamura-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/kaiju-avatars/haruyoshi-nakamura-0.jpg
     name: Kamoebas
     portrayals:
       - people:
           - name: Nakamura Haruyoshi
             slug: nakamura-haruyoshi
         type: Suit Actor
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/posters/space-amoeba-1970.jpg
+poster_url: /static/images/films/space-amoeba-1970/posters/poster.jpg
 release_date: 1970-08-01
 runtime: 84
 staff:
@@ -77,41 +77,41 @@ staff:
 studios:
   - Toho Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/shizuko-azuma-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/shizuko-azuma-0.jpg
     character_qualifiers:
     name: Azuma Shizuko
     role: Islander
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/ken-echigo-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/ken-echigo-0.jpg
     character_qualifiers:
     name: Echigo Ken
     role: Journalist
     slug: echigo-ken
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/yoshio-katsube-0.jpg?t=2023-08-26T16%3A39%3A51.075Z
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/yoshio-katsube-0.jpg
     character_qualifiers:
     name: Katsube Yoshio
     role: Journalist
     slug: katsube-yoshio
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/takuzo-kumagai-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/takuzo-kumagai-0.jpg
     character_qualifiers:
     name: Kumagai Takuzô
     role: Islander
     slug: kumagai-takuzo
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/tadashi-okabe-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/tadashi-okabe-0.jpg
     character_qualifiers:
     name: Okabe Tadashi
     role: Journalist
     slug: okabe-tadashi
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/seiji-onaka-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/seiji-onaka-0.jpg
     character_qualifiers:
     name: Ônaka Seiji
     role: Islander
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/masaki-shinohara-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/masaki-shinohara-0.jpg
     character_qualifiers:
     name: Shinohara Masaki
     role: Islander
@@ -119,70 +119,70 @@ supporting_cast:
     uncredited: true
 title: Space Amoeba
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/akira-kubo-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/akira-kubo-0.jpg
     character_qualifiers:
     name: Kubo Akira
     role: Kudô Tarô
     slug: kubo-akira
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/atsuko-takahashi-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/atsuko-takahashi-0.jpg
     character_qualifiers:
     name: Takahashi Atsuko
     role: Hoshino Ayako
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/yukiko-kobayashi-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/yukiko-kobayashi-0.jpg
     character_qualifiers:
     name: Kobayashi Yukiko
     role: Saki
     slug: kobayashi-yukiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/kenji-sahara-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/kenji-sahara-0.jpg
     character_qualifiers:
     name: Sahara Kenji
     role: Obata Makoto
     slug: sahara-kenji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/yoshio-tsuchiya-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/yoshio-tsuchiya-0.jpg
     character_qualifiers:
     name: Tsuchiya Yoshio
     role: Doctor Miya Kyôichi
     slug: tsuchiya-yoshio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/tetsu-nakamura-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/tetsu-nakamura-0.jpg
     character_qualifiers:
     name: Nakamura Tetsu
     role: Ombo
     slug: nakamura-tetsu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/yu-fujiki-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/yu-fujiki-0.jpg
     character_qualifiers:
     name: Fujiki Yû
     role: Advertising Chief
     slug: fujiki-yu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/yoshito-sato-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/yoshito-sato-0.jpg
     character_qualifiers:
     name: Satô Yoshitake
     role: Rico
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/sachio-sakai-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/sachio-sakai-0.jpg
     character_qualifiers:
     name: Sakai Sachio
     role: Kudô's Editor
     slug: sakai-sachio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/chotaro-togin-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/chotaro-togin-0.jpg
     character_qualifiers:
     name: Tôgin Chôtarô
     role: Yokoyama
     slug: togin-chotaro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/wataru-omae-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/wataru-omae-0.jpg
     character_qualifiers:
     name: Ômae Wataru
     role: Sakura
     slug: omae-wataru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/yukihiko-gondo-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/yukihiko-gondo-0.jpg
     character_qualifiers:
     name: Gondô Yukihiko
     role: Islander
     slug: gondo-yukihiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/shigeo-kato-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/shigeo-kato-0.jpg
     character_qualifiers:
     name: Katô Shigeo
     role: Islander
     slug: kato-shigeo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/cast-avatars/rinsaku-ogata-0.jpg
+  - avatar_url: /static/images/films/space-amoeba-1970/cast-avatars/rinsaku-ogata-0.jpg
     character_qualifiers:
     name: Ogata Rinsaku
     role: Islander

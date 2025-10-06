@@ -5,25 +5,25 @@ aliases:
     context: American Theatrical Release
 japanese_title: メカゴジラの逆襲
 kaiju:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/kaiju-avatars/toru-kawai-0.jpg?t=2023-09-04T18%3A16%3A36.433Z
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/kaiju-avatars/toru-kawai-0.jpg
     name: Godzilla
     portrayals:
       - people:
           - name: Kawai Tôru
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/kaiju-avatars/kazunari-mori-0.jpg?t=2023-09-04T18%3A16%3A15.207Z
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/kaiju-avatars/kazunari-mori-0.jpg
     name: Mechagodzilla
     portrayals:
       - people:
           - name: Mori Kazunari
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/kaiju-avatars/tatsumi-nikamoto-0.jpg?t=2023-09-04T18%3A16%3A32.720Z
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/kaiju-avatars/tatsumi-nikamoto-0.jpg
     name: Titanosaurus
     portrayals:
       - people:
           - name: Nikamoto Tatsumi
         type: Suit Actor
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/posters/terror-of-mechagodzilla-1975.jpg
+poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.jpg
 release_date: 1975-03-15
 runtime: 83
 series:
@@ -79,27 +79,27 @@ staff:
 studios:
   - Toho Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/takuzo-kumagai-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/takuzo-kumagai-0.jpg
     character_qualifiers:
     name: Kumagai Takuzô
     role: Military Officer
     slug: kumagai-takuzo
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/akio-kusama-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/akio-kusama-0.jpg
     character_qualifiers:
     name: Kusama Akio
     qualifiers: Photo
     role: Skeptical Scientist
     slug: kusama-akio
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/junpei-natsuki-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/junpei-natsuki-0.jpg
     character_qualifiers:
     name: Natsuki Junpei
     qualifiers: Photo
     role: Skeptical Scientist
     slug: natsuki-junpei
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/keiji-sakakida-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/keiji-sakakida-0.jpg
     character_qualifiers:
     name: Sakakida Keiji
     qualifiers: Photo
@@ -108,97 +108,97 @@ supporting_cast:
     uncredited: true
 title: Terror of Mechagodzilla
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/katsuhiko-sasaki-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/katsuhiko-sasaki-0.jpg
     character_qualifiers:
     name: Sasaki Katsuhiko
     role: Ichinose Akira
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/tomoko-ai-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/tomoko-ai-0.jpg
     character_qualifiers:
     name: Ai Tomoko
     role: Mafune Katsura
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/akihiko-hirata-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/akihiko-hirata-0.jpg
     character_qualifiers:
     name: Hirata Akihiko
     role: Doctor Mafune Shinzô
     slug: hirata-akihiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/tadao-nakamaru-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/tadao-nakamaru-0.jpg
     character_qualifiers:
     name: Nakamaru Tadao
     role: Chief Tagawa
     slug: nakamaru-tadao
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/goro-mutsumi-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/goro-mutsumi-0.jpg
     character_qualifiers:
     name: Mutsumi Gorô
     role: Commander Mugal
     slug: mutsumi-goro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/masaaki-daimon-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/masaaki-daimon-0.jpg
     character_qualifiers:
     name: Daimon Masaaki
     role: Kusakari
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/katsumasa-uchida-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/katsumasa-uchida-0.jpg
     character_qualifiers:
     name: Uchida Katsumasa
     role: Agent Murakoshi Jirô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/tomoe-mari-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/tomoe-mari-0.jpg
     character_qualifiers:
     name: Mari Tomoe
     role: Yamamoto Yuri
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/toru-ibuki-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/toru-ibuki-0.jpg
     character_qualifiers:
     name: Ibuki Tôru
     role: Tsuda
     slug: ibuki-toru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/masato-roppongi-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/masato-roppongi-0.jpg
     character_qualifiers:
     name: Roppongi Masato
     role: Wakayama Yûichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/kotaro-tomita-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/kotaro-tomita-0.jpg
     character_qualifiers:
     name: Tomita Kôtarô
     role: Director Ôta
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/ikio-sawamura-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/ikio-sawamura-0.jpg
     character_qualifiers:
     name: Sawamura Ikio
     role: Mafune's Manservant
     slug: sawamura-ikio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/kenji-sahara-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/kenji-sahara-0.jpg
     character_qualifiers:
     name: Sahara Kenji
     role: Defense Commander
     slug: sahara-kenji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/yasuzo-ogawa-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/yasuzo-ogawa-0.jpg
     character_qualifiers:
     name: Ogawa Yasuzô
     role: Fisherman
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/hiroya-morita-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/hiroya-morita-0.jpg
     character_qualifiers:
     name: Morita Hiroya
     role: Submarine Captain
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/kazuo-suzuki-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/kazuo-suzuki-0.jpg
     character_qualifiers:
     name: Suzuki Kazuo
     role: Third Planet of the Black Hole<span class="italic">-seijin</span>
     slug: suzuki-kazuo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/shoichi-hirose-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/shoichi-hirose-0.jpg
     character_qualifiers:
     name: Hirose Shôichi
     role: Slave Worker
     slug: hirose-shoichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/haruo-suzuki-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/haruo-suzuki-0.jpg
     character_qualifiers:
     name: Suzuki Haruo
     role: Submarine Crew
     slug: suzuki-haruo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/shigeo-kato-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/shigeo-kato-0.jpg
     character_qualifiers:
     name: Katô Shigeo
     role: Submarine Crew
     slug: kato-shigeo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/hiroshi-ishiya-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/hiroshi-ishiya-0.jpg
     character_qualifiers:
     name: Ishiya Hiroshi
     role: Yamashita
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/cast-avatars/shizuko-azuma-0.jpg
+  - avatar_url: /static/images/films/terror-of-mechagodzilla-1975/cast-avatars/shizuko-azuma-0.jpg
     character_qualifiers:
     name: Azuma Shizuko
     role: Fisherman's Wife

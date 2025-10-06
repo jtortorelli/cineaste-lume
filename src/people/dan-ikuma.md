@@ -28,28 +28,28 @@ profession: Composer
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-i-musashi-miyamoto-1954/posters/samurai-i-musashi-miyamoto-1954.jpg
+    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.jpg
     slug: samurai-i-musashi-miyamoto-1954
     staff:
       - role: Music
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/samurai-ii-duel-at-ichijoji-temple-1955.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
     slug: samurai-ii-duel-at-ichijoji-temple-1955
     staff:
       - role: Music
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-iii-duel-at-ganryu-island-1956/posters/samurai-iii-duel-at-ganryu-island-1956.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
     slug: samurai-iii-duel-at-ganryu-island-1956
     staff:
       - role: Music
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/last-war-1961/posters/last-war-1961.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
     slug: last-war-1961
     staff:
       - role: Music

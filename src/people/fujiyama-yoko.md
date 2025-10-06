@@ -17,13 +17,13 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sir-galahad-in-campus-1961/posters/University%20Young%20General.jpg
+    poster_url: /static/images/films/sir-galahad-in-campus-1961/posters/poster.jpg
     roles:
       - name: Nomura Chieko
     title: Sir Galahad in Campus
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/atragon-1963/posters/atragon-1963.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
     roles:
       - name: Jinguji Makoto
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/dogora-1964/posters/dogora-the-space-monster-1964.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
     roles:
       - name: Kirino Masayo
         uncredited: false

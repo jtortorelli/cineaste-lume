@@ -21,7 +21,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/battle-in-outer-space-1959/posters/battle-in-outer-space-1959.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
     roles:
       - name: Major Katsumiya Ichirô
         uncredited: false
@@ -29,7 +29,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gorath-1962/posters/gorath-1962.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
     roles:
       - name: Doctor Tazawa
         uncredited: false
@@ -37,61 +37,61 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/brutal-tales-of-chivalry-1965/posters/s-l1200%20(1).jpg
+    poster_url: /static/images/films/brutal-tales-of-chivalry-1965/posters/poster.jpg
     roles:
       - name: Kazama Jûkichi
     title: Brutal Tales of Chivalry
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/brutal-tales-of-chivalry-2-lion-and-peony-1966/posters/90fb77bc533f3019befa3107a2ae6c542acaa1430b2f0803b31e6021aadcab06%20(1).jpg
+    poster_url: /static/images/films/brutal-tales-of-chivalry-2-lion-and-peony-1966/posters/poster.jpg
     roles:
       - name: Hatanaka Keigo
     title: "Brutal Tales of Chivalry 2: Lion and Peony"
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/brutal-tales-of-chivalry-3-lone-wolf-1966/posters/jz2a9Hhx2x71BVBG9Jg21XxztLr.webp
+    poster_url: /static/images/films/brutal-tales-of-chivalry-3-lone-wolf-1966/posters/jz2a9Hhx2x71BVBG9Jg21XxztLr.webp
     roles:
       - name: Katsuragi Ryûzô
     title: "Brutal Tales of Chivalry 3: Lone Wolf"
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/brutal-tales-of-chivalry-4-blood-stained-lion-1967/posters/showazankyoden-02-05_n.jpg
+    poster_url: /static/images/films/brutal-tales-of-chivalry-4-blood-stained-lion-1967/posters/poster.jpg
     roles:
       - name: Kazama Jûkichi
     title: "Brutal Tales of Chivalry 4: Blood-Stained Lion"
     year: 1969
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/brutal-tales-of-chivalry-5-lion's-code-of-honor-1969/posters/showazankyoden-03-07_n.jpg
+    poster_url: /static/images/films/brutal-tales-of-chivalry-5-lion's-code-of-honor-1969/posters/poster.jpg
     roles:
       - name: Kazama Jûkichi
     title: "Brutal Tales of Chivalry 5: Lion's Code of Honor"
     year: 1969
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/brutal-tales-of-chivalry-6-man-slaying-lion-1969/posters/toshimatagi_202312_08.jpg
+    poster_url: /static/images/films/brutal-tales-of-chivalry-6-man-slaying-lion-1969/posters/poster.jpg
     roles:
       - name: Kazama Jûkichi
     title: "Brutal Tales of Chivalry 6: Man-Slaying Lion"
     year: 1970
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/brutal-tales-of-chivalry-7-hell-is-mans-destiny-1970/posters/showazankyoden-04-06_n.jpg
+    poster_url: /static/images/films/brutal-tales-of-chivalry-7-hell-is-mans-destiny-1970/posters/poster.jpg
     roles:
       - name: Kazama Jûkichi
     title: "Brutal Tales of Chivalry 7: Hell is Man's Destiny"
     year: 1971
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/brutal-tales-of-chivalry-8-the-roaring-lion-1971/posters/showazankyoden-05-06_n.jpg
+    poster_url: /static/images/films/brutal-tales-of-chivalry-8-the-roaring-lion-1971/posters/poster.jpg
     roles:
       - name: Kazama Jûkichi
     title: "Brutal Tales of Chivalry 8: The Roaring Lion"
     year: 1971
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/brutal-tales-of-chivalry-9-tattered-umbrella-1972/posters/a072893.jpg
+    poster_url: /static/images/films/brutal-tales-of-chivalry-9-tattered-umbrella-1972/posters/poster.jpg
     roles:
       - name: Kazama Jûkichi
     title: "Brutal Tales of Chivalry 9: Tattered Umbrella"
     year: 1972
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/war-in-space-1977/posters/war-in-space-1977.jpg
+    poster_url: /static/images/films/war-in-space-1977/posters/poster.jpg
     roles:
       - name: Takigawa Masato
         uncredited: false

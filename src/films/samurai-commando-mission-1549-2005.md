@@ -12,7 +12,7 @@ original_works:
     format: novel
     slug: sengoku-self-defense-force-1549
     title: Sengoku Self Defense Force 1549
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/posters/samurai-commando-mission-1549-2005.jpg
+poster_url: /static/images/films/samurai-commando-mission-1549-2005/posters/poster.jpg
 release_date: 2005-06-11
 runtime: 120
 staff:
@@ -56,63 +56,63 @@ studios:
   - Nippon Television Network Corporation
 title: "Samurai Commando: Mission 1549"
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/yosuke-eguchi-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/yosuke-eguchi-0.jpg
     character_qualifiers:
     name: Eguchi Yôsuke
     role: Kashima Yûsuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/kyoka-suzuki-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/kyoka-suzuki-0.jpg
     character_qualifiers:
     name: Suzuki Kyôka
     role: Kanzaki Rei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/kazuki-kitamura-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/kazuki-kitamura-0.jpg
     character_qualifiers:
     name: Kitamura Kazuki
     role: Înuma Shichibei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/haruka-ayase-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/haruka-ayase-0.jpg
     character_qualifiers:
     name: Ayase Haruka
     role: Nohime
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/akiyoshi-nakao-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/akiyoshi-nakao-0.jpg
     character_qualifiers:
     name: Nakao Akiyoshi
     role: Tôsuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/katsuhisa-namase-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/katsuhisa-namase-0.jpg
     character_qualifiers:
     name: Namase Katsuhisa
     role: Mori Akihiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/daisuke-shima-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/daisuke-shima-0.jpg
     character_qualifiers:
     name: Shima Daisuke
     role: Mikuni
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/koji-matoba-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/koji-matoba-0.jpg
     character_qualifiers:
     name: Matoba Kôji
     role: Yoda
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/masato-irie-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/masato-irie-0.jpg
     character_qualifiers:
     name: Irie Masato
     role: Kurebayashi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/hajime-inoue-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/hajime-inoue-0.jpg
     character_qualifiers:
     name: Inoue Hajime
     role: Hotta Dôkû
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/kenji-mizuhashi-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/kenji-mizuhashi-0.jpg
     character_qualifiers:
     name: Mizuhashi Kenji
     role: Kinoshita
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/shin-takuma-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/shin-takuma-0.jpg
     character_qualifiers:
     name: Takuma Shin
     role: Hachisuka Koroku
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/atsuko-takahata-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/atsuko-takahata-0.jpg
     character_qualifiers:
     name: Takahata Atsuko
     role: Kakamino
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/masato-ibu-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/masato-ibu-0.jpg
     character_qualifiers:
     name: Ibu Masatô
     role: Saitô Dôsan
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/cast-avatars/takeshi-kaga-0.jpg
+  - avatar_url: /static/images/films/samurai-commando-mission-1549-2005/cast-avatars/takeshi-kaga-0.jpg
     character_qualifiers:
     name: Kaga Takeshi
     role: Matoba Tsuyoshi

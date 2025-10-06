@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/posters/zatoichis-pilgrimage-1966.jpg
+poster_url: /static/images/films/zatoichis-pilgrimage-1966/posters/poster.jpg
 release_date: 1966-08-13
 runtime: 82
 series:
@@ -51,86 +51,86 @@ staff:
 studios:
   - Daiei Film Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/ichi-koshikawa-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/ichi-koshikawa-0.jpg
     character_qualifiers:
     name: Koshikawa Ichi
     role: Passenger
     uncredited: true
 title: Zatoichi's Pilgrimage
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/shintaro-katsu-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/shintaro-katsu-0.jpg
     character_qualifiers:
     name: Katsu Shintarô
     role: Zatôichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/michiyo-masuda-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/michiyo-masuda-0.jpg
     character_qualifiers:
     name: Yasuda Michiyo
     role: Okichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/takahiko-tono-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/takahiko-tono-0.jpg
     character_qualifiers:
     name: Tôno Takahiko
     role: Yasuzô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/isao-yamagata-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/isao-yamagata-0.jpg
     character_qualifiers:
     name: Yamagata Isao
     role: Boss Tôhachi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/ryutaro-gomi-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/ryutaro-gomi-0.jpg
     character_qualifiers:
     name: Gomi Ryûtarô
     role: Jônenbô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/jotaro-senba-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/jotaro-senba-0.jpg
     character_qualifiers:
     name: Senba Jôtarô
     role: Violent Pickpocket
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/hisashi-igawa-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/hisashi-igawa-0.jpg
     character_qualifiers:
     name: Igawa Hisashi
     role: Eigorô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/kunie-tanaka-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/kunie-tanaka-0.jpg
     character_qualifiers:
     name: Tanaka Kunie
     role: Storyteller
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/masao-mishima-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/masao-mishima-0.jpg
     character_qualifiers:
     name: Mishima Masao
     role: Gonbei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/gakuya-morita-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/gakuya-morita-0.jpg
     character_qualifiers:
     name: Morita Gakuya
     role: Shinzô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/saburo-date-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/saburo-date-0.jpg
     character_qualifiers:
     name: Date Saburô
     role: Kagimatsu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/yukio-horikita-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/yukio-horikita-0.jpg
     character_qualifiers:
     name: Horikita Yukio
     role: Heita
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/shosaku-sugiyama-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/shosaku-sugiyama-0.jpg
     character_qualifiers:
     name: Sugiyama Shôsaku
     role: Gorobei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/yusaku-terashima-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/yusaku-terashima-0.jpg
     character_qualifiers:
     name: Terashima Yûsaku
     role: Passenger
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/shintaro-nanjo-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/shintaro-nanjo-0.jpg
     character_qualifiers:
     name: Nanjô Shintarô
     role: Passenger
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/jun-katsumura-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/jun-katsumura-0.jpg
     character_qualifiers:
     name: Katsumura Jun
     role: Torasame
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/yoichi-funaki-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/yoichi-funaki-0.jpg
     character_qualifiers:
     name: Funaki Yôichi
     role: Passenger
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/tokio-oki-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/tokio-oki-0.jpg
     character_qualifiers:
     name: Oki Tokio
     role: Passenger
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-pilgrimage-1966/cast-avatars/kanae-kobayashi-0.jpg
+  - avatar_url: /static/images/films/zatoichis-pilgrimage-1966/cast-avatars/kanae-kobayashi-0.jpg
     character_qualifiers:
     name: Kobayashi Kanae
     role: Yasuzô's Mother

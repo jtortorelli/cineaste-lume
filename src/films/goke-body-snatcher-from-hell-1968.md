@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 吸血鬼ゴケミドロ
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/posters/goke-body-snatcher-from-hell-1968.jpg
+poster_url: /static/images/films/goke-body-snatcher-from-hell-1968/posters/poster.jpg
 release_date: 1968-08-14
 runtime: 84
 staff:
@@ -33,7 +33,7 @@ staff:
 studios:
   - Shochiku Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/cast-avatars/harold-s-conway-0.jpg
+  - avatar_url: /static/images/films/goke-body-snatcher-from-hell-1968/cast-avatars/harold-s-conway-0.jpg
     character_qualifiers:
     name: Harold Conway
     qualifiers: Photo
@@ -42,47 +42,47 @@ supporting_cast:
     uncredited: true
 title: Goke, Body Snatcher from Hell
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/cast-avatars/teruo-yoshida-0.jpg
+  - avatar_url: /static/images/films/goke-body-snatcher-from-hell-1968/cast-avatars/teruo-yoshida-0.jpg
     character_qualifiers:
     name: Yoshida Teruo
     role: Sugisaka Ei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/cast-avatars/tomomi-sato-0.jpg
+  - avatar_url: /static/images/films/goke-body-snatcher-from-hell-1968/cast-avatars/tomomi-sato-0.jpg
     character_qualifiers:
     name: Satô Tomomi
     role: Asakura Kazumi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/cast-avatars/hideo-ko-0.jpg
+  - avatar_url: /static/images/films/goke-body-snatcher-from-hell-1968/cast-avatars/hideo-ko-0.jpg
     character_qualifiers:
     name: Kô Hideo
     role: Teraoka Hirofumi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/cast-avatars/masaya-takahashi-0.jpg
+  - avatar_url: /static/images/films/goke-body-snatcher-from-hell-1968/cast-avatars/masaya-takahashi-0.jpg
     character_qualifiers:
     name: Takahashi Masaya
     role: Saga Toshiyuki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/cast-avatars/nobuo-kaneko-0.jpg
+  - avatar_url: /static/images/films/goke-body-snatcher-from-hell-1968/cast-avatars/nobuo-kaneko-0.jpg
     character_qualifiers:
     name: Kaneko Nobuo
     role: Tokuyasu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/cast-avatars/eizo-kitamura-0.jpg
+  - avatar_url: /static/images/films/goke-body-snatcher-from-hell-1968/cast-avatars/eizo-kitamura-0.jpg
     character_qualifiers:
     name: Kitamura Eizô
     role: Mano Gôzô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/cast-avatars/yuko-kusunoki-0.jpg
+  - avatar_url: /static/images/films/goke-body-snatcher-from-hell-1968/cast-avatars/yuko-kusunoki-0.jpg
     character_qualifiers:
     name: Kusunoki Yûko
     role: Tokuyasu Noriko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/cast-avatars/kazuo-kato-0.jpg
+  - avatar_url: /static/images/films/goke-body-snatcher-from-hell-1968/cast-avatars/kazuo-kato-0.jpg
     character_qualifiers:
     name: Katô Kazuo
     role: Hyakutake
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/cast-avatars/hiroyuki-nishimoto-0.jpg
+  - avatar_url: /static/images/films/goke-body-snatcher-from-hell-1968/cast-avatars/hiroyuki-nishimoto-0.jpg
     character_qualifiers:
     name: Nishimoto Hiroyuki
     role: Pilot
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/cast-avatars/toshihiko-yamamoto-0.jpg
+  - avatar_url: /static/images/films/goke-body-snatcher-from-hell-1968/cast-avatars/toshihiko-yamamoto-0.jpg
     character_qualifiers:
     name: Yamamoto Toshihiko
     role: Matsumiya
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/goke-body-snatcher-from-hell-1968/cast-avatars/kathy-horan-0.jpg
+  - avatar_url: /static/images/films/goke-body-snatcher-from-hell-1968/cast-avatars/kathy-horan-0.jpg
     character_qualifiers:
     name: Kathy Horan
     role: Mrs. Neal

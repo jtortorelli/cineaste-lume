@@ -6,7 +6,7 @@ accolades:
     films:
       - title: Twilight of Honor
     status: nominated
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/adams-nick/85296_v9_ba.jpg?t=2024-11-01T01%3A50%3A11.779Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/adams-nick/85296_v9_ba.jpg
 bio:
   - Served in the Coast Guard from 1952 through 1955.
   - Acquainted with Jack Palance, Henry Fonda, James Dean, and Elvis Presley.
@@ -32,30 +32,30 @@ works:
     staff:
       - role: Creator
     title: The Rebel
-    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/rebel-1959/title_cards/s-l1200.jpg?t=2024-10-24T16%3A50%3A59.697Z
+    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/rebel-1959/title_cards/s-l1200.jpg
     year: 1959
   - format: Film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/twilight-of-honor-1963/posters/MV5BYTY0MmRhNDAtYmNjYi00NGVhLWFlNDAtMDRkZDFjZjEwODNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg?t=2024-10-28T01:38:12.194Z
+    poster_url: /static/images/films/twilight-of-honor-1963/posters/poster.jpg
     roles:
       - name: Ben Brown
     title: Twilight of Honor
     year: 1963
   - format: Film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/frankenstein-conquers-the-world-1965/posters/frankenstein-conquers-the-world-1965.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
     roles:
       - name: Doctor James Bowen
     slug: frankenstein-conquers-the-world-1965
     title: Frankenstein Conquers the World
     year: 1965
   - format: Film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invasion-of-astro-monster-1965/posters/monster-zero-1965.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
     roles:
       - name: Astronaut Glenn
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
   - format: Film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/killing-bottle-1967/posters/The%20Killing%20Bottle%20Poster%201967.jpg
+    poster_url: /static/images/films/killing-bottle-1967/posters/poster.jpg
     roles:
       - name: John Carter
     title: The Killing Bottle

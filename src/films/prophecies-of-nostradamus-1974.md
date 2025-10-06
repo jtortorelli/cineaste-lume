@@ -12,7 +12,7 @@ original_works:
     format: novel
     slug: great-prophecy-of-nostradamus
     title: The Great Prophecy of Nostradamus
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/posters/prophecies-of-nostradamus-1974.jpg
+poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.jpg
 release_date: 1974-08-03
 runtime: 114
 staff:
@@ -65,36 +65,36 @@ staff:
 studios:
   - Toho Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/koichi-ito-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/koichi-ito-0.jpg
     character_qualifiers:
     name: Itô Kôichi
     role: Minister
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/takuzo-kumagai-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/takuzo-kumagai-0.jpg
     character_qualifiers:
     name: Kumagai Takuzô
     role: Minister
     slug: kumagai-takuzo
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/akio-kusama-1.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/akio-kusama-1.jpg
     character_qualifiers:
     name: Kusama Akio
     role: Minister
     slug: kusama-akio
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/akio-kusama-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/akio-kusama-0.jpg
     character_qualifiers:
     name: Kusama Akio
     role: Face in Crowd
     slug: kusama-akio
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/junpei-natsuki-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/junpei-natsuki-0.jpg
     character_qualifiers:
     name: Natsuki Junpei
     role: Face in Crowd
     slug: natsuki-junpei
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/keiji-sakakida-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/keiji-sakakida-0.jpg
     character_qualifiers:
     name: Sakakida Keiji
     role: PM
@@ -102,155 +102,155 @@ supporting_cast:
     uncredited: true
 title: Prophecies of Nostradamus
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/tetsuro-tamba-2.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/tetsuro-tamba-2.jpg
     character_qualifiers:
     name: Tamba Tetsurô
     role: Doctor Nishiyama Ryôgen
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/tetsuro-tamba-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/tetsuro-tamba-0.jpg
     character_qualifiers:
     name: Tamba Tetsurô
     role: Nishiyama Genta
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/tetsuro-tamba-1.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/tetsuro-tamba-1.jpg
     character_qualifiers:
     name: Tamba Tetsurô
     role: Nishiyama Gengaku
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/kaoru-yumi-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/kaoru-yumi-0.jpg
     character_qualifiers:
     name: Yumi Kaoru
     role: Nishiyama Mariko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/toshio-kurosawa-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/toshio-kurosawa-0.jpg
     character_qualifiers:
     name: Kurosawa Toshio
     role: Nakagawa Akira
     slug: kurosawa-toshio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/takashi-shimura-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/takashi-shimura-0.jpg
     character_qualifiers:
     name: Shimura Takashi
     role: Hospital Director
     slug: shimura-takashi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/akihiko-hirata-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/akihiko-hirata-0.jpg
     character_qualifiers:
     name: Hirata Akihiko
     role: Environmental Scientist
     slug: hirata-akihiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/hiroshi-koizumi-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/hiroshi-koizumi-0.jpg
     character_qualifiers:
     name: Koizumi Hiroshi
     role: Environmental Scientist
     slug: koizumi-hiroshi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/masahiko-tanimura-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/masahiko-tanimura-0.jpg
     character_qualifiers:
     name: Tanimura Masahiko
     role: Tayama
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/mizuho-suzuki-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/mizuho-suzuki-0.jpg
     character_qualifiers:
     name: Suzuki Mizuho
     role: Environmental Agency Secretary
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/taketoshi-naito-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/taketoshi-naito-0.jpg
     character_qualifiers:
     name: Naitô Taketoshi
     role: Chief Cabinet Secretary
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/katsuhiko-sasaki-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/katsuhiko-sasaki-0.jpg
     character_qualifiers:
     name: Sasaki Katsuhiko
     role: Yoshihama
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/katsu-ryuzaki-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/katsu-ryuzaki-0.jpg
     character_qualifiers:
     name: Ryûzaki Katsu
     role: Daikon
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/jun-hamamura-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/jun-hamamura-0.jpg
     character_qualifiers:
     name: Hamamura Jun
     role: Kida
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/kazuo-kato-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/kazuo-kato-0.jpg
     character_qualifiers:
     name: Katô Kazuo
     role: Scholar
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/kuniyasu-atsumi-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/kuniyasu-atsumi-0.jpg
     character_qualifiers:
     name: Atsumi Kuniyasu
     role: Scholar
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/hyo-kitazawa-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/hyo-kitazawa-0.jpg
     character_qualifiers:
     name: Kitazawa Hyô
     role: Scholar
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/yoshiro-aoki-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/yoshiro-aoki-0.jpg
     character_qualifiers:
     name: Aoki Yoshirô
     role: Major Kashiwao
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/kazuko-inano-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/kazuko-inano-0.jpg
     character_qualifiers:
     name: Inano Kazuko
     role: Tayama Hamako
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/sayoko-kato-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/sayoko-kato-0.jpg
     character_qualifiers:
     name: Katô Sayoko
     role: Bus Guide
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/kumeko-otowa-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/kumeko-otowa-0.jpg
     character_qualifiers:
     name: Otowa Kumeko
     role: Kida's Wife
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/shosei-muto-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/shosei-muto-0.jpg
     character_qualifiers:
     name: Mutô Shôsei
     role: Ihara
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/saburo-hiromatsu-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/saburo-hiromatsu-0.jpg
     character_qualifiers:
     name: Hiromatsu Saburô
     role: Minister
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/haruo-suzuki-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/haruo-suzuki-0.jpg
     character_qualifiers:
     name: Suzuki Haruo
     role: Policeman
     slug: suzuki-haruo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/shunsuke-kariya-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/shunsuke-kariya-0.jpg
     character_qualifiers:
     name: Kariya Shunsuke
     role: Crowd Leader
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/shigeo-kato-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/shigeo-kato-0.jpg
     character_qualifiers:
     name: Katô Shigeo
     role: Burned Man
     slug: kato-shigeo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/isao-torii-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/isao-torii-0.jpg
     character_qualifiers:
     name: Torii Isao
     role: Kida's Son-in-Law
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/shizuko-azuma-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/shizuko-azuma-0.jpg
     character_qualifiers:
     name: Azuma Shizuko
     role: Face in Crowd
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/tomoe-mari-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/tomoe-mari-0.jpg
     character_qualifiers:
     name: Mari Tomoe
     role: Kida's Daughter
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/goro-naya-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/goro-naya-0.jpg
     character_qualifiers:
     name: Naya Gorô
     role: TV Newscaster
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/willy-dorsey-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/willy-dorsey-0.jpg
     character_qualifiers:
     name: Willy Dorsey
     role: Black Representative
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/ralph-jesser-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/ralph-jesser-0.jpg
     character_qualifiers:
     name: Ralph Jesser
     role: New Guinea Researcher
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/franz-gruber-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/franz-gruber-0.jpg
     character_qualifiers:
     name: Franz Gruber
     role: New Guinea Researcher
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/osman-yusef-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/osman-yusef-0.jpg
     character_qualifiers:
     name: Osman Yusuf
     role: New Guinea Researcher
     slug: yusuf-osman
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/yoko-tsukasa-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/yoko-tsukasa-0.jpg
     character_qualifiers:
     name: Tsukasa Yôko
     role: Nishiyama Nobue
     slug: tsukasa-yoko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/cast-avatars/so-yamamura-0.jpg
+  - avatar_url: /static/images/films/prophecies-of-nostradamus-1974/cast-avatars/so-yamamura-0.jpg
     character_qualifiers:
     name: Yamamura Sô
     role: Prime Minister

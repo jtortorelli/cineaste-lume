@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ozawa-eitaro/ozawa-eitaro.jpg?t=2024-04-01T19%3A19%3A19.156Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ozawa-eitaro/ozawa-eitaro.jpg
 birth_place: Tokyo, Japan
 cause_of_death: Lung Cancer
 death_place: Zushi, Kanagawa, Japan
@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-i-musashi-miyamoto-1954/posters/samurai-i-musashi-miyamoto-1954.jpg
+    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.jpg
     roles:
       - name: Ikeda Terumasa
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/h-man-1958/posters/h-man-1958.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
     roles:
       - name: Detective Miyashita
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gorath-1962/posters/gorath-1962.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
     roles:
       - name: Minister Kinami
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-challenged-1967/posters/zatoichi-challenged-1967.jpg
+    poster_url: /static/images/films/zatoichi-challenged-1967/posters/poster.jpg
     roles:
       - name: Torikoshi
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: Zatoichi Challenged
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/return-of-godzilla-1984/posters/return-of-godzilla-1984.jpg
+    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.jpg
     roles:
       - name: Minister Kanzaki
         uncredited: false

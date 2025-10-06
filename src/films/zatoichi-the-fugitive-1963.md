@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/posters/zatoichi-the-fugitive-1963.jpg
+poster_url: /static/images/films/zatoichi-the-fugitive-1963/posters/poster.jpg
 release_date: 1963-08-10
 runtime: 86
 series:
@@ -55,94 +55,94 @@ staff:
 studios:
   - Daiei Film Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/jun-katsumura-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/jun-katsumura-0.jpg
     character_qualifiers:
     name: Katsumura Jun
     role: Brawler
     uncredited: true
 title: Zatoichi the Fugitive
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/shintaro-katsu-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/shintaro-katsu-0.jpg
     character_qualifiers:
     name: Katsu Shintarô
     role: Zatôichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/miwa-takada-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/miwa-takada-0.jpg
     character_qualifiers:
     name: Takada Miwa
     role: Onobu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/masayo-banri-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/masayo-banri-0.jpg
     character_qualifiers:
     name: Banri Masayo
     role: Otane
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/junichiro-narita-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/junichiro-narita-0.jpg
     character_qualifiers:
     name: Narita Jun'ichirô
     role: Sakichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/katsuhiko-kobayashi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/katsuhiko-kobayashi-0.jpg
     character_qualifiers:
     name: Kobayashi Katsuhiko
     role: Monju Kisuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/jutaro-hojo-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/jutaro-hojo-0.jpg
     character_qualifiers:
     name: Hojo Jutarô
     role: Tanakura Monjûrô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/hiroshi-nawa-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/hiroshi-nawa-0.jpg
     character_qualifiers:
     name: Nawa Hiroshi
     role: Boss Kunisada
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/toru-abe-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/toru-abe-0.jpg
     character_qualifiers:
     name: Abe Tôru
     role: Boss Yagiri Tôkyurô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/shigemi-matsui-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/shigemi-matsui-0.jpg
     character_qualifiers:
     name: Matsui Shigemi
     role: Obataya Shimazô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/koichi-mizuhara-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/koichi-mizuhara-0.jpg
     character_qualifiers:
     name: Mizuhara Kôichi
     role: Boss Unosuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/tamiemon-arashi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/tamiemon-arashi-0.jpg
     character_qualifiers:
     name: Arashi Tamiemon
     role: Okishi Kôtarô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/sachiko-murase-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/sachiko-murase-0.jpg
     character_qualifiers:
     name: Murase Sachiko
     role: Maki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/yoko-wakasugi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/yoko-wakasugi-0.jpg
     character_qualifiers:
     name: Wakasugi Yôko
     role: Hostess
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/teruko-omi-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/teruko-omi-0.jpg
     character_qualifiers:
     name: Ômi Teruko
     role: Osato
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/kazue-tamaki-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/kazue-tamaki-0.jpg
     character_qualifiers:
     name: Tamaki Kazue
     role: Yakuza
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/sumao-ishihara-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/sumao-ishihara-0.jpg
     character_qualifiers:
     name: Ishihara Sumao
     role: Giju
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/yuji-hamada-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/yuji-hamada-0.jpg
     character_qualifiers:
     name: Hamada Yûji
     role: Komahachi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/tokio-oki-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/tokio-oki-0.jpg
     character_qualifiers:
     name: Oki Tokio
     role: Villager
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/yukio-horikita-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/yukio-horikita-0.jpg
     character_qualifiers:
     name: Horikita Yukio
     role: Iwamatsu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/ichi-koshikawa-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/ichi-koshikawa-0.jpg
     character_qualifiers:
     name: Koshikawa Ichi
     role: Chiyomatsu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/cast-avatars/gen-kuroki-0.jpg
+  - avatar_url: /static/images/films/zatoichi-the-fugitive-1963/cast-avatars/gen-kuroki-0.jpg
     character_qualifiers:
     name: Kuroki Gen
     role: Yakuza

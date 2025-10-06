@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ueda-kichijiro/ueda-kichijiro.jpg?t=2024-04-02T00%3A20%3A28.211Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ueda-kichijiro/ueda-kichijiro.jpg
 birth_name: Ueda Sadao
 birth_place: Kobe, Hyogo, Japan
 cause_of_death: Laryngeal Cancer
@@ -16,7 +16,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rashomon-1950/posters/rashomon-1950.jpg
+    poster_url: /static/images/films/rashomon-1950/posters/poster.jpg
     roles:
       - name: The Peaseant
         uncredited: false
@@ -24,7 +24,7 @@ works:
     title: Rashomon
     year: 1950
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/seven-samurai-1954/posters/seven-samurai-1954.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
     roles:
       - name: Bandit Scout
         uncredited: false
@@ -32,7 +32,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-iii-duel-at-ganryu-island-1956/posters/samurai-iii-duel-at-ganryu-island-1956.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
     roles:
       - name: Ogon
         uncredited: false
@@ -40,7 +40,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/throne-of-blood-1957/posters/throne-of-blood-1957.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
     roles:
       - name: Warlord
         uncredited: false
@@ -48,7 +48,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hidden-fortress-1958/posters/hidden-fortress-1958.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
     roles:
       - name: Slave Dealer
         uncredited: false
@@ -56,7 +56,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Hachihara
         uncredited: false
@@ -64,7 +64,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daredevil-in-the-castle-1961/posters/daredevil-in-the-castle-1961.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
     roles:
       - name: Zenbei
         uncredited: false
@@ -72,7 +72,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-outlaw-samurai-1964/posters/three-outlaw-samurai-1964.jpg
+    poster_url: /static/images/films/three-outlaw-samurai-1964/posters/poster.jpg
     roles:
       - name: Ishigaki
         uncredited: false
@@ -80,7 +80,7 @@ works:
     title: Three Outlaw Samurai
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventures-of-zatoichi-1964/posters/adventures-of-zatoichi-1964.jpg
+    poster_url: /static/images/films/adventures-of-zatoichi-1964/posters/poster.jpg
     roles:
       - name: Boss Jinbei
         uncredited: false
@@ -88,7 +88,7 @@ works:
     title: Adventures of Zatoichi
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-vs-gyaos-1967/posters/gamera-vs-gyaos-1967.jpg
+    poster_url: /static/images/films/gamera-vs-gyaos-1967/posters/poster.jpg
     roles:
       - name: Kanamaru Tanaemon
         uncredited: false

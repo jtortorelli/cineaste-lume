@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: sunset-on-third-street
     title: Sunset on Third Street
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/posters/always-2-2007.jpg
+poster_url: /static/images/films/always-sunset-on-third-street-2-2007/posters/poster.jpg
 release_date: 2007-11-03
 runtime: 146
 series:
@@ -77,127 +77,127 @@ studios:
   - Imagica Group, Inc.
 title: "Always: Sunset on Third Street 2"
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/hidetaka-yoshioka-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/hidetaka-yoshioka-0.jpg
     character_qualifiers:
     name: Yoshioka Hidetaka
     role: Chagawa Ryûnosuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/shinichi-tsutsumi-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/shinichi-tsutsumi-0.jpg
     character_qualifiers:
     name: Tsutsumi Shin'ichi
     role: Suzuki Norifumi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/koyuki-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/koyuki-0.jpg
     character_qualifiers:
     name: Koyuki
     role: Ishizaki Hiromi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/maki-horikita-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/maki-horikita-0.jpg
     character_qualifiers:
     name: Horikita Maki
     role: Hoshino Mutsuko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/magy-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/magy-0.jpg
     character_qualifiers:
     name: Magy
     role: Maruyama
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/yoichi-nukumizu-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/yoichi-nukumizu-0.jpg
     character_qualifiers:
     name: Nukumizu Yôichi
     role: Yoshida
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/hiroshi-kanbe-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/hiroshi-kanbe-0.jpg
     character_qualifiers:
     name: Kanbe Hiroshi
     role: Postman
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/kisuke-iida-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/kisuke-iida-0.jpg
     character_qualifiers:
     name: Îda Kisuke
     role: Constable Nakajima
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/pierre-taki-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/pierre-taki-0.jpg
     character_qualifiers:
     name: Pierre Taki
     role: Mizuno
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/shigemitsu-ogi-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/shigemitsu-ogi-0.jpg
     character_qualifiers:
     name: Ogi Shigemitsu
     role: Satake Yukihiro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/kenta-suga-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/kenta-suga-0.jpg
     character_qualifiers:
     name: Suga Kenta
     role: Furuyuki Jun'nosuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/kazuki-koshimizu-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/kazuki-koshimizu-0.jpg
     character_qualifiers:
     name: Koshimizu Kazuki
     role: Suzuki Ippei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/yosuke-asari-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/yosuke-asari-0.jpg
     character_qualifiers:
     name: Asari Yôsuke
     role: Nakayama Takeo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/ayame-koike-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/ayame-koike-0.jpg
     character_qualifiers:
     name: Koike Ayame
     role: Suzuki Mika
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/erina-moribayashi-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/erina-moribayashi-0.jpg
     character_qualifiers:
     name: Moribayashi Erina
     role: Ishibashi Hatsuko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/namiko-nakahama-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/namiko-nakahama-0.jpg
     character_qualifiers:
     name: Nakahama Namiko
     role: Koike Sue
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/seiya-takahashi-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/seiya-takahashi-0.jpg
     character_qualifiers:
     name: Takahashi Seiya
     role: Saburô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/kaga-mochimaru-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/kaga-mochimaru-0.jpg
     character_qualifiers:
     name: Mochimaru Kaga
     role: Yuichirô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/masako-motoi-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/masako-motoi-0.jpg
     character_qualifiers:
     name: Motoi Masako
     role: Ôta Kin
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/mitsuru-hirata-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/mitsuru-hirata-0.jpg
     character_qualifiers:
     name: Hirata Mitsuru
     role: Suzuki Daisaku
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/kazue-fukiishi-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/kazue-fukiishi-0.jpg
     character_qualifiers:
     name: Fukiishi Kazue
     role: Yamamura
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/seiji-fukushi-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/seiji-fukushi-0.jpg
     character_qualifiers:
     name: Fukushi Seiji
     role: Ushijima
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/kazuyuki-asano-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/kazuyuki-asano-0.jpg
     character_qualifiers:
     name: Asano Kazuyuki
     role: Matsushita Tadanobu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/ikkei-watanabe-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/ikkei-watanabe-0.jpg
     character_qualifiers:
     name: Watanabe Ikkei
     role: Ôhashi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/shihori-kanjiya-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/shihori-kanjiya-0.jpg
     character_qualifiers:
     name: Kanjiya Shihori
     role: Meri
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/shizuka-fujimoto-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/shizuka-fujimoto-0.jpg
     character_qualifiers:
     name: Fujimoto Shizuka
     role: Chiemi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/satomi-tezuka-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/satomi-tezuka-0.jpg
     character_qualifiers:
     name: Tezuka Satomi
     role: Umeko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/takaya-kamikawa-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/takaya-kamikawa-0.jpg
     character_qualifiers:
     name: Kamikawa Takaya
     role: Yamamoto Nobuo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/fumiyo-kohinata-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/fumiyo-kohinata-0.jpg
     character_qualifiers:
     name: Kohinata Fumiyo
     role: Kawabuchi Yasunaru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/tomokazu-miura-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/tomokazu-miura-0.jpg
     character_qualifiers:
     name: Miura Tomokazu
     role: Doctor Takuma Shirô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/always-sunset-on-third-street-2-2007/cast-avatars/hiroko-yakushimaru-0.jpg
+  - avatar_url: /static/images/films/always-sunset-on-third-street-2-2007/cast-avatars/hiroko-yakushimaru-0.jpg
     character_qualifiers:
     name: Yakushimaru Hiroko
     role: Suzuki Tomoe

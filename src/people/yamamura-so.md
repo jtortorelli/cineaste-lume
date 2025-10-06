@@ -5,7 +5,7 @@ aliases:
     context:
     japanese_name: 山村聡
     name: Yamamura Sô
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yamamura-so/yamamura-so.jpg?t=2024-04-02T00%3A21%3A48.639Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yamamura-so/yamamura-so.jpg
 birth_name: Koga Hirosada
 birth_place: Tenri, Nara, Japan
 cause_of_death: Myocardial Infarction
@@ -21,7 +21,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/last-war-1961/posters/last-war-1961.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
     roles:
       - name: Prime Minister
         uncredited: false
@@ -29,7 +29,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/posters/prophecies-of-nostradamus-1974.jpg
+    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.jpg
     roles:
       - name: Prime Minister
         uncredited: false
@@ -37,7 +37,7 @@ works:
     title: Prophecies of Nostradamus
     year: 1974
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-king-ghidorah-1991/posters/godzilla-vs-king-ghidorah-1991.jpg
+    poster_url: /static/images/films/godzilla-vs-king-ghidorah-1991/posters/poster.jpg
     roles:
       - name: Prime Minister Hayashida
         uncredited: false

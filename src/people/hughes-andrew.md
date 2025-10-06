@@ -17,7 +17,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/battle-in-outer-space-1959/posters/battle-in-outer-space-1959.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
     roles:
       - name: UN Official
         uncredited: true
@@ -25,13 +25,13 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/crazy-adventure-1965/posters/Adventure%201965%20Image.webp
+    poster_url: /static/images/films/crazy-adventure-1965/posters/Adventure%201965%20Image.webp
     roles:
       - name: Adolf Hitler
     title: Crazy Adventure
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/golden-bat-1966/posters/golden-bat-1966.jpg
+    poster_url: /static/images/films/golden-bat-1966/posters/poster.jpg
     roles:
       - name: Doctor Pearl
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: The Golden Bat
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-escapes-1967/posters/king-kong-escapes-1967.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
     roles:
       - name: UN Reporter
         uncredited: true
@@ -47,7 +47,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/destroy-all-monsters-1968/posters/destroy-all-monsters-1968.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
     roles:
       - name: Doctor Stevenson
         uncredited: false
@@ -55,7 +55,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/latitude-zero-1969/posters/latitude-zero-1969.jpg
+    poster_url: /static/images/films/latitude-zero-1969/posters/poster.jpg
     roles:
       - name: Sir Maurice Pauli
         uncredited: true
@@ -63,7 +63,7 @@ works:
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/submersion-of-japan-1973/posters/submersion-of-japan-1973.jpg
+    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.jpg
     roles:
       - name: Australian Prime Minister
         uncredited: false
@@ -71,7 +71,7 @@ works:
     title: Submersion of Japan
     year: 1973
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/espy-1974/posters/espy-1974.jpg
+    poster_url: /static/images/films/espy-1974/posters/poster.jpg
     roles:
       - name: ESPY Chief
         uncredited: false
@@ -79,7 +79,7 @@ works:
     title: ESPY
     year: 1974
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/posters/sayonara-jupiter-1984.jpg
+    poster_url: /static/images/films/sayonara-jupiter-1984/posters/poster.jpg
     roles:
       - name: Senator Shadillic
         uncredited: false

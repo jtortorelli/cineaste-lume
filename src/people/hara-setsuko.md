@@ -22,13 +22,13 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daughter-of-the-samurai-1937/posters/Thedaughterofthesamurai-japaneseposter1937.jpg
+    poster_url: /static/images/films/daughter-of-the-samurai-1937/posters/poster.jpg
     roles:
       - name: Yamato Mitsuko
     title: The Daughter of the Samurai
     year: 1937
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Amaterasu
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/chushingura-1962/posters/pAHLXX48Xh4Q0T0WYKd4olNq1Ou.webp
+    poster_url: /static/images/films/chushingura-1962/posters/pAHLXX48Xh4Q0T0WYKd4olNq1Ou.webp
     roles:
       - name: Riku
     title: Chushingura

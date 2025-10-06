@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: gantz
     title: Gantz
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/posters/gantz-perfect-answer-2011.jpg
+poster_url: /static/images/films/gantz-perfect-answer-2011/posters/poster.jpg
 release_date: 2011-04-23
 runtime: 141
 series:
@@ -66,110 +66,110 @@ studios:
   - Hiroshima Television Corporation
   - Fukuoka Broadcasting System Corporation
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/go-ayano-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/go-ayano-0.jpg
     character_qualifiers:
     name: Ayano Gô
     role: Chief Black Suit<span class="italic">-seijin</span>
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/kensuke-chikasa-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/kensuke-chikasa-0.jpg
     character_qualifiers:
     name: Chisaka Kensuke
     role: Katô Ayumu
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/yuko-genkaku-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/yuko-genkaku-0.jpg
     character_qualifiers:
     name: Genkaku Yûko
     role: Sakano Risa
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/yasuyuki-hirano-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/yasuyuki-hirano-0.jpg
     character_qualifiers:
     name: Hirano Yasuyuki
     role: Black Suit<span class="italic">-seijin</span>
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/kyoji-kamui-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/kyoji-kamui-0.jpg
     character_qualifiers:
     name: Kamui Kyôji
     role: Black Suit<span class="italic">-seijin</span>
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/tomokaze-koshimura-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/tomokaze-koshimura-0.jpg
     character_qualifiers:
     name: Koshimura Tomokazu
     role: Nakamura Kôta
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/yurie-midori-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/yurie-midori-0.jpg
     character_qualifiers:
     name: Midori Yurie
     role: Yamamoto Mako
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/nako-mizusawa-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/nako-mizusawa-0.jpg
     character_qualifiers:
     name: Mizusawa Nako
     role: Black Suit<span class="italic">-seijin</span>
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/masafumi-oishi-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/masafumi-oishi-0.jpg
     character_qualifiers:
     name: Ôishi Masafumi
     role: Black Suit<span class="italic">-seijin</span>
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/shigeru-okuse-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/shigeru-okuse-0.jpg
     character_qualifiers:
     name: Okuse Shigeru
     role: Black Suit<span class="italic">-seijin</span>
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/masanobu-sakata-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/masanobu-sakata-0.jpg
     character_qualifiers:
     name: Sakata Masanobu
     role: Kobayashi Shin'ichi
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/shunya-shiraishi-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/shunya-shiraishi-0.jpg
     character_qualifiers:
     name: Shiraishi Shun'ya
     role: Sakurai Hiroshi
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/ryuya-wakaba-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/ryuya-wakaba-0.jpg
     character_qualifiers:
     name: Wakaba Ryûya
     role: Takahashi Mitsuteru
     uncredited: false
 title: "Gantz: Perfect Answer"
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/kazunari-ninomiya-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/kazunari-ninomiya-0.jpg
     character_qualifiers:
     name: Ninomiya Kazunari
     role: Kurono Kei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/kenichi-matsuyama-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/kenichi-matsuyama-0.jpg
     character_qualifiers:
     name: Matsuyama Ken'ichi
     role: Katô Masaru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/kenichi-matsuyama-1.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/kenichi-matsuyama-1.jpg
     character_qualifiers:
     name: Matsuyama Ken'ichi
     role: Senju<span class="italic">-seijin</span>
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/kanata-hongo-1.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/kanata-hongo-1.jpg
     character_qualifiers:
     name: Hongô Kanata
     role: Senju<span class="italic">-seijin</span>
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/yuriko-yoshitaka-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/yuriko-yoshitaka-0.jpg
     character_qualifiers:
     name: Yoshitaka Yuriko
     role: Kojima Tae
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/kanata-hongo-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/kanata-hongo-0.jpg
     character_qualifiers:
     name: Hongô Kanata
     role: Nishi Jôichirô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/natsuna-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/natsuna-0.jpg
     character_qualifiers:
     name: Natsuna
     role: Kishimoto Megumi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/ayumi-ito-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/ayumi-ito-0.jpg
     character_qualifiers:
     name: Itô Ayumi
     role: Ayukawa Eriko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/tomorowo-taguchi-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/tomorowo-taguchi-0.jpg
     character_qualifiers:
     name: Taguchi Tomorowo
     role: Suzuki Ryôichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gantz-perfect-answer-2011/cast-avatars/takayuki-yamada-0.jpg
+  - avatar_url: /static/images/films/gantz-perfect-answer-2011/cast-avatars/takayuki-yamada-0.jpg
     character_qualifiers:
     name: Yamada Takayuki
     role: Shigeta Masamitsu

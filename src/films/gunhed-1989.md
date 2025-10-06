@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: ガンヘッド
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gunhed-1989/posters/gunhed-1989.jpg
+poster_url: /static/images/films/gunhed-1989/posters/poster.jpg
 release_date: 1989-07-22
 runtime: 100
 staff:
@@ -46,48 +46,48 @@ studios:
   - Sunrise
 title: Gunhed
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gunhed-1989/cast-avatars/masahiro-takashima-0.jpg
+  - avatar_url: /static/images/films/gunhed-1989/cast-avatars/masahiro-takashima-0.jpg
     character_qualifiers:
     name: Takashima Masahiro
     role: Brooklyn
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gunhed-1989/cast-avatars/brenda-bakke-0.jpg
+  - avatar_url: /static/images/films/gunhed-1989/cast-avatars/brenda-bakke-0.jpg
     character_qualifiers:
     name: Brenda Bakke
     role: Nim
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gunhed-1989/cast-avatars/aya-enjoji-0.jpg
+  - avatar_url: /static/images/films/gunhed-1989/cast-avatars/aya-enjoji-0.jpg
     character_qualifiers:
     name: Enjôji Aya
     role: Baby
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gunhed-1989/cast-avatars/eugene-harada-0.jpg
+  - avatar_url: /static/images/films/gunhed-1989/cast-avatars/eugene-harada-0.jpg
     character_qualifiers:
     name: Harada Eugene
     role: Seven
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gunhed-1989/cast-avatars/kaori-mizushima-0.jpg
+  - avatar_url: /static/images/films/gunhed-1989/cast-avatars/kaori-mizushima-0.jpg
     character_qualifiers:
     name: Mizushima Kaori
     role: Eleven
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gunhed-1989/cast-avatars/james-b-thompson-0.jpg
+  - avatar_url: /static/images/films/gunhed-1989/cast-avatars/james-b-thompson-0.jpg
     character_qualifiers:
     name: James B. Thompson
     role: Barabbas
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gunhed-1989/cast-avatars/yosuke-saito-0.jpg
+  - avatar_url: /static/images/films/gunhed-1989/cast-avatars/yosuke-saito-0.jpg
     character_qualifiers:
     name: Saitô Yôsuke
     role: Boxer
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gunhed-1989/cast-avatars/doll-nguyen-0.jpg
+  - avatar_url: /static/images/films/gunhed-1989/cast-avatars/doll-nguyen-0.jpg
     character_qualifiers:
     name: Doll Nguyen
     role: Boomerang
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gunhed-1989/cast-avatars/jay-kabira-0.jpg
+  - avatar_url: /static/images/films/gunhed-1989/cast-avatars/jay-kabira-0.jpg
     character_qualifiers:
     name: Jay Kabira
     role: Bombay
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gunhed-1989/cast-avatars/randy-reyes-0.jpg
+  - avatar_url: /static/images/films/gunhed-1989/cast-avatars/randy-reyes-0.jpg
     character_qualifiers:
     name: Randy Reyes
     qualifiers: Voice
     role: Gunhed
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gunhed-1989/cast-avatars/mickey-curtis-0.jpg
+  - avatar_url: /static/images/films/gunhed-1989/cast-avatars/mickey-curtis-0.jpg
     character_qualifiers:
     name: Mickey Curtis
     role: Banchô

@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: eko-eko-azarak
     title: Eko Eko Azarak
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/posters/eko-eko-azarak-ii-birth-of-the-wizard-1996.jpg
+poster_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/posters/poster.jpg
 release_date: 1996-04-10
 runtime: 83
 series:
@@ -56,40 +56,40 @@ studios:
   - Tsuburaya Productions Co., Ltd.
 title: "Eko Eko Azarak II: Birth of the Wizard"
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/kimika-yoshino-0.jpg
+  - avatar_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/kimika-yoshino-0.jpg
     character_qualifiers:
     name: Yoshino Kimika
     role: Kuroi Misa
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/chieko-shiratori-0.jpg
+  - avatar_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/chieko-shiratori-0.jpg
     character_qualifiers:
     name: Shiratori Chieko
     role: Takahashi Shôko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/akira-otani-0.jpg
+  - avatar_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/akira-otani-0.jpg
     character_qualifiers:
     name: Ôtani Akira
     role: Shôko's Father
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/satoru-saito-0.jpg
+  - avatar_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/satoru-saito-0.jpg
     character_qualifiers:
     name: Saitô Satoru
     role: Doctor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/amina-tominaga-0.jpg
+  - avatar_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/amina-tominaga-0.jpg
     character_qualifiers:
     name: Tominaga Amina
     role: Kirie
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/miho-fukuya-0.jpg
+  - avatar_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/miho-fukuya-0.jpg
     character_qualifiers:
     name: Fukuya Miho
     role: Assistant Archaeologist
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/tamio-ishikura-0.jpg
+  - avatar_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/tamio-ishikura-0.jpg
     character_qualifiers:
     name: Ishikura Tamio
     role: Archaeologist
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/hideyo-amamoto-0.jpg
+  - avatar_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/hideyo-amamoto-0.jpg
     character_qualifiers:
     name: Amamoto Hideyo
     role: Elder
     slug: amamoto-hideyo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/wataru-hosodo-0.jpg
+  - avatar_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/cast-avatars/wataru-hosodo-0.jpg
     character_qualifiers:
     name: Shihôdô Wataru
     role: Saiga

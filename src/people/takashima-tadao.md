@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/takashima-tadao/takashima-tadao.jpg?t=2024-04-02T00%3A11%3A01.882Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/takashima-tadao/takashima-tadao.jpg
 birth_place: Muko, Hyogo, Jaan
 death_place: Tokyo, Japan
 dob: 1930-07-27
@@ -20,7 +20,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-vs-godzilla-1962/posters/king-kong-vs-godzilla-1962.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
     roles:
       - name: Sakurai Osamu
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/atragon-1963/posters/atragon-1963.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
     roles:
       - name: Hatanaka Susumu
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/frankenstein-conquers-the-world-1965/posters/frankenstein-conquers-the-world-1965.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
     roles:
       - name: Doctor Kawaji Ken'ichirô
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/posters/son-of-godzilla-1967.jpg
+    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
     roles:
       - name: Doctor Kusumi
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-mechagodzilla-ii-1993/posters/godzilla-vs-mechagodzilla-1993.jpg
+    poster_url: /static/images/films/godzilla-vs-mechagodzilla-ii-1993/posters/poster.jpg
     roles:
       - name: Hosono
         uncredited: false

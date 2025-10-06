@@ -7,7 +7,7 @@ original_works:
     format: novel series
     slug: onmyoji
     title: Onmyoji
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/posters/onmyoji-ii-2003.jpg
+poster_url: /static/images/films/onmyoji-ii-2003/posters/poster.jpg
 release_date: 2003-10-04
 runtime: 115
 staff:
@@ -52,74 +52,74 @@ studios:
   - Toho Co., Ltd.
   - Mainichi Broadcasting System, Inc.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/yukijiro-hotaru-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/yukijiro-hotaru-0.jpg
     character_qualifiers:
     name: Hotaru Yukijirô
     role: The Emperor
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/masato-ibu-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/masato-ibu-0.jpg
     character_qualifiers:
     name: Ibu Masatô
     role: Fujiwara Yasumaro
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/hayato-ichihara-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/hayato-ichihara-0.jpg
     character_qualifiers:
     name: Ichihara Hayato
     role: Susa
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/dai-fuji-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/dai-fuji-0.jpg
     character_qualifiers:
     name: Ôfuji
     role: Tajikarao
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/ayumu-saito-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/ayumu-saito-0.jpg
     character_qualifiers:
     name: Saitô Ayumu
     role: Fujiwara Kanemichi
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/hiromitsu-suzuki-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/hiromitsu-suzuki-0.jpg
     character_qualifiers:
     name: Suzuki Hiromitsu
     role: Hira Tamenari
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/tatsuo-yamada-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/tatsuo-yamada-0.jpg
     character_qualifiers:
     name: Yamada Tatsuo
     role: Sanzen Yukinori
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/kenji-yamaki-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/kenji-yamaki-0.jpg
     character_qualifiers:
     name: Yamaki Kenji
     role: Tachibana Ukon
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/kazutoshi-yokoyama-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/kazutoshi-yokoyama-0.jpg
     character_qualifiers:
     name: Yokoyama Kazutoshi
     role: Susano-o
     uncredited: false
 title: Onmyoji II
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/mansai-nomura-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/mansai-nomura-0.jpg
     character_qualifiers:
     name: Nomura Mansai
     role: Abe Seimei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/hideaki-ito-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/hideaki-ito-0.jpg
     character_qualifiers:
     name: Itô Hideaki
     role: Minamoto Hiromasa
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/eriko-imai-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/eriko-imai-0.jpg
     character_qualifiers:
     name: Imai Eriko
     role: Mitsumushi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/kyoko-fukada-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/kyoko-fukada-0.jpg
     character_qualifiers:
     name: Fukada Kyôko
     role: Fujiwara Himiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/yuko-kotegawa-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/yuko-kotegawa-0.jpg
     character_qualifiers:
     name: Kotegawa Yûko
     role: Tsukiyomi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/onmyoji-ii-2003/cast-avatars/kiichi-nakai-0.jpg
+  - avatar_url: /static/images/films/onmyoji-ii-2003/cast-avatars/kiichi-nakai-0.jpg
     character_qualifiers:
     name: Nakai Kiichi
     role: Genkaku

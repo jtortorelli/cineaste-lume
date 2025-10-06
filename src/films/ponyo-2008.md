@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 崖の上のポニョ
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ponyo-2008/posters/ponyo-2008.jpg
+poster_url: /static/images/films/ponyo-2008/posters/poster.jpg
 release_date: 2008-07-19
 runtime: 101
 staff:
@@ -45,52 +45,52 @@ studios:
   - Toho Co., Ltd.
 title: Ponyo
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ponyo-2008/cast-avatars/tomoko-yamaguchi-0.jpg
+  - avatar_url: /static/images/films/ponyo-2008/cast-avatars/tomoko-yamaguchi-0.jpg
     character_qualifiers:
     name: Yamaguchi Tomoko
     qualifiers: Voice
     role: Lisa
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ponyo-2008/cast-avatars/kazushige-nagashima-0.jpg
+  - avatar_url: /static/images/films/ponyo-2008/cast-avatars/kazushige-nagashima-0.jpg
     character_qualifiers:
     name: Nagashima Kazushige
     qualifiers: Voice
     role: Kôichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ponyo-2008/cast-avatars/yuki-amami-0.jpg
+  - avatar_url: /static/images/films/ponyo-2008/cast-avatars/yuki-amami-0.jpg
     character_qualifiers:
     name: Amami Yuki
     qualifiers: Voice
     role: Granmamare
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ponyo-2008/cast-avatars/george-tokoro-0.jpg
+  - avatar_url: /static/images/films/ponyo-2008/cast-avatars/george-tokoro-0.jpg
     character_qualifiers:
     name: Tokoro George
     qualifiers: Voice
     role: Fujimoto
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ponyo-2008/cast-avatars/yuria-kotsuki-0.jpg
+  - avatar_url: /static/images/films/ponyo-2008/cast-avatars/yuria-kotsuki-0.jpg
     character_qualifiers:
     name: Kôzuki Yuria
     qualifiers: Voice
     role: Ponyo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ponyo-2008/cast-avatars/hiroki-doi-0.jpg
+  - avatar_url: /static/images/films/ponyo-2008/cast-avatars/hiroki-doi-0.jpg
     character_qualifiers:
     name: Doi Hiroki
     qualifiers: Voice
     role: Sôsuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ponyo-2008/cast-avatars/rumi-hiiragi-0.jpg
+  - avatar_url: /static/images/films/ponyo-2008/cast-avatars/rumi-hiiragi-0.jpg
     character_qualifiers:
     name: Hîragi Rumi
     qualifiers: Voice
     role: Young Mother
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ponyo-2008/cast-avatars/akiko-yano-0.jpg
+  - avatar_url: /static/images/films/ponyo-2008/cast-avatars/akiko-yano-0.jpg
     character_qualifiers:
     name: Yano Akiko
     qualifiers: Voice
     role: Ponyo's Sisters
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ponyo-2008/cast-avatars/kazuko-yoshiyuki-0.jpg
+  - avatar_url: /static/images/films/ponyo-2008/cast-avatars/kazuko-yoshiyuki-0.jpg
     character_qualifiers:
     name: Yoshiyuki Kazuko
     qualifiers: Voice
     role: Toki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ponyo-2008/cast-avatars/tomoko-naraoka-0.jpg
+  - avatar_url: /static/images/films/ponyo-2008/cast-avatars/tomoko-naraoka-0.jpg
     character_qualifiers:
     name: Naraoka Tomoko
     qualifiers: Voice

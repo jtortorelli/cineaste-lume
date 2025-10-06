@@ -30,7 +30,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-1961/posters/mothra-1961.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
     roles:
       - name: Rolisican Policeman
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/dogora-1964/posters/dogora-the-space-monster-1964.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
     roles:
       - actor_alias: Dan Yuma
         name: Mark Jackson
@@ -47,7 +47,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megalon-1973/posters/godzilla-vs-megalon-1973.jpg
+    poster_url: /static/images/films/godzilla-vs-megalon-1973/posters/poster.jpg
     roles:
       - name: Emperor Antonio
         uncredited: false
@@ -55,7 +55,7 @@ works:
     title: Godzilla vs. Megalon
     year: 1973
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/espy-1974/posters/espy-1974.jpg
+    poster_url: /static/images/films/espy-1974/posters/poster.jpg
     roles:
       - name: Pilot
         uncredited: true

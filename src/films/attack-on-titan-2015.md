@@ -10,7 +10,7 @@ original_works:
     format: manga
     slug: attack-on-titan
     title: Attack on Titan
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/posters/attack-on-titan-2015.jpg
+poster_url: /static/images/films/attack-on-titan-2015/posters/poster.jpg
 release_date: 2015-08-01
 runtime: 98
 series:
@@ -74,55 +74,55 @@ studios:
   - TOKYO FM Broadcasting Co., Ltd.
 title: Attack on Titan
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/haruma-miura-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/haruma-miura-0.jpg
     character_qualifiers:
     name: Miura Haruma
     role: Eren
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/hiroki-hasegawa-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/hiroki-hasegawa-0.jpg
     character_qualifiers:
     name: Hasegawa Hiroki
     role: Shikishima
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/kiko-mizuhara-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/kiko-mizuhara-0.jpg
     character_qualifiers:
     name: Mizuhara Kiko
     role: Mikasa
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/kanata-hongo-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/kanata-hongo-0.jpg
     character_qualifiers:
     name: Hongô Kanata
     role: Armin
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/takahiro-miura-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/takahiro-miura-0.jpg
     character_qualifiers:
     name: Miura Takahiro
     role: Jean
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/nanami-sakuraba-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/nanami-sakuraba-0.jpg
     character_qualifiers:
     name: Sakuraba Nanami
     role: Sasha
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/satoru-matsuo-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/satoru-matsuo-0.jpg
     character_qualifiers:
     name: Matsuo Satoru
     role: San'nagi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/shu-watanabe-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/shu-watanabe-0.jpg
     character_qualifiers:
     name: Watanabe Shû
     role: Fukushi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/rina-takeda-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/rina-takeda-0.jpg
     character_qualifiers:
     name: Takeda Rina
     role: Lil
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/ayame-misaki-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/ayame-misaki-0.jpg
     character_qualifiers:
     name: Ayame Misaki
     role: Hiana
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/satomi-ishihara-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/satomi-ishihara-0.jpg
     character_qualifiers:
     name: Ishihara Satomi
     role: Hans
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/pierre-taki-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/pierre-taki-0.jpg
     character_qualifiers:
     name: Pierre Taki
     role: Souda
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/cast-avatars/jun-kunimura-0.jpg
+  - avatar_url: /static/images/films/attack-on-titan-2015/cast-avatars/jun-kunimura-0.jpg
     character_qualifiers:
     name: Kunimura Jun
     role: Kubal

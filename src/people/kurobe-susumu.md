@@ -15,7 +15,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/posters/ghidorah-the-three-headed-monster-1964.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
     roles:
       - name: Assassin
         uncredited: false
@@ -23,7 +23,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventure-of-kigan-castle-1966/posters/adventures-of-taklamakan-1966.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
     roles:
       - name: Palace Guard
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-escapes-1967/posters/king-kong-escapes-1967.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
     roles:
       - name: Who Henchman
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/posters/son-of-godzilla-1967.jpg
+    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
     roles:
       - name: Pilot
         uncredited: false
@@ -47,7 +47,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/destroy-all-monsters-1968/posters/destroy-all-monsters-1968.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
     roles:
       - name: Possessed Monsterland Personnel
         uncredited: false
@@ -55,7 +55,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/latitude-zero-1969/posters/latitude-zero-1969.jpg
+    poster_url: /static/images/films/latitude-zero-1969/posters/poster.jpg
     roles:
       - name: Chen
         uncredited: false
@@ -63,7 +63,7 @@ works:
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/bullet-train-1975/posters/bullet-train-1975.jpg
+    poster_url: /static/images/films/bullet-train-1975/posters/poster.jpg
     roles:
       - name: Detective Goto
         uncredited: false
@@ -71,7 +71,7 @@ works:
     title: The Bullet Train
     year: 1975
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-king-ghidorah-1991/posters/godzilla-vs-king-ghidorah-1991.jpg
+    poster_url: /static/images/films/godzilla-vs-king-ghidorah-1991/posters/poster.jpg
     roles:
       - name: Chief of Air Staff
         uncredited: false
@@ -79,7 +79,7 @@ works:
     title: Godzilla vs. King Ghidorah
     year: 1991
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-mothra-1992/posters/godzilla-vs-mothra-1992.jpg
+    poster_url: /static/images/films/godzilla-vs-mothra-1992/posters/poster.jpg
     roles:
       - name: Chief of Air Staff
         uncredited: false
@@ -87,7 +87,7 @@ works:
     title: Godzilla vs. Mothra
     year: 1992
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-megaguirus-2000/posters/godzilla-x-megaguirus-2000.jpg
+    poster_url: /static/images/films/godzilla-vs-megaguirus-2000/posters/poster.jpg
     roles:
       - name: Military Officer
         uncredited: false

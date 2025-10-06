@@ -2,25 +2,25 @@
 tags: ["cineaste", "films"]
 japanese_title: ゴジラvsデストロイア
 kaiju:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/kaiju-avatars/kenpachiro-satsuma-0.jpg?t=2023-09-04T02%3A16%3A34.718Z
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/kaiju-avatars/kenpachiro-satsuma-0.jpg
     name: Godzilla
     portrayals:
       - people:
           - name: Satsuma Kenpachirô
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/kaiju-avatars/ryo-hariya-0.jpg?t=2023-09-04T02%3A16%3A39.043Z
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/kaiju-avatars/ryo-hariya-0.jpg
     name: Destoroyah
     portrayals:
       - people:
           - name: Hariya Ryô
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/kaiju-avatars/hurricane-ryu-0.jpg?t=2023-09-04T02%3A16%3A24.093Z
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/kaiju-avatars/hurricane-ryu-0.jpg
     name: Godzilla Junior
     portrayals:
       - people:
           - name: Hurricane Ryû
         type: Suit Actor
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/posters/godzilla-vs-destroyer-1995.jpg
+poster_url: /static/images/films/godzilla-vs-destoroyah-1995/posters/poster.jpg
 release_date: 1995-12-09
 runtime: 103
 series:
@@ -75,76 +75,76 @@ staff:
 studios:
   - Toho Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/sei-hiraizumi-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/sei-hiraizumi-0.jpg
     character_qualifiers:
     name: Hiraizumi Sei
     role: G-Summit Official
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/ronald-hoerr-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/ronald-hoerr-0.jpg
     character_qualifiers:
     name: Ronald Hoerr
     role: Doctor Marvin
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/takehiro-murata-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/takehiro-murata-0.jpg
     character_qualifiers:
     name: Murata Takehiro
     role: Hayami Sôichirô
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/kenzo-ogiwara-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/kenzo-ogiwara-0.jpg
     character_qualifiers:
     name: Ogiwara Kenzô
     role: G-Summit Official
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/shelley-sweeney-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/shelley-sweeney-0.jpg
     character_qualifiers:
     name: Shelley Sweeney
     role: Pentagon Personnel
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/koichi-ueda-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/koichi-ueda-0.jpg
     character_qualifiers:
     name: Ueda Kôichi
     role: Aquarium Security Guard
     uncredited: false
 title: Godzilla vs. Destoroyah
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/takuro-tatsumi-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/takuro-tatsumi-0.jpg
     character_qualifiers:
     name: Tatsumi Takurô
     role: Doctor Ijûin Kensaku
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/yoko-ishino-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/yoko-ishino-0.jpg
     character_qualifiers:
     name: Ishino Yôko
     role: Yamane Yukari
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/megumi-odaka-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/megumi-odaka-0.jpg
     character_qualifiers:
     name: Odaka Megumi
     role: Saegusa Miki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/yasufumi-hayashi-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/yasufumi-hayashi-0.jpg
     character_qualifiers:
     name: Hayashi Yasufumi
     role: Yamane Kenkichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/sayaka-osawa-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/sayaka-osawa-0.jpg
     character_qualifiers:
     name: Ôsawa Sayaka
     role: Ôzawa Meiru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/masahiro-takashima-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/masahiro-takashima-0.jpg
     character_qualifiers:
     name: Takashima Masahiro
     role: Major Kuroki Shô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/shigeru-koyama-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/shigeru-koyama-0.jpg
     character_qualifiers:
     name: Kôyama Shigeru
     role: Commander Gotô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/akira-nakao-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/akira-nakao-0.jpg
     character_qualifiers:
     name: Nakao Akira
     role: Chief Asou Takaaki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/momoko-kochi-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/momoko-kochi-0.jpg
     character_qualifiers:
     name: Kouchi Momoko
     role: Yamane Emiko
     slug: kouchi-momoko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/cast-avatars/saburo-shinoda-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-destoroyah-1995/cast-avatars/saburo-shinoda-0.jpg
     character_qualifiers:
     name: Shinoda Saburô
     role: Kunitomo Mitsuru

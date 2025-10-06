@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventure-of-kigan-castle-1966/posters/adventures-of-taklamakan-1966.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
     roles:
       - name: Ôsumi's Brother
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/evil-of-dracula-1974/posters/evil-of-dracula-1974.jpg
+    poster_url: /static/images/films/evil-of-dracula-1974/posters/poster.jpg
     roles:
       - name: Shiraki
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: Evil of Dracula
     year: 1974
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/prophecies-of-nostradamus-1974/posters/prophecies-of-nostradamus-1974.jpg
+    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.jpg
     roles:
       - name: Nakagawa Akira
         uncredited: false

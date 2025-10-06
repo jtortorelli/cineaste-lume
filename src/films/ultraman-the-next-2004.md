@@ -2,7 +2,7 @@
 tags: ["cineaste", "films"]
 japanese_title: ULTRAMAN
 kaiju:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/kaiju-avatars/keiji-hasegawa-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/kaiju-avatars/keiji-hasegawa-0.jpg
     name: Ultraman the Next
     portrayals:
       - people:
@@ -11,7 +11,7 @@ kaiju:
       - people:
           - name: Tanaka Hideyuki
         type: Voice
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/kaiju-avatars/satoshi-yamamoto-1.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/kaiju-avatars/satoshi-yamamoto-1.jpg
     name: Beast the One
     portrayals:
       - people:
@@ -22,7 +22,7 @@ kaiju:
           - name: Ôsumi Ken'ya
           - name: Konishi Katsuyuki
         type: Voice
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/posters/ultraman-2004.jpg
+poster_url: /static/images/films/ultraman-the-next-2004/posters/poster.jpg
 release_date: 2004-12-18
 runtime: 97
 staff:
@@ -75,64 +75,64 @@ studios:
   - Dentsu, Inc.
   - Shochiku Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/yoichi-okamura-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/yoichi-okamura-0.jpg
     character_qualifiers:
     name: Okamura Yôichi
     role: Shopkeeper
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/edo-yamaguchi-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/edo-yamaguchi-0.jpg
     character_qualifiers:
     name: Edo Yamaguchi
     role: SDF Air Commander
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/makiko-yasumuro-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/makiko-yasumuro-0.jpg
     character_qualifiers:
     name: Yasumuro Makiko
     role: Shopkeeper's Wife
     uncredited: false
 title: "Ultraman: The Next"
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/tetsuya-bessho-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/tetsuya-bessho-0.jpg
     character_qualifiers:
     name: Bessho Tetsuya
     role: Maki Shun'ichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/kyoko-toyama-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/kyoko-toyama-0.jpg
     character_qualifiers:
     name: Tôyama Kyouko
     role: Mizuhara Sara
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/kenya-osumi-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/kenya-osumi-0.jpg
     character_qualifiers:
     name: Ôsumi Ken'ya
     role: Udô Takafumi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/nae-yuki-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/nae-yuki-0.jpg
     character_qualifiers:
     name: Yûki Nae
     role: Maki Yôko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/ryohei-hirota-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/ryohei-hirota-0.jpg
     character_qualifiers:
     name: Hirota Ryôhei
     role: Maki Tsugumu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/eisuke-tsunoda-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/eisuke-tsunoda-0.jpg
     character_qualifiers:
     name: Tsunoda Eisuke
     role: Ippei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/yumiko-sato-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/yumiko-sato-0.jpg
     character_qualifiers:
     name: Satô Yumiko
     role: Yuriko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/kengo-komada-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/kengo-komada-0.jpg
     character_qualifiers:
     name: Komada Kengo
     role: Announcer
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/daisuke-ryu-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/daisuke-ryu-0.jpg
     character_qualifiers:
     name: Ryû Daisuke
     role: Sogabe
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/toshiya-nagasawa-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/toshiya-nagasawa-0.jpg
     character_qualifiers:
     name: Nagasawa Toshiya
     role: Kurashima Tsuyoshi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ultraman-the-next-2004/cast-avatars/masao-kusakari-0.jpg
+  - avatar_url: /static/images/films/ultraman-the-next-2004/cast-avatars/masao-kusakari-0.jpg
     character_qualifiers:
     name: Kusakari Masao
     role: Manjôme

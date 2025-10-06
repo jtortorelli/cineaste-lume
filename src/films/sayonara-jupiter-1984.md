@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: さよならジュピター
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/posters/sayonara-jupiter-1984.jpg
+poster_url: /static/images/films/sayonara-jupiter-1984/posters/poster.jpg
 release_date: 1984-03-17
 runtime: 129
 staff:
@@ -54,7 +54,7 @@ studios:
   - Toho Co., Ltd.
   - Io
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/andrew-hughes-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/andrew-hughes-0.jpg
     character_qualifiers:
     name: Andrew Hughes
     role: Senator Shadillic
@@ -62,52 +62,52 @@ supporting_cast:
     uncredited: false
 title: Sayonara Jupiter
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/tomokazu-miura-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/tomokazu-miura-0.jpg
     character_qualifiers:
     name: Miura Tomokazu
     role: Honda Eiji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/diane-dangely-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/diane-dangely-0.jpg
     character_qualifiers:
     name: Diane d'Angély
     role: Maria Basehart
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/miyuki-ono-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/miyuki-ono-0.jpg
     character_qualifiers:
     name: Ono Miyuki
     role: Anita
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/rachel-huggett-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/rachel-huggett-0.jpg
     character_qualifiers:
     name: Rachel Huggett
     role: Doctor Millicent Willem
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/paul-taiga-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/paul-taiga-0.jpg
     character_qualifiers:
     name: Paul Taiga
     role: Peter
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/kim-bass-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/kim-bass-0.jpg
     character_qualifiers:
     name: Kim Bass
     role: Booker
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/marc-panther-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/marc-panther-0.jpg
     character_qualifiers:
     name: Marc Panther
     role: Carlos Angeles
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/ron-irwin-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/ron-irwin-0.jpg
     character_qualifiers:
     name: Ron Irwin
     role: Captain Kinn
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/william-tapier-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/william-tapier-0.jpg
     character_qualifiers:
     name: William Tapier
     role: Edward Webb
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/akihiko-hirata-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/akihiko-hirata-0.jpg
     character_qualifiers:
     name: Hirata Akihiko
     role: Doctor Inoue
     slug: hirata-akihiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/masumi-okada-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/masumi-okada-0.jpg
     character_qualifiers:
     name: Okada Masumi
     role: Muhammad Mansur
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sayonara-jupiter-1984/cast-avatars/hisaya-morishige-0.jpg
+  - avatar_url: /static/images/films/sayonara-jupiter-1984/cast-avatars/hisaya-morishige-0.jpg
     character_qualifiers:
     name: Morishige Hisaya
     role: Earth Federation President

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sahara-kenji/sahara-kenji.jpg?t=2024-04-01T19%3A19%3A45.771Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sahara-kenji/sahara-kenji.jpg
 birth_name: Katô Masayoshi
 birth_place: Kawasaki, Kanagawa, Japan
 dob: 1932-05-14
@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/posters/godzilla-1954.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
     roles:
       - name: Pleasure Cruise Passenger
         uncredited: true
@@ -22,7 +22,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rodan-1956/posters/rodan-1956.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
     roles:
       - name: Kawamura Shigeru
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     roles:
       - name: Doctor Atsumi Jôji
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/h-man-1958/posters/h-man-1958.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
     roles:
       - name: Doctor Masada
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-1961/posters/mothra-1961.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
     roles:
       - name: Helicopter Pilot
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gorath-1962/posters/gorath-1962.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
     roles:
       - name: Lieutenant Saiki
         uncredited: false
@@ -62,7 +62,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-vs-godzilla-1962/posters/king-kong-vs-godzilla-1962.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
     roles:
       - name: Fujita Kazuo
         uncredited: false
@@ -70,7 +70,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/matango-1963/posters/matango-1963.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.jpg
     roles:
       - name: Koyama Senzô
         uncredited: false
@@ -78,7 +78,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/atragon-1963/posters/atragon-1963.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
     roles:
       - name: Un'no
         uncredited: false
@@ -86,7 +86,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-vs-godzilla-1964/posters/mothra-vs-godzilla-1964.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
     roles:
       - name: Torahata
         uncredited: false
@@ -94,7 +94,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/posters/ghidorah-the-three-headed-monster-1964.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
     roles:
       - name: Editor
         uncredited: false
@@ -102,7 +102,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/frankenstein-conquers-the-world-1965/posters/frankenstein-conquers-the-world-1965.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
     roles:
       - name: Policeman
         uncredited: false
@@ -110,7 +110,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/war-of-the-gargantuas-1966/posters/war-of-the-gargantuas-1966.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
     roles:
       - name: Doctor Majida Yûzô
         uncredited: false
@@ -118,7 +118,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/son-of-godzilla-1967/posters/son-of-godzilla-1967.jpg
+    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
     roles:
       - name: Morio
         uncredited: false
@@ -126,7 +126,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/destroy-all-monsters-1968/posters/destroy-all-monsters-1968.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
     roles:
       - name: Moon Base Commander Nishikawa
         uncredited: false
@@ -134,7 +134,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/all-monsters-attack-1969/posters/godzillas-revenge-1969.jpg
+    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.jpg
     roles:
       - name: Mitsuki Ken'ichi
         uncredited: false
@@ -142,7 +142,7 @@ works:
     title: All Monsters Attack
     year: 1969
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/posters/space-amoeba-1970.jpg
+    poster_url: /static/images/films/space-amoeba-1970/posters/poster.jpg
     roles:
       - name: Obata Makoto
         uncredited: false
@@ -150,7 +150,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-mechagodzilla-1974/posters/godzilla-vs-the-cosmic-monster-1974.jpg
+    poster_url: /static/images/films/godzilla-vs-mechagodzilla-1974/posters/poster.jpg
     roles:
       - name: Cruise Ship Captain
         uncredited: false
@@ -158,7 +158,7 @@ works:
     title: Godzilla vs. Mechagodzilla
     year: 1974
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/posters/terror-of-mechagodzilla-1975.jpg
+    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.jpg
     roles:
       - name: Defense Commander
         uncredited: false
@@ -166,7 +166,7 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/conflagration-1975/posters/explosion-1975.jpg
+    poster_url: /static/images/films/conflagration-1975/posters/poster.jpg
     roles:
       - name: Reporter
         uncredited: false
@@ -174,7 +174,7 @@ works:
     title: Conflagration
     year: 1975
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-king-ghidorah-1991/posters/godzilla-vs-king-ghidorah-1991.jpg
+    poster_url: /static/images/films/godzilla-vs-king-ghidorah-1991/posters/poster.jpg
     roles:
       - name: Defense Secretary
         uncredited: false
@@ -182,7 +182,7 @@ works:
     title: Godzilla vs. King Ghidorah
     year: 1991
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-mechagodzilla-ii-1993/posters/godzilla-vs-mechagodzilla-1993.jpg
+    poster_url: /static/images/films/godzilla-vs-mechagodzilla-ii-1993/posters/poster.jpg
     roles:
       - name: Secretary Segawa Takayuki
         uncredited: false
@@ -190,7 +190,7 @@ works:
     title: Godzilla vs. Mechagodzilla II
     year: 1993
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-spacegodzilla-1994/posters/godzilla-vs-space-godzilla-1994.jpg
+    poster_url: /static/images/films/godzilla-vs-spacegodzilla-1994/posters/poster.jpg
     roles:
       - name: Secretary Segawa Takayuki
         uncredited: false
@@ -198,7 +198,7 @@ works:
     title: Godzilla vs. SpaceGodzilla
     year: 1994
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-final-wars-2004/posters/godzilla-final-wars-2004.jpg
+    poster_url: /static/images/films/godzilla-final-wars-2004/posters/poster.jpg
     roles:
       - name: Jingûchi Hachirô
         uncredited: false

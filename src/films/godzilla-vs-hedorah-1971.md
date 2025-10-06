@@ -5,21 +5,21 @@ aliases:
     context: American Theatrical Release
 japanese_title: ゴジラ対ヘドラ
 kaiju:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/kaiju-avatars/haruo-nakajima-0.jpg?t=2023-09-04T02%3A19%3A50.165Z
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/kaiju-avatars/haruo-nakajima-0.jpg
     name: Godzilla
     portrayals:
       - people:
           - name: Nakajima Haruo
             slug: nakajima-haruo
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/kaiju-avatars/kenpachiro-satsuma-0.jpg?t=2023-09-04T02%3A19%3A54.042Z
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/kaiju-avatars/kenpachiro-satsuma-0.jpg
     name: Hedorah
     portrayals:
       - people:
           - alias: Nakayama Kengo
             name: Satsuma Kenpachirô
         type: Suit Actor
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/posters/godzilla-vs-hedorah-1971.jpg
+poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.jpg
 release_date: 1971-07-24
 runtime: 85
 series:
@@ -74,49 +74,49 @@ staff:
 studios:
   - Toho Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/ken-echigo-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/ken-echigo-0.jpg
     character_qualifiers:
     name: Echigo Ken
     role: Talking Head
     slug: echigo-ken
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/shigeo-kato-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/shigeo-kato-0.jpg
     character_qualifiers:
     name: Katô Shigeo
     role: Construction Worker
     slug: kato-shigeo
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/akio-kusama-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/akio-kusama-0.jpg
     character_qualifiers:
     name: Kusama Akio
     role: Talking Head
     slug: kusama-akio
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/yutaka-oka-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/yutaka-oka-0.jpg
     character_qualifiers:
     name: Oka Yutaka
     role: Soldier
     slug: oka-yutaka
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/haruya-sakamoto-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/haruya-sakamoto-0.jpg
     character_qualifiers:
     name: Sakamoto Haruya
     role: Talking Head
     slug: sakamoto-haruya
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/masaki-shinohara-1.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/masaki-shinohara-1.jpg
     character_qualifiers:
     name: Shinohara Masaki
     role: Soldier
     slug: shinohara-masaki
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/masaki-shinohara-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/masaki-shinohara-0.jpg
     character_qualifiers:
     name: Shinohara Masaki
     role: Mahjong Player
     slug: shinohara-masaki
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/soji-ubukata-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/soji-ubukata-0.jpg
     character_qualifiers:
     name: Ubukata Sôji
     role: Talking Head
@@ -124,61 +124,61 @@ supporting_cast:
     uncredited: true
 title: Godzilla vs. Hedorah
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/akira-yamauchi-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/akira-yamauchi-0.jpg
     character_qualifiers:
     name: Yamauchi Akira
     role: Doctor Yano Tôru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/hiroyuki-kawase-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/hiroyuki-kawase-0.jpg
     character_qualifiers:
     name: Kawase Hiroyuki
     role: Yano Ken
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/toshie-kimura-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/toshie-kimura-0.jpg
     character_qualifiers:
     name: Kimura Toshie
     role: Yano Toshie
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/keiko-mari-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/keiko-mari-0.jpg
     character_qualifiers:
     name: Mari Keiko
     role: Fujinomiya Miki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/toshio-shibamoto-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/toshio-shibamoto-0.jpg
     character_qualifiers:
     name: Shibamoto Toshio
     role: Môchi Yukio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/yoshio-yoshida-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/yoshio-yoshida-0.jpg
     character_qualifiers:
     name: Yoshida Yoshio
     role: Gohei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/haruo-nakajima-1.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/haruo-nakajima-1.jpg
     character_qualifiers:
     name: Nakajima Haruo
     role: Talking Head
     slug: nakajima-haruo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/haruo-suzuki-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/haruo-suzuki-0.jpg
     character_qualifiers:
     name: Suzuki Haruo
     role: Military Officer
     slug: suzuki-haruo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/yoshio-katsube-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/yoshio-katsube-0.jpg
     character_qualifiers:
     name: Katsube Yoshio
     role: Soldier
     slug: katsube-yoshio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/tadashi-okabe-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/tadashi-okabe-0.jpg
     character_qualifiers:
     name: Okabe Tadashi
     role: TV Scientist
     slug: okabe-tadashi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/wataru-omae-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/wataru-omae-0.jpg
     character_qualifiers:
     name: Ômae Wataru
     role: Policeman
     slug: omae-wataru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/yukihiko-gondo-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/yukihiko-gondo-0.jpg
     character_qualifiers:
     name: Gondô Yukihiko
     role: Helicopter Pilot
     slug: gondo-yukihiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-hedorah-1971/cast-avatars/kentaro-watanabe-0.jpg
+  - avatar_url: /static/images/films/godzilla-vs-hedorah-1971/cast-avatars/kentaro-watanabe-0.jpg
     character_qualifiers:
     name: Watanabe Kentarô
     role: TV Interviewer

@@ -11,7 +11,7 @@ original_works:
     format: manga
     slug: rescue-wings
     title: Rescue Wings
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/posters/rescue-wings-2008.jpg
+poster_url: /static/images/films/rescue-wings-2008/posters/poster.jpg
 release_date: 2008-12-13
 runtime: 108
 staff:
@@ -51,59 +51,59 @@ studios:
   - The Sankei Shimbun
 title: Rescue Wings
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/yuko-takayama-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/yuko-takayama-0.jpg
     character_qualifiers:
     name: Takayama Yûko
     role: Kawashima Haruka
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/dai-watanabe-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/dai-watanabe-0.jpg
     character_qualifiers:
     name: Watanabe Dai
     role: Senami Kôtarô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/shunya-isaka-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/shunya-isaka-0.jpg
     character_qualifiers:
     name: Isaka Shun'ya
     role: Oda Ryûhei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/ken-kaneko-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/ken-kaneko-0.jpg
     character_qualifiers:
     name: Kaneko Ken
     role: Yokosuka Tsuyoshi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/taiki-nakabayashi-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/taiki-nakabayashi-0.jpg
     character_qualifiers:
     name: Nakabayashi Taiki
     role: Ôsaka Kenji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/shunta-nakamura-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/shunta-nakamura-0.jpg
     character_qualifiers:
     name: Nakamura Shunta
     role: Kakizaki Daisuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/junichi-haruta-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/junichi-haruta-0.jpg
     character_qualifiers:
     name: Haruta Jun'ichi
     role: Waseda Shigeo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/ichirota-miyakawa-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/ichirota-miyakawa-0.jpg
     character_qualifiers:
     name: Miyakawa Ichirôta
     role: Harusame Deputy Chief
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/seina-suzuki-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/seina-suzuki-0.jpg
     character_qualifiers:
     name: Suzuki Seina
     role: Katsunuma Aoi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/saki-seto-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/saki-seto-0.jpg
     character_qualifiers:
     name: Seto Saki
     role: Yokoyama Meiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/miyoko-asada-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/miyoko-asada-0.jpg
     character_qualifiers:
     name: Asada Miyoko
     role: Kawashima Chieko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/masatoshi-nakamura-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/masatoshi-nakamura-0.jpg
     character_qualifiers:
     name: Nakamura Masatoshi
     role: Ijima
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/yoshino-kimura-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/yoshino-kimura-0.jpg
     character_qualifiers:
     name: Kimura Yoshino
     role: Takasu Mina
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rescue-wings-2008/cast-avatars/tomokazu-miura-0.jpg
+  - avatar_url: /static/images/films/rescue-wings-2008/cast-avatars/tomokazu-miura-0.jpg
     character_qualifiers:
     name: Miura Tomokazu
     role: Kikuta Yasuo

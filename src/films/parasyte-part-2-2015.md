@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: parasyte
     title: Parasyte
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/posters/parasyte-completion-2015.jpg
+poster_url: /static/images/films/parasyte-part-2-2015/posters/poster.jpg
 release_date: 2015-04-25
 runtime: 117
 series:
@@ -77,68 +77,68 @@ studios:
   - Fukuoka Broadcasting System Corporation
 title: "Parasyte: Part 2"
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/shota-sometani-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/shota-sometani-0.jpg
     character_qualifiers:
     name: Sometani Shôta
     role: Izumi Shin'ichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/eri-fukatsu-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/eri-fukatsu-0.jpg
     character_qualifiers:
     name: Fukatsu Eri
     role: Tamiya Ryôko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/sadawo-abe-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/sadawo-abe-0.jpg
     character_qualifiers:
     name: Abe Sadao
     qualifiers: Voice
     role: Migi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/ai-hashimoto-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/ai-hashimoto-0.jpg
     character_qualifiers:
     name: Hashimoto Ai
     role: Murano Satomi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/hirofumi-arai-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/hirofumi-arai-0.jpg
     character_qualifiers:
     name: Arai Hirofumi
     role: Uragami
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/pierre-taki-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/pierre-taki-0.jpg
     character_qualifiers:
     name: Pierre Taki
     role: Miki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/takashi-yamanaka-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/takashi-yamanaka-0.jpg
     character_qualifiers:
     name: Yamanaka Takashi
     role: Tsuji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/hideto-iwai-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/hideto-iwai-0.jpg
     character_qualifiers:
     name: Iwai Hideto
     role: Kusano
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/kisuke-iida-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/kisuke-iida-0.jpg
     character_qualifiers:
     name: Îda Kisuke
     role: Mutinous Parasyte
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/megumi-seki-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/megumi-seki-0.jpg
     character_qualifiers:
     name: Seki Megumi
     role: Mutinous Parasyte
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/kimiko-yo-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/kimiko-yo-0.jpg
     character_qualifiers:
     name: Yo Kimiko
     role: Izumi Nobuko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/nao-omori-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/nao-omori-0.jpg
     character_qualifiers:
     name: Ômori Nao
     role: Kuramori
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/kosuke-toyohara-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/kosuke-toyohara-0.jpg
     character_qualifiers:
     name: Toyohara Kôsuke
     role: Yamagishi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/kazuki-kitamura-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/kazuki-kitamura-0.jpg
     character_qualifiers:
     name: Kitamura Kazuki
     role: Hirokawa Takeshi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/jun-kunimura-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/jun-kunimura-0.jpg
     character_qualifiers:
     name: Kunimura Jun
     role: Hirama
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasyte-part-2-2015/cast-avatars/tadanobu-asano-0.jpg
+  - avatar_url: /static/images/films/parasyte-part-2-2015/cast-avatars/tadanobu-asano-0.jpg
     character_qualifiers:
     name: Asano Tadanobu
     role: Gotô

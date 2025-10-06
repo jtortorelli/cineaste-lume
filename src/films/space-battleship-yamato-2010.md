@@ -7,7 +7,7 @@ original_works:
     format: anime
     slug: space-battleship-yamato
     title: Space Battleship Yamato
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/posters/space-battleship-yamato-2010.jpg
+poster_url: /static/images/films/space-battleship-yamato-2010/posters/poster.jpg
 release_date: 2010-12-01
 runtime: 138
 staff:
@@ -64,107 +64,107 @@ studios:
   - Hokkaido Broadcasting Co., Ltd.
 title: Space Battleship Yamato
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/takuya-kimura-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/takuya-kimura-0.jpg
     character_qualifiers:
     name: Kimura Takuya
     role: Kodai Susumu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/meisa-kuroki-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/meisa-kuroki-0.jpg
     character_qualifiers:
     name: Kuroki Meisa
     role: Mori Yuki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/toshiro-yanagiba-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/toshiro-yanagiba-0.jpg
     character_qualifiers:
     name: Yanagiba Toshirô
     role: Sanada Shirô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/naoto-ogata-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/naoto-ogata-0.jpg
     character_qualifiers:
     name: Ogata Naoto
     role: Shima Daisuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/hiroyuki-ikeuchi-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/hiroyuki-ikeuchi-0.jpg
     character_qualifiers:
     name: Ikeuchi Hiroyuki
     role: Saitô Hajime
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/maiko-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/maiko-0.jpg
     character_qualifiers:
     name: Maiko
     role: Aihara
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/toshihiro-yashiba-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/toshihiro-yashiba-0.jpg
     character_qualifiers:
     name: Yashiba Toshihiro
     role: Nanbu Yasuo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/kazuki-namioka-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/kazuki-namioka-0.jpg
     character_qualifiers:
     name: Namioka Kazuki
     role: Katô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/takumi-saito-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/takumi-saito-0.jpg
     character_qualifiers:
     name: Saitô Takumi
     role: Yamamoto
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/takahiro-miura-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/takahiro-miura-0.jpg
     character_qualifiers:
     name: Miura Takahiro
     role: Furuya
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/yosuke-asari-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/yosuke-asari-0.jpg
     character_qualifiers:
     name: Asari Yôsuke
     role: Andô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/yoji-tanaka-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/yoji-tanaka-0.jpg
     character_qualifiers:
     name: Tanaka Yôji
     role: Man A
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/kunihiro-suda-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/kunihiro-suda-0.jpg
     character_qualifiers:
     name: Suda Kunihiro
     role: Man B
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/kisuke-iida-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/kisuke-iida-0.jpg
     character_qualifiers:
     name: Îda Kisuke
     role: Namba
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/satoshi-nikaido-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/satoshi-nikaido-0.jpg
     character_qualifiers:
     name: Nikaidô Satoshi
     qualifiers: Photo
     role: Okita Ryôtarô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/yumiko-fujita-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/yumiko-fujita-0.jpg
     character_qualifiers:
     name: Fujita Yumiko
     role: Saitô's Mother
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/isao-sasaki-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/isao-sasaki-0.jpg
     character_qualifiers:
     name: Sasaki Isao
     role: Narrator
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/miyuki-ueda-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/miyuki-ueda-0.jpg
     character_qualifiers:
     name: Ueda Miyuki
     qualifiers: Voice
     role: Iscandar
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/kenichi-ogata-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/kenichi-ogata-0.jpg
     character_qualifiers:
     name: Ogata Ken'ichi
     qualifiers: Voice
     role: Analyzer
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/masato-ibu-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/masato-ibu-0.jpg
     character_qualifiers:
     name: Ibu Masatô
     qualifiers: Voice
     role: Desslar
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/shinichi-tsutsumi-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/shinichi-tsutsumi-0.jpg
     character_qualifiers:
     name: Tsutsumi Shin'ichi
     role: Kodai Mamoru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/reiko-takashima-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/reiko-takashima-0.jpg
     character_qualifiers:
     name: Takashima Reiko
     role: Doctor Sado
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/isao-hashizume-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/isao-hashizume-0.jpg
     character_qualifiers:
     name: Hashizume Isao
     role: Tôdô Heikurô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/toshiyuki-nishida-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/toshiyuki-nishida-0.jpg
     character_qualifiers:
     name: Nishida Toshiyuki
     role: Tokugawa Hikozemon
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-battleship-yamato-2010/cast-avatars/tsutomu-yamazaki-0.jpg
+  - avatar_url: /static/images/films/space-battleship-yamato-2010/cast-avatars/tsutomu-yamazaki-0.jpg
     character_qualifiers:
     name: Yamazaki Tsutomu
     role: Okita Jûzô

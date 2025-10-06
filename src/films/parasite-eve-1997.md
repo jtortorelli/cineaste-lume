@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: parasite-eve
     title: Parasite Eve
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasite-eve-1997/posters/parasite-eve-1997.jpg
+poster_url: /static/images/films/parasite-eve-1997/posters/poster.jpg
 release_date: 1997-02-01
 runtime: 120
 staff:
@@ -39,53 +39,53 @@ studios:
   - Fuji Television Network, Inc.
   - Kadokawa Shoten Publishing Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasite-eve-1997/cast-avatars/kenzo-kawarasaki-0.jpg
+  - avatar_url: /static/images/films/parasite-eve-1997/cast-avatars/kenzo-kawarasaki-0.jpg
     character_qualifiers:
     name: Kawarasaki Kenzô
     role: Kataoka Shigeru
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasite-eve-1997/cast-avatars/ren-osugi-0.jpg
+  - avatar_url: /static/images/films/parasite-eve-1997/cast-avatars/ren-osugi-0.jpg
     character_qualifiers:
     name: Ôsugi Ren
     role: Moderator
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasite-eve-1997/cast-avatars/sansho-shinsui-0.jpg
+  - avatar_url: /static/images/films/parasite-eve-1997/cast-avatars/sansho-shinsui-0.jpg
     character_qualifiers:
     name: Shinsui Sanshô
     role: Anzai Shigenori
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasite-eve-1997/cast-avatars/ikkei-watanabe-0.jpg
+  - avatar_url: /static/images/films/parasite-eve-1997/cast-avatars/ikkei-watanabe-0.jpg
     character_qualifiers:
     name: Watanabe Ikkei
     role: Shimizu Manabu
     uncredited: false
 title: Parasite Eve
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasite-eve-1997/cast-avatars/hiroshi-mikami-0.jpg
+  - avatar_url: /static/images/films/parasite-eve-1997/cast-avatars/hiroshi-mikami-0.jpg
     character_qualifiers:
     name: Mikami Hiroshi
     role: Nagashima Toshiaki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasite-eve-1997/cast-avatars/riona-hazuki-0.jpg
+  - avatar_url: /static/images/films/parasite-eve-1997/cast-avatars/riona-hazuki-0.jpg
     character_qualifiers:
     name: Hazuki Riona
     role: Nagashima Kiyomi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasite-eve-1997/cast-avatars/tomoko-nakajima-0.jpg
+  - avatar_url: /static/images/films/parasite-eve-1997/cast-avatars/tomoko-nakajima-0.jpg
     character_qualifiers:
     name: Nakajima Tomoko
     role: Asakura Sawako
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasite-eve-1997/cast-avatars/ayako-omura-0.jpg
+  - avatar_url: /static/images/films/parasite-eve-1997/cast-avatars/ayako-omura-0.jpg
     character_qualifiers:
     name: Ômura Ayako
     role: Anzai Mariko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasite-eve-1997/cast-avatars/goro-inagaki-0.jpg
+  - avatar_url: /static/images/films/parasite-eve-1997/cast-avatars/goro-inagaki-0.jpg
     character_qualifiers:
     name: Inagaki Gorô
     role: Ôno Tatsurô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasite-eve-1997/cast-avatars/hisako-manda-0.jpg
+  - avatar_url: /static/images/films/parasite-eve-1997/cast-avatars/hisako-manda-0.jpg
     character_qualifiers:
     name: Manda Hisako
     role: Odagiri Tesuko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/parasite-eve-1997/cast-avatars/tetsuya-bessho-0.jpg
+  - avatar_url: /static/images/films/parasite-eve-1997/cast-avatars/tetsuya-bessho-0.jpg
     character_qualifiers:
     name: Bessho Tetsuya
     role: Yoshizumi Takatsugu

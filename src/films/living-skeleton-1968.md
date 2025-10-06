@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 吸血髑髏船
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/posters/living-skeleton-1968.jpg
+poster_url: /static/images/films/living-skeleton-1968/posters/poster.jpg
 release_date: 1968-11-09
 runtime: 81
 staff:
@@ -35,51 +35,51 @@ studios:
   - Shochiku Co., Ltd.
 title: The Living Skeleton
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/cast-avatars/kikko-matsuoka-0.jpg
+  - avatar_url: /static/images/films/living-skeleton-1968/cast-avatars/kikko-matsuoka-0.jpg
     character_qualifiers:
     name: Matsuoka Kikko
     role: Yoriko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/cast-avatars/kikko-matsuoka-1.jpg
+  - avatar_url: /static/images/films/living-skeleton-1968/cast-avatars/kikko-matsuoka-1.jpg
     character_qualifiers:
     name: Matsuoka Kikko
     role: Saeko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/cast-avatars/yasunori-irikawa-0.jpg
+  - avatar_url: /static/images/films/living-skeleton-1968/cast-avatars/yasunori-irikawa-0.jpg
     character_qualifiers:
     name: Irikawa Yasunori
     role: Mochizuki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/cast-avatars/masumi-okada-0.jpg
+  - avatar_url: /static/images/films/living-skeleton-1968/cast-avatars/masumi-okada-0.jpg
     character_qualifiers:
     name: Okada Masumi
     role: Father Akashi / Tanuma
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/cast-avatars/asao-uchida-0.jpg
+  - avatar_url: /static/images/films/living-skeleton-1968/cast-avatars/asao-uchida-0.jpg
     character_qualifiers:
     name: Uchida Asao
     role: Eijiri
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/cast-avatars/asao-koike-0.jpg
+  - avatar_url: /static/images/films/living-skeleton-1968/cast-avatars/asao-koike-0.jpg
     character_qualifiers:
     name: Koike Asao
     role: Tsuji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/cast-avatars/toshihiko-yamamoto-0.jpg
+  - avatar_url: /static/images/films/living-skeleton-1968/cast-avatars/toshihiko-yamamoto-0.jpg
     character_qualifiers:
     name: Yamamoto Toshihiko
     role: Ono
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/cast-avatars/keijiro-kikiyo-0.jpg
+  - avatar_url: /static/images/films/living-skeleton-1968/cast-avatars/keijiro-kikiyo-0.jpg
     character_qualifiers:
     name: Kikiyô Keijirô
     role: Policeman
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/cast-avatars/kaori-taniguchi-0.jpg
+  - avatar_url: /static/images/films/living-skeleton-1968/cast-avatars/kaori-taniguchi-0.jpg
     character_qualifiers:
     name: Taniguchi Kaori
     role: Mayumi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/cast-avatars/keiko-yanagawa-0.jpg
+  - avatar_url: /static/images/films/living-skeleton-1968/cast-avatars/keiko-yanagawa-0.jpg
     character_qualifiers:
     name: Yanagawa Keiko
     role: Suetsugu Sanae
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/cast-avatars/nobuo-kaneko-0.jpg
+  - avatar_url: /static/images/films/living-skeleton-1968/cast-avatars/nobuo-kaneko-0.jpg
     character_qualifiers:
     name: Kaneko Nobuo
     role: Suetsugu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/living-skeleton-1968/cast-avatars/ko-nishimura-0.jpg
+  - avatar_url: /static/images/films/living-skeleton-1968/cast-avatars/ko-nishimura-0.jpg
     character_qualifiers:
     name: Nishimura Kô
     role: Nishizato

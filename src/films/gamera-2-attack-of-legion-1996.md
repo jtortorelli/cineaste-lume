@@ -5,13 +5,13 @@ aliases:
     context: Japanese Trailer Title
 japanese_title: ガメラ2 レギオン襲来
 kaiju:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/kaiju-avatars/akira-ohashi-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/kaiju-avatars/akira-ohashi-0.jpg
     name: Gamera
     portrayals:
       - people:
           - name: Ôhashi Akira
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/kaiju-avatars/akihiro-nakata-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/kaiju-avatars/akihiro-nakata-0.jpg
     name: Soldier Legion
     portrayals:
       - people:
@@ -20,7 +20,7 @@ kaiju:
           - name: Nakata Akihiro
           - name: Watabe Yoshiyuki
         type: Suit Actor
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/kaiju-avatars/mizuho-yoshida-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/kaiju-avatars/mizuho-yoshida-0.jpg
     name: Giant Legion
     portrayals:
       - people:
@@ -28,7 +28,7 @@ kaiju:
           - name: Tamura Kôichi
           - name: Yoshida Mizuho
         type: Suit Actor
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/posters/gamera-2-advent-of-legion-1996.jpg
+poster_url: /static/images/films/gamera-2-attack-of-legion-1996/posters/poster.jpg
 release_date: 1996-07-13
 runtime: 99
 series:
@@ -93,124 +93,124 @@ studios:
   - Nippan Group Holdings, Inc.
   - Nippon Television Network Corporation
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/bengal-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/bengal-0.jpg
     character_qualifiers:
     name: Bengal
     role: Honami's Father
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/so-funeda-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/so-funeda-0.jpg
     character_qualifiers:
     name: Funeda Sô
     role: Fuji Division 2nd in Command
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/hatsunori-hasegawa-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/hatsunori-hasegawa-0.jpg
     character_qualifiers:
     name: Hasegawa Hatsunori
     role: Colonel Satake
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/yukijiro-hotaru-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/yukijiro-hotaru-0.jpg
     character_qualifiers:
     name: Hotaru Yukijirô
     role: Ôsako Tsutomu
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/lasalle-ishii-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/lasalle-ishii-0.jpg
     character_qualifiers:
     name: LaSalle Ishii
     role: NTT Substation Personnel
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/zen-kajihara-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/zen-kajihara-0.jpg
     character_qualifiers:
     name: Kajihara Zen
     role: Security Guard
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/akiji-kobayashi-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/akiji-kobayashi-0.jpg
     character_qualifiers:
     name: Kobayashi Akiji
     role: Senior Fireman
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/kazunori-nobumi-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/kazunori-nobumi-0.jpg
     character_qualifiers:
     name: Nobuzane Kazunori
     role: Sendai Police Chief
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/hiroyuki-okita-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/hiroyuki-okita-0.jpg
     character_qualifiers:
     name: Okita Hiroyuki
     role: Sasai
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/hiroshi-okochi-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/hiroshi-okochi-0.jpg
     character_qualifiers:
     name: Ôkouchi Hiroshi
     role: Sapporo Commander
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/yuka-sakano-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/yuka-sakano-0.jpg
     character_qualifiers:
     name: Sakano Yuka
     role: Yukino
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/hiromasa-taguchi-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/hiromasa-taguchi-0.jpg
     character_qualifiers:
     name: Taguchi Hiromasa
     role: Man in Public Bath
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/tomorowo-taguchi-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/tomorowo-taguchi-0.jpg
     character_qualifiers:
     name: Taguchi Tomorowo
     role: Subway Conductor
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/shunsuke-takasugi-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/shunsuke-takasugi-0.jpg
     character_qualifiers:
     name: Takasugi Shunsuke
     role: Tank Commander
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/yasuyoshi-tokuma-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/yasuyoshi-tokuma-0.jpg
     character_qualifiers:
     name: Tokuma Yasuyoshi
     role: Prime Minister
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/kazunaga-tsuji-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/kazunaga-tsuji-0.jpg
     character_qualifiers:
     name: Tsuji Kazunaga
     role: Fuji Division Commander
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/yoshiaki-umegaki-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/yoshiaki-umegaki-0.jpg
     character_qualifiers:
     name: Umegaki Yoshiaki
     role: Sapporo Police Chief
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/hiroyuki-watanabe-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/hiroyuki-watanabe-0.jpg
     character_qualifiers:
     name: Watanabe Hiroyuki
     role: Fuji Division 3rd in Command
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/takeshi-yoro-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/takeshi-yoro-0.jpg
     character_qualifiers:
     name: Yôrô Takeshi
     role: Doctor
     uncredited: false
 title: "Gamera 2: Attack of Legion"
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/toshiyuki-nagashima-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/toshiyuki-nagashima-0.jpg
     character_qualifiers:
     name: Nagashima Toshiyuki
     role: Watarase Yûsuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/miki-mizuno-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/miki-mizuno-0.jpg
     character_qualifiers:
     name: Mizuno Miki
     role: Honami Midori
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/tamotsu-ishibashi-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/tamotsu-ishibashi-0.jpg
     character_qualifiers:
     name: Ishibashi Tamotsu
     role: Hanatani
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/mitsuru-fukikoshi-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/mitsuru-fukikoshi-0.jpg
     character_qualifiers:
     name: Fukikoshi Mitsuru
     role: Obitsu
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/ayako-fujitani-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/ayako-fujitani-0.jpg
     character_qualifiers:
     name: Fujitani Ayako
     role: Kusanagi Asagi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/cast-avatars/yusuke-kawazu-0.jpg
+  - avatar_url: /static/images/films/gamera-2-attack-of-legion-1996/cast-avatars/yusuke-kawazu-0.jpg
     character_qualifiers:
     name: Kawazu Yûsuke
     role: Nojiri Akio

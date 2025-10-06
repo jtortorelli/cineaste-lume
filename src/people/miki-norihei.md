@@ -15,7 +15,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     roles:
       - name: Koyane
         uncredited: false
@@ -23,7 +23,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-revenge-1965/posters/zatoichis-revenge-1965.jpg
+    poster_url: /static/images/films/zatoichis-revenge-1965/posters/poster.jpg
     roles:
       - name: Denroku
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: Zatoichi's Revenge
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/magnitude-7-9-1980/posters/earthquake-archipelago-1980.jpg
+    poster_url: /static/images/films/magnitude-7-9-1980/posters/poster.jpg
     roles:
       - name: Sukegawa Shôzô
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: Magnitude 7.9
     year: 1980
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/tokyo-blackout-1987/posters/tokyo-blackout-1987.jpg
+    poster_url: /static/images/films/tokyo-blackout-1987/posters/poster.jpg
     roles:
       - name: Kimura Matsukichi
         uncredited: false
@@ -47,7 +47,7 @@ works:
     title: Tokyo Blackout
     year: 1987
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-1989/posters/zatoichi-1989.jpg
+    poster_url: /static/images/films/zatoichi-1989/posters/poster.jpg
     roles:
       - name: Giabara
         uncredited: false

@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: i-am-a-hero
     title: I Am A Hero
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/posters/i-am-a-hero-2016.jpg
+poster_url: /static/images/films/i-am-a-hero-2016/posters/poster.jpg
 release_date: 2016-04-23
 runtime: 127
 staff:
@@ -54,67 +54,67 @@ studios:
   - Hikari TV
   - GYAO Corporation
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/emi-kurita-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/emi-kurita-0.jpg
     character_qualifiers:
     name: kuriemi
     role: Emi
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/hirota-otsuka-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/hirota-otsuka-0.jpg
     character_qualifiers:
     name: Ôtsuka Hirota
     role: Katô
     uncredited: false
 title: I Am A Hero
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/yo-oizumi-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/yo-oizumi-0.jpg
     character_qualifiers:
     name: Ôizumi Yô
     role: Suzuki Hideo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/kasumi-arimura-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/kasumi-arimura-0.jpg
     character_qualifiers:
     name: Arimura Kasumi
     role: Hayakari Hiromi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/hisashi-yoshizawa-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/hisashi-yoshizawa-0.jpg
     character_qualifiers:
     name: Yoshizawa Hisashi
     role: Iura
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/yoshinori-okada-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/yoshinori-okada-0.jpg
     character_qualifiers:
     name: Okada Yoshinori
     role: Sango
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/nana-katase-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/nana-katase-0.jpg
     character_qualifiers:
     name: Katase Nana
     role: Kurokawa Tetsuko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/jin-katagiri-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/jin-katagiri-0.jpg
     character_qualifiers:
     name: Katagiri Jin
     role: Nakata Korori
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/makita-sports-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/makita-sports-0.jpg
     character_qualifiers:
     name: Makita Sports
     role: Matsuo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/muga-tsukaji-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/muga-tsukaji-0.jpg
     character_qualifiers:
     name: Tsukaji Muga
     role: Mitani
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/lee-yonghoon-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/lee-yonghoon-0.jpg
     character_qualifiers:
     name: Yonghoon Lee
     role: Athletic ZQN
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/toshifumi-muramatsu-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/toshifumi-muramatsu-0.jpg
     character_qualifiers:
     name: Muramatsu Toshifumi
     role: Taxi Driver
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/toru-kazama-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/toru-kazama-0.jpg
     character_qualifiers:
     name: Kazama Tôru
     role: Chikura
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/yu-tokui-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/yu-tokui-0.jpg
     character_qualifiers:
     name: Tokui Yû
     role: Abe
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/i-am-a-hero-2016/cast-avatars/masami-nagasawa-0.jpg
+  - avatar_url: /static/images/films/i-am-a-hero-2016/cast-avatars/masami-nagasawa-0.jpg
     character_qualifiers:
     name: Nagasawa Masami
     role: Oda Tsugumi

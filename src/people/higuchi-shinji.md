@@ -36,13 +36,13 @@ profession: Director
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/royal-space-force-the-wings-of-honneamise-1987/posters/5519137.jpeg
+    poster_url: /static/images/films/royal-space-force-the-wings-of-honneamise-1987/posters/5519137.jpeg
     staff:
       - role: Assistant Director
     title: "Royal Space Force: The Wings of Honnêamise"
     year: 1987
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-guardian-of-the-universe-1995/posters/gamera-the-guardian-of-the-universe-1995.jpg
+    poster_url: /static/images/films/gamera-guardian-of-the-universe-1995/posters/poster.jpg
     slug: gamera-guardian-of-the-universe-1995
     staff:
       - role: SFX Director
@@ -56,7 +56,7 @@ works:
     title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/neon-genesis-evangelion-1995/title_cards/Neon_Genesis_Evangelion_Title_Card.webp
     year: 1995
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-2-attack-of-legion-1996/posters/gamera-2-advent-of-legion-1996.jpg
+    poster_url: /static/images/films/gamera-2-attack-of-legion-1996/posters/poster.jpg
     slug: gamera-2-attack-of-legion-1996
     staff:
       - role: SFX Director
@@ -64,7 +64,7 @@ works:
     title: "Gamera 2: Attack of Legion"
     year: 1996
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-3-revenge-of-iris-1999/posters/gamera-3-revenge-of-iris-1999.jpg
+    poster_url: /static/images/films/gamera-3-revenge-of-iris-1999/posters/poster.jpg
     slug: gamera-3-revenge-of-iris-1999
     staff:
       - role: SFX Director
@@ -72,21 +72,21 @@ works:
     title: "Gamera 3: Revenge of Iris"
     year: 1999
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/posters/sakuya-slayer-of-demons-2000.jpg
+    poster_url: /static/images/films/sakuya-slayer-of-demons-2000/posters/poster.jpg
     slug: sakuya-slayer-of-demons-2000
     staff:
       - role: SFX Director
     title: "Sakuya: Slayer of Demons"
     year: 2000
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/princess-blade-2001/posters/princess-blade-2001.jpg
+    poster_url: /static/images/films/princess-blade-2001/posters/poster.jpg
     slug: princess-blade-2001
     staff:
       - role: SFX Director
     title: The Princess Blade
     year: 2001
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/returner-2002/posters/returner-2002.jpg
+    poster_url: /static/images/films/returner-2002/posters/poster.jpg
     roles:
       - name: UFO Researcher
         uncredited: false
@@ -94,14 +94,14 @@ works:
     title: Returner
     year: 2002
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/posters/casshern-2004.jpg
+    poster_url: /static/images/films/casshern-2004/posters/poster.jpg
     slug: casshern-2004
     staff:
       - role: Battle Scene Storyboards
     title: Casshern
     year: 2004
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/lorelei-the-witch-of-the-pacific-ocean-2005/posters/lorelei-2005.jpg
+    poster_url: /static/images/films/lorelei-the-witch-of-the-pacific-ocean-2005/posters/poster.jpg
     slug: lorelei-the-witch-of-the-pacific-ocean-2005
     staff:
       - role: Director
@@ -109,55 +109,55 @@ works:
     title: "Lorelei: The Witch of the Pacific Ocean"
     year: 2005
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/samurai-commando-mission-1549-2005/posters/samurai-commando-mission-1549-2005.jpg
+    poster_url: /static/images/films/samurai-commando-mission-1549-2005/posters/poster.jpg
     slug: samurai-commando-mission-1549-2005
     staff:
       - role: Planning Cooperation
     title: "Samurai Commando: Mission 1549"
     year: 2005
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sinking-of-japan-2006/posters/sinking-of-japan-2006.jpg
+    poster_url: /static/images/films/sinking-of-japan-2006/posters/poster.jpg
     slug: sinking-of-japan-2006
     staff:
       - role: Director
     title: The Sinking of Japan
     year: 2006
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hidden-fortress-the-last-princess-2008/posters/hidden-fortress-the-last-princess-2008.jpg
+    poster_url: /static/images/films/hidden-fortress-the-last-princess-2008/posters/poster.jpg
     slug: hidden-fortress-the-last-princess-2008
     staff:
       - role: Director
     title: "Hidden Fortress: The Last Princess"
     year: 2008
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/assault-girls-2009/posters/assault-girls-2009.jpg
+    poster_url: /static/images/films/assault-girls-2009/posters/poster.jpg
     slug: assault-girls-2009
     staff:
       - role: Key Art Design
     title: Assault Girls
     year: 2009
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/floating-castle-2012/posters/10003711_1_360.jpg
+    poster_url: /static/images/films/floating-castle-2012/posters/poster.jpg
     staff:
       - role: Director
     title: The Floating Castle
     year: 2012
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-2015/posters/attack-on-titan-2015.jpg
+    poster_url: /static/images/films/attack-on-titan-2015/posters/poster.jpg
     slug: attack-on-titan-2015
     staff:
       - role: Director
     title: Attack on Titan
     year: 2015
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/attack-on-titan-end-of-the-world-2015/posters/attack-on-titan-end-of-the-world-2015.jpg
+    poster_url: /static/images/films/attack-on-titan-end-of-the-world-2015/posters/poster.jpg
     slug: attack-on-titan-end-of-the-world-2015
     staff:
       - role: Director
     title: "Attack on Titan: End of the World"
     year: 2015
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/shin-godzilla-2016/posters/shin-godzilla-2016.jpg
+    poster_url: /static/images/films/shin-godzilla-2016/posters/poster.jpg
     slug: shin-godzilla-2016
     staff:
       - role: Director
@@ -165,7 +165,7 @@ works:
     title: Shin Godzilla
     year: 2016
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/shin-ultraman-2022/posters/320.jpg
+    poster_url: /static/images/films/shin-ultraman-2022/posters/poster.jpg
     staff:
       - role: Director
     title: Shin Ultraman

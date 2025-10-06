@@ -6,7 +6,7 @@ original_works:
     studios:
       - name: Tatsunoko Production Co., Ltd.
     title: Casshern
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/posters/casshern-2004.jpg
+poster_url: /static/images/films/casshern-2004/posters/poster.jpg
 release_date: 2004-04-24
 runtime: 141
 staff:
@@ -59,76 +59,76 @@ studios:
   - Big Shot, Inc.
 title: Casshern
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/yusuke-iseya-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/yusuke-iseya-0.jpg
     character_qualifiers:
     name: Iseya Yûsuke
     role: Azuma Tetsuya
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/kumiko-aso-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/kumiko-aso-0.jpg
     character_qualifiers:
     name: Asô Kumiko
     role: Kôzuki Luna
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/akira-terao-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/akira-terao-0.jpg
     character_qualifiers:
     name: Terao Akira
     role: Doctor Azuma Kôtarô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/kanako-higuchi-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/kanako-higuchi-0.jpg
     character_qualifiers:
     name: Higuchi Kanako
     role: Azuma Midori
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/fumiyo-kohinata-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/fumiyo-kohinata-0.jpg
     character_qualifiers:
     name: Kohinata Fumiyo
     role: Doctor Kôzuki Ryûzô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/hiroyuki-miyasako-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/hiroyuki-miyasako-0.jpg
     character_qualifiers:
     name: Miyasako Hiroyuki
     role: Akubon
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/mayumi-sada-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/mayumi-sada-0.jpg
     character_qualifiers:
     name: Sada Mayumi
     role: Sagure
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/jun-kaname-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/jun-kaname-0.jpg
     character_qualifiers:
     name: Kaname Jun
     role: Barashin
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/hidetoshi-nishijima-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/hidetoshi-nishijima-0.jpg
     character_qualifiers:
     name: Nishijima Hidetoshi
     role: Lieutenant Colonel Kamijô Mikio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/mitsuhiro-oikawa-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/mitsuhiro-oikawa-0.jpg
     character_qualifiers:
     name: Oikawa Mitsuhiro
     role: Naitô Kaoru
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/susumu-terajima-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/susumu-terajima-0.jpg
     character_qualifiers:
     name: Terajima Susumu
     role: Sakamoto
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/mayu-tsuruta-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/mayu-tsuruta-0.jpg
     character_qualifiers:
     name: Tsuruta Mayu
     role: Burai's Wife
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/ryo-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/ryo-0.jpg
     character_qualifiers:
     name: Ryô
     role: San
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/tetsuji-tamayama-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/tetsuji-tamayama-0.jpg
     character_qualifiers:
     name: Tamayama Tetsuji
     role: Sekiguchi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/yoko-moriguchi-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/yoko-moriguchi-0.jpg
     character_qualifiers:
     name: Moriguchi Yôko
     role: Luna's Mother
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/hideji-otaki-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/hideji-otaki-0.jpg
     character_qualifiers:
     name: Ôtaki Hideji
     role: General Kamijô Mataichirô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/tatsuya-mihashi-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/tatsuya-mihashi-0.jpg
     character_qualifiers:
     name: Mihashi Tatsuya
     role: Doctor Furoi
     slug: mihashi-tatsuya
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/casshern-2004/cast-avatars/toshiaki-karasawa-0.jpg
+  - avatar_url: /static/images/films/casshern-2004/cast-avatars/toshiaki-karasawa-0.jpg
     character_qualifiers:
     name: Karasawa Toshiaki
     role: Burai

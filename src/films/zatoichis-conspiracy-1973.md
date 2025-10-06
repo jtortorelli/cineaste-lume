@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/posters/zatoichis-conspiracy-1973.jpg
+poster_url: /static/images/films/zatoichis-conspiracy-1973/posters/poster.jpg
 release_date: 1973-04-21
 runtime: 88
 series:
@@ -58,74 +58,74 @@ studios:
   - Katsu Productions
 title: Zatoichi's Conspiracy
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/shintaro-katsu-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/shintaro-katsu-0.jpg
     character_qualifiers:
     name: Katsu Shintarô
     role: Zatôichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/yukiyo-toake-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/yukiyo-toake-0.jpg
     character_qualifiers:
     name: Toake Yukiyo
     role: Omiyo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/takashi-shimura-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/takashi-shimura-0.jpg
     character_qualifiers:
     name: Shimura Takashi
     role: Sakubei
     slug: shimura-takashi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/kei-sato-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/kei-sato-0.jpg
     character_qualifiers:
     name: Satô Kei
     role: Hayashida Gon'uemon
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/yoshio-tsuchiya-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/yoshio-tsuchiya-0.jpg
     character_qualifiers:
     name: Tsuchiya Yoshio
     role: Shôbei
     slug: tsuchiya-yoshio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/tatsuo-endo-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/tatsuo-endo-0.jpg
     character_qualifiers:
     name: Endô Tatsuo
     role: Boss Iwagorô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/shiro-kishibe-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/shiro-kishibe-0.jpg
     character_qualifiers:
     name: Kishibe Shirô
     role: Tomo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/rie-yokoyama-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/rie-yokoyama-0.jpg
     character_qualifiers:
     name: Yokoyama Rie
     role: Yuri
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/gen-takamori-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/gen-takamori-0.jpg
     character_qualifiers:
     name: Takamori Gen
     role: Genjûrô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/naoyuki-asahina-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/naoyuki-asahina-0.jpg
     character_qualifiers:
     name: Asahina Naoyuki
     role: Hide
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/osamu-sakai-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/osamu-sakai-0.jpg
     character_qualifiers:
     name: Sakai Osamu
     role: Gen
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/kenzo-tabu-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/kenzo-tabu-0.jpg
     character_qualifiers:
     name: Tabu Kenzô
     role: Traveler
     slug: tabu-kenzo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/yusaku-terashima-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/yusaku-terashima-0.jpg
     character_qualifiers:
     name: Terashima Yûsaku
     role: Yabei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/yuji-hamada-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/yuji-hamada-0.jpg
     character_qualifiers:
     name: Hamada Yûji
     role: Masakichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/goro-kudan-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/goro-kudan-0.jpg
     character_qualifiers:
     name: Kudan Gorô
     role: Dice Thrower
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/tokio-oki-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/tokio-oki-0.jpg
     character_qualifiers:
     name: Oki Tokio
     role: Host
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/cast-avatars/eiji-okada-0.jpg
+  - avatar_url: /static/images/films/zatoichis-conspiracy-1973/cast-avatars/eiji-okada-0.jpg
     character_qualifiers:
     name: Okada Eiji
     role: Hitachiya Shinbei

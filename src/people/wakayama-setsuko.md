@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/wakayama-setsuko/wakayama-setsuko.jpg?t=2024-04-02T00%3A21%3A03.014Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/wakayama-setsuko/wakayama-setsuko.jpg
 birth_name: Sakazume Setesuko
 birth_place: Tokyo, Japan
 cause_of_death: Suicide
@@ -19,7 +19,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-raids-again-1955/posters/godzilla-raids-again-1955.jpg
+    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.jpg
     roles:
       - name: Yamaji Hidemi
         uncredited: false

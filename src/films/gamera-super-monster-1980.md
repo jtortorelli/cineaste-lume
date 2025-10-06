@@ -2,36 +2,36 @@
 tags: ["cineaste", "films"]
 japanese_title: 宇宙怪獣ガメラ
 kaiju:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/kaiju-avatars/00784.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/00784.jpg
     name: Gamera
     portrayals:
       - type: Puppet
       - type: Stock Footage
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/kaiju-avatars/00964.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/00964.jpg
     name: Gyaos
     portrayals:
       - type: Stock Footage
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/kaiju-avatars/01193.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/01193.jpg
     name: Zigra
     portrayals:
       - type: Stock Footage
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/kaiju-avatars/01454.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/01454.jpg
     name: Viras
     portrayals:
       - type: Stock Footage
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/kaiju-avatars/01730.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/01730.jpg
     name: Jiger
     portrayals:
       - type: Stock Footage
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/kaiju-avatars/02138.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/02138.jpg
     name: Guiron
     portrayals:
       - type: Stock Footage
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/kaiju-avatars/02425.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/02425.jpg
     name: Barugon
     portrayals:
       - type: Stock Footage
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/posters/gamera-the-space-monster-1980.jpg
+poster_url: /static/images/films/gamera-super-monster-1980/posters/poster.jpg
 release_date: 1980-03-20
 runtime: 109
 series:
@@ -78,27 +78,27 @@ studios:
   - Daiei Film Co., Ltd.
 title: "Gamera: Super Monster"
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/cast-avatars/mach-fumiake-0.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/cast-avatars/mach-fumiake-0.jpg
     character_qualifiers:
     name: Mach Fumiake
     role: Kilara
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/cast-avatars/yaeko-kojima-0.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/cast-avatars/yaeko-kojima-0.jpg
     character_qualifiers:
     name: Kojima Yaeko
     role: Marsha
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/cast-avatars/yoko-komatsu-0.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/cast-avatars/yoko-komatsu-0.jpg
     character_qualifiers:
     name: Komatsu Yôko
     role: Mitan
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/cast-avatars/keiko-kudo-0.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/cast-avatars/keiko-kudo-0.jpg
     character_qualifiers:
     name: Kudô Keiko
     role: Giruge
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/cast-avatars/koichi-maeda-0.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/cast-avatars/koichi-maeda-0.jpg
     character_qualifiers:
     name: Maeda Kôichi
     role: Keiichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gamera-super-monster-1980/cast-avatars/toshie-takada-0.jpg
+  - avatar_url: /static/images/films/gamera-super-monster-1980/cast-avatars/toshie-takada-0.jpg
     character_qualifiers:
     name: Takada Toshie
     role: Keiichi's Mother

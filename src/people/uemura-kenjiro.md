@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/uemura-kenjiro/uemura-kenjiro.jpg?t=2024-04-02T00%3A20%3A41.880Z
+avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/uemura-kenjiro/uemura-kenjiro.jpg
 birth_place: Tokyo, Japan
 cause_of_death: Dueodenal Perforation
 dob: 1914-01-03
@@ -13,7 +13,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invisible-man-1954/posters/invisible-man-1954.jpg
+    poster_url: /static/images/films/invisible-man-1954/posters/poster.jpg
     roles:
       - name: Ken
         uncredited: false
@@ -21,7 +21,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-and-the-chest-of-gold-1964/posters/zatoichi-and-the-chest-of-gold-1964.jpg
+    poster_url: /static/images/films/zatoichi-and-the-chest-of-gold-1964/posters/poster.jpg
     roles:
       - name: Matsui
         uncredited: false

@@ -23,280 +23,280 @@ profession: Composer
 type: person
 works:
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/posters/godzilla-1954.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
     slug: godzilla-1954
     staff:
       - role: Music
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/rodan-1956/posters/rodan-1956.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
     slug: rodan-1956
     staff:
       - role: Music
     title: Rodan
     year: 1956
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mysterians-1957/posters/mysterians-1957.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
     slug: mysterians-1957
     staff:
       - role: Music
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/varan-the-unbelievable-1958/posters/varan-the-unbelievable-1958.jpg
+    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.jpg
     slug: varan-the-unbelievable-1958
     staff:
       - role: Music
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/three-treasures-1959/posters/birth-of-japan-1959.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
     slug: three-treasures-1959
     staff:
       - role: Music
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/battle-in-outer-space-1959/posters/battle-in-outer-space-1959.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
     slug: battle-in-outer-space-1959
     staff:
       - role: Music
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daredevil-in-the-castle-1961/posters/daredevil-in-the-castle-1961.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
     slug: daredevil-in-the-castle-1961
     staff:
       - role: Music
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/tale-of-zatoichi-1962/posters/tale-of-zatoichi-1962.jpg
+    poster_url: /static/images/films/tale-of-zatoichi-1962/posters/poster.jpg
     slug: tale-of-zatoichi-1962
     staff:
       - role: Music
     title: The Tale of Zatoichi
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-vs-godzilla-1962/posters/king-kong-vs-godzilla-1962.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
     slug: king-kong-vs-godzilla-1962
     staff:
       - role: Music
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/new-tale-of-zatoichi-1963/posters/new-tale-of-zatoichi-1963.jpg
+    poster_url: /static/images/films/new-tale-of-zatoichi-1963/posters/poster.jpg
     slug: new-tale-of-zatoichi-1963
     staff:
       - role: Music
     title: New Tale of Zatoichi
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-the-fugitive-1963/posters/zatoichi-the-fugitive-1963.jpg
+    poster_url: /static/images/films/zatoichi-the-fugitive-1963/posters/poster.jpg
     slug: zatoichi-the-fugitive-1963
     staff:
       - role: Music
     title: Zatoichi the Fugitive
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-on-the-road-1963/posters/Zatoichi.jpg
+    poster_url: /static/images/films/zatoichi-on-the-road-1963/posters/poster.jpg
     slug: zatoichi-on-the-road-1963
     staff:
       - role: Music
     title: Zatoichi on the Road
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/atragon-1963/posters/atragon-1963.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
     slug: atragon-1963
     staff:
       - role: Music
     title: Atragon
     year: 1963
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/mothra-vs-godzilla-1964/posters/mothra-vs-godzilla-1964.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
     slug: mothra-vs-godzilla-1964
     staff:
       - role: Music
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/dogora-1964/posters/dogora-the-space-monster-1964.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
     slug: dogora-1964
     staff:
       - role: Music
     title: Dogora
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/fight-zatoichi-fight-1964/posters/fight-zatoichi-fight-1964.jpg
+    poster_url: /static/images/films/fight-zatoichi-fight-1964/posters/poster.jpg
     slug: fight-zatoichi-fight-1964
     staff:
       - role: Music
     title: Fight, Zatoichi, Fight
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/ghidorah-the-three-headed-monster-1964/posters/ghidorah-the-three-headed-monster-1964.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
     slug: ghidorah-the-three-headed-monster-1964
     staff:
       - role: Music
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-revenge-1965/posters/zatoichis-revenge-1965.jpg
+    poster_url: /static/images/films/zatoichis-revenge-1965/posters/poster.jpg
     slug: zatoichis-revenge-1965
     staff:
       - role: Music
     title: Zatoichi's Revenge
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/frankenstein-conquers-the-world-1965/posters/frankenstein-conquers-the-world-1965.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
     slug: frankenstein-conquers-the-world-1965
     staff:
       - role: Music
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/invasion-of-astro-monster-1965/posters/monster-zero-1965.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
     slug: invasion-of-astro-monster-1965
     staff:
       - role: Music
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-and-the-chess-expert-1965/posters/zatoichi-and-the-chess-expert-1965.jpg
+    poster_url: /static/images/films/zatoichi-and-the-chess-expert-1965/posters/poster.jpg
     slug: zatoichi-and-the-chess-expert-1965
     staff:
       - role: Music
     title: Zatoichi and the Chess Expert
     year: 1965
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/daimajin-1966/posters/daimajin-1966.jpg
+    poster_url: /static/images/films/daimajin-1966/posters/poster.jpg
     slug: daimajin-1966
     staff:
       - role: Music
     title: Daimajin
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/adventure-of-kigan-castle-1966/posters/adventures-of-taklamakan-1966.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
     slug: adventure-of-kigan-castle-1966
     staff:
       - role: Music
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-vengeance-1966/posters/zatoichis-vengeance-1966.jpg
+    poster_url: /static/images/films/zatoichis-vengeance-1966/posters/poster.jpg
     slug: zatoichis-vengeance-1966
     staff:
       - role: Music
     title: Zatoichi's Vengeance
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/war-of-the-gargantuas-1966/posters/war-of-the-gargantuas-1966.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
     slug: war-of-the-gargantuas-1966
     staff:
       - role: Music
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/return-of-daimajin-1966/posters/return-of-daimajin-1966.jpg
+    poster_url: /static/images/films/return-of-daimajin-1966/posters/poster.jpg
     slug: return-of-daimajin-1966
     staff:
       - role: Music
     title: Return of Daimajin
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/wrath-of-daimajin-1966/posters/daimajin-strikes-again-1966.jpg
+    poster_url: /static/images/films/wrath-of-daimajin-1966/posters/poster.jpg
     slug: wrath-of-daimajin-1966
     staff:
       - role: Music
     title: Wrath of Daimajin
     year: 1966
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/king-kong-escapes-1967/posters/king-kong-escapes-1967.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
     slug: king-kong-escapes-1967
     staff:
       - role: Music
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-challenged-1967/posters/zatoichi-challenged-1967.jpg
+    poster_url: /static/images/films/zatoichi-challenged-1967/posters/poster.jpg
     slug: zatoichi-challenged-1967
     staff:
       - role: Music
     title: Zatoichi Challenged
     year: 1967
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/destroy-all-monsters-1968/posters/destroy-all-monsters-1968.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
     slug: destroy-all-monsters-1968
     staff:
       - role: Music
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/latitude-zero-1969/posters/latitude-zero-1969.jpg
+    poster_url: /static/images/films/latitude-zero-1969/posters/poster.jpg
     slug: latitude-zero-1969
     staff:
       - role: Music
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichi-meets-yojimbo-1970/posters/zatoichi-meets-yojimbo-1970.jpg
+    poster_url: /static/images/films/zatoichi-meets-yojimbo-1970/posters/poster.jpg
     slug: zatoichi-meets-yojimbo-1970
     staff:
       - role: Music
     title: Zatoichi Meets Yojimbo
     year: 1970
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/space-amoeba-1970/posters/space-amoeba-1970.jpg
+    poster_url: /static/images/films/space-amoeba-1970/posters/poster.jpg
     slug: space-amoeba-1970
     staff:
       - role: Music
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-gigan-1972/posters/godzilla-vs-gigan-1972.jpg
+    poster_url: /static/images/films/godzilla-vs-gigan-1972/posters/poster.jpg
     slug: godzilla-vs-gigan-1972
     staff:
       - role: Music
     title: Godzilla vs. Gigan
     year: 1972
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/zatoichis-conspiracy-1973/posters/zatoichis-conspiracy-1973.jpg
+    poster_url: /static/images/films/zatoichis-conspiracy-1973/posters/poster.jpg
     slug: zatoichis-conspiracy-1973
     staff:
       - role: Music
     title: Zatoichi's Conspiracy
     year: 1973
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/terror-of-mechagodzilla-1975/posters/terror-of-mechagodzilla-1975.jpg
+    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.jpg
     slug: terror-of-mechagodzilla-1975
     staff:
       - role: Music
     title: Terror of Mechagodzilla
     year: 1975
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-king-ghidorah-1991/posters/godzilla-vs-king-ghidorah-1991.jpg
+    poster_url: /static/images/films/godzilla-vs-king-ghidorah-1991/posters/poster.jpg
     slug: godzilla-vs-king-ghidorah-1991
     staff:
       - role: Music Director
     title: Godzilla vs. King Ghidorah
     year: 1991
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-mothra-1992/posters/godzilla-vs-mothra-1992.jpg
+    poster_url: /static/images/films/godzilla-vs-mothra-1992/posters/poster.jpg
     slug: godzilla-vs-mothra-1992
     staff:
       - role: Music Director
     title: Godzilla vs. Mothra
     year: 1992
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-mechagodzilla-ii-1993/posters/godzilla-vs-mechagodzilla-1993.jpg
+    poster_url: /static/images/films/godzilla-vs-mechagodzilla-ii-1993/posters/poster.jpg
     slug: godzilla-vs-mechagodzilla-ii-1993
     staff:
       - role: Music Director
     title: Godzilla vs. Mechagodzilla II
     year: 1993
   - format: film
-    poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-vs-destoroyah-1995/posters/godzilla-vs-destroyer-1995.jpg
+    poster_url: /static/images/films/godzilla-vs-destoroyah-1995/posters/poster.jpg
     slug: godzilla-vs-destoroyah-1995
     staff:
       - role: Music Director

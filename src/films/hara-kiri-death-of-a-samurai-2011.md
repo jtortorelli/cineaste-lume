@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: strange-ronin
     title: Strange Ronin
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/posters/hara-kiri-death-of-a-samurai-2011.jpg
+poster_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/posters/poster.jpg
 release_date: 2011-10-15
 runtime: 126
 staff:
@@ -49,55 +49,55 @@ studios:
   - Yahoo! JAPAN
 title: "Hara-Kiri: Death of a Samurai"
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/ebizo-ichikawa-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/ebizo-ichikawa-0.jpg
     character_qualifiers:
     name: Ichikawa Ebizô
     role: Tsukumo Hanshirô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/eita-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/eita-0.jpg
     character_qualifiers:
     name: Eita
     role: Chijiwa Motome
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/hikari-mitsushima-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/hikari-mitsushima-0.jpg
     character_qualifiers:
     name: Mitsushima Hikari
     role: Miho
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/naoto-takenaka-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/naoto-takenaka-0.jpg
     character_qualifiers:
     name: Takenaka Naoto
     role: Tajiri
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/munetaka-aoki-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/munetaka-aoki-0.jpg
     character_qualifiers:
     name: Aoki Munetaka
     role: Omodaka Hikokurô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/hirofumi-arai-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/hirofumi-arai-0.jpg
     character_qualifiers:
     name: Arai Hirofumi
     role: Matsuzaki Hayatonoshô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/kazuki-namioka-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/kazuki-namioka-0.jpg
     character_qualifiers:
     name: Namioka Kazuki
     role: Kawabe Umanosuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/yoshihisa-amano-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/yoshihisa-amano-0.jpg
     character_qualifiers:
     name: Amano Yoshihisa
     role: Sasaki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/goro-daimon-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/goro-daimon-0.jpg
     character_qualifiers:
     name: Daimon Gorô
     role: Priest
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/takehiro-hira-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/takehiro-hira-0.jpg
     character_qualifiers:
     name: Hira Takehiro
     role: Ii Naotaka
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/takashi-sasano-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/takashi-sasano-0.jpg
     character_qualifiers:
     name: Sasano Takashi
     role: Sôsuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/baijaku-nakamura-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/baijaku-nakamura-0.jpg
     character_qualifiers:
     name: Nakamura Baijaku
     role: Chijiwa Jin'nai
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/koji-yakusho-0.jpg
+  - avatar_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/cast-avatars/koji-yakusho-0.jpg
     character_qualifiers:
     name: Yakusho Kôji
     role: Saitô Kageyu

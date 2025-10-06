@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 紅の豚
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/porco-rosso-1992/posters/porco-rosso-1992.jpg
+poster_url: /static/images/films/porco-rosso-1992/posters/poster.jpg
 release_date: 1992-07-18
 runtime: 93
 staff:
@@ -45,37 +45,37 @@ studios:
   - Studio Ghibli, Inc.
 title: Porco Rosso
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/porco-rosso-1992/cast-avatars/shuichiro-moriyama-0.jpg
+  - avatar_url: /static/images/films/porco-rosso-1992/cast-avatars/shuichiro-moriyama-0.jpg
     character_qualifiers:
     name: Moriyama Shûichirô
     qualifiers: Voice
     role: Porco Rosso
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/porco-rosso-1992/cast-avatars/tokiko-kato-0.jpg
+  - avatar_url: /static/images/films/porco-rosso-1992/cast-avatars/tokiko-kato-0.jpg
     character_qualifiers:
     name: Katô Tokiko
     qualifiers: Voice
     role: Madame Gina
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/porco-rosso-1992/cast-avatars/sanshi-katsura-0.jpg
+  - avatar_url: /static/images/films/porco-rosso-1992/cast-avatars/sanshi-katsura-0.jpg
     character_qualifiers:
     name: Katsura Sanshi
     qualifiers: Voice
     role: Piccolo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/porco-rosso-1992/cast-avatars/tsunehiko-kamijo-0.jpg
+  - avatar_url: /static/images/films/porco-rosso-1992/cast-avatars/tsunehiko-kamijo-0.jpg
     character_qualifiers:
     name: Kamijô Tsunehiko
     qualifiers: Voice
     role: Mamma Aiuto Boss
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/porco-rosso-1992/cast-avatars/akemi-okamura-0.jpg
+  - avatar_url: /static/images/films/porco-rosso-1992/cast-avatars/akemi-okamura-0.jpg
     character_qualifiers:
     name: Okamura Akemi
     qualifiers: Voice
     role: Fio Piccolo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/porco-rosso-1992/cast-avatars/akio-otsuka-0.jpg
+  - avatar_url: /static/images/films/porco-rosso-1992/cast-avatars/akio-otsuka-0.jpg
     character_qualifiers:
     name: Ôtsuka Akio
     qualifiers: Voice
     role: Donald Curtis
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/porco-rosso-1992/cast-avatars/hiroko-seki-0.jpg
+  - avatar_url: /static/images/films/porco-rosso-1992/cast-avatars/hiroko-seki-0.jpg
     character_qualifiers:
     name: Seki Hiroko
     qualifiers: Voice

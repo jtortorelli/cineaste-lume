@@ -5,7 +5,7 @@ aliases:
     context: American Theatrical Release
 japanese_title: ゴジラ
 kaiju:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/kaiju-avatars/haruo-nakajima-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/kaiju-avatars/haruo-nakajima-0.jpg
     name: Godzilla
     portrayals:
       - people:
@@ -20,7 +20,7 @@ original_works:
         slug: kayama-shigeru
     format: serial
     title: Monster Godzilla
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/posters/godzilla-1954.jpg
+poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
 release_date: 1954-11-03
 runtime: 97
 series:
@@ -73,188 +73,188 @@ staff:
 studios:
   - Toho Co., Ltd.
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/ken-echigo-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/ken-echigo-0.jpg
     name: Echigo Ken
     role: Eiko-maru Sailor
     slug: echigo-ken
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/yu-fujiki-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/yu-fujiki-0.jpg
     name: Fujiki Yû
     role: Eiko-maru Radio Operator
     slug: fujiki-yu
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/kazuo-hinata-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/kazuo-hinata-0.jpg
     name: Hinata Kazuo
     role: Countermeasures HQ Staff
     slug: hinata-kazuo
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/shoichi-hirose-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/shoichi-hirose-0.jpg
     name: Hirose Shôichi
     role: MP
     slug: hirose-shoichi
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/takuzo-kumagai-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/takuzo-kumagai-0.jpg
     name: Kumagai Takuzô
     role: Undersecretary of Defense
     slug: kumagai-takuzo
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/sokichi-maki-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/sokichi-maki-0.jpg
     name: Maki Sôkichi
     role: Coast Guard Officer
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/junichiro-mukai-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/junichiro-mukai-0.jpg
     name: Mukai Jun'ichirô
     role: Reporter
     slug: mukai-junichiro
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/junpei-natsuki-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/junpei-natsuki-0.jpg
     name: Natsuki Junpei
     role: Substation Engineer
     slug: natsuki-junpei
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/rinsaku-ogata-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/rinsaku-ogata-0.jpg
     name: Ogata Rinsaku
     role: Countermeasures HQ Staff
     slug: ogata-rinsaku
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/yutaka-sada-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/yutaka-sada-0.jpg
     name: Sata Yutaka
     role: Countermeasures HQ Staff
     slug: sata-yutaka
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/kenji-sahara-1.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/kenji-sahara-1.jpg
     name: Sahara Kenji
     role: Pleasure Cruise Passenger
     slug: sahara-kenji
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/kenji-sahara-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/kenji-sahara-0.jpg
     name: Sahara Kenji
     role: Reporter
     slug: sahara-kenji
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/junichiro-mukai-1.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/junichiro-mukai-1.jpg
     name: Sakurai Girô
     role: Countermeasures HQ Staff
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/akira-sera-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/akira-sera-0.jpg
     name: Sera Akira
     role: MP
     slug: sera-akira
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/hideo-shibuya-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/hideo-shibuya-0.jpg
     name: Shibuya Hideo
     role: Reporter
     slug: shibuya-hideo
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/kamayuki-tsubono-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/kamayuki-tsubono-0.jpg
     name: Tsubono Kamayuki
     role: Coast Guard Officer
     slug: tsubono-kamayuki
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/mitsuo-tsuda-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/mitsuo-tsuda-0.jpg
     name: Tsuda Mitsuo
     role: Police Officer
     slug: tsuda-mitsuo
     uncredited: true
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/koji-uno-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/koji-uno-0.jpg
     name: Uno Kôji
     role: Countermeasures HQ Staff
     slug: uno-koji
     uncredited: true
 title: Godzilla
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/akira-takarada-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/akira-takarada-0.jpg
     name: Takarada Akira
     role: Ogata Hideto
     slug: takarada-akira
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/momoko-kochi-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/momoko-kochi-0.jpg
     name: Kouchi Momoko
     role: Emiko Yamane
     slug: kouchi-momoko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/akihiko-hirata-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/akihiko-hirata-0.jpg
     name: Hirata Akihiko
     role: Dr. Serizawa Daisuke
     slug: hirata-akihiko
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/takashi-shimura-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/takashi-shimura-0.jpg
     name: Shimura Takashi
     role: Dr. Yamane Kyôhei
     slug: shimura-takashi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/fuyuki-murakami-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/fuyuki-murakami-0.jpg
     name: Murakami Fuyuki
     role: Dr. Tanabe
     slug: murakami-fuyuki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/sachio-sakai-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/sachio-sakai-0.jpg
     name: Sakai Sachio
     role: Hagiwara
     slug: sakai-sachio
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/toranosuke-ogawa-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/toranosuke-ogawa-0.jpg
     name: Ogawa Toranosuke
     role: Nankai Steamship President
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/ren-yamamoto-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/ren-yamamoto-0.jpg
     name: Yamamoto Ren
     role: Yamada Masaji
     slug: yamamoto-ren
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/kan-hayashi-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/kan-hayashi-0.jpg
     name: Hayashi Kan
     role: Diet Chairman
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/seijiro-onda-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/seijiro-onda-0.jpg
     name: Onda Seijirô
     role: MP Ôyama
     slug: onda-seijiro
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/takeo-oikawa-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/takeo-oikawa-0.jpg
     name: Oikawa Takeo
     role: Countermeasures HQ Chief
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/keiji-sakakida-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/keiji-sakakida-0.jpg
     name: Sakakida Keiji
     role: Mayor Inada
     slug: sakakida-keiji
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/toyoaki-suzuki-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/toyoaki-suzuki-0.jpg
     name: Suzuki Toyoaki
     role: Yamada Shinkichi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/kuninori-kodo-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/kuninori-kodo-0.jpg
     name: Kôdô Kuninori
     role: Izuma
     slug: kodo-kuninori
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/kin-sugai-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/kin-sugai-0.jpg
     name: Sugai Kin
     role: MP Ozawa
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/shizuko-azuma-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/shizuko-azuma-0.jpg
     name: Azuma Shizuko
     role: Pleasure Cruise Passenger
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/tsuruko-mano-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/tsuruko-mano-0.jpg
     name: Mano Tsuruko
     role: Yamada Kuni
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/tadashi-okabe-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/tadashi-okabe-0.jpg
     name: Okabe Tadashi
     role: Tanabe's Assistant
     slug: okabe-tadashi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/kiyoshi-kimata-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/kiyoshi-kimata-0.jpg
     name: Kimata Kiyoshi
     role: Pleasure Cruise Passenger
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/ren-imaizumi-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/ren-imaizumi-0.jpg
     name: Imaizumi Ren
     role: Coast Guard Officer
     slug: imaizumi-ren
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/masaaki-tachibana-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/masaaki-tachibana-0.jpg
     name: Tachibana Masaaki
     role: Tokyo Tower Announcer
     slug: tachibana-masaaki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/yasuhisa-tsutsumi-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/yasuhisa-tsutsumi-0.jpg
     name: Tsutsumi Yasuhisa
     role: Ôdo Islander
     slug: tsutsumi-yasuhisa
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/jiro-suzukawa-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/jiro-suzukawa-0.jpg
     name: Suzukawa Jirô
     role: Ôdo Islander
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/saburo-iketani-0.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/saburo-iketani-0.jpg
     name: Iketani Saburô
     role: Announcer
     slug: iketani-saburo
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/katsumi-tezuka-1.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/katsumi-tezuka-1.jpg
     name: Tezuka Katsumi
     role: Daily Newspaper Desk
     slug: tezuka-katsumi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/godzilla-1954/cast-avatars/haruo-nakajima-1.jpg
+  - avatar_url: /static/images/films/godzilla-1954/cast-avatars/haruo-nakajima-1.jpg
     name: Nakajima Haruo
     role: Daily Newspaper Reporter
     slug: nakajima-haruo

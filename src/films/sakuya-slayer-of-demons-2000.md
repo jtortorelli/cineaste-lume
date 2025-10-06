@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: さくや妖怪伝
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/posters/sakuya-slayer-of-demons-2000.jpg
+poster_url: /static/images/films/sakuya-slayer-of-demons-2000/posters/poster.jpg
 release_date: 2000-08-12
 runtime: 88
 staff:
@@ -46,51 +46,51 @@ studios:
   - Warner Bros.
 title: "Sakuya: Slayer of Demons"
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/cast-avatars/nozomi-ando-0.jpg
+  - avatar_url: /static/images/films/sakuya-slayer-of-demons-2000/cast-avatars/nozomi-ando-0.jpg
     character_qualifiers:
     name: Andô Nozomi
     role: Sakaki Sakuya
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/cast-avatars/shuichi-yamauchi-0.jpg
+  - avatar_url: /static/images/films/sakuya-slayer-of-demons-2000/cast-avatars/shuichi-yamauchi-0.jpg
     character_qualifiers:
     name: Yamauchi Shûichi
     role: Sakaki Tarô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/cast-avatars/kyusaku-shimada-0.jpg
+  - avatar_url: /static/images/films/sakuya-slayer-of-demons-2000/cast-avatars/kyusaku-shimada-0.jpg
     character_qualifiers:
     name: Shimada Kyûsaku
     role: Nikarasu Shûzô
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/cast-avatars/keiichiro-sakagi-0.jpg
+  - avatar_url: /static/images/films/sakuya-slayer-of-demons-2000/cast-avatars/keiichiro-sakagi-0.jpg
     character_qualifiers:
     name: Sakaki Keiichirô
     role: Enki Hyôe
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/cast-avatars/moeko-ezawa-0.jpg
+  - avatar_url: /static/images/films/sakuya-slayer-of-demons-2000/cast-avatars/moeko-ezawa-0.jpg
     character_qualifiers:
     name: Ezawa Moeko
     role: Old Woman
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/cast-avatars/shinya-tsukamoto-0.jpg
+  - avatar_url: /static/images/films/sakuya-slayer-of-demons-2000/cast-avatars/shinya-tsukamoto-0.jpg
     character_qualifiers:
     name: Tsukamoto Shin'ya
     role: Puppeteer
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/cast-avatars/yuki-kuroda-0.jpg
+  - avatar_url: /static/images/films/sakuya-slayer-of-demons-2000/cast-avatars/yuki-kuroda-0.jpg
     character_qualifiers:
     name: Kuroda Yûki
     role: Yamato Shigeyuki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/cast-avatars/hidehiko-ishikura-0.jpg
+  - avatar_url: /static/images/films/sakuya-slayer-of-demons-2000/cast-avatars/hidehiko-ishikura-0.jpg
     character_qualifiers:
     name: Ishikura Hidehiko
     role: Tachibana Zennosuke
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/cast-avatars/hiroshi-fujioka-0.jpg
+  - avatar_url: /static/images/films/sakuya-slayer-of-demons-2000/cast-avatars/hiroshi-fujioka-0.jpg
     character_qualifiers:
     name: Fujioka Hiroshi
     role: Sakaki Yoshiaki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/cast-avatars/naoto-takenaka-0.jpg
+  - avatar_url: /static/images/films/sakuya-slayer-of-demons-2000/cast-avatars/naoto-takenaka-0.jpg
     character_qualifiers:
     name: Takenaka Naoto
     role: Narrator
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/cast-avatars/tetsuro-tamba-0.jpg
+  - avatar_url: /static/images/films/sakuya-slayer-of-demons-2000/cast-avatars/tetsuro-tamba-0.jpg
     character_qualifiers:
     name: Tamba Tetsurô
     role: Ii Naoki
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/sakuya-slayer-of-demons-2000/cast-avatars/keiko-matsuzaka-0.jpg
+  - avatar_url: /static/images/films/sakuya-slayer-of-demons-2000/cast-avatars/keiko-matsuzaka-0.jpg
     character_qualifiers:
     name: Matsuzaka Keiko
     role: The Spider Queen

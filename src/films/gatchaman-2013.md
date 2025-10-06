@@ -6,7 +6,7 @@ original_works:
     format: anime
     slug: science-ninja-team-gatchaman
     title: Science Ninja Team Gatchaman
-poster_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/posters/gatchaman-2013.jpg
+poster_url: /static/images/films/gatchaman-2013/posters/poster.jpg
 release_date: 2013-08-24
 runtime: 113
 staff:
@@ -52,71 +52,71 @@ studios:
   - Hiroshima Television Corporation
   - Fukuoka Broadcasting System Corporation
 supporting_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/koji-kawamoto-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/koji-kawamoto-0.jpg
     character_qualifiers:
     name: Kawamoto Kôji
     role: Mike Miller
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/koumi-raimu-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/koumi-raimu-0.jpg
     character_qualifiers: Young
     name: Komi Raimu
     role: Naomi
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/nagato-okui-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/nagato-okui-0.jpg
     character_qualifiers: Young
     name: Okui Nagato
     role: Washio Ken
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/kisho-omoto-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/kisho-omoto-0.jpg
     character_qualifiers: Young
     name: Ômoto Kishô
     role: George Asakura
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/hiromi-shinjo-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/hiromi-shinjo-0.jpg
     character_qualifiers:
     name: Shinjô Hiromi
     role: Gillman
     uncredited: false
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/yumiko-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/yumiko-0.jpg
     character_qualifiers:
     name: Yumiko
     role: Mei
     uncredited: false
 title: Gatchaman
 top_billed_cast:
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/tori-matsuzaka-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/tori-matsuzaka-0.jpg
     character_qualifiers:
     name: Matsuzaka Tôri
     role: Washio Ken
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/go-ayano-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/go-ayano-0.jpg
     character_qualifiers:
     name: Ayano Gô
     role: George Asakura
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/ayame-goriki-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/ayame-goriki-0.jpg
     character_qualifiers:
     name: Gôriki Ayame
     role: Ôtsuki Jun
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/tatsuomi-hamada-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/tatsuomi-hamada-0.jpg
     character_qualifiers:
     name: Hamada Tatsuomi
     role: Ôtsuki Jinpei
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/ryohei-suzuki-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/ryohei-suzuki-0.jpg
     character_qualifiers:
     name: Suzuki Ryôhei
     role: Nakanishi Ryû
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/eriko-hatsune-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/eriko-hatsune-0.jpg
     character_qualifiers:
     name: Hatsune Eriko
     role: Naomi
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/ken-mitsuishi-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/ken-mitsuishi-0.jpg
     character_qualifiers:
     name: Mitsuishi Ken
     role: Doctor Kirkland
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/shido-nakamura-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/shido-nakamura-0.jpg
     character_qualifiers:
     name: Nakamura Shidô
     role: Iriya
-  - avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/films/gatchaman-2013/cast-avatars/goro-kishitani-0.jpg
+  - avatar_url: /static/images/films/gatchaman-2013/cast-avatars/goro-kishitani-0.jpg
     character_qualifiers:
     name: Kishitani Gorô
     role: Doctor Nanbu
