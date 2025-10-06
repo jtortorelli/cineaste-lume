@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/omae-wataru/omae-wataru.jpg
+avatar_url: /static/images/people/omae-wataru/avatar.jpg
 birth_place: Gunma, Japan
 dob: 1934-02-14
 dob_resolution: exact

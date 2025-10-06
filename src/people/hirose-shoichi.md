@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/hirose-shoichi/hirose-shoichi.jpg
+avatar_url: /static/images/people/hirose-shoichi/avatar.jpg
 bio:
   - Former soldier nicknamed "Solomon" for surviving the Solomon Islands campaign.
   - Played extras, supporting roles, and as a monster suit actor.

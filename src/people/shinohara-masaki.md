@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/shinohara-masaki/shinohara-masaki.jpg
+avatar_url: /static/images/people/shinohara-masaki/avatar.jpg
 dob: 1926-12-28
 dob_resolution: exact
 dod: 2018-11-01

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/omura-senkichi/omura-senkichi.jpg
+avatar_url: /static/images/people/omura-senkichi/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1922-04-27
 dob_resolution: exact

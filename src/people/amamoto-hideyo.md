@@ -4,7 +4,7 @@ aliases:
   - category: mistranslation
     japanese_name: 天本英世
     name: Amamoto Eisei
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/amamoto-hideyo/amamoto-hideyo.jpg
+avatar_url: /static/images/people/amamoto-hideyo/avatar.jpg
 bio:
   - Drafted into the Japanese army at age 19. His wartime experience gave him a lifelong disgust with Japanese society in general.
   - Fond of Spain and Spanish culture.
@@ -139,7 +139,7 @@ works:
       - episode_count: 16
         name: Dr. Shinigami
     title: Kamen Rider
-    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/kamen-rider-1971/title-cards/E9B5Y4uUYAMJsaS.jpg
+    title_card_url: /static/images/tv-series/kamen-rider-1971/title-cards/E9B5Y4uUYAMJsaS.jpg
     year: 1973
   - format: film
     poster_url: /static/images/films/message-from-space-1978/posters/poster.jpg

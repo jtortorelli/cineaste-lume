@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/natsuki-yosuke/natsuki-yosuke.jpg
+avatar_url: /static/images/people/natsuki-yosuke/avatar.jpg
 birth_name: Akuzawa Tamotsu
 birth_place: Tokyo, Japan
 cause_of_death: Renal Cell Carcinoma

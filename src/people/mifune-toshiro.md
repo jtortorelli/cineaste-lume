@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/mifune-toshiro/mifune-toshiro.jpg
+avatar_url: /static/images/people/mifune-toshiro/avatar.jpg
 birth_place: Qingdao, China
 cause_of_death: Multiple Organ Failure
 death_place: Tokyo, Japan

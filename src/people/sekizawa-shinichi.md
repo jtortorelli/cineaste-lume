@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sekizawa-shinichi/sekizawa-shinichi.jpg
+avatar_url: /static/images/people/sekizawa-shinichi/avatar.jpg
 birth_place: Kyoto, Japan
 cause_of_death: Myocardial Infarction
 dob: 1920-06-20

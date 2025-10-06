@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kusakawa-naoya/kusakawa-naoya.jpg
+avatar_url: /static/images/people/kusakawa-naoya/avatar.jpg
 birth_place: Manchuria
 dob: 1929-06-11
 dob_resolution: exact

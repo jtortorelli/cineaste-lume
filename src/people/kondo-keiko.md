@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kondo-keiko/kondo-keiko.jpg
+avatar_url: /static/images/people/kondo-keiko/avatar.jpg
 dob: 1943-03-18
 dob_resolution: exact
 japanese_name: 近藤圭子

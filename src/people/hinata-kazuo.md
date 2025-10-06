@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/hinata-kazuo/hinata-kazuo.jpg
+avatar_url: /static/images/people/hinata-kazuo/avatar.jpg
 bio:
   - Frequently played extras in Toho sci-fi films, often in multiple distinct roles.
   - According to Japanese Wikipedia his hobbies included swimming and oil painting and his blood type was A.

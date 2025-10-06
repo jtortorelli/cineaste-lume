@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ozawa-eitaro/ozawa-eitaro.jpg
+avatar_url: /static/images/people/ozawa-eitaro/avatar.jpg
 birth_place: Tokyo, Japan
 cause_of_death: Lung Cancer
 death_place: Zushi, Kanagawa, Japan

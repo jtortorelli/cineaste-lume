@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/katsube-yoshio/katsube-yoshio.jpg
+avatar_url: /static/images/people/katsube-yoshio/avatar.jpg
 birth_place: Ota, Shimane, Japan
 dob: 1934-03-19
 dob_resolution: exact

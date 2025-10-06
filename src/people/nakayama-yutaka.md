@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/nakayama-yutaka/nakayama-yutaka.jpg
+avatar_url: /static/images/people/nakayama-yutaka/avatar.jpg
 birth_place: Himeji, Hyogo, Japan
 dob: 1939-09-23
 dob_resolution: exact

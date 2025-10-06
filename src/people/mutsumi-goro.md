@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/mutsumi-goro/mutsumi-goro.jpg
+avatar_url: /static/images/people/mutsumi-goro/avatar.jpg
 birth_name: Nakanishi Seiji
 birth_place: Kobe, Hyogo, Japan
 cause_of_death: Pneumonia

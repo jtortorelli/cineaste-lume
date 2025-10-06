@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ito-jerry/ito-jerry.jpg
+avatar_url: /static/images/people/ito-jerry/avatar.jpg
 bio:
   - Came from a talented show business family. His father was a dancer and choreographer, and two of his uncles were actors.
   - "Appeared in the third series of NHK's educational program <i>Let's Play in English</i> from 1995 through 1997. He suffered a cerebral hemorrhage before the show finished broadcasting and was replaced by Dennis Falt."
@@ -53,6 +53,6 @@ works:
     roles:
       - name: Grandpa Jerry
     title: "Let's Play in English 3: Planet Paradise"
-    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/lets-play-in-english-1995/title-cards/Screenshot%202025-08-18%20at%209.30.15%20PM.png
+    title_card_url: /static/images/tv-series/lets-play-in-english-1995/title-cards/Screenshot%202025-08-18%20at%209.30.15%20PM.png
     year: 1995
 ---

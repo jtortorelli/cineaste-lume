@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sada-yutaka/sada-yutaka.jpg
+avatar_url: /static/images/people/sada-yutaka/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1911-03-30
 dob_resolution: exact

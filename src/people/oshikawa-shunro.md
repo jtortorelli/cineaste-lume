@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/oshikawa-shunro/oshikawa-shunro.jpg
+avatar_url: /static/images/people/oshikawa-shunro/avatar.jpg
 birth_name: Oshikawa Masanori
 birth_place: Matsuyama, Ehime, Japan
 cause_of_death: Meningitis

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kita-takeo/kita-takeo.jpg
+avatar_url: /static/images/people/kita-takeo/avatar.jpg
 birth_place: Osaka, Japan
 dob: 1901-01-09
 dob_resolution: exact

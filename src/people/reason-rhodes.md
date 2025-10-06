@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/reason-rhodes/reason-rhodes.jpg
+avatar_url: /static/images/people/reason-rhodes/avatar.jpg
 birth_place: Glendale, California, United States
 cause_of_death: Lymphoma
 death_place: Palm Springs, California, United States

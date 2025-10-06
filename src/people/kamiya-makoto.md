@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kamiya-makoto/kamiya-makoto.jpg
+avatar_url: /static/images/people/kamiya-makoto/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1965-10-06
 dob_resolution: exact

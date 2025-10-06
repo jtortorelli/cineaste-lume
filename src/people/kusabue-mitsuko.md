@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kusabue-mitsuko/kusabue-mitsuko.jpg
+avatar_url: /static/images/people/kusabue-mitsuko/avatar.jpg
 birth_place: Yokohama, Kanagawa, Japan
 dob: 1933-10-22
 dob_resolution: exact

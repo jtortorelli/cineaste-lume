@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/little-man-machan/machan-little-man.jpg
+avatar_url: /static/images/people/little-man-machan/avatar.jpg
 birth_name: Fukasawa Masao
 dob: 1921-01-01
 dob_resolution: year

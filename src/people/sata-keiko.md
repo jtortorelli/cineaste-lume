@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sata-keiko/sata-keiko.jpg
+avatar_url: /static/images/people/sata-keiko/avatar.jpg
 dob: 1941-06-09
 dob_resolution: exact
 japanese_name: 佐多契子

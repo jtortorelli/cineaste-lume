@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tomita-nakajiro/tomita-nakajiro.jpg
+avatar_url: /static/images/people/tomita-nakajiro/avatar.jpg
 birth_place: Tokyo, Japan
 cause_of_death: Heart Failure
 dob: 1911-11-01

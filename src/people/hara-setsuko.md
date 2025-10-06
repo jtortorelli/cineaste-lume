@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/hara-setsuko/hara-setsuko.jpg
+avatar_url: /static/images/people/hara-setsuko/avatar.jpg
 bio:
   - Dropped out of school in 1935 and joined Nikkatsu studios.
   - Appeared in Arnold Fanck's <i>The Daughter of the Samurai</i> in 1937, the first German-Japanese co-production. She attended a preview of the film in Berlin with Adolf Hitler and other Nazi party leaders. The film was classified as propaganda and was prevented from release in nations that fell outside the Anti-Comintern pact.

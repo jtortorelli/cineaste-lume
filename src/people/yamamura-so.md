@@ -5,7 +5,7 @@ aliases:
     context:
     japanese_name: 山村聡
     name: Yamamura Sô
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yamamura-so/yamamura-so.jpg
+avatar_url: /static/images/people/yamamura-so/avatar.jpg
 birth_name: Koga Hirosada
 birth_place: Tenri, Nara, Japan
 cause_of_death: Myocardial Infarction

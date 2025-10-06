@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/hirata-akihiko/hirata-akihiko.jpg
+avatar_url: /static/images/people/hirata-akihiko/avatar.jpg
 bio:
   - He had completed law school and was employed full time before he embraced acting.
   - Joined Toho as part of the 5th "New Face" class. He met fellow actor Sahara Kenji at this time and they remained close friends until Hirata's death.
@@ -195,7 +195,7 @@ works:
       - episode_count: 49
         name: Mr. K
     title: Warrior of Love Rainbowman
-    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/warrior-of-love-rainbowman-1972/title-cards/Ai%20no%20Senshi%20Reinbooman.png
+    title_card_url: /static/images/tv-series/warrior-of-love-rainbowman-1972/title-cards/Ai%20no%20Senshi%20Reinbooman.png
     year: 1972
   - format: film
     poster_url: /static/images/films/godzilla-vs-mechagodzilla-1974/posters/poster.jpg
@@ -234,7 +234,7 @@ works:
       - episode_count: 3
         name: Director Ashida
     title: Star Wolf
-    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/star-wolf-1978/title-cards/Star%20Wolf%20OP.webp
+    title_card_url: /static/images/tv-series/star-wolf-1978/title-cards/Star%20Wolf%20OP.webp
     year: 1978
   - format: film
     poster_url: /static/images/films/sayonara-jupiter-1984/posters/poster.jpg

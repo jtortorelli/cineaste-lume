@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/furness-george-a/furness-george-a.jpg
+avatar_url: /static/images/people/furness-george-a/avatar.jpg
 bio:
   - Served in the United States Army, retiring with the rank of Major.
   - Served as the defense counsel during the post-war Tokyo Trials for politician Shigemitsu Mamoru and Admiral Toyoda Soemu. Shigemitsu was targeted by the Soviet Union for punishment but received a lighter sentence. Toyoda was the only member of the Japanese military to be acquitted of all charges.

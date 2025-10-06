@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/anzai-kyoko/anzai-kyoko.jpg
+avatar_url: /static/images/people/anzai-kyoko/avatar.jpg
 bio:
   - Member of the Osaka Shochiku Opera Company from 1950 through 1953.
   - Entered film immediately after resigning from the opera company.

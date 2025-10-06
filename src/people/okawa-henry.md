@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/okawa-henry/okawa-henry.jpg
+avatar_url: /static/images/people/okawa-henry/avatar.jpg
 birth_name: Ôkawa Heihachirô
 birth_place: Saitama, Japan
 cause_of_death: Cerebral Hemorrhage

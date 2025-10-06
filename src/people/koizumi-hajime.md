@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/koizumi-hajime/koizumi-hajime.jpg
+avatar_url: /static/images/people/koizumi-hajime/avatar.jpg
 japanese_name: 小泉一
 name: Koizumi Hajime
 profession: Cinematographer

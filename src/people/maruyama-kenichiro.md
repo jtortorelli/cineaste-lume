@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/maruyama-kenichiro/maruyama-kenichiro.jpg
+avatar_url: /static/images/people/maruyama-kenichiro/avatar.jpg
 dob: 1938-07-12
 dob_resolution: exact
 japanese_name: 丸山謙一郎

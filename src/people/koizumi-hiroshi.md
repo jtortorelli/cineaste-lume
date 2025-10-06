@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/koizumi-hiroshi/koizumi-hiroshi.jpg
+avatar_url: /static/images/people/koizumi-hiroshi/avatar.jpg
 birth_place: Kamakura, Kanagawa, Japan
 cause_of_death: Pneumonia
 dob: 1926-08-12

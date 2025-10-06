@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tsuchiya-yoshio/tsuchiya-yoshio.jpg
+avatar_url: /static/images/people/tsuchiya-yoshio/avatar.jpg
 birth_place: Yamanashi, Japan
 cause_of_death: Lung Cancer
 dob: 1927-05-18

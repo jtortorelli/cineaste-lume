@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ikebe-ryo/ikebe-ryo.jpg
+avatar_url: /static/images/people/ikebe-ryo/avatar.jpg
 bio:
   - Graduated from film school in 1941. Originally aspired to be a director but there were limited career opportunities due to the war effort. Took some small acting roles before he was drafted and sent to China.
   - In 1944 his transport ship sunk and he was adrift for 10 hours before being rescued.

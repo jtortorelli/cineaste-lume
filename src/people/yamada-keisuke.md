@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yamada-keisuke/yamada-keisuke.jpg
+avatar_url: /static/images/people/yamada-keisuke/avatar.jpg
 dob: 1903-07-21
 dob_resolution: exact
 dod: unknown

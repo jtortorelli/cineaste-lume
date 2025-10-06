@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/wyatt-obel/wyatt-obel.jpg
+avatar_url: /static/images/people/wyatt-obel/avatar.jpg
 japanese_name: オーベル・ワイアット
 name: Obel Wyatt
 profession: Actor

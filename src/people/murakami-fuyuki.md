@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/murakami-fuyuki/murakami-fuyuki.jpg
+avatar_url: /static/images/people/murakami-fuyuki/avatar.jpg
 birth_name: Murakami Saishû
 birth_place: Tokuyama, Yamaguchi, Japan
 cause_of_death: Stomach Cancer

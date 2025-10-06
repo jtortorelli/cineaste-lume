@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tsubono-kamayuki/tsubono-kamayuki.jpg
+avatar_url: /static/images/people/tsubono-kamayuki/avatar.jpg
 dob: 1919-07-26
 dob_resolution: exact
 dod: unknown

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/dan-ikuma/dan-ikuma.jpg
+avatar_url: /static/images/people/dan-ikuma/avatar.jpg
 bio:
   - Dan's grandfather, Dan Takuma, was assassinated in the League of Blood incident in 1932. The incident and its aftermath inspired Dan to become a composer.
   - Son of businessman Dan Inô, president of Prince Motor Company, which later became Nissan.

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sonoda-ayumi/sonoda-ayumi.jpg
+avatar_url: /static/images/people/sonoda-ayumi/avatar.jpg
 birth_name: Iwadate Yûko
 birth_place: Kanagawa, Japan
 dob: 1933-09-23

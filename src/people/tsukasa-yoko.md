@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tsukasa-yoko/tsukasa-yoko.jpg
+avatar_url: /static/images/people/tsukasa-yoko/avatar.jpg
 birth_name: Shôji Yôko
 birth_place: Saihaku, Tottori, Japan
 dob: 1934-08-20

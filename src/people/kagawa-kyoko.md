@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kagawa-kyoko/kagawa-kyoko.jpg
+avatar_url: /static/images/people/kagawa-kyoko/avatar.jpg
 birth_name: Makino Kyôko
 birth_place: Namekata, Ibaraki, Japan
 dob: 1931-12-05

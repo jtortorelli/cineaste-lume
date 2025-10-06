@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tsuruta-koji/tsuruta-koji.jpg
+avatar_url: /static/images/people/tsuruta-koji/avatar.jpg
 birth_name: Ono Eiichi
 birth_place: Nishinomiya, Hyogo, Japan
 cause_of_death: Lung Cancer

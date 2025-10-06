@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/koseki-yuji/koseki-yuji.jpg
+avatar_url: /static/images/people/koseki-yuji/avatar.jpg
 birth_place: Fukushima, Japan
 cause_of_death: Cerebral Infarction
 dob: 1909-08-11

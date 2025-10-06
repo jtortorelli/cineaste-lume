@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tanaka-kinuyo/tanaka-kinuyo.jpg
+avatar_url: /static/images/people/tanaka-kinuyo/avatar.jpg
 birth_place: Yamaguchi, Japan
 cause_of_death: Brain Tumor
 death_place: Tokyo, Japan

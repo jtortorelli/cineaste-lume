@@ -5,7 +5,7 @@ aliases:
     context: After 1964
     japanese_name: 馬淵薫
     name: Mabuchi Kaoru
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kimura-takeshi/kimura-takeshi.jpg
+avatar_url: /static/images/people/kimura-takeshi/avatar.jpg
 birth_place: Osaka, Japan
 dob: 1911-02-04
 dob_resolution: exact

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/hughes-andrew/hughes-andrew.jpg
+avatar_url: /static/images/people/hughes-andrew/avatar.jpg
 bio:
   - Turkish-born business man living and working in Japan during the 60s and 70s.
   - Served as an intermediary between the Japanese and Caucasian cast and crew members on <i>The Last War</i> (1961), despite not being fluent in Japanese.

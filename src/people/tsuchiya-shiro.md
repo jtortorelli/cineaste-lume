@@ -5,7 +5,7 @@ aliases:
     context:
     japanese_name: 土屋博敏
     name: Tsuchiya Hirotoshi
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tsuchiya-shiro/tsuchiya-shiro.jpg
+avatar_url: /static/images/people/tsuchiya-shiro/avatar.jpg
 birth_place: Akita, Japan
 dob: 1901-01-05
 dob_resolution: exact

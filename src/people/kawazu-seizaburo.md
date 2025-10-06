@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kawazu-seizaburo/kawazu-seizaburo.jpg
+avatar_url: /static/images/people/kawazu-seizaburo/avatar.jpg
 birth_name: Nakajima Seiichi
 birth_place: Tokyo, Japan
 cause_of_death: Laryngeal Cancer

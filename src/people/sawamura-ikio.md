@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sawamura-ikio/sawamura-ikio.jpg
+avatar_url: /static/images/people/sawamura-ikio/avatar.jpg
 birth_name: Okabe Shizuo
 birth_place: Tochigi, Japan
 cause_of_death: Heart Failure

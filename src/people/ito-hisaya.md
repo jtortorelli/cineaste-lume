@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ito-hisaya/ito-hisaya.jpg
+avatar_url: /static/images/people/ito-hisaya/avatar.jpg
 bio:
   - Graudated from Hosei University in 1947. Managed an electronics store before joining Toei as an actor in 1954.
   - Moved to Toho in 1957 and debuted in <i>The Mysterians</i>.

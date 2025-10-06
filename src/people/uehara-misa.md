@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/uehara-misa/uehara-misa.jpg
+avatar_url: /static/images/people/uehara-misa/avatar.jpg
 birth_name: Uehara Misako
 birth_place: Fukuoka, Japan
 dob: 1937-03-26

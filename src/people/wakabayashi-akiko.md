@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/wakabayashi-akiko/wakabayashi-akiko.jpg
+avatar_url: /static/images/people/wakabayashi-akiko/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1939-12-13
 dob_resolution: exact

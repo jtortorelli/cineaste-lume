@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tono-eijiro/tono-eijiro.jpg
+avatar_url: /static/images/people/tono-eijiro/avatar.jpg
 birth_place: Kanra, Gunma, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan

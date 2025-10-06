@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/hama-mie/hama-mie.jpg
+avatar_url: /static/images/people/hama-mie/avatar.jpg
 bio:
   - Contracted by Toho at age 16 immediately after graduating high school.
   - Specialized in playing female leads in comedies during the 60s, including the <i>Crazy Cats</i> series and, to some extent, <i>King Kong vs. Godzilla</i> (1962).

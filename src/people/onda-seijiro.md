@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/onda-seijiro/onda-seijiro.jpg
+avatar_url: /static/images/people/onda-seijiro/avatar.jpg
 dob: 1910-05-01
 dob_resolution: exact
 dod: 1974-11-28

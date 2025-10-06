@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/onoue-katsuro/onoe-katsuhiro.jpg
+avatar_url: /static/images/people/onoue-katsuro/avatar.jpg
 birth_place: Kagoshima, Japan
 dob: 1960-06-04
 dob_resolution: exact

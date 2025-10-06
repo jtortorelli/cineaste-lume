@@ -21,7 +21,7 @@ accolades:
     films:
       - title: Shin Ultraman
     status: nominated
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/higuchi-shinji/higuchi-shinji.jpg
+avatar_url: /static/images/people/higuchi-shinji/avatar.jpg
 bio:
   - Joined Toho's effects department straight out of high school and worked on <i>The Return of Godzilla</i> (1984), modeling the Godzilla costume and assisting suit actor Satsuma Kenpachirô to get in and out of the suit during filming.
   - "Also in 1984 he met animator An'no Hideaki and together they formed the animation studio Gainax. Higuchi was the namesake of the main character of Gainax's most popular work, <i>Neon Genesis Evangelion</i>."
@@ -53,7 +53,7 @@ works:
       - role: Storyboard Artist
       - role: Screenplay
     title: Neon Genesis Evangelion
-    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/neon-genesis-evangelion-1995/title_cards/Neon_Genesis_Evangelion_Title_Card.webp
+    title_card_url: /static/images/tv-series/neon-genesis-evangelion-1995/title_cards/Neon_Genesis_Evangelion_Title_Card.webp
     year: 1995
   - format: film
     poster_url: /static/images/films/gamera-2-attack-of-legion-1996/posters/poster.jpg

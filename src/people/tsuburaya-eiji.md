@@ -5,7 +5,7 @@ aliases:
     context:
     japanese_name: 圓谷英二
     name: Tsumuraya Eiji
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tsuburaya-eiji/tsuburaya-eiji.jpg
+avatar_url: /static/images/people/tsuburaya-eiji/avatar.jpg
 birth_name: Tsuburaya Eiichi
 birth_place: Fukushima, Japan
 cause_of_death: Angina

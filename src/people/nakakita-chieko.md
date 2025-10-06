@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/nakakita-chieko/nakakita-chieko.jpg
+avatar_url: /static/images/people/nakakita-chieko/avatar.jpg
 birth_place: Tokyo, Japan
 cause_of_death: Myocardial Infarction
 death_place: Tokyo, Japan

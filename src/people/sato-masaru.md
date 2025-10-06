@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sato-masaru/sato-masaru.jpg
+avatar_url: /static/images/people/sato-masaru/avatar.jpg
 birth_place: Rumoi, Hokkaido, Japan
 cause_of_death: Heart Failure
 dob: 1928-05-29

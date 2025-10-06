@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kosugi-yoshio/kosugi-yoshio.jpg
+avatar_url: /static/images/people/kosugi-yoshio/avatar.jpg
 birth_place: Kamitsuga, Tochigi, Japan
 dob: 1903-09-15
 dob_resolution: exact

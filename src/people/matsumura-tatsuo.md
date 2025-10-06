@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/matsumura-tatsuo/matsumura-tatsuo.jpg
+avatar_url: /static/images/people/matsumura-tatsuo/avatar.jpg
 birth_place: Yokohama, Kanagawa, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan

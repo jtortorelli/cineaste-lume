@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yashiro-miki/yashiro-miki.jpg
+avatar_url: /static/images/people/yashiro-miki/avatar.jpg
 birth_name: Yamada Mikiko
 birth_place: Yokohama, Kanagawa, Japan
 dob: 1943-01-01

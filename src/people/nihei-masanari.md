@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/nihei-masanari/nihei-masanari.jpg
+avatar_url: /static/images/people/nihei-masanari/avatar.jpg
 birth_place: Tokyo, Japan
 cause_of_death: Pneumonia
 dob: 1940-12-04

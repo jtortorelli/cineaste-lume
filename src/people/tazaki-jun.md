@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tazaki-jun/tazaki-jun.jpg
+avatar_url: /static/images/people/tazaki-jun/avatar.jpg
 birth_name: Tanaka Minoru
 birth_place: Aomori, Japan
 cause_of_death: Lung Cancer

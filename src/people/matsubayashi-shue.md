@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/matsubayashi-shue/matsubayashi-shue.jpg
+avatar_url: /static/images/people/matsubayashi-shue/avatar.jpg
 birth_place: Gotsu, Shimane, Japan
 cause_of_death: Heart Failure
 dob: 1920-07-07

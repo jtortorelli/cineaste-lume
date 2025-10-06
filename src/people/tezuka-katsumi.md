@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tezuka-katsumi/tezuka-katsumi.jpg
+avatar_url: /static/images/people/tezuka-katsumi/avatar.jpg
 dob: 1912-08-21
 dob_resolution: exact
 dod: unknown

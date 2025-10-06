@@ -2,7 +2,7 @@
 tags: ["cineaste", "people"]
 active_period_end: 1975
 active_period_start: 1959
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/groups/peanuts/peanuts.jpg
+avatar_url: /static/images/people/peanuts/avatar.jpg
 japanese_name: ザ・ピーナッツ
 members:
   - birth_name: Itô Hideyo

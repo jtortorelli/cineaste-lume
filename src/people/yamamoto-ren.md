@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yamamoto-ren/yamamoto-ren.jpg
+avatar_url: /static/images/people/yamamoto-ren/avatar.jpg
 birth_name: Yamamoto Kiyoshi
 birth_place: Ashigarakami, Kanagawa, Japan
 cause_of_death: Cerebral Hemorrhage

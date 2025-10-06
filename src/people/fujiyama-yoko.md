@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/fujiyama-yoko/fujiyama-yoko.jpg
+avatar_url: /static/images/people/fujiyama-yoko/avatar.jpg
 bio:
   - Graduated from Toho's "New Face" class in 1961 and debuted in the first <i>Young Guy</i> film opposite Kayama Yûzô
   - Frequently appeared in supporting roles in comedies. She also worked frequently with actor Natsuki Yôsuke and played his sister on multiple occasions.

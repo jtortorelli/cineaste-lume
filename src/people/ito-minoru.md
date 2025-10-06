@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ito-minoru/ito-minoru.jpg
+avatar_url: /static/images/people/ito-minoru/avatar.jpg
 birth_place: Chiba, Japan
 dob: 1928-03-13
 dob_resolution: exact

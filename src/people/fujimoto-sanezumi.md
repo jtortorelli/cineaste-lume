@@ -4,7 +4,7 @@ aliases:
   - context: Pseudonym
     japanese_name: 塚本靖
     name: Tsukamoto Yasushi
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/fujimoto-sanezumi/fujimoto-sanezumi.jpg
+avatar_url: /static/images/people/fujimoto-sanezumi/avatar.jpg
 bio:
   - Began his career submitting articles to the <i>Kinema Junpo</i> film journal under the pseudonym Tsukamoto Yasushi.
   - Invited to join PCL (later Toho) after graduation by president Mori Iwao.

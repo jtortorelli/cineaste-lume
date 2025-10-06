@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yamada-minosuke/yamada-minosuke.jpg
+avatar_url: /static/images/people/yamada-minosuke/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1893-11-13
 dob_resolution: exact

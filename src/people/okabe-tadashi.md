@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/okabe-tadashi/okabe-tadashi.jpg
+avatar_url: /static/images/people/okabe-tadashi/avatar.jpg
 birth_place: Saitama, Japan
 dob: 1923-05-11
 dob_resolution: exact

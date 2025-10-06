@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/suzuki-haruo/suzuki-haruo.jpg
+avatar_url: /static/images/people/suzuki-haruo/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1926-10-04
 dob_resolution: exact

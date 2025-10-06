@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/mishima-ko/mishima-ko.jpg
+avatar_url: /static/images/people/mishima-ko/avatar.jpg
 birth_name: Hase Katsuhiro
 birth_place: Tokyo, Japan
 dob: 1927-05-20

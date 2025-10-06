@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/miki-norihei/miki-norihei.jpg
+avatar_url: /static/images/people/miki-norihei/avatar.jpg
 birth_name: Tanuma Tadashi
 birth_place: Tokyo, Japan
 cause_of_death: Liver Tumor

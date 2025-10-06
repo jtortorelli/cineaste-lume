@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/fujiki-yu/fujiki-yu.jpg
+avatar_url: /static/images/people/fujiki-yu/avatar.jpg
 bio:
   - "Fujiki was a skilled fencer in college. In 1951 he won the single men's epee category of the All Japan Fencer's Championship."
   - Joined Toho in the 6th "New Face" class, along with Okada Masumi, Takarada Akira, Sahara Kenji, and Kouchi Momoko.

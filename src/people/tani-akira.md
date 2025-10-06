@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tani-akira/tani-akira.jpg
+avatar_url: /static/images/people/tani-akira/avatar.jpg
 birth_place: Osaka, Japan
 cause_of_death: Suicide
 death_place: Tokyo, Japan

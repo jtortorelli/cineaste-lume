@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/senda-koreya/senda-koreya.jpg
+avatar_url: /static/images/people/senda-koreya/avatar.jpg
 birth_name: Itô Kunio
 birth_place: Tokyo, Japan
 cause_of_death: Liver Cancer

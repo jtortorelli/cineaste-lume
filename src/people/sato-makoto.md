@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sato-makoto/sato-makoto.jpg
+avatar_url: /static/images/people/sato-makoto/avatar.jpg
 birth_place: Saga, Japan
 cause_of_death: Pneumonia
 death_place: Kawasaki, Japan

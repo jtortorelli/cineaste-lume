@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sunazuka-hideo/sunazuka-hideo.jpg
+avatar_url: /static/images/people/sunazuka-hideo/avatar.jpg
 birth_place: Shizuoka, Japan
 dob: 1932-08-07
 dob_resolution: exact

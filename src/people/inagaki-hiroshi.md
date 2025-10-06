@@ -9,7 +9,7 @@ aliases:
     context:
     japanese_name: 東明浩
     name: Azuma Akihiro
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/inagaki-hiroshi/inagaki-hiroshi.jpg
+avatar_url: /static/images/people/inagaki-hiroshi/avatar.jpg
 bio:
   - Began touring with his father's acting company after age 8 when his mother died.
   - Joined Nikkatsu at age 17, became a third assistant director at age 21.

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/otowa-nobuko/otowa-nobuko.jpg
+avatar_url: /static/images/people/otowa-nobuko/avatar.jpg
 birth_name: Kaji Nobuko
 birth_place: Saihaku, Tottori, Japan
 cause_of_death: Cirrhosis

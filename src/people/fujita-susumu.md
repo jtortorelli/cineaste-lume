@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/fujita-susumu/fujita-susumu.jpg
+avatar_url: /static/images/people/fujita-susumu/avatar.jpg
 bio:
   - "Had his big break playing the title role in Kurosawa Akira's first film <i>Sanshiro Sugata</i> (1943), a role he reprised in <i>Sanshiro Sugata: Part Two</i> (1945)."
   - Regularly played military officers and other officials in science fiction films due to his "tough guy" persona.

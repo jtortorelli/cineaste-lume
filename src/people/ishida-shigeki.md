@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ishida-shigeki/ishida-shigeki.jpg
+avatar_url: /static/images/people/ishida-shigeki/avatar.jpg
 bio:
   - Toho-exclusive actor who appeared in many supporting roles in sci-fi, fantasy, and <i>Crazy Cats</i> comedies during the 60s.
   - Continued to appear on television throughout the 80s.

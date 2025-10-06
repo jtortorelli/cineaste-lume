@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yanagiya-kingoro/yanagiya-kingoro.jpg
+avatar_url: /static/images/people/yanagiya-kingoro/avatar.jpg
 birth_name: Yamashita Keitarô
 birth_place: Tokyo, Japan
 cause_of_death: Stomach Cancer

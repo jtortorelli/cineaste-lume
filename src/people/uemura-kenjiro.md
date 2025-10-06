@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/uemura-kenjiro/uemura-kenjiro.jpg
+avatar_url: /static/images/people/uemura-kenjiro/avatar.jpg
 birth_place: Tokyo, Japan
 cause_of_death: Dueodenal Perforation
 dob: 1914-01-03

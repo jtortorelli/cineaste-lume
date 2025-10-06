@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sugimura-haruko/sugimura-haruko.jpg
+avatar_url: /static/images/people/sugimura-haruko/avatar.jpg
 birth_name: Nakano Haruko
 birth_place: Hiroshima, Japan
 cause_of_death: Pancreatic Cancer

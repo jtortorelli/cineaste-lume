@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kodo-kuninori/kodo-kuninori.jpg
+avatar_url: /static/images/people/kodo-kuninori/avatar.jpg
 birth_name: Tanikawa Saichirô
 birth_place: Takasago, Hyogo, Japan
 dob: 1887-01-29

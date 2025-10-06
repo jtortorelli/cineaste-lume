@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/enomoto-kenichi/enomoto-kenichi.jpg
+avatar_url: /static/images/people/enomoto-kenichi/avatar.jpg
 bio:
   - Made his debut in a Japanese production of the opera <i>Carmen</i>, singing in the chorus.
   - A talented singer who worked with Columbia, Victor and Polydor in Japan. He leveraged his improvisational skills to make the leap to film.

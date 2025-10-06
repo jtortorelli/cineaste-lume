@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tajima-yoshibumi/tajima-yoshibumi.jpg
+avatar_url: /static/images/people/tajima-yoshibumi/avatar.jpg
 birth_place: Kobe, Hyogo, Japan
 cause_of_death: Esophageal Cancer
 dob: 1918-08-04

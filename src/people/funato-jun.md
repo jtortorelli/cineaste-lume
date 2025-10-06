@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/funato-jun/funato-jun.jpg
+avatar_url: /static/images/people/funato-jun/avatar.jpg
 bio:
   - First worked as a civil servant after graduating from high school. His appearance in a local talent contest gained him recognition and helped launch his entertainment career.
   - An exclusive contract actor for Toho during the 60s.

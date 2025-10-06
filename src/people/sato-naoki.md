@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sato-naoki/sato-naoki.jpg
+avatar_url: /static/images/people/sato-naoki/avatar.jpg
 birth_place: Chiba, Japan
 dob: 1970-05-02
 dob_resolution: exact

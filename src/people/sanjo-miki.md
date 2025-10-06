@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sanjo-miki/sanjo-miki.jpg
+avatar_url: /static/images/people/sanjo-miki/avatar.jpg
 birth_place: Kyoto, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan

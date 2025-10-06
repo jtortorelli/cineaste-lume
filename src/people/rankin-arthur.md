@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/rankin-arthur/rankin-arthur.jpg
+avatar_url: /static/images/people/rankin-arthur/avatar.jpg
 birth_place: New York City, New York, United States
 death_place: Harrington Sound, Bermuda
 dob: 1924-07-19

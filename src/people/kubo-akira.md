@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kubo-akira/kubo-akira.jpg
+avatar_url: /static/images/people/kubo-akira/avatar.jpg
 birth_name: Yamauchi Yasuyoshi
 birth_place: Tokyo, Japan
 dob: 1936-12-01

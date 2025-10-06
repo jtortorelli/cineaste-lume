@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tanaka-tomoyuki/tanaka-tomoyuki.jpg
+avatar_url: /static/images/people/tanaka-tomoyuki/avatar.jpg
 birth_place: Osaka, Japan
 cause_of_death: Cerebral Infarction
 dob: 1910-04-26

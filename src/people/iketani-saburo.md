@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/iketani-saburo/iketani-saburo.jpg
+avatar_url: /static/images/people/iketani-saburo/avatar.jpg
 bio:
   - Worked as an announcer with TBS in the 60s and 70s. Often appeared as announcers in science fiction films.
   - Published exclusive interviews with actors Sakai Sachio and Tachibana Masaaki before the premier of <i>Godzilla vs. King Ghidorah</i> (1991).

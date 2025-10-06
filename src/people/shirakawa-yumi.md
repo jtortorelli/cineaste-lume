@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/shirakawa-yumi/shirakawa-yumi.jpg
+avatar_url: /static/images/people/shirakawa-yumi/avatar.jpg
 birth_name: Yamazaki Akiko
 birth_place: Tokyo, Japan
 cause_of_death: Heart Failure

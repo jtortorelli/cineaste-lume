@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ai-kyoko/ai-kyoko.jpg
+avatar_url: /static/images/people/ai-kyoko/avatar.jpg
 bio:
   - Graduated from Soai College.
   - Discovered by a talent scout while working at a coffee shop.

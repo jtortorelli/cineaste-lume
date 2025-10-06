@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/nakamura-tetsu/nakamura-tetsu.jpg
+avatar_url: /static/images/people/nakamura-tetsu/avatar.jpg
 birth_name: Nakamura Satoshi
 birth_place: Vancouver, British Columbia, Canada
 cause_of_death: Heart Failure

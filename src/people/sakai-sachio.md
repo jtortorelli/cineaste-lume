@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sakai-sachio/sakai-sachio.jpg
+avatar_url: /static/images/people/sakai-sachio/avatar.jpg
 birth_name: Abe Yukio
 birth_place: Tokyo, Japan
 dob: 1925-09-08

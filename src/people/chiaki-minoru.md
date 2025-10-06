@@ -16,7 +16,7 @@ accolades:
     films:
       - title: Gray Sunset
     status: won
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/chiaki-minoru/chiaki-minoru.jpg
+avatar_url: /static/images/people/chiaki-minoru/avatar.jpg
 bio:
   - Aspired to be an actor since childhood and debuted in theater in 1936 at age 19.
   - Served in the army from 1939 through 1942, stationed at Sakhalin.

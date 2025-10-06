@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yamazaki-takashi/yamazaki-takashi.jpg
+avatar_url: /static/images/people/yamazaki-takashi/avatar.jpg
 birth_place: Matsumoto, Nagano, Japan
 dob: 1964-06-12
 dob_resolution: exact

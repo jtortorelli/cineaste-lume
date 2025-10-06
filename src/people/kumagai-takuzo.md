@@ -5,7 +5,7 @@ aliases:
     context: Before 1964
     japanese_name: 熊谷二良
     name: Kumagai Jirô
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kumagai-takuzo/kumagai-takuzo.jpg
+avatar_url: /static/images/people/kumagai-takuzo/avatar.jpg
 birth_place: Nagano, Japan
 dob: 1906-11-03
 dob_resolution: exact

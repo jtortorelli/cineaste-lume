@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/arishima-ichiro/arishima-ichiro.jpg
+avatar_url: /static/images/people/arishima-ichiro/avatar.jpg
 bio:
   - Apprenticed under comedic actor Tamura Kunio in 1933
   - Toured with various comedy troupes during WWII before shooting to fame with a breakout performance on NHK Radio's Sunday entertainment program.

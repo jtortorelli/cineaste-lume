@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kato-shigeo/kato-shigeo.jpg
+avatar_url: /static/images/people/kato-shigeo/avatar.jpg
 birth_place: Kamakura, Kanagawa, Japan
 cause_of_death: Chronic Renal Failure
 death_place: Kamakura, Kanagawa, Japan

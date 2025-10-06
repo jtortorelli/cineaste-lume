@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/miyauchi-kunio/miyauchi-kunio.jpg
+avatar_url: /static/images/people/miyauchi-kunio/avatar.jpg
 birth_name: Miyauchi Kokurô
 birth_place: Tokyo, Japan
 cause_of_death: Colon Cancer

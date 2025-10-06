@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sakakida-keiji/sakakida-keiji.jpg
+avatar_url: /static/images/people/sakakida-keiji/avatar.jpg
 birth_place: Akita, Japan
 dob: 1900-01-15
 dob_resolution: exact

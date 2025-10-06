@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/miller-linda/miller-linda.jpg
+avatar_url: /static/images/people/miller-linda/avatar.jpg
 birth_place: Pennsylvania, United States
 dob: 1947-12-26
 dob_resolution: exact

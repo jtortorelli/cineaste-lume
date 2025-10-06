@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/wakayama-setsuko/wakayama-setsuko.jpg
+avatar_url: /static/images/people/wakayama-setsuko/avatar.jpg
 birth_name: Sakazume Setesuko
 birth_place: Tokyo, Japan
 cause_of_death: Suicide

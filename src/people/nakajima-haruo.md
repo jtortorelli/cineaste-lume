@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/nakajima-haruo/nakajima-haruo.jpg
+avatar_url: /static/images/people/nakajima-haruo/avatar.jpg
 birth_place: Sakata, Yamagata, Japan
 cause_of_death: Pneumonia
 dob: 1929-01-01

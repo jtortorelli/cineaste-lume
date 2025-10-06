@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/suzuki-kazuo/suzuki-kazuo.jpg
+avatar_url: /static/images/people/suzuki-kazuo/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1937-01-18
 dob_resolution: exact

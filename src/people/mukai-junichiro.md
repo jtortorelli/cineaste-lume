@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/mukai-junichiro/mukai-junichiro.jpg
+avatar_url: /static/images/people/mukai-junichiro/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1927-07-04
 dob_resolution: exact

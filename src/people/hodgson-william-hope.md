@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/hodgson-william-hope/hodgson-william-hope.jpg
+avatar_url: /static/images/people/hodgson-william-hope/avatar.jpg
 bio:
   - Ran away from boarding school to become a sailor. His father eventually granted him permission to become a cabin boy. Bullying from his crewmates motivated him to undertake a rigorous physcial training regiment. When he returned to England he opened a personal training school, but failed to earn a living from it.
   - He began writing by submitting articles to health publications, and then branched out into fiction, which was more lucrative. He drew inspiration for his stories from his experiences at sea, especially the "Sargasso Sea" in the Atlantic.
@@ -19,13 +19,13 @@ name: William Hope Hodgson
 profession: Author
 type: person
 works:
-  - cover_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/books/voice-in-the-night-1907/William%20Hope%20Hodgson%20Voice%20in%20the%20Night.jpg
+  - cover_url: /static/images/books/voice-in-the-night-1907/William%20Hope%20Hodgson%20Voice%20in%20the%20Night.jpg
     format: book
     staff:
       - role: Author
     title: The Voice in the Night
     year: 1907
-  - cover_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/books/house-on-the-borderland-1908/House%20on%20the%20Borderland%20First.jpg
+  - cover_url: /static/images/books/house-on-the-borderland-1908/House%20on%20the%20Borderland%20First.jpg
     format: book
     staff:
       - role: Author
@@ -36,7 +36,7 @@ works:
       - episode_count: 1
         role: Original Work
     title: Suspicion
-    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/books/suspicion-1957/Suspicion%20TV%20Title%20Card.jpg
+    title_card_url: /static/images/books/suspicion-1957/Suspicion%20TV%20Title%20Card.jpg
     year: 1957
   - format: film
     poster_url: /static/images/films/matango-1963/posters/poster.jpg

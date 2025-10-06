@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/natsuki-junpei/natsuki-junpei.jpg
+avatar_url: /static/images/people/natsuki-junpei/avatar.jpg
 birth_place: Fukuoka, Japan
 dob: 1918-06-15
 dob_resolution: exact

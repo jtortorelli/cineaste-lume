@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/takarada-akira/takarada-akira.jpg
+avatar_url: /static/images/people/takarada-akira/avatar.jpg
 birth_place: Hamgyeongbuk-do, Korea
 dob: 1934-04-29
 dob_resolution: exact

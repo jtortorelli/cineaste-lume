@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/togin-chotaro/togin-chotaro.jpg
+avatar_url: /static/images/people/togin-chotaro/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1941-11-18
 dob_resolution: exact

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/fukuda-jun/fukuda-jun.jpg
+avatar_url: /static/images/people/fukuda-jun/avatar.jpg
 bio:
   - Raised in Manchuria during the Japanese occupation. A poor student, he preferred leisure activities to studying.
   - Recruited by Toho and became and assistant director under Inagaki Hiroshi and Honda Ishirô.

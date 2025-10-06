@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/asahiyo-taro/asahiyo-taro.jpg
+avatar_url: /static/images/people/asahiyo-taro/avatar.jpg
 bio:
   - Stowed away on a cargo ship to compete in his first sumo match in Amami in 1948 at age 19.
   - Distinctive for his stature, thick eyebrows and chest hair, which were unusual for sumo wrestlers.

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/shimozawa-kan/shimozawa-kan.jpg
+avatar_url: /static/images/people/shimozawa-kan/avatar.jpg
 birth_name: Umetani Matsutarô
 birth_place: Atsuta, Hokkaido, Japan
 cause_of_death: Myocardial Infarction

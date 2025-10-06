@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/nakamaru-tadao/nakamaru-tadao.jpg
+avatar_url: /static/images/people/nakamaru-tadao/avatar.jpg
 birth_place: Tokyo, Japan
 cause_of_death: Aneurysm
 death_place: Tokyo, Japan

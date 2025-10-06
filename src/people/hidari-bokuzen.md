@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/hidari-bokuzen/hidari-bokuzen.jpg
+avatar_url: /static/images/people/hidari-bokuzen/avatar.jpg
 bio:
   - Descended from a long line of village priests in Saitama.
   - Supported himself through high school by working as a milk delivery boy, newspaper delivery boy, and construction worker.

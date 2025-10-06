@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ueda-kichijiro/ueda-kichijiro.jpg
+avatar_url: /static/images/people/ueda-kichijiro/avatar.jpg
 birth_name: Ueda Sadao
 birth_place: Kobe, Hyogo, Japan
 cause_of_death: Laryngeal Cancer

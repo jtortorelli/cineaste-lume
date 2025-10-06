@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/miyazaki-hayao/miyazaki-hayao.jpg
+avatar_url: /static/images/people/miyazaki-hayao/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1941-01-15
 dob_resolution: exact

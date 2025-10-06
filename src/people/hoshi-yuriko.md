@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/hoshi-yuriko/hoshi-yuriko.jpg
+avatar_url: /static/images/people/hoshi-yuriko/avatar.jpg
 bio:
   - Recruited by Toho after winning a beauty contest sponsored by the studio in 1958, and started appearing in films the next year.
   - Frequent co-star of Kayama Yûzô in the <i>Young Guy</i> film series.

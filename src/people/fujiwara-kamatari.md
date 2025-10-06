@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/fujiwara-kamatari/fujiwara-kamatari.jpg
+avatar_url: /static/images/people/fujiwara-kamatari/avatar.jpg
 bio:
   - Began his career at age 15 with the Asakusa Opera Company, and continued to perform until the Great Kanto Earthquake, after which he transitioned to acting.
   - Joined PCL and appeared in comedies in the 30s alongside actor Enomoto Ken'ichi. Became an exclusive contract actor when PCL became Toho.

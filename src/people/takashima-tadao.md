@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/takashima-tadao/takashima-tadao.jpg
+avatar_url: /static/images/people/takashima-tadao/avatar.jpg
 birth_place: Muko, Hyogo, Jaan
 death_place: Tokyo, Japan
 dob: 1930-07-27

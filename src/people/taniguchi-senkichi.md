@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/taniguchi-senkichi/taniguchi-senkichi.jpg
+avatar_url: /static/images/people/taniguchi-senkichi/avatar.jpg
 birth_place: Tokyo, Japan
 cause_of_death: Pneumonia
 dob: 1912-02-19

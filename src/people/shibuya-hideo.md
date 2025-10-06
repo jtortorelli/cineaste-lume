@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/shibuya-hideo/shibuya-hideo.jpg
+avatar_url: /static/images/people/shibuya-hideo/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1928-02-20
 dob_resolution: exact

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/matsumoto-somesho/matsumoto-somesho.jpg
+avatar_url: /static/images/people/matsumoto-somesho/avatar.jpg
 birth_name: Nomura Hachirô
 birth_place: Tokyo, Japan
 death_place: Tokyo, Japan

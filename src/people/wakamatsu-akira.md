@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/wakamatsu-akira/wakamatsu-akira.jpg
+avatar_url: /static/images/people/wakamatsu-akira/avatar.jpg
 birth_place: Fukushima, Japan
 dob: 1933-06-12
 dob_resolution: exact

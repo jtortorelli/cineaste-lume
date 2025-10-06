@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tsuda-mitsuo/tsuda-mitsuo.jpg
+avatar_url: /static/images/people/tsuda-mitsuo/avatar.jpg
 birth_place: Fukushima, Japan
 dob: 1910-09-13
 dob_resolution: exact

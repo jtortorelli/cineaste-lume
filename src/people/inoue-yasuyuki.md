@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/inoue-yasuyuki/inoue-yasuyuki.jpg
+avatar_url: /static/images/people/inoue-yasuyuki/avatar.jpg
 bio:
   - Born the 5th of 8 brothers.
   - Recruited into the navy in 1944. Later that year he lost his foot when he was struck by enemy aircraft fire. Released from army hospital in 1945 after the war concluded.

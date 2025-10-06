@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/gondo-yukihiko/gondo-yukihiko.jpg
+avatar_url: /static/images/people/gondo-yukihiko/avatar.jpg
 bio:
   - Frequent supporting actor in many Toho science fiction and fantasy films, but typically with little to no dialogue.
 japanese_name: 権藤幸彦

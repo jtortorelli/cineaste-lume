@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kato-daisuke/kato-daisuke.jpg
+avatar_url: /static/images/people/kato-daisuke/avatar.jpg
 birth_name: Katô Tokunosuke
 birth_place: Tokyo, Japan
 cause_of_death: Colon Cancer

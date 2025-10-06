@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ifukube-akira/ifukube-akira.jpg
+avatar_url: /static/images/people/ifukube-akira/avatar.jpg
 bio:
   - Born in Hokkaido and raised in community with the native Ainu populace. Ainu music later influenced his own composing style.
   - Obeyed his father's urging to study forestry, but continued to teach himself music in his spare time.

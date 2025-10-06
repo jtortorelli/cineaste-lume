@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/oda-motoyoshi/oda-motoyoshi.jpg
+avatar_url: /static/images/people/oda-motoyoshi/avatar.jpg
 birth_place: Fukuoka, Japan
 dob: 1909-07-21
 dob_resolution: exact

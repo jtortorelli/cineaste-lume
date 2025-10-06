@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/nakano-teruyoshi/nakano-teruyoshi.jpg
+avatar_url: /static/images/people/nakano-teruyoshi/avatar.jpg
 birth_place: Dandong, China
 cause_of_death: Sepsis
 dob: 1935-10-09

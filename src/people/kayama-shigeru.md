@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kayama-shigeru/kayama-shigeru.jpg
+avatar_url: /static/images/people/kayama-shigeru/avatar.jpg
 birth_name: Yamada Kôji
 birth_place: Tokyo, Japan
 cause_of_death: Heart Failure

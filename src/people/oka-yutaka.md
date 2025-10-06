@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/oka-yutaka/oka-yutaka.jpg
+avatar_url: /static/images/people/oka-yutaka/avatar.jpg
 birth_place: Kyoto, Japan
 dob: 1925-07-11
 dob_resolution: exact

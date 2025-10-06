@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/okami-jojiro/okami-jojiro.jpg
+avatar_url: /static/images/people/okami-jojiro/avatar.jpg
 birth_place: Osaka, Japan
 dob: 1918-10-31
 dob_resolution: exact

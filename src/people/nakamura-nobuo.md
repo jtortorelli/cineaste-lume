@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/nakamura-nobuo/nakamura-nobuo.jpg
+avatar_url: /static/images/people/nakamura-nobuo/avatar.jpg
 birth_place: Otaru, Hokkaido, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan

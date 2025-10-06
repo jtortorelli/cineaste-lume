@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kusama-akio/kusama-akio.jpg
+avatar_url: /static/images/people/kusama-akio/avatar.jpg
 dob: 1913-10-07
 dob_resolution: exact
 dod: unknown

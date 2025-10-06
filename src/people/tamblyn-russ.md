@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tamblyn-russ/tamblyn-russ.jpg
+avatar_url: /static/images/people/tamblyn-russ/avatar.jpg
 birth_name: Russell Irving Tamblyn
 birth_place: Los Angeles, California, United States
 dob: 1934-12-30

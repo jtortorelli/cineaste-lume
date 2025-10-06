@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/uno-koji/uno-koji.jpg
+avatar_url: /static/images/people/uno-koji/avatar.jpg
 birth_place: Fukuoka, Japan
 dob: 1924-04-21
 dob_resolution: exact

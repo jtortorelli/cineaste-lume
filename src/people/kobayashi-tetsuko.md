@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kobayashi-tetsuko/kobayashi-tetsuko.jpg
+avatar_url: /static/images/people/kobayashi-tetsuko/avatar.jpg
 birth_place: Tokyo, Japan
 cause_of_death: Lung Cancer
 dob: 1941-03-12

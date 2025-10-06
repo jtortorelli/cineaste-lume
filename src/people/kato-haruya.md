@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kato-haruya/kato-haruya.jpg
+avatar_url: /static/images/people/kato-haruya/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1928-06-22
 dob_resolution: exact

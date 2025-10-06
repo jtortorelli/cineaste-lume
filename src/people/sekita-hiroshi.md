@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sekita-hiroshi/sekita-hiroshi.jpg
+avatar_url: /static/images/people/sekita-hiroshi/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1932-11-17
 dob_resolution: exact

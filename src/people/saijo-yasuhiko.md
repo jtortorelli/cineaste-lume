@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/saijo-yasuhiko/saijo-yasuhiko.jpg
+avatar_url: /static/images/people/saijo-yasuhiko/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1939-02-20
 dob_resolution: exact

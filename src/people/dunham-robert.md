@@ -5,7 +5,7 @@ aliases:
     context:
     japanese_name: ダン・ユマ
     name: Dan Yuma
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/dunham-robert/dunham-robert.jpg
+avatar_url: /static/images/people/dunham-robert/avatar.jpg
 bio:
   - Served with the United States Marines in the Korean War, after which he deployed to Yokohama, where he lived for 20 years.
   - Became a valuable asset to Japanese filmmakers as a Westerner who could speak fluent Japanese and interact with native-speaking co-stars.

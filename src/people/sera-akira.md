@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sera-akira/sera-akira.jpg
+avatar_url: /static/images/people/sera-akira/avatar.jpg
 birth_name: Watanabe Akira
 birth_place: Okayama, Japan
 dob: 1912-10-14

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/takada-minoru/takada-minoru.jpg
+avatar_url: /static/images/people/takada-minoru/avatar.jpg
 birth_name: Takada Noboru
 birth_place: Akita, Japan
 cause_of_death: Liver Cancer

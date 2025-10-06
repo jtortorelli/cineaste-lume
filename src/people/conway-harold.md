@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/conway-harold/conway-harold-s.jpg
+avatar_url: /static/images/people/conway-harold/avatar.jpg
 bio:
   - Worked as a tax accountant in Japan before appearing in films playing foreign speaking parts.
   - His delivery of his Japanese lines in <i>The Mysterians</i> (1957) was considered impressive for a non-native speaker.

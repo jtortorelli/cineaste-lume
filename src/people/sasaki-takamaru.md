@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sasaki-takamaru/sasaki-takamaru.jpg
+avatar_url: /static/images/people/sasaki-takamaru/avatar.jpg
 birth_place: Kawakami, Hokkaido, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan

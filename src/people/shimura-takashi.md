@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/shimura-takashi/shimura-takashi.jpg
+avatar_url: /static/images/people/shimura-takashi/avatar.jpg
 birth_name: Shimazaki Shôji
 birth_place: Asago, Hyogo, Japan
 cause_of_death: Chronic Emphysema

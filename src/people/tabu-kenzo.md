@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tabu-kenzo/tabu-kenzo.jpg
+avatar_url: /static/images/people/tabu-kenzo/avatar.jpg
 birth_name: Tabu Yasutarô
 birth_place: Kyoto, Japan
 cause_of_death: Brain Tumor

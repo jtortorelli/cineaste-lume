@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tachikawa-hiroshi/tachikawa-hiroshi.jpg
+avatar_url: /static/images/people/tachikawa-hiroshi/avatar.jpg
 birth_name: Tachikawa Yôichi
 birth_place: Tokyo, Japan
 dob: 1931-05-07

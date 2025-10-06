@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kawai-kenji/kawai-kenji.jpg
+avatar_url: /static/images/people/kawai-kenji/avatar.jpg
 dob: 1957-04-23
 dob_resolution: exact
 japanese_name: 川井憲次

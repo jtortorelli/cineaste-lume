@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/mizuno-kumi/mizuno-kumi.jpg
+avatar_url: /static/images/people/mizuno-kumi/avatar.jpg
 birth_name: Igarashi Maya
 birth_place: Sanjo, Niigata, Japan
 dob: 1937-01-01

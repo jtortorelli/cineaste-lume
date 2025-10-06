@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/hasegawa-hiroshi/hasegawa-hiroshi.jpg
+avatar_url: /static/images/people/hasegawa-hiroshi/avatar.jpg
 bio:
   - Debuted in film in 1962.
   - Appeared in a number of films for director Kihachi Okamoto.

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/shimizu-gen/shimizu-gen.jpg
+avatar_url: /static/images/people/shimizu-gen/avatar.jpg
 birth_place: Tokyo, Japan
 cause_of_death: Stomach Cancer
 dob: 1907-01-01

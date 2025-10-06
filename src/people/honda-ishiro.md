@@ -4,7 +4,7 @@ aliases:
   - category: mistranslation
     japanese_name: 本多猪四郎
     name: Honda Inoshirô
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/honda-ishiro/honda-ishiro.jpg
+avatar_url: /static/images/people/honda-ishiro/avatar.jpg
 bio:
   - Member of the first graduating class of Nihon University College of Art Film Department in 1931.
   - Joined PCL in 1933 and studied under Yamamoto Kajirô, alongside Kurosawa Akira and Taniguchi Senkichi. Kurosawa and Honda would remain lifelong friends.
@@ -204,14 +204,14 @@ works:
       - episode_count: 5
         role: Director
     title: Return of Ultraman
-    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/return-of-ultraman-1971/title-cards/Return%20of%20Ultraman%20Title%20Card.webp
+    title_card_url: /static/images/tv-series/return-of-ultraman-1971/title-cards/Return%20of%20Ultraman%20Title%20Card.webp
     year: 1971
   - format: tv series
     staff:
       - episode_count: 2
         role: Director
     title: Mirrorman
-    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/mirrorman-1971/title-cards/Mirrorman%20Title%20Card.png
+    title_card_url: /static/images/tv-series/mirrorman-1971/title-cards/Mirrorman%20Title%20Card.png
     year: 1971
   - format: film
     poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.jpg

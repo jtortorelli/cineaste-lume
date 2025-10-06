@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yachigusa-kaoru/yachigusa-kaoru.jpg
+avatar_url: /static/images/people/yachigusa-kaoru/avatar.jpg
 birth_name: Matsuda Hitomi
 birth_place: Osaka, Japan
 cause_of_death: Pancreatic Cancer

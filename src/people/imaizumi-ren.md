@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/imaizumi-ren/imaizumi-ren.jpg
+avatar_url: /static/images/people/imaizumi-ren/avatar.jpg
 bio:
   - Unassuming actor who appeared in several films during the 50s, but disappeared from the scene after 1960.
 japanese_name: 今泉廉

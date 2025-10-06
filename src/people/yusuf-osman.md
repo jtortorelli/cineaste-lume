@@ -5,7 +5,7 @@ aliases:
     context:
     japanese_name: ""
     name: Johnny Yusef
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/yusef-osman/yusef-osman.jpg
+avatar_url: /static/images/people/yusef-osman/avatar.jpg
 birth_place: Ottoman Empire
 dob: 1920-05-23
 dob_resolution: exact

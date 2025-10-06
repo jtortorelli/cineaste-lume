@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kobayashi-yukiko/kobayashi-yukiko.jpg
+avatar_url: /static/images/people/kobayashi-yukiko/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1946-10-06
 dob_resolution: exact

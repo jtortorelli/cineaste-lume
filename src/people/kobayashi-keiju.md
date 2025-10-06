@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kobayashi-keiju/kobayashi-keiju.jpg
+avatar_url: /static/images/people/kobayashi-keiju/avatar.jpg
 birth_place: Murota, Gunma, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan

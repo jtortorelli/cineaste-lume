@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ubukata-soji/ubukata-soji.jpg
+avatar_url: /static/images/people/ubukata-soji/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1908-03-29
 dob_resolution: exact

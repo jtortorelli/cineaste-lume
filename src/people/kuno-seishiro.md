@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kuno-seishiro/kuno-seishiro.jpg
+avatar_url: /static/images/people/kuno-seishiro/avatar.jpg
 birth_place: Shizuoka, Japan
 dob: 1940-04-18
 dob_resolution: exact

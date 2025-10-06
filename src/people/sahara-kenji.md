@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sahara-kenji/sahara-kenji.jpg
+avatar_url: /static/images/people/sahara-kenji/avatar.jpg
 birth_name: Katô Masayoshi
 birth_place: Kawasaki, Kanagawa, Japan
 dob: 1932-05-14

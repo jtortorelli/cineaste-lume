@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/maeda-beverly/maeda-beverly.jpg
+avatar_url: /static/images/people/maeda-beverly/avatar.jpg
 birth_place: Kamakura, Kanagawa, Japan
 dob: 1948-08-08
 dob_resolution: exact

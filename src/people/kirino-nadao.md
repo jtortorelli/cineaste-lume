@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kirino-nadao/kirino-nadao.jpg
+avatar_url: /static/images/people/kirino-nadao/avatar.jpg
 birth_place: Matsuyama, Ehime, Japan
 dob: 1932-11-24
 dob_resolution: exact

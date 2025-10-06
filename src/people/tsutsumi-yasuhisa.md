@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/tsutsumi-yasuhisa/tsutsumi-yasuhisa.jpg
+avatar_url: /static/images/people/tsutsumi-yasuhisa/avatar.jpg
 birth_place: Tokyo, Japan
 dob: 1922-03-30
 dob_resolution: exact

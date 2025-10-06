@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/oki-shoji/oki-shoji.jpg
+avatar_url: /static/images/people/oki-shoji/avatar.jpg
 birth_place: Shizuoka, Japan
 dob: 1936-09-27
 dob_resolution: exact

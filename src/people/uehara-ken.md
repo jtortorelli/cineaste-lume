@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/uehara-ken/uehara-ken.jpg
+avatar_url: /static/images/people/uehara-ken/avatar.jpg
 birth_name: Ikehata Kiyoaki
 birth_place: Tokyo, Japan
 cause_of_death: Heart Failure

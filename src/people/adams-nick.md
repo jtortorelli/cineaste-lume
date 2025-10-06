@@ -6,7 +6,7 @@ accolades:
     films:
       - title: Twilight of Honor
     status: nominated
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/adams-nick/85296_v9_ba.jpg
+avatar_url: /static/images/people/adams-nick/avatar.jpg
 bio:
   - Served in the Coast Guard from 1952 through 1955.
   - Acquainted with Jack Palance, Henry Fonda, James Dean, and Elvis Presley.
@@ -32,7 +32,7 @@ works:
     staff:
       - role: Creator
     title: The Rebel
-    title_card_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/tv-series/rebel-1959/title_cards/s-l1200.jpg
+    title_card_url: /static/images/tv-series/rebel-1959/title_cards/s-l1200.jpg
     year: 1959
   - format: Film
     poster_url: /static/images/films/twilight-of-honor-1963/posters/poster.jpg
@@ -60,7 +60,7 @@ works:
       - name: John Carter
     title: The Killing Bottle
     year: 1967
-  - cover_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/books/rebel-and-the-king-2012/The%20Rebel%20and%20the%20King.jpg
+  - cover_url: /static/images/books/rebel-and-the-king-2012/The%20Rebel%20and%20the%20King.jpg
     format: Book
     staff:
       - role: Author

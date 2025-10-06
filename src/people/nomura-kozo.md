@@ -5,7 +5,7 @@ aliases:
     context:
     japanese_name: 野村明司
     name: Nomura Akiji
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/nomura-kozo/nomura-kozo.jpg
+avatar_url: /static/images/people/nomura-kozo/avatar.jpg
 birth_name: Osao Kazuhiro
 birth_place: Tokyo, Japan
 dob: 1931-12-22

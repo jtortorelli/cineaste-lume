@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/ibuki-toru/ibuki-toru.jpg
+avatar_url: /static/images/people/ibuki-toru/avatar.jpg
 bio:
   - While initially cast in lead roles, he soon found his calling playing more sinister and villainous roles, such as henchmen or aliens.
   - Migrated to television after Toho's contract system collapsed in the early 70s.

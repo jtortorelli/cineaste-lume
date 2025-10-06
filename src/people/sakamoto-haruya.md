@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/sakamoto-haruya/sakamoto-haruya.jpg
+avatar_url: /static/images/people/sakamoto-haruya/avatar.jpg
 dob: 1928-08-23
 dob_resolution: exact
 japanese_name: 坂本晴哉

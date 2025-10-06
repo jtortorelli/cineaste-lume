@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kurobe-susumu/kurobe-susumu.jpg
+avatar_url: /static/images/people/kurobe-susumu/avatar.jpg
 birth_name: Yoshimoto Takashi
 birth_place: Kurobe, Toyama, Japan
 dob: 1939-10-22

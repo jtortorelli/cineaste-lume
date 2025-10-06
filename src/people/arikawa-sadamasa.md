@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/arikawa-sadamasa/arikawa-sadamasa.jpg
+avatar_url: /static/images/people/arikawa-sadamasa/avatar.jpg
 bio:
   - Served as a bomber pilot in WWII.
   - Joined Toho briefly and then left over labor disputes.

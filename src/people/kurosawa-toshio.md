@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/kurosawa-toshio/kurosawa-toshio.jpg
+avatar_url: /static/images/people/kurosawa-toshio/avatar.jpg
 birth_place: Yokohama, Kanagawa, Japan
 dob: 1944-02-04
 dob_resolution: exact

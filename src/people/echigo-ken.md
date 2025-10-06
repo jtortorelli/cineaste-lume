@@ -5,7 +5,7 @@ aliases:
     context:
     japanese_name: 越後憲三
     name: Echigo Kenzô
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/echigo-ken/echigo-ken.jpg
+avatar_url: /static/images/people/echigo-ken/avatar.jpg
 bio:
   - Joined Toho through the second "New Face" program in 1947.
   - Appeared frequently in bit parts throughout the 50s and 60s, including numerous science fiction films. Retired in 1971.

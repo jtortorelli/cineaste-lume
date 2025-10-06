@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: https://tcpyguvhxiihxcocbhoh.supabase.co/storage/v1/object/public/godzilla-cineaste-public/content/people/nakamura-ganjiro/nakamura-ganjiro.jpg
+avatar_url: /static/images/people/nakamura-ganjiro/avatar.jpg
 birth_name: Hayashi Yoshio
 birth_place: Osaka, Japan
 dob: 1902-02-17
