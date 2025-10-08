@@ -9,7 +9,6 @@ original_works:
     title: 20th Century Boys
   - authors:
       - name: Urasawa Naoki
-        slug: urasawa-naoki
     format: manga
     slug: 21st-century-boys
     title: 21st Century Boys
