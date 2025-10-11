@@ -6,3 +6,7 @@
   --font-detail: "Sono", monospace;
   --font-japanese: "Noto Serif", serif;
 }
+
+@plugin "daisyui" {
+  themes: light --default;
+}

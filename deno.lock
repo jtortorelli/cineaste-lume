@@ -30,6 +30,7 @@
     "jsr:@std/yaml@^1.0.5": "1.0.9",
     "npm:@tailwindcss/node@4.1.13": "4.1.13",
     "npm:@tailwindcss/oxide@4.1.13": "4.1.13",
+    "npm:daisyui@*": "5.2.3",
     "npm:date-fns@4.1.0": "4.1.0",
     "npm:lightningcss-wasm@1.30.1": "1.30.1",
     "npm:markdown-it-attrs@4.3.1": "4.3.1_markdown-it@14.1.0",
@@ -250,6 +251,9 @@
     },
     "chownr@3.0.0": {
       "integrity": "sha512-+IxzY9BZOQd/XuYPRmrvEVjF/nqj5kgT4kEq7VofrDoM1MxoRjEWkrCC3EtLi59TVawxTAn+orJwFQcrqEN1+g=="
+    },
+    "daisyui@5.2.3": {
+      "integrity": "sha512-sldBQUIFCsSPoF4LvoHhIi9GnvBX/3aZD9NoTOvpTSX8sDjO484wQx7yEvRyREMpn4rZMvQSKKskHAHdM8+B4Q=="
     },
     "date-fns@4.1.0": {
       "integrity": "sha512-Ukq0owbQXxa/U3EGtsdVBkR1w7KOQ5gIBqdH2hkvknzZPYvBxb/aa6E8L7tmjFtkwZBu3UXBbjIgPo/Ez4xaNg=="

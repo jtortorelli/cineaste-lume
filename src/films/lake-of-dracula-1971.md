@@ -13,7 +13,7 @@ series:
   previous_entry:
     slug: vampire-doll-1970
     title: The Vampire Doll
-    year: 1971
+    year: 1970
   slug: bloodthirsty
   title: Bloodthirsty
 staff:

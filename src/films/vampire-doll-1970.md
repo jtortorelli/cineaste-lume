@@ -2,7 +2,7 @@
 tags: ["cineaste", "films"]
 japanese_title: 幽霊屋敷の恐怖 血を吸う人形
 poster_url: /static/images/films/vampire-doll-1970/posters/poster.jpg
-release_date: 1971-07-04
+release_date: 1970-07-04
 runtime: 71
 series:
   entry_number: 1

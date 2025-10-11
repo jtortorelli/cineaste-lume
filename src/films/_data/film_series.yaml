@@ -1,0 +1,505 @@
+20th-century-boys:
+  title: "20th Century Boys"
+  entries:
+    - title: "20th Century Boys 1: The Beginning of the End"
+      year: 2008
+      slug: "20th-century-boys-1-the-beginning-of-the-end-2008"
+    - title: "20th Century Boys 2: The Last Hope"
+      year: 2009
+      slug: "20th-century-boys-2-the-last-hope-2009"
+    - title: "20th Century Boys 3: Redemption"
+      year: 2009
+      slug: "20th-century-boys-3-redemption-2009"
+always-sunset-on-third-street:
+  title: "Always: Sunset on Third Street"
+  entries:
+    - title: "Always: Sunset on Third Street"
+      year: 2005
+      slug: "always-sunset-on-third-street-2005"
+    - title: "Always: Sunset on Third Street 2"
+      year: 2007
+      slug: "always-sunset-on-third-street-2-2007"
+    - title: "Always: Sunset on Third Street 3"
+      year: 2012
+      slug: "always-sunset-on-third-street-3-2012"
+assassination-classroom:
+  title: "Assassination Classroom"
+  entries:
+    - title: "Assassination Classroom"
+      year: 2015
+      slug: "assassination-classroom-2015"
+    - title: "Assassination Classroom: Graduation"
+      year: 2016
+      slug: "assassination-classroom-graduation-2016"
+attack-on-titan:
+  title: "Attack on Titan"
+  entries:
+    - title: "Attack on Titan"
+      year: 2015
+      slug: "attack-on-titan-2015"
+    - title: "Attack on Titan: End of the World"
+      year: 2015
+      slug: "attack-on-titan-end-of-the-world-2015"
+azumi:
+  title: "Azumi"
+  entries:
+    - title: "Azumi"
+      year: 2003
+      slug: "azumi-2003"
+    - title: "Azumi 2: Death or Love"
+      year: 2005
+      slug: "azumi-2-death-or-love-2005"
+battle-royale:
+  title: "Battle Royale"
+  entries:
+    - title: "Battle Royale"
+      year: 2000
+      slug: "battle-royale-2000"
+    - title: "Battle Royale II: Requiem"
+      year: 2003
+      slug: "battle-royale-ii-requiem-2003"
+bloodthirsty:
+  title: "Bloodthirsty"
+  entries:
+    - title: "The Vampire Doll"
+      year: 1970
+      slug: "vampire-doll-1970"
+    - title: "Lake of Dracula"
+      year: 1971
+      slug: "lake-of-dracula-1971"
+    - title: "Evil of Dracula"
+      year: 1974
+      slug: "evil-of-dracula-1974"
+daimajin:
+  title: "Daimajin"
+  entries:
+    - title: "Daimajin"
+      year: 1966
+      slug: "daimajin-1966"
+    - title: "Return of Daimajin"
+      year: 1966
+      slug: "return-of-daimajin-1966"
+    - title: "Wrath of Daimajin"
+      year: 1966
+      slug: "wrath-of-daimajin-1966"
+death-note:
+  title: "Death Note"
+  entries:
+    - title: "Death Note"
+      year: 2006
+      slug: "death-note-2006"
+    - title: "Death Note: The Last Name"
+      year: 2006
+      slug: "death-note-the-last-name-2006"
+    - title: "L: Change the World"
+      year: 2008
+      slug: "l-change-the-world-2008"
+    - title: "Death Note: Light Up the New World"
+      year: 2016
+      slug: "death-note-light-up-the-new-world-2016"
+eko-eko-azarak:
+  title: "Eko Eko Azarak"
+  entries:
+    - title: "Eko Eko Azarak: Wizard of Darkness"
+      year: 1995
+      slug: "eko-eko-azarak-wizard-of-darkness-1995"
+    - title: "Eko Eko Azarak II: Birth of the Wizard"
+      year: 1996
+      slug: "eko-eko-azarak-ii-birth-of-the-wizard-1996"
+    - title: "Eko Eko Azarak III: Misa the Dark Angel"
+      year: 1998
+      slug: "eko-eko-azarak-iii-misa-the-dark-angel-1998"
+frankenstein:
+  title: "Frankenstein"
+  entries:
+    - title: "Frankenstein Conquers the World"
+      year: 1965
+      slug: "frankenstein-conquers-the-world-1965"
+    - title: "War of the Gargantuas"
+      year: 1966
+      slug: "war-of-the-gargantuas-1966"
+gamera:
+  title: "Gamera"
+  entries:
+    - title: "Gamera the Giant Monster"
+      year: 1965
+      slug: "gamera-the-giant-monster-1965"
+    - title: "Gamera vs. Barugon"
+      year: 1966
+      slug: "gamera-vs-barugon-1966"
+    - title: "Gamera vs. Gyaos"
+      year: 1967
+      slug: "gamera-vs-gyaos-1967"
+    - title: "Gamera vs. Viras"
+      year: 1968
+      slug: "gamera-vs-viras-1968"
+    - title: "Gamera vs. Guiron"
+      year: 1969
+      slug: "gamera-vs-guiron-1969"
+    - title: "Gamera vs. Jiger"
+      year: 1970
+      slug: "gamera-vs-jiger-1970"
+    - title: "Gamera vs. Zigra"
+      year: 1971
+      slug: "gamera-vs-zigra-1971"
+    - title: "Gamera: Super Monster"
+      year: 1980
+      slug: "gamera-super-monster-1980"
+    - title: "Gamera: Guardian of the Universe"
+      year: 1995
+      slug: "gamera-guardian-of-the-universe-1995"
+    - title: "Gamera 2: Attack of Legion"
+      year: 1996
+      slug: "gamera-2-attack-of-legion-1996"
+    - title: "Gamera 3: Revenge of Iris"
+      year: 1999
+      slug: "gamera-3-revenge-of-iris-1999"
+    - title: "Gamera the Brave"
+      year: 2006
+      slug: "gamera-the-brave-2006"
+gantz:
+  title: "Gantz"
+  entries:
+    - title: "Gantz"
+      year: 2011
+      slug: "gantz-2011"
+    - title: "Gantz: Perfect Answer"
+      year: 2011
+      slug: "gantz-perfect-answer-2011"
+godzilla:
+  title: "Godzilla"
+  entries:
+    - title: "Godzilla"
+      year: 1954
+      slug: "godzilla-1954"
+    - title: "Godzilla Raids Again"
+      year: 1955
+      slug: "godzilla-raids-again-1955"
+    - title: "King Kong vs. Godzilla"
+      year: 1962
+      slug: "king-kong-vs-godzilla-1962"
+    - title: "Mothra vs. Godzilla"
+      year: 1964
+      slug: "mothra-vs-godzilla-1964"
+    - title: "Ghidorah, the Three-Headed Monster"
+      year: 1964
+      slug: "ghidorah-the-three-headed-monster-1964"
+    - title: "Invasion of Astro-Monster"
+      year: 1965
+      slug: "invasion-of-astro-monster-1965"
+    - title: "Ebirah, Horror of the Deep"
+      year: 1966
+      slug: "ebirah-horror-of-the-deep-1966"
+    - title: "Son of Godzilla"
+      year: 1967
+      slug: "son-of-godzilla-1967"
+    - title: "Destroy All Monsters"
+      year: 1968
+      slug: "destroy-all-monsters-1968"
+    - title: "All Monsters Attack"
+      year: 1969
+      slug: "all-monsters-attack-1969"
+    - title: "Godzilla vs. Hedorah"
+      year: 1971
+      slug: "godzilla-vs-hedorah-1971"
+    - title: "Godzilla vs. Gigan"
+      year: 1972
+      slug: "godzilla-vs-gigan-1972"
+    - title: "Godzilla vs. Megalon"
+      year: 1973
+      slug: "godzilla-vs-megalon-1973"
+    - title: "Godzilla vs. Mechagodzilla"
+      year: 1974
+      slug: "godzilla-vs-mechagodzilla-1974"
+    - title: "Terror of Mechagodzilla"
+      year: 1975
+      slug: "terror-of-mechagodzilla-1975"
+    - title: "The Return of Godzilla"
+      year: 1984
+      slug: "return-of-godzilla-1984"
+    - title: "Godzilla vs. Biollante"
+      year: 1989
+      slug: "godzilla-vs-biollante-1989"
+    - title: "Godzilla vs. King Ghidorah"
+      year: 1991
+      slug: "godzilla-vs-king-ghidorah-1991"
+    - title: "Godzilla vs. Mothra"
+      year: 1992
+      slug: "godzilla-vs-mothra-1992"
+    - title: "Godzilla vs. Mechagodzilla II"
+      year: 1993
+      slug: "godzilla-vs-mechagodzilla-ii-1993"
+    - title: "Godzilla vs. SpaceGodzilla"
+      year: 1994
+      slug: "godzilla-vs-spacegodzilla-1994"
+    - title: "Godzilla vs. Destoroyah"
+      year: 1995
+      slug: "godzilla-vs-destoroyah-1995"
+    - title: "Godzilla 2000: Millennium"
+      year: 1999
+      slug: "godzilla-2000-millennium-1999"
+    - title: "Godzilla vs. Megaguirus"
+      year: 2000
+      slug: "godzilla-vs-megaguirus-2000"
+    - title: "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack"
+      year: 2001
+      slug: "godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001"
+    - title: "Godzilla Against Mechagodzilla"
+      year: 2002
+      slug: "godzilla-against-mechagodzilla-2002"
+    - title: "Godzilla: Tokyo S.O.S."
+      year: 2003
+      slug: "godzilla-tokyo-sos-2003"
+    - title: "Godzilla: Final Wars"
+      year: 2004
+      slug: "godzilla-final-wars-2004"
+    - title: "Shin Godzilla"
+      year: 2016
+      slug: "shin-godzilla-2016"
+    - title: "Godzilla Minus One"
+      year: 2023
+kaiji:
+  title: "Kaiji"
+  entries:
+    - title: "Kaiji"
+      year: 2009
+      slug: "kaiji-2009"
+    - title: "Kaiji 2"
+      year: 2011
+      slug: "kaiji-2-2011"
+    - title: "Kaiji: Final Game"
+      year: 2020
+kamen-rider:
+  title: "Kamen Rider"
+  entries:
+    - title: "Kamen Rider: The First"
+      year: 2005
+      slug: "kamen-rider-the-first-2005"
+    - title: "Kamen Rider: The Next"
+      year: 2007
+      slug: "kamen-rider-the-next-2007"
+kerberos:
+  title: "Kerberos"
+  entries:
+    - title: "The Red Spectacles"
+      year: 1987
+      slug: "red-spectacles-1987"
+    - title: "Stray Dog: Kerberos Panzer Cops"
+      year: 1991
+      slug: "stray-dog-kerberos-panzer-cops-1991"
+    - title: "Jin-Roh: The Wolf Brigade"
+      year: 2000
+      slug: "jin-roh-the-wolf-brigade-2000"
+library-wars:
+  title: "Library Wars"
+  entries:
+    - title: "Library Wars"
+      year: 2013
+      slug: "library-wars-2013"
+    - title: "Library Wars: The Last Mission"
+      year: 2015
+      slug: "library-wars-the-last-mission-2015"
+musashi-miyamoto:
+  title: "Musashi Miyamoto"
+  entries:
+    - title: "Samurai I: Musashi Miyamoto"
+      year: 1954
+      slug: "samurai-i-musashi-miyamoto-1954"
+    - title: "Samurai II: Duel at Ichijoji Temple"
+      year: 1955
+      slug: "samurai-ii-duel-at-ichijoji-temple-1955"
+    - title: "Samurai III: Duel at Ganryu Island"
+      year: 1956
+      slug: "samurai-iii-duel-at-ganryu-island-1956"
+one-missed-call:
+  title: "One Missed Call"
+  entries:
+    - title: "One Missed Call"
+      year: 2003
+      slug: "one-missed-call-2003"
+    - title: "One Missed Call 2"
+      year: 2005
+      slug: "one-missed-call-2-2005"
+    - title: "One Missed Call: Final"
+      year: 2006
+      slug: "one-missed-call-final-2006"
+osaka-castle:
+  title: "Osaka Castle"
+  entries:
+    - title: "Daredevil in the Castle"
+      year: 1961
+      slug: "daredevil-in-the-castle-1961"
+    - title: "Whirlwind"
+      year: 1964
+      slug: "whirlwind-1964"
+parasyte:
+  title: "Parasyte"
+  entries:
+    - title: "Parasyte: Part 1"
+      year: 2014
+      slug: "parasyte-part-1-2014"
+    - title: "Parasyte: Part 2"
+      year: 2015
+      slug: "parasyte-part-2-2015"
+patlabor:
+  title: "Patlabor"
+  entries:
+    - title: "Patlabor: The Movie"
+      year: 1989
+      slug: "patlabor-the-movie-1989"
+    - title: "Patlabor 2: The Movie"
+      year: 1993
+      slug: "patlabor-2-the-movie-1993"
+    - title: "WXIII: Patlabor the Movie 3"
+      year: 2001
+rebirth-of-mothra:
+  title: "Rebirth of Mothra"
+  entries:
+    - title: "Rebirth of Mothra"
+      year: 1996
+      slug: "rebirth-of-mothra-1996"
+    - title: "Rebirth of Mothra II"
+      year: 1997
+      slug: "rebirth-of-mothra-ii-1997"
+    - title: "Rebirth of Mothra III"
+      year: 1998
+      slug: "rebirth-of-mothra-iii-1998"
+ring:
+  title: "Ring"
+  entries:
+    - title: "Ring"
+      year: 1998
+      slug: "ring-1998"
+    - title: "Spiral"
+      year: 1998
+      slug: "spiral-1998"
+    - title: "Ring 2"
+      year: 1999
+      slug: "ring-2-1999"
+    - title: "Ring 0: Birthday"
+      year: 2000
+      slug: "ring-0-birthday-2000"
+rurouni-kenshin:
+  title: "Rurouni Kenshin"
+  entries:
+    - title: "Rurouni Kenshin"
+      year: 2012
+      slug: "rurouni-kenshin-2012"
+    - title: "Rurouni Kenshin: Kyoto Inferno"
+      year: 2014
+      slug: "rurouni-kenshin-kyoto-inferno-2014"
+    - title: "Rurouni Kenshin: The Legend Ends"
+      year: 2014
+      slug: "rurouni-kenshin-the-legend-ends-2014"
+    - title: "Rurouni Kenshin: The Final"
+      year: 2021
+    - title: "Rurouni Kenshin: The Beginning"
+      year: 2021
+team-batista:
+  title: "Team Batista"
+  entries:
+    - title: "The Glorious Team Batista"
+      year: 2008
+      slug: "glorious-team-batista-2008"
+    - title: "The Triumphant Return of General Rouge"
+      year: 2009
+      slug: "triumphant-return-of-general-rouge-2009"
+yojimbo:
+  title: "Yojimbo"
+  entries:
+    - title: "Yojimbo"
+      year: 1961
+      slug: "yojimbo-1961"
+    - title: "Sanjuro"
+      year: 1962
+      slug: "sanjuro-1962"
+zatoichi:
+  title: "Zatoichi"
+  entries:
+    - title: "The Tale of Zatoichi"
+      year: 1962
+      slug: "tale-of-zatoichi-1962"
+    - title: "The Tale of Zatoichi Continues"
+      year: 1962
+      slug: "tale-of-zatoichi-continues-1962"
+    - title: "New Tale of Zatoichi"
+      year: 1963
+      slug: "new-tale-of-zatoichi-1963"
+    - title: "Zatoichi the Fugitive"
+      year: 1963
+      slug: "zatoichi-the-fugitive-1963"
+    - title: "Zatoichi on the Road"
+      year: 1963
+      slug: "zatoichi-on-the-road-1963"
+    - title: "Zatoichi and the Chest of Gold"
+      year: 1964
+      slug: "zatoichi-and-the-chest-of-gold-1964"
+    - title: "Zatoichi's Flashing Sword"
+      year: 1964
+      slug: "zatoichis-flashing-sword-1964"
+    - title: "Fight, Zatoichi, Fight"
+      year: 1964
+      slug: "fight-zatoichi-fight-1964"
+    - title: "Adventures of Zatoichi"
+      year: 1964
+      slug: "adventures-of-zatoichi-1964"
+    - title: "Zatoichi's Revenge"
+      year: 1965
+      slug: "zatoichis-revenge-1965"
+    - title: "Zatoichi and the Doomed Man"
+      year: 1965
+      slug: "zatoichi-and-the-doomed-man-1965"
+    - title: "Zatoichi and the Chess Expert"
+      year: 1965
+      slug: "zatoichi-and-the-chess-expert-1965"
+    - title: "Zatoichi's Vengeance"
+      year: 1966
+      slug: "zatoichis-vengeance-1966"
+    - title: Zatoichi's Pilgrimage
+      year: 1966
+      slug: "zatoichis-pilgrimage-1966"
+    - title: Zatoichi's Cane Sword
+      year: 1967
+      slug: "zatoichis-cane-sword-1967"
+    - title: "Zatoichi the Outlaw"
+      year: 1967
+      slug: "zatoichi-the-outlaw-1967"
+    - title: "Zatoichi Challenged"
+      year: 1967
+      slug: "zatoichi-challenged-1967"
+    - title: "Zatoichi and the Fugitives"
+      year: 1968
+      slug: "zatoichi-and-the-fugitives-1968"
+    - title: "Samaritan Zatoichi"
+      year: 1968
+      slug: "samaritan-zatoichi-1968"
+    - title: "Zatoichi Meets Yojimbo"
+      year: 1970
+      slug: "zatoichi-meets-yojimbo-1970"
+    - title: "Zatoichi Goes to the Fire Festival"
+      year: 1970
+      slug: "zatoichi-goes-to-the-fire-festival-1970"
+    - title: "Zatoichi Meets the One-Armed Swordsman"
+      year: 1971
+      slug: "zatoichi-meets-the-one-armed-swordsman-1971"
+    - title: "Zatoichi At Large"
+      year: 1972
+      slug: "zatoichi-at-large-1972"
+    - title: "Zatoichi in Desperation"
+      year: 1972
+      slug: "zatoichi-in-desperation-1972"
+    - title: "Zatoichi's Conspiracy"
+      year: 1973
+      slug: "zatoichis-conspiracy-1973"
+    - title: "Zatoichi"
+      year: 1989
+      slug: "zatoichi-1989"
+zeiram:
+  title: "Zëiram"
+  entries:
+    - title: "Zëiram"
+      year: 1991
+      slug: "zeiram-1991"
+    - title: "Zëiram 2"
+      year: 1994
+      slug: "zeiram-2-1994"

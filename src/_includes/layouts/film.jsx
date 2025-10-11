@@ -16,7 +16,8 @@ export default ({
   original_works,
   studios,
   comp,
-}, { icon }) => (
+  film_series,
+}, { date, icon }) => (
   <>
     <div class="text-center w-fit m-auto">
       <h1 class="font-display tracking-wider uppercase p-2 text-2xl text-gray-700">
@@ -44,7 +45,9 @@ export default ({
               inline
             />
           </div>
-          <div>{new Date(release_date).toLocaleDateString()}</div>
+          <div>
+            {date(new Date(release_date), "d MMM yyyy")}
+          </div>
         </div>
         <div class="text-gray-700 font-content flex items-center gap-1">
           <div>
@@ -65,8 +68,10 @@ export default ({
             />
           </div>
           <div class="space-y-1">
-            <div class="font-japanese tracking-wide text-gray-700">
-              {japanese_title}
+            <div
+              class="font-japanese tracking-wide text-gray-700"
+              dangerouslySetInnerHTML={{ __html: japanese_title }}
+            >
             </div>
             <div class="font-content italic text-xs text-gray-500">
               {transliteration}
@@ -128,7 +133,7 @@ export default ({
                   <div class="font-content italic text-gray-700">
                     {alias.alias}
                   </div>
-                  <div class="font-detail text-xs text-gray-500">
+                  <div class="font-detail uppercase text-xs text-gray-500">
                     {alias.context}
                   </div>
                 </div>
@@ -150,18 +155,63 @@ export default ({
               <div class="flex gap-1 items-baseline">
                 <div>
                   <i>{series.title}</i> Series No. {series.entry_number}
+                  {film_series[series.slug] && (
+                    <>
+                      &nbsp;<button onclick="series_modal.showModal()">
+                        <img
+                          class="inline h-5 w-4 text-red-700 hover:cursor-pointer"
+                          src={icon("layers-subtract", "tabler", "outline")}
+                          inline
+                        />
+                      </button>
+                      <dialog id="series_modal" class="modal">
+                        <div class="modal-box">
+                          <form method="dialog">
+                            <button class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">
+                              <img
+                                class="h-5 w-5"
+                                src={icon("x", "tabler", "outline")}
+                                inline
+                              />
+                            </button>
+                          </form>
+                          <comp.named_divider
+                            name={`${film_series[series.slug].title} Series`}
+                          />
+                          <div class="text-gray-700 font-content text-sm">
+                            <ol class="list-decimal list-outside gap-2">
+                              {film_series[series.slug].entries.map((
+                                series_entry,
+                              ) => (
+                                <li class="ml-8 my-1">
+                                  {series_entry.slug
+                                    ? (
+                                      <comp.film_showcase_link
+                                        slug={series_entry.slug}
+                                      >
+                                        <i>
+                                          {series_entry.title}
+                                        </i>{" "}
+                                        ({series_entry.year})
+                                      </comp.film_showcase_link>
+                                    )
+                                    : (
+                                      <>
+                                        <i>
+                                          {series_entry.title}
+                                        </i>{" "}
+                                        ({series_entry.year})
+                                      </>
+                                    )}
+                                </li>
+                              ))}
+                            </ol>
+                          </div>
+                        </div>
+                      </dialog>
+                    </>
+                  )}
                 </div>
-                {
-                  /* <div>
-                  <a phx-click={show_modal("series-modal")}>
-                    <img
-                      class="inline h-5 w-4 text-red-700 hover:cursor-pointer"
-                      src={icon("layers-subtract", "tabler", { variant: "outline" })}
-                      inline
-                    />
-                  </a>
-                </div> */
-                }
               </div>
             </div>
 
