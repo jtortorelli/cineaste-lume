@@ -17,6 +17,8 @@ export default ({
   studios,
   comp,
   film_series,
+  credits,
+  basename,
 }, { date, icon }) => (
   <>
     <div class="text-center w-fit m-auto">
@@ -133,7 +135,7 @@ export default ({
                   <div class="font-content italic text-gray-700">
                     {alias.alias}
                   </div>
-                  <div class="font-detail uppercase text-xs text-gray-500">
+                  <div class="font-content text-xs text-gray-500">
                     {alias.context}
                   </div>
                 </div>
@@ -159,7 +161,7 @@ export default ({
                     <>
                       &nbsp;<button onclick="series_modal.showModal()">
                         <img
-                          class="inline h-5 w-4 text-red-700 hover:cursor-pointer"
+                          class="inline h-5 w-5 text-red-700 hover:cursor-pointer"
                           src={icon("layers-subtract", "tabler", "outline")}
                           inline
                         />
@@ -208,6 +210,9 @@ export default ({
                             </ol>
                           </div>
                         </div>
+                        <form method="dialog" class="modal-backdrop">
+                          <button>close</button>
+                        </form>
                       </dialog>
                     </>
                   )}
@@ -289,7 +294,7 @@ export default ({
       {staff.map((staff) => (
         <div class="lg:text-center text-left lg:break-inside-avoid-column pb-1">
           <div class="">
-            <span class="font-detail text-xs uppercase text-gray-500">
+            <span class="font-content text-xs text-gray-500">
               {staff.role}
             </span>
           </div>
@@ -332,17 +337,59 @@ export default ({
         </div>
       ))}
     </div>
-    {
-      /* <div
-      :if={@credits}
-      class="w-fit m-auto font-detail text-xs text-red-700 hover:cursor-pointer pt-2"
-    >
-      <a phx-click={show_modal("credits-modal")} class="uppercase">
-        Full Cast & Crew <.icon name="tabler-layers-subtract" class="h-4 w-4" />
-      </a>
-      <.full_credits_modal film={@film} credits={@credits} />
-    </div> */
-    }
+    {credits[basename] && (
+      <>
+        <div class="w-fit m-auto font-content text-sm text-red-700 hover:cursor-pointer pt-2">
+          <a onclick="credits_modal.showModal()">
+            Credits{" "}
+            <img
+              class="h-5 w-5 inline"
+              src={icon("layers-subtract", "tabler", "outline")}
+              inline
+            />
+          </a>
+        </div>
+        <dialog id="credits_modal" class="modal">
+          <div class="modal-box">
+            <form method="dialog">
+              <button class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">
+                <img
+                  class="h-5 w-5"
+                  src={icon("x", "tabler", "outline")}
+                  inline
+                />
+              </button>
+            </form>
+            <comp.named_divider name="Credits" />
+            <div class="grid grid-cols-2 gap-2 text-gray-700 font-content text-sm">
+              {credits[basename].map((
+                { japanese_role, japanese_name, role, name },
+              ) => (
+                <>
+                  <div>
+                    <span class="text-gray-500 font-mono text-xs">
+                      {japanese_role}
+                    </span>{" "}
+                    <br />
+                    <span>{role}</span>
+                  </div>
+                  <div>
+                    <span class="text-gray-500 font-mono text-xs">
+                      {japanese_name}
+                    </span>{" "}
+                    <br />
+                    <span>{name}</span>
+                  </div>
+                </>
+              ))}
+            </div>
+          </div>
+          <form method="dialog" class="modal-backdrop">
+            <button>close</button>
+          </form>
+        </dialog>
+      </>
+    )}
     <comp.named_divider name="top billed cast" />
     <comp.cast_block block={top_billed_cast} />
     {supporting_cast && supporting_cast.length > 0 && (
