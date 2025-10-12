@@ -9,7 +9,7 @@ kaiju:
     name: Godzilla
     portrayals:
       - people:
-          - name: Mansai Nomura
+          - name: Nomura Mansai
         type: Motion Capture
 poster_url: /static/images/films/shin-godzilla-2016/posters/poster.jpg
 release_date: 2016-07-29

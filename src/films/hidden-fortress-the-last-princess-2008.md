@@ -108,6 +108,7 @@ top_billed_cast:
   - avatar_url: /static/images/films/hidden-fortress-the-last-princess-2008/cast-avatars/akio-otsuka-0.jpg
     character_qualifiers:
     name: Ôtsuka Akio
+    qualifiers: Voice
     role: Narrator
   - avatar_url: /static/images/films/hidden-fortress-the-last-princess-2008/cast-avatars/arata-furuta-0.jpg
     character_qualifiers:
