@@ -7,11 +7,6 @@ accolades:
       - title: Twilight of Honor
     status: nominated
 avatar_url: /static/images/people/adams-nick/avatar.jpg
-bio:
-  - Served in the Coast Guard from 1952 through 1955.
-  - Acquainted with Jack Palance, Henry Fonda, James Dean, and Elvis Presley.
-  - Rumored to have had an affair with Mizuno Kumi, his co-star in 3 Japanese films.
-  - The circumstances of his death remain mysterious to this day.
 birth_name: Nicholas Aloysius Adamshock
 birth_place: Nanticoke, Pennsylvania, USA
 cause_of_death: Drug Overdose
@@ -32,7 +27,7 @@ works:
     staff:
       - role: Creator
     title: The Rebel
-    title_card_url: /static/images/tv-series/rebel-1959/title_cards/s-l1200.jpg
+    title_card_url: /static/images/tv-series/rebel-1959/title-cards/s-l1200.jpg
     year: 1959
   - format: Film
     poster_url: /static/images/films/twilight-of-honor-1963/posters/poster.jpg
@@ -67,3 +62,11 @@ works:
     title: The Rebel and the King
     year: 2012
 ---
+
+Served in the Coast Guard from 1952 through 1955.
+
+Acquainted with Jack Palance, Henry Fonda, James Dean, and Elvis Presley.
+
+Rumored to have had an affair with Mizuno Kumi, his co-star in 3 Japanese films.
+
+The circumstances of his death remain mysterious to this day.

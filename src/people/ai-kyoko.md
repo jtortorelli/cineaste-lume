@@ -1,10 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/ai-kyoko/avatar.jpg
-bio:
-  - Graduated from Soai College.
-  - Discovered by a talent scout while working at a coffee shop.
-  - Appeared in numerous TV series during the 60s.
 birth_name: Tabuchi Miho
 dob: 1943-03-02
 dob_resolution: exact
@@ -23,3 +19,9 @@ works:
     title: Destroy All Monsters
     year: 1968
 ---
+
+Graduated from Soai College.
+
+Discovered by a talent scout while working at a coffee shop.
+
+Appeared in numerous TV series during the 60s.

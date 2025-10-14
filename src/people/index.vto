@@ -1,5 +1,6 @@
 ---
 title: People
+layout: layouts/layout.vto
 ---
 
 <div class="text-center w-fit m-auto">
@@ -22,12 +23,12 @@ title: People
       <a href="{{ p.url }}">
         <div class="font-content text-sm">{{ p.name }}</div>
         {{ if p.profession }}
-        <div class="font-detail text-xs text-gray-500">
+        <div class="font-content text-xs text-gray-500">
           {{ p.profession }}
         </div>
         {{ /if }}
         {{ if p.type == "person" }}
-        <div class="font-detail text-xs text-red-700">
+        <div class="font-content text-xs text-gray-500">
           {{ comp person_date_range {p: p} }}{{ /comp }}
         </div>
         {{ /if }}

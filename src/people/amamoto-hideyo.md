@@ -5,11 +5,6 @@ aliases:
     japanese_name: 天本英世
     name: Amamoto Eisei
 avatar_url: /static/images/people/amamoto-hideyo/avatar.jpg
-bio:
-  - Drafted into the Japanese army at age 19. His wartime experience gave him a lifelong disgust with Japanese society in general.
-  - Fond of Spain and Spanish culture.
-  - Often cast in roles as older, more grotesque characters, despite being the same age as his co-stars.
-  - Frequently cast by director Kihachi Okamoto.
 birth_place: Fukuoka, Japan
 cause_of_death: Pneumonia
 death_place: Wakamatsu, Fukuoka, Japan
@@ -184,3 +179,13 @@ works:
     title: "Kamen Rider: The First"
     year: 2005
 ---
+
+Drafted into the Japanese army at age 19. His wartime experience gave him a
+lifelong disgust with Japanese society in general.
+
+Fond of Spain and Spanish culture.
+
+Often cast in roles as older, more grotesque characters, despite being the same
+age as his co-stars.
+
+Frequently cast by director Kihachi Okamoto.
