@@ -1,12 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/ito-hisaya/avatar.jpg
-bio:
-  - Graudated from Hosei University in 1947. Managed an electronics store before joining Toei as an actor in 1954.
-  - Moved to Toho in 1957 and debuted in <i>The Mysterians</i>.
-  - Frequently cast as scientists, policemen, or soldiers in the <i>kaiju eiga</i> genre.
-  - Retired from film after Toho released him from contract in 1970 and moved to television.
-  - Most well known as Malmess the Assassin in <i>Ghidorah, the Three-Headed Monster</i> (1964), a part originally written for actor Tsuchiya Yoshio.
 birth_name: Itô Naoya
 birth_place: Kobe, Hyogo, Japan
 dob: 1924-08-07
@@ -124,3 +118,17 @@ works:
     title: Destroy All Monsters
     year: 1968
 ---
+
+Graduated from Hosei University in 1947. Managed an electronics store before
+joining Toei as an actor in 1954.
+
+Moved to Toho in 1957 and debuted in <i>The Mysterians</i>.
+
+Frequently cast as scientists, policemen, or soldiers in the <i>kaiju eiga</i>
+genre.
+
+Retired from film after Toho released him from contract in 1970 and moved to
+television.
+
+Most well known as Malmess the Assassin in <i>Ghidorah, the Three-Headed
+Monster</i> (1964), a part originally written for actor Tsuchiya Yoshio.

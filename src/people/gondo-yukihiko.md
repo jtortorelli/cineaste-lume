@@ -1,8 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/gondo-yukihiko/avatar.jpg
-bio:
-  - Frequent supporting actor in many Toho science fiction and fantasy films, but typically with little to no dialogue.
 japanese_name: 権藤幸彦
 name: Gondô Yukihiko
 profession: Actor
@@ -185,3 +183,6 @@ works:
     title: Godzilla vs. Hedorah
     year: 1971
 ---
+
+Frequent supporting actor in many Toho science fiction and fantasy films, but
+typically with little to no dialogue.

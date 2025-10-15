@@ -1,10 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/conway-harold/avatar.jpg
-bio:
-  - Worked as a tax accountant in Japan before appearing in films playing foreign speaking parts.
-  - His delivery of his Japanese lines in <i>The Mysterians</i> (1957) was considered impressive for a non-native speaker.
-  - Conway appeared in scenes filmed for <i>Mothra vs. Godzilla</i> (1964) expressly filmed for English speaking audiences, which weren't shown in the original Japanese version.
 birth_place: Pennsylvania, United States
 death_place: Japan
 dob: 1911-05-24
@@ -85,3 +81,13 @@ works:
     title: Genocide
     year: 1968
 ---
+
+Worked as a tax accountant in Japan before appearing in films playing foreign
+speaking parts.
+
+His delivery of his Japanese lines in <i>The Mysterians</i> (1957) was
+considered impressive for a non-native speaker.
+
+Conway appeared in scenes filmed for <i>Mothra vs. Godzilla</i> (1964) expressly
+filmed for English speaking audiences, which weren't shown in the original
+Japanese version.

@@ -5,17 +5,6 @@ aliases:
     japanese_name: 本多猪四郎
     name: Honda Inoshirô
 avatar_url: /static/images/people/honda-ishiro/avatar.jpg
-bio:
-  - Member of the first graduating class of Nihon University College of Art Film Department in 1931.
-  - Joined PCL in 1933 and studied under Yamamoto Kajirô, alongside Kurosawa Akira and Taniguchi Senkichi. Kurosawa and Honda would remain lifelong friends.
-  - Served in the army in Manchuria during WWII. Passed through the ruins of Hiroshima on his train ride home after the war ended.
-  - Known for his staunch pacificism, anti-nuclear sentiments, and optimism for international cooperation that he expressed on screen in works like <i>Godzlla</i> (1954), <i>The Mysterians</i> (1957), <i>Battle in Outer Space</i> (1959) and <i>Gorath</i> (1962).
-  - Favored scientists and journalists for his protragonists and greedy, corrupt businessmen for his villains.
-  - Preferred to act out each scene with his actors in advance.
-  - Insisted on using higher quality, more costly single-camera setups while filming <i>Latitude Zero</i> over multi camera setups -- more suited to television -- demanded by American producers.
-  - "Together with Tsuburaya Eiji, Ifukube Akira, and screenwriters Sekizawa Shin'ichi and Kimura Takeshi, formed the core creative team behind many of Toho's classic science fiction films."
-  - Attempted to move the Godzilla series back towards its more serious roots with <i>Terror of Mechagodzilla</i> (1975). It would be his last film as director.
-  - 'Guillermo del Toro''s monster film <i>Pacific Rim</i> (2013) is dedicated to both Honda and Ray Harryhausen. Gareth Edwards'' <i>Godzilla</i> (2014) features a character named "Ishiro Serizawa", played by Ken Watanabe, who is a tribute to both Honda and the Serizawa character from <i>Godzilla</i> (1954), originally played by Hirata Akihiko.'
 birth_place: Asahi, Yamagata, Japan
 cause_of_death: Respiratory Failure
 dob: 1911-05-07
@@ -234,3 +223,39 @@ works:
     title: Ran
     year: 1985
 ---
+
+Member of the first graduating class of Nihon University College of Art Film
+Department in 1931.
+
+Joined PCL in 1933 and studied under Yamamoto Kajirô, alongside Kurosawa Akira
+and Taniguchi Senkichi. Kurosawa and Honda would remain lifelong friends.
+
+Served in the army in Manchuria during WWII. Passed through the ruins of
+Hiroshima on his train ride home after the war ended.
+
+Known for his staunch pacificism, anti-nuclear sentiments, and optimism for
+international cooperation that he expressed on screen in works like
+<i>Godzlla</i> (1954), <i>The Mysterians</i> (1957), <i>Battle in Outer
+Space</i> (1959) and <i>Gorath</i> (1962).
+
+Favored scientists and journalists for his protragonists and greedy, corrupt
+businessmen for his villains.
+
+Preferred to act out each scene with his actors in advance.
+
+Insisted on using higher quality, more costly single-camera setups while filming
+<i>Latitude Zero</i> over multi camera setups -- more suited to television --
+demanded by American producers.
+
+Together with Tsuburaya Eiji, Ifukube Akira, and screenwriters Sekizawa
+Shin'ichi and Kimura Takeshi, formed the core creative team behind many of
+Toho's classic science fiction films.
+
+Attempted to move the Godzilla series back towards its more serious roots with
+<i>Terror of Mechagodzilla</i> (1975). It would be his last film as director.
+
+Guillermo del Toro's monster film <i>Pacific Rim</i> (2013) is dedicated to both
+Honda and Ray Harryhausen. Gareth Edwards' <i>Godzilla</i> (2014) features a
+character named "Ishiro Serizawa", played by Ken Watanabe, who is a tribute to
+both Honda and the Serizawa character from <i>Godzilla</i> (1954), originally
+played by Hirata Akihiko.

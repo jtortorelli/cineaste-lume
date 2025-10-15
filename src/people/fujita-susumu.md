@@ -1,9 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/fujita-susumu/avatar.jpg
-bio:
-  - "Had his big break playing the title role in Kurosawa Akira's first film <i>Sanshiro Sugata</i> (1943), a role he reprised in <i>Sanshiro Sugata: Part Two</i> (1945)."
-  - Regularly played military officers and other officials in science fiction films due to his "tough guy" persona.
 birth_place: Tokyo, Japan
 cause_of_death: Liver Cancer
 death_place: Tokyo, Japan
@@ -101,3 +98,10 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
 ---
+
+Had his big break playing the title role in Kurosawa Akira's first film
+<i>Sanshiro Sugata</i> (1943), a role he reprised in <i>Sanshiro Sugata: Part
+Two</i> (1945).
+
+Regularly played military officers and other officials in science fiction films
+due to his "tough guy" persona.

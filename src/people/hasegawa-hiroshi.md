@@ -1,10 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/hasegawa-hiroshi/avatar.jpg
-bio:
-  - Debuted in film in 1962.
-  - Appeared in a number of films for director Kihachi Okamoto.
-  - Remained active in film and television through the 90s.
 birth_place: Tokyo, Japan
 dob: 1928-01-03
 dob_resolution: exact
@@ -37,3 +33,9 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
 ---
+
+Debuted in film in 1962.
+
+Appeared in a number of films for director Kihachi Okamoto.
+
+Remained active in film and television through the 90s.

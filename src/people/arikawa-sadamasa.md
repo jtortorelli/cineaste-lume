@@ -1,13 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/arikawa-sadamasa/avatar.jpg
-bio:
-  - Served as a bomber pilot in WWII.
-  - Joined Toho briefly and then left over labor disputes.
-  - Joined Tsuburaya Eiji's private film effects company while Tsuburaya was blacklisted.
-  - Returned to Toho with Tsuburaya.
-  - Became the second individual to bear the title "Director of Special Effects" at Toho in 1967 with the release of <i>Son of Godzilla</i>.
-  - Departed Toho in 1970, after the death of Tsuburaya and after completing <i>Space Amoeba</i>.
 birth_place: Tokyo, Japan
 cause_of_death: Lung Cancer
 death_place: Kamo, Shizuoka, Japan
@@ -203,3 +196,18 @@ works:
     title: Space Amoeba
     year: 1970
 ---
+
+Served as a bomber pilot in WWII.
+
+Joined Toho briefly and then left over labor disputes.
+
+Joined Tsuburaya Eiji's private film effects company while Tsuburaya was
+blacklisted.
+
+Returned to Toho with Tsuburaya.
+
+Became the second individual to bear the title "Director of Special Effects" at
+Toho in 1967 with the release of <i>Son of Godzilla</i>.
+
+Departed Toho in 1970, after the death of Tsuburaya and after completing
+<i>Space Amoeba</i>.

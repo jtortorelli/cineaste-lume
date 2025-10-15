@@ -1,11 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/fukuda-jun/avatar.jpg
-bio:
-  - Raised in Manchuria during the Japanese occupation. A poor student, he preferred leisure activities to studying.
-  - Recruited by Toho and became and assistant director under Inagaki Hiroshi and Honda Ishirô.
-  - His films tended to have more energy and movement than Honda's, and he preferred to work with composer Satô Masaru to compliment his style.
-  - Fukuda had a more hands-on approach to special effects than other directors, and often tread into the "sacred territory" reserved for the effects staff themselves.
 birth_place: New Kyoto, Manchuria
 cause_of_death: Lung Cancer
 dob: 1923-02-17
@@ -104,3 +99,16 @@ works:
     title: The War in Space
     year: 1977
 ---
+
+Raised in Manchuria during the Japanese occupation. A poor student, he preferred
+leisure activities to studying.
+
+Recruited by Toho and became and assistant director under Inagaki Hiroshi and
+Honda Ishirô.
+
+His films tended to have more energy and movement than Honda's, and he preferred
+to work with composer Satô Masaru to compliment his style.
+
+Fukuda had a more hands-on approach to special effects than other directors, and
+often tread into the "sacred territory" reserved for the effects staff
+themselves.

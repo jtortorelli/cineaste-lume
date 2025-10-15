@@ -17,12 +17,6 @@ accolades:
       - title: Gray Sunset
     status: won
 avatar_url: /static/images/people/chiaki-minoru/avatar.jpg
-bio:
-  - Aspired to be an actor since childhood and debuted in theater in 1936 at age 19.
-  - Served in the army from 1939 through 1942, stationed at Sakhalin.
-  - His performance in the play "Dataii" inspired Kurosawa Akira to produce <i>The Quiet Duel</i> (1949) and to cast Chiaki in his first film role in <i>Stray Dog</i> (also 1949). Chiaki went on to appear in several Kurosawa films over the next decade.
-  - His and Fujiwara Kamatari's peasant characters in <i>The Hidden Fortress</i> (1958) were cited as direct inspirations for R2-D2 and C-3PO in <i>Star Wars</i> (1977).
-  - Ironically, he outlived all his co-stars from <i>Seven Samurai</i> (1954), despite being the first casualty in that film.
 birth_name: Sasaki Katsuji
 birth_place: Nakagawa, Hokkaido, Japan
 cause_of_death: Cardiac Arrest
@@ -114,3 +108,19 @@ works:
     title: Gray Sunset
     year: 1985
 ---
+
+Aspired to be an actor since childhood and debuted in theater in 1936 at age 19.
+
+Served in the army from 1939 through 1942, stationed at Sakhalin.
+
+His performance in the play "Dataii" inspired Kurosawa Akira to produce <i>The
+Quiet Duel</i> (1949) and to cast Chiaki in his first film role in <i>Stray
+Dog</i> (also 1949). Chiaki went on to appear in several Kurosawa films over the
+next decade.
+
+His and Fujiwara Kamatari's peasant characters in <i>The Hidden Fortress</i>
+(1958) were cited as direct inspirations for R2-D2 and C-3PO in <i>Star Wars</i>
+(1977).
+
+Ironically, he outlived all his co-stars from <i>Seven Samurai</i> (1954),
+despite being the first casualty in that film.

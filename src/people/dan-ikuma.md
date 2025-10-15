@@ -1,15 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/dan-ikuma/avatar.jpg
-bio:
-  - Dan's grandfather, Dan Takuma, was assassinated in the League of Blood incident in 1932. The incident and its aftermath inspired Dan to become a composer.
-  - Son of businessman Dan Inô, president of Prince Motor Company, which later became Nissan.
-  - Trained at Tokyo School of Music and contracted with NHK and later Toho.
-  - Often collaborated with composers Akutagawa Yasushi and Mayuzumi Toshirô on concerts to debut their works.
-  - Composed the overture for the 1964 Summer Olympics, held in Tokyo.
-  - Suffered from congenital color blindness.
-  - In addition to music, he was an accomplished essayist, and received the Yomiuri Prize for Literature in 1968.
-  - Asteroid 17509, discovered in 1992, was named "Ikumadan" in his honor.
 birth_place: Tokyo, Japan
 cause_of_death: Heart Failure
 death_place: Suzhou, Jiangsu, China
@@ -56,3 +47,23 @@ works:
     title: The Last War
     year: 1961
 ---
+
+Dan's grandfather, Dan Takuma, was assassinated in the League of Blood incident
+in 1932. The incident and its aftermath inspired Dan to become a composer.
+
+Son of businessman Dan Inô, president of Prince Motor Company, which later
+became Nissan.
+
+Trained at Tokyo School of Music and contracted with NHK and later Toho.
+
+Often collaborated with composers Akutagawa Yasushi and Mayuzumi Toshirô on
+concerts to debut their works.
+
+Composed the overture for the 1964 Summer Olympics, held in Tokyo.
+
+Suffered from congenital color blindness.
+
+In addition to music, he was an accomplished essayist, and received the Yomiuri
+Prize for Literature in 1968.
+
+Asteroid 17509, discovered in 1992, was named "Ikumadan" in his honor.

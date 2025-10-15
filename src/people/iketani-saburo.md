@@ -1,9 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/iketani-saburo/avatar.jpg
-bio:
-  - Worked as an announcer with TBS in the 60s and 70s. Often appeared as announcers in science fiction films.
-  - Published exclusive interviews with actors Sakai Sachio and Tachibana Masaaki before the premier of <i>Godzilla vs. King Ghidorah</i> (1991).
 birth_place: Tokyo, Japan
 cause_of_death: Pneumonia
 dob: 1923-08-19
@@ -80,3 +77,9 @@ works:
     title: Destroy All Monsters
     year: 1968
 ---
+
+Worked as an announcer with TBS in the 60s and 70s. Often appeared as announcers
+in science fiction films.
+
+Published exclusive interviews with actors Sakai Sachio and Tachibana Masaaki
+before the premier of <i>Godzilla vs. King Ghidorah</i> (1991).

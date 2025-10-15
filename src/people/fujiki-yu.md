@@ -1,12 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/fujiki-yu/avatar.jpg
-bio:
-  - "Fujiki was a skilled fencer in college. In 1951 he won the single men's epee category of the All Japan Fencer's Championship."
-  - Joined Toho in the 6th "New Face" class, along with Okada Masumi, Takarada Akira, Sahara Kenji, and Kouchi Momoko.
-  - Became well known for starring with Takashima Tadao in numerous "salaryman" comedies. They would appear together in much the same fashion in both <i>King Kong vs. Godzilla</i> (1962) and <i>Atragon</i> (1963)
-  - In his later life he developed diabetes and lost sensation in his extremities. He and his wife became active in campaigning for diabetes awareness.
-  - His last film role was the Japan Academy Award nominated <i>Year One in the North</i> (2005), released a few months after his death.
 birth_name: Suzuki Yûzô
 birth_place: Tokyo, Japan
 cause_of_death: Pulmonary Embolism
@@ -108,3 +102,19 @@ works:
     title: Year One in the North
     year: 2005
 ---
+
+Fujiki was a skilled fencer in college. In 1951 he won the single men's epee
+category of the All Japan Fencer's Championship.
+
+Joined Toho in the 6th "New Face" class, along with Okada Masumi, Takarada
+Akira, Sahara Kenji, and Kouchi Momoko.
+
+Became well known for starring with Takashima Tadao in numerous "salaryman"
+comedies. They would appear together in much the same fashion in both <i>King
+Kong vs. Godzilla</i> (1962) and <i>Atragon</i> (1963)
+
+In his later life he developed diabetes and lost sensation in his extremities.
+He and his wife became active in campaigning for diabetes awareness.
+
+His last film role was the Japan Academy Award nominated <i>Year One in the
+North</i> (2005), released a few months after his death.

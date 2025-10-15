@@ -1,15 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/ifukube-akira/avatar.jpg
-bio:
-  - Born in Hokkaido and raised in community with the native Ainu populace. Ainu music later influenced his own composing style.
-  - Obeyed his father's urging to study forestry, but continued to teach himself music in his spare time.
-  - At age 21, his work <i>Japanese Rhapsody</i> won an international young composers' contest promoted by Russian composer Alexander Tcherepnin. Ifukube received formal musical education from Tcherepnin in 1936.
-  - Drafted into the army and assigned to study the structure of wooden fighter planes flown by the Allied forces. His work involved constant exposure to x-rays and fell ill from overexposure in 1945. He listened to the Japanese surrender on the radio from his sickbed.
-  - After leaving the army he was encouraged by Hayasaka Fumio to pursue film music to make a living. He had severe arguments with director Kurosawa Akira and Taniguchi Senkichi, but also befriended the blacklisted Tsuburaya Eiji. Tsuburaya and Ifukube were reunited on the set of <i>Godzilla</i> (1954), the first of many <i>kaiju eiga</i> scored by Ifukube.
-  - Credited with inventing Godzilla's iconic roar.
-  - First retired from film music after <i>Terror of Mechagodzilla</i> (1975). During the 80s he revised several of his pre-war concert works to incorporate themes from his film works, and wrote a new work, <i>Symphonic Fantasia</i>, to celebrate his science fiction and fantasy scores.
-  - He disapproved of the pop arrangement of his music in <i>Godzilla vs. Biollante</i> (1989) and came out of retirement to score four more Godzilla films in the 90s, retiring again after <i>Godzilla vs. Destoroyah</i> (1995).
 birth_place: Kushiro, Hokkaido, Japan
 cause_of_death: Intestinal Obstruction
 death_place: Tokyo, Japan
@@ -303,3 +294,35 @@ works:
     title: Godzilla vs. Destoroyah
     year: 1995
 ---
+
+Born in Hokkaido and raised in community with the native Ainu populace. Ainu
+music later influenced his own composing style.
+
+Obeyed his father's urging to study forestry, but continued to teach himself
+music in his spare time.
+
+At age 21, his work <i>Japanese Rhapsody</i> won an international young
+composers' contest promoted by Russian composer Alexander Tcherepnin. Ifukube
+received formal musical education from Tcherepnin in 1936.
+
+Drafted into the army and assigned to study the structure of wooden fighter
+planes flown by the Allied forces. His work involved constant exposure to x-rays
+and fell ill from overexposure in 1945. He listened to the Japanese surrender on
+the radio from his sickbed.
+
+After leaving the army he was encouraged by Hayasaka Fumio to pursue film music
+to make a living. He had severe arguments with director Kurosawa Akira and
+Taniguchi Senkichi, but also befriended the blacklisted Tsuburaya Eiji.
+Tsuburaya and Ifukube were reunited on the set of <i>Godzilla</i> (1954), the
+first of many <i>kaiju eiga</i> scored by Ifukube.
+
+Credited with inventing Godzilla's iconic roar.
+
+First retired from film music after <i>Terror of Mechagodzilla</i> (1975).
+During the 80s he revised several of his pre-war concert works to incorporate
+themes from his film works, and wrote a new work, <i>Symphonic Fantasia</i>, to
+celebrate his science fiction and fantasy scores.
+
+He disapproved of the pop arrangement of his music in <i>Godzilla vs.
+Biollante</i> (1989) and came out of retirement to score four more Godzilla
+films in the 90s, retiring again after <i>Godzilla vs. Destoroyah</i> (1995).

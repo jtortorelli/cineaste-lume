@@ -1,10 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/funato-jun/avatar.jpg
-bio:
-  - First worked as a civil servant after graduating from high school. His appearance in a local talent contest gained him recognition and helped launch his entertainment career.
-  - An exclusive contract actor for Toho during the 60s.
-  - When the film industry slumped in the 70s, he moved to television, playing leads in daytime dramas and villains in detective shows.
 birth_name: Nishina Tsunetaka
 birth_place: Wakayama, Japan
 cause_of_death: Lung Cancer
@@ -37,3 +33,12 @@ works:
     title: Dogora
     year: 1964
 ---
+
+First worked as a civil servant after graduating from high school. His
+appearance in a local talent contest gained him recognition and helped launch
+his entertainment career.
+
+An exclusive contract actor for Toho during the 60s.
+
+When the film industry slumped in the 70s, he moved to television, playing leads
+in daytime dramas and villains in detective shows.

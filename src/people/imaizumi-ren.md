@@ -1,8 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/imaizumi-ren/avatar.jpg
-bio:
-  - Unassuming actor who appeared in several films during the 50s, but disappeared from the scene after 1960.
 japanese_name: 今泉廉
 name: Imaizumi Ren
 profession: Actor
@@ -41,3 +39,6 @@ works:
     title: The Mysterians
     year: 1957
 ---
+
+Unassuming actor who appeared in several films during the 50s, but disappeared
+from the scene after 1960.

@@ -1,11 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/furness-george-a/avatar.jpg
-bio:
-  - Served in the United States Army, retiring with the rank of Major.
-  - Served as the defense counsel during the post-war Tokyo Trials for politician Shigemitsu Mamoru and Admiral Toyoda Soemu. Shigemitsu was targeted by the Soviet Union for punishment but received a lighter sentence. Toyoda was the only member of the Japanese military to be acquitted of all charges.
-  - Shigemitsu helped Furness setup his own law practice in Japan.
-  - Although not formally trained as an actor, Furness' popularity earned him the opportunity to appear on screen in small parts, often as Western dignitaries.
 birth_place: New Jersey, United States
 dob: 1896-01-01
 dob_resolution: year
@@ -33,3 +28,15 @@ works:
     title: Gorath
     year: 1962
 ---
+
+Served in the United States Army, retiring with the rank of Major.
+
+Served as the defense counsel during the post-war Tokyo Trials for politician
+Shigemitsu Mamoru and Admiral Toyoda Soemu. Shigemitsu was targeted by the
+Soviet Union for punishment but received a lighter sentence. Toyoda was the only
+member of the Japanese military to be acquitted of all charges.
+
+Shigemitsu helped Furness setup his own law practice in Japan.
+
+Although not formally trained as an actor, Furness' popularity earned him the
+opportunity to appear on screen in small parts, often as Western dignitaries.

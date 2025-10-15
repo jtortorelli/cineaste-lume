@@ -1,12 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/hidari-bokuzen/avatar.jpg
-bio:
-  - Descended from a long line of village priests in Saitama.
-  - Supported himself through high school by working as a milk delivery boy, newspaper delivery boy, and construction worker.
-  - Originally desired to become a dancer, but pivoted to acting when his local dancing troupe disbanded. He joined a theater company and toured China in 1926.
-  - Developed gangrene in both legs in 1935. He accepted the painful condition rather than amputate his legs and risk his acting career. The condition contributed to his hunched posture and geriatric performances in later films. He required crutches for normal movement.
-  - 'He played a drunken old man in the first <i>Gamera</i> film in 1965, which featured as an episode on <i>Mystery Science Theater 3000</i> in the 90s. His character''s impeccably delivered [dubbed] line, "It must have been one of those flying saucers I''ve heard so much about lately,", became a recurring joke on <i>MST3K</i>.'
 birth_name: Mikashima Ichiro
 birth_place: Iruma, Saitama, Japan
 dob: 1894-02-20
@@ -60,3 +54,22 @@ works:
     title: Gamera, the Giant Monster
     year: 1965
 ---
+
+Descended from a long line of village priests in Saitama.
+
+Supported himself through high school by working as a milk delivery boy,
+newspaper delivery boy, and construction worker.
+
+Originally desired to become a dancer, but pivoted to acting when his local
+dancing troupe disbanded. He joined a theater company and toured China in 1926.
+
+Developed gangrene in both legs in 1935. He accepted the painful condition
+rather than amputate his legs and risk his acting career. The condition
+contributed to his hunched posture and geriatric performances in later films. He
+required crutches for normal movement.
+
+He played a drunken old man in the first <i>Gamera</i> film in 1965, which
+featured as an episode on <i>Mystery Science Theater 3000</i> in the 90s. His
+character's impeccably delivered [dubbed] line, "It must have been one of those
+flying saucers I've heard them talk about so much about lately," became a recurring joke on
+<i>MST3K</i>.

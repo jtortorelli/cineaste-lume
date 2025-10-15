@@ -1,10 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/hughes-andrew/avatar.jpg
-bio:
-  - Turkish-born business man living and working in Japan during the 60s and 70s.
-  - Served as an intermediary between the Japanese and Caucasian cast and crew members on <i>The Last War</i> (1961), despite not being fluent in Japanese.
-  - Often cast in dignified roles as officials or scientists.
 birth_place: Turkey
 death_place: France
 dob: 1908-01-16
@@ -25,7 +21,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/crazy-adventure-1965/posters/Adventure%201965%20Image.webp
+    poster_url: /static/images/films/crazy-adventure-1965/posters/poster.webp
     roles:
       - name: Adolf Hitler
     title: Crazy Adventure
@@ -87,3 +83,10 @@ works:
     title: Sayonara Jupiter
     year: 1984
 ---
+
+Turkish-born business man living and working in Japan during the 60s and 70s.
+
+Served as an intermediary between the Japanese and Caucasian cast and crew
+members on <i>The Last War</i> (1961), despite not being fluent in Japanese.
+
+Often cast in dignified roles as officials or scientists.

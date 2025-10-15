@@ -5,14 +5,6 @@ aliases:
     japanese_name: 塚本靖
     name: Tsukamoto Yasushi
 avatar_url: /static/images/people/fujimoto-sanezumi/avatar.jpg
-bio:
-  - Began his career submitting articles to the <i>Kinema Junpo</i> film journal under the pseudonym Tsukamoto Yasushi.
-  - Invited to join PCL (later Toho) after graduation by president Mori Iwao.
-  - Transitioned from assistant director to producer while working on Imai Tadashi's <i>Ecology of Marriage</i> (1940).
-  - Departed Toho following a labor dispute and founded his own company, Fujimoto Productions. Returned to Toho in 1951 as a producer.
-  - 'Along with fellow producer Tanaka Tomoyuki, produced the vast majority of Toho''s films during the Golden Age. Tanaka specialized in "men''s" films (science fiction and action) and Fujimoto handled comedies and literary adaptations. Each man produced over 200 films in their respective careers.'
-  - Served as president of Toho from 1971 to 1974, succeeded in the position by Tanaka Tomoyuki.
-  - Produced the inaugural Japan Academy Awards ceremony in 1978. After his passing the Fujimoto Prize for producers was established in his honor.
 birth_place: Ryojun, Manchuria
 dob: 1910-07-15
 dob_resolution: exact
@@ -51,3 +43,25 @@ works:
     title: The Last War
     year: 1961
 ---
+
+Began his career submitting articles to the <i>Kinema Junpo</i> film journal
+under the pseudonym Tsukamoto Yasushi.
+
+Invited to join PCL (later Toho) after graduation by president Mori Iwao.
+
+Transitioned from assistant director to producer while working on Imai Tadashi's
+<i>Ecology of Marriage</i> (1940).
+
+Departed Toho following a labor dispute and founded his own company, Fujimoto
+Productions. Returned to Toho in 1951 as a producer.
+
+Along with fellow producer Tanaka Tomoyuki, produced the vast majority of
+Toho''s films during the Golden Age. Tanaka specialized in "men's" films
+(science fiction and action) and Fujimoto handled comedies and literary
+adaptations. Each man produced over 200 films in their respective careers.
+
+Served as president of Toho from 1971 to 1974, succeeded in the position by
+Tanaka Tomoyuki.
+
+Produced the inaugural Japan Academy Awards ceremony in 1978. After his passing
+the Fujimoto Prize for producers was established in his honor.

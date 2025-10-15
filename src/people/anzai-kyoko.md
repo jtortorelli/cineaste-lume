@@ -1,11 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/anzai-kyoko/avatar.jpg
-bio:
-  - Member of the Osaka Shochiku Opera Company from 1950 through 1953.
-  - Entered film immediately after resigning from the opera company.
-  - Appeared in over 50 films in less than 10 years.
-  - Retired from acting completely following her 1961 marriage to actor Mihashi Tatsuya.
 birth_place: Osaka, Japan
 cause_of_death: Liver Failure
 death_place: Tokyo, Japan
@@ -30,3 +25,12 @@ works:
     title: Battle in Outer Space
     year: 1959
 ---
+
+Member of the Osaka Shochiku Opera Company from 1950 through 1953.
+
+Entered film immediately after resigning from the opera company.
+
+Appeared in over 50 films in less than 10 years.
+
+Retired from acting completely following her 1961 marriage to actor Mihashi
+Tatsuya.

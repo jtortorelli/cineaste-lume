@@ -1,14 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/asahiyo-taro/avatar.jpg
-bio:
-  - Stowed away on a cargo ship to compete in his first sumo match in Amami in 1948 at age 19.
-  - Distinctive for his stature, thick eyebrows and chest hair, which were unusual for sumo wrestlers.
-  - Boasted a winning record of 13-2 at an Osaka wrestling championship in 1959, breaking a longstanding jinx on wrestlers with chest hair.
-  - Suffered from lumbar separation disease, which affected his later wrestling performance and hastened his retirement in 1962.
-  - Resumed training in anticipation of his 60th birthday ceremony.
-  - Died suddenly of a cerebral hemorrhage brought on by over drinking and the sudden strain of his new training regiment.
-  - A statue in his likeness was erected at his birthplace in 1995.
 birth_name: Yonekawa Fumitoshi
 birth_place: Tokunoshima, Kagoshima, Japan
 cause_of_death: Cerebral Hemorrhage
@@ -31,3 +23,22 @@ works:
     title: The Three Treasures
     year: 1959
 ---
+
+Stowed away on a cargo ship to compete in his first sumo match in Amami in 1948
+at age 19.
+
+Distinctive for his stature, thick eyebrows and chest hair, which were unusual
+for sumo wrestlers.
+
+Boasted a winning record of 13-2 at an Osaka wrestling championship in 1959,
+breaking a longstanding jinx on wrestlers with chest hair.
+
+Suffered from lumbar separation disease, which affected his later wrestling
+performance and hastened his retirement in 1962.
+
+Resumed training in anticipation of his 60th birthday ceremony.
+
+Died suddenly of a cerebral hemorrhage brought on by over drinking and the
+sudden strain of his new training regiment.
+
+A statue in his likeness was erected at his birthplace in 1995.

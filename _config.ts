@@ -7,6 +7,8 @@ import jsx from "lume/plugins/jsx.ts";
 import date from "lume/plugins/date.ts";
 import sheets from "lume/plugins/sheets.ts";
 
+Deno.env.set("TZ", "Z");
+
 const site = lume({
   src: "./src",
 });

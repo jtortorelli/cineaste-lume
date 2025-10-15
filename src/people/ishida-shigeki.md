@@ -1,10 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/ishida-shigeki/avatar.jpg
-bio:
-  - Toho-exclusive actor who appeared in many supporting roles in sci-fi, fantasy, and <i>Crazy Cats</i> comedies during the 60s.
-  - Continued to appear on television throughout the 80s.
-  - Retired and became a Buddhist monk. When he died in 1997, his son Ishida Tarô inherited his priesthood.
 birth_place: Kanazawa, Ishikawa, Japan
 dob: 1924-03-17
 dob_resolution: exact
@@ -64,3 +60,11 @@ works:
     title: All Monsters Attack
     year: 1969
 ---
+
+Toho-exclusive actor who appeared in many supporting roles in sci-fi, fantasy,
+and <i>Crazy Cats</i> comedies during the 60s.
+
+Continued to appear on television throughout the 80s.
+
+Retired and became a Buddhist monk. When he died in 1997, his son Ishida Tarô
+inherited his priesthood.

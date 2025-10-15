@@ -1,12 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/hodgson-william-hope/avatar.jpg
-bio:
-  - Ran away from boarding school to become a sailor. His father eventually granted him permission to become a cabin boy. Bullying from his crewmates motivated him to undertake a rigorous physcial training regiment. When he returned to England he opened a personal training school, but failed to earn a living from it.
-  - He began writing by submitting articles to health publications, and then branched out into fiction, which was more lucrative. He drew inspiration for his stories from his experiences at sea, especially the "Sargasso Sea" in the Atlantic.
-  - His book <i>The House on the Borderland</i> was highly regarded by H.P. Lovecraft, creator of the Cthulhu mythos.
-  - His short story <i>The Voice in the Night</i> was adapted into an episode of <i>Suspicion</i> (1958) and the Japanese film <i>Matango</i> (1963).
-  - Married and moved to Southern France for the lower cost of living. Returned to England at the outbreak of World War I and became a lieutenant in the Royal Artillery. Killed in battle at Ypres.
 birth_place: Blackmore End, Essex, England
 cause_of_death: Artillery Shell Impact
 death_place: Ypres, Belgium
@@ -46,3 +40,23 @@ works:
     title: Matango
     year: 1963
 ---
+
+Ran away from boarding school to become a sailor. His father eventually granted
+him permission to become a cabin boy. Bullying from his crewmates motivated him
+to undertake a rigorous physcial training regiment. When he returned to England
+he opened a personal training school, but failed to earn a living from it.
+
+He began writing by submitting articles to health publications, and then
+branched out into fiction, which was more lucrative. He drew inspiration for his
+stories from his experiences at sea, especially the "Sargasso Sea" in the
+Atlantic.
+
+His book <i>The House on the Borderland</i> was highly regarded by H.P.
+Lovecraft, creator of the Cthulhu mythos.
+
+His short story <i>The Voice in the Night</i> was adapted into an episode of
+<i>Suspicion</i> (1958) and the Japanese film <i>Matango</i> (1963).
+
+Married and moved to Southern France for the lower cost of living. Returned to
+England at the outbreak of World War I and became a lieutenant in the Royal
+Artillery. Killed in battle at Ypres.

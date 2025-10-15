@@ -22,11 +22,6 @@ accolades:
       - title: Shin Ultraman
     status: nominated
 avatar_url: /static/images/people/higuchi-shinji/avatar.jpg
-bio:
-  - Joined Toho's effects department straight out of high school and worked on <i>The Return of Godzilla</i> (1984), modeling the Godzilla costume and assisting suit actor Satsuma Kenpachirô to get in and out of the suit during filming.
-  - "Also in 1984 he met animator An'no Hideaki and together they formed the animation studio Gainax. Higuchi was the namesake of the main character of Gainax's most popular work, <i>Neon Genesis Evangelion</i>."
-  - Co-founded the animation studio Gonzo in the 90s.
-  - 'Reunited with An''no later in their careers to create the "Shin Japan Heroes Universe" of films, including his works <i>Shin Godzilla</i> and <i>Shin Ultraman</i>, and An''no''s works <i>Shin Kamen Rider</i> and <i>Evangelion 3.0+1.0: Thrice Upon A Time</i>.'
 birth_place: Tokyo, Japan
 dob: 1965-09-22
 dob_resolution: exact
@@ -36,7 +31,7 @@ profession: Director
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/royal-space-force-the-wings-of-honneamise-1987/posters/5519137.jpeg
+    poster_url: /static/images/films/royal-space-force-the-wings-of-honneamise-1987/posters/poster.jpeg
     staff:
       - role: Assistant Director
     title: "Royal Space Force: The Wings of Honnêamise"
@@ -171,3 +166,19 @@ works:
     title: Shin Ultraman
     year: 2022
 ---
+
+Joined Toho's effects department straight out of high school and worked on
+<i>The Return of Godzilla</i> (1984), modeling the Godzilla costume and
+assisting suit actor Satsuma Kenpachirô to get in and out of the suit during
+filming.
+
+Also in 1984 he met animator An'no Hideaki and together they formed the
+animation studio Gainax. Higuchi was the namesake of the main character of
+Gainax's most popular work, <i>Neon Genesis Evangelion</i>.
+
+Co-founded the animation studio Gonzo in the 90s.
+
+Reunited with An'no later in their careers to create the "Shin Japan Heroes
+Universe" of films, including his works <i>Shin Godzilla</i> and <i>Shin
+Ultraman</i>, and An'no's works <i>Shin Kamen Rider</i> and <i>Evangelion
+3.0+1.0: Thrice Upon A Time</i>.

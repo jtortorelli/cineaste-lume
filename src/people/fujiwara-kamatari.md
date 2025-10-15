@@ -1,11 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/fujiwara-kamatari/avatar.jpg
-bio:
-  - Began his career at age 15 with the Asakusa Opera Company, and continued to perform until the Great Kanto Earthquake, after which he transitioned to acting.
-  - Joined PCL and appeared in comedies in the 30s alongside actor Enomoto Ken'ichi. Became an exclusive contract actor when PCL became Toho.
-  - "His pairing with Chiaki Minoru in Kurosawa's <i>The Hidden Fortress</i> (1958) is often cited as an inspiration for R2-D2 and C-3PO in George Lucas' <i>Star Wars</i> (1977)."
-  - "In early scenes of his peasant farmer character in <i>Seven Samurai</i> (1954), Fujiwara played it much more humorously than Kurosawa directed him, leading to disagreements. Later Kurosawa reviewed the film and observed Fujiwara's transformation into a more serious character as the story progressed. He realized that it was more effective because of the actor's decision and offered an apology."
 birth_place: Tokyo, Japan
 dob: 1905-01-15
 dob_resolution: exact
@@ -81,3 +76,20 @@ works:
     title: Kagemusha
     year: 1980
 ---
+
+Began his career at age 15 with the Asakusa Opera Company, and continued to
+perform until the Great Kanto Earthquake, after which he transitioned to acting.
+
+Joined PCL and appeared in comedies in the 30s alongside actor Enomoto Ken'ichi.
+Became an exclusive contract actor when PCL became Toho.
+
+His pairing with Chiaki Minoru in Kurosawa's <i>The Hidden Fortress</i> (1958)
+is often cited as an inspiration for R2-D2 and C-3PO in George Lucas' <i>Star
+Wars</i> (1977).
+
+In early scenes of his peasant farmer character in <i>Seven Samurai</i> (1954),
+Fujiwara played it much more humorously than Kurosawa directed him, leading to
+disagreements. Later Kurosawa reviewed the film and observed Fujiwara's
+transformation into a more serious character as the story progressed. He
+realized that it was more effective because of the actor's decision and offered
+an apology.

@@ -1,13 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/enomoto-kenichi/avatar.jpg
-bio:
-  - Made his debut in a Japanese production of the opera <i>Carmen</i>, singing in the chorus.
-  - A talented singer who worked with Columbia, Victor and Polydor in Japan. He leveraged his improvisational skills to make the leap to film.
-  - Became known as the "Comedy King of Japan" for appearing in numerous comedies before World War II.
-  - Formed a comedy duo with fellow actor Yanagiya Kingoro.
-  - He went through a depression in 1952 after an on-set accident later cost him his leg and his oldest son died suddenly. Enomoto was inspired by comedian Harold Lloyd, who also sustained grievous injuries, yet still continued to perform. Enomoto would eventually incorporate gags with his prosthetic leg into his acts.
-  - His career dwindled due to poor health and the rising popularity of television.
 birth_place: Tokyo, Japan
 cause_of_death: Cirrhosis
 dob: 1904-10-11
@@ -28,3 +21,21 @@ works:
     title: The Three Treasures
     year: 1959
 ---
+
+Made his debut in a Japanese production of the opera <i>Carmen</i>, singing in
+the chorus.
+
+A talented singer who worked with Columbia, Victor and Polydor in Japan. He
+leveraged his improvisational skills to make the leap to film.
+
+Became known as the "Comedy King of Japan" for appearing in numerous comedies
+before World War II.
+
+Formed a comedy duo with fellow actor Yanagiya Kingoro.
+
+He went through a depression in 1952 after an on-set accident later cost him his
+leg and his oldest son died suddenly. Enomoto was inspired by comedian Harold
+Lloyd, who also sustained grievous injuries, yet still continued to perform.
+Enomoto would eventually incorporate gags with his prosthetic leg into his acts.
+
+His career dwindled due to poor health and the rising popularity of television.

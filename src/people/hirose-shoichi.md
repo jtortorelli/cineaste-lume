@@ -1,12 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/hirose-shoichi/avatar.jpg
-bio:
-  - Former soldier nicknamed "Solomon" for surviving the Solomon Islands campaign.
-  - Played extras, supporting roles, and as a monster suit actor.
-  - Reputed to be the strongest man on the Toho lot. His most famous feat of strength was when he, in the King Kong suit, flipped suit actor Nakajima Haruo, in the Godzilla suit, over his shoulder in <i>King Kong vs. Godzilla</i> (1962).
-  - "The first actor to portray the monster King Ghidorah on screen in 1964. He reportedly disliked the costume because it was claustrophic and he couldn't give a true performance; his main purpose was to support the costume while the monster's heads, wings and tails were operated by off-camera puppeteers."
-  - In 1971 Hirose was caught moonlighting for other studios in violation of his contract and fired. Toho's contract system collapsed the next year.
 dob: 1918-06-23
 dob_resolution: exact
 dod: unknown
@@ -245,3 +239,19 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
 ---
+
+Former soldier nicknamed "Solomon" for surviving the Solomon Islands campaign.
+
+Played extras, supporting roles, and as a monster suit actor.
+
+Reputed to be the strongest man on the Toho lot. His most famous feat of
+strength was when he, in the King Kong suit, flipped suit actor Nakajima Haruo,
+in the Godzilla suit, over his shoulder in <i>King Kong vs. Godzilla</i> (1962).
+
+The first actor to portray the monster King Ghidorah on screen in 1964. He
+reportedly disliked the costume because it was claustrophic and he couldn't give
+a true performance; his main purpose was to support the costume while the
+monster's heads, wings and tails were operated by off-camera puppeteers.
+
+In 1971 Hirose was caught moonlighting for other studios in violation of his
+contract and fired. Toho's contract system collapsed the next year.

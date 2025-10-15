@@ -1,10 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/ibuki-toru/avatar.jpg
-bio:
-  - While initially cast in lead roles, he soon found his calling playing more sinister and villainous roles, such as henchmen or aliens.
-  - Migrated to television after Toho's contract system collapsed in the early 70s.
-  - Retired from acting and founded a hydrogen water manufacturing company using his real name.
 birth_name: 大丸智里
 birth_place: Fukuoka, Japan
 dob: 1940-01-28
@@ -64,3 +60,11 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
 ---
+
+While initially cast in lead roles, he soon found his calling playing more
+sinister and villainous roles, such as henchmen or aliens.
+
+Migrated to television after Toho's contract system collapsed in the early 70s.
+
+Retired from acting and founded a hydrogen water manufacturing company using his
+real name.

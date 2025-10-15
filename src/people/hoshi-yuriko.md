@@ -1,10 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/hoshi-yuriko/avatar.jpg
-bio:
-  - Recruited by Toho after winning a beauty contest sponsored by the studio in 1958, and started appearing in films the next year.
-  - Frequent co-star of Kayama Yûzô in the <i>Young Guy</i> film series.
-  - Died in 2018. Her memorial service was attended by co-stars Takarada Akira, Kayama Yûzô, and Tsukasa Yôko.
 birth_place: Tokyo, Japan
 cause_of_death: Lung Cancer
 death_place: Kyoto, Japan
@@ -66,3 +62,11 @@ works:
     title: Godzilla vs. Megaguirus
     year: 2000
 ---
+
+Recruited by Toho after winning a beauty contest sponsored by the studio in
+1958, and started appearing in films the next year.
+
+Frequent co-star of Kayama Yûzô in the <i>Young Guy</i> film series.
+
+Died in 2018. Her memorial service was attended by co-stars Takarada Akira,
+Kayama Yûzô, and Tsukasa Yôko.

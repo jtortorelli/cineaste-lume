@@ -1,10 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/fujiyama-yoko/avatar.jpg
-bio:
-  - Graduated from Toho's "New Face" class in 1961 and debuted in the first <i>Young Guy</i> film opposite Kayama Yûzô
-  - Frequently appeared in supporting roles in comedies. She also worked frequently with actor Natsuki Yôsuke and played his sister on multiple occasions.
-  - Married in 1967 and retired from acting.
 birth_place: Yokohama, Kanagawa, Japan
 cause_of_death: Subarachnoid Hemorrhage
 dob: 1941-12-17
@@ -39,3 +35,11 @@ works:
     title: Dogora
     year: 1964
 ---
+
+Graduated from Toho's "New Face" class in 1961 and debuted in the first <i>Young
+Guy</i> film opposite Kayama Yûzô
+
+Frequently appeared in supporting roles in comedies. She also worked frequently
+with actor Natsuki Yôsuke and played his sister on multiple occasions.
+
+Married in 1967 and retired from acting.

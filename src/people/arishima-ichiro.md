@@ -1,13 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/arishima-ichiro/avatar.jpg
-bio:
-  - Apprenticed under comedic actor Tamura Kunio in 1933
-  - Toured with various comedy troupes during WWII before shooting to fame with a breakout performance on NHK Radio's Sunday entertainment program.
-  - Debuted in film in 1947 and joined Toho in 1955.
-  - Starred in several long running comedy series including <i>Company President</i>, <i>Crazy Cats</i>, and <i>Young Guy</i>.
-  - Became a free agent after his Toho contract expired in 1972.
-  - Continued appearing in television and theater until declining health forced him to withdraw.
 birth_name: Ôshima Tadao
 birth_place: Nagoya, Aiichi, Japan
 cause_of_death: Heart Failure
@@ -54,3 +47,18 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
 ---
+
+Apprenticed under comedic actor Tamura Kunio in 1933
+
+Toured with various comedy troupes during WWII before shooting to fame with a
+breakout performance on NHK Radio's Sunday entertainment program.
+
+Debuted in film in 1947 and joined Toho in 1955.
+
+Starred in several long running comedy series including <i>Company
+President</i>, <i>Crazy Cats</i>, and <i>Young Guy</i>.
+
+Became a free agent after his Toho contract expired in 1972.
+
+Continued appearing in television and theater until declining health forced him
+to withdraw.

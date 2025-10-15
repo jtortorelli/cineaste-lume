@@ -1,9 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/hinata-kazuo/avatar.jpg
-bio:
-  - Frequently played extras in Toho sci-fi films, often in multiple distinct roles.
-  - According to Japanese Wikipedia his hobbies included swimming and oil painting and his blood type was A.
 birth_place: Tokyo, Japan
 dob: 1918-07-21
 dob_resolution: exact
@@ -209,3 +206,8 @@ works:
     title: Destroy All Monsters
     year: 1968
 ---
+
+Frequently played extras in Toho sci-fi films, often in multiple distinct roles.
+
+According to Japanese Wikipedia his hobbies included swimming and oil painting
+and his blood type was A.

@@ -6,11 +6,6 @@ aliases:
     japanese_name: 越後憲三
     name: Echigo Kenzô
 avatar_url: /static/images/people/echigo-ken/avatar.jpg
-bio:
-  - Joined Toho through the second "New Face" program in 1947.
-  - Appeared frequently in bit parts throughout the 50s and 60s, including numerous science fiction films. Retired in 1971.
-  - Enjoyed clay pigeon shooting and coffee dates with fellow supporting actor Iwamoto Hiroshi.
-  - His widow, actress Terasawa Hiroko, confirmed Echigo's death in a 2014 interview, but specific details are not known.
 birth_place: Akita, Japan
 dob: 1929-12-02
 dob_resolution: exact
@@ -34,7 +29,7 @@ works:
   - format: film
     poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
     roles:
-      - name: Eiko<span class="italic">-maru</span> Sailor
+      - name: Eiko-maru Sailor
         uncredited: true
     slug: godzilla-1954
     title: Godzilla
@@ -230,3 +225,14 @@ works:
     title: Godzilla vs. Hedorah
     year: 1971
 ---
+
+Joined Toho through the second "New Face" program in 1947.
+
+Appeared frequently in bit parts throughout the 50s and 60s, including numerous
+science fiction films. Retired in 1971.
+
+Enjoyed clay pigeon shooting and coffee dates with fellow supporting actor
+Iwamoto Hiroshi.
+
+His widow, actress Terasawa Hiroko, confirmed Echigo's death in a 2014
+interview, but specific details are not known.

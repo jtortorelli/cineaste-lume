@@ -1,12 +1,6 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/hirata-akihiko/avatar.jpg
-bio:
-  - He had completed law school and was employed full time before he embraced acting.
-  - Joined Toho as part of the 5th "New Face" class. He met fellow actor Sahara Kenji at this time and they remained close friends until Hirata's death.
-  - Well known for playing the villainous Mr. K on TV's <i>Rainbowman</i>.
-  - Made a cameo appearance in the <i>Star Wolf</i> TV series, later adapted into the <i>Fugitive Alien</i> films and featured on <i>Mystery Science Theater 3000</i>.
-  - Known for the trademark eyepatch he wore when he played Dr. Serizawa in the original <i>Godzilla</i> (1954). He wore the patch again in <i>Ebirah, Horror of the Deep</i> (1966) and once more during the official press conference announcing production of <i>The Return of Godzilla</i> (1984). Hirata was originally meant to star in that film but failing health forced him to drop out, and he was replaced by Natsuki Yôsuke.
 birth_name: Onoda Akihiko
 birth_place: Gyeongseong, Korea
 cause_of_death: Lymphangiectasia
@@ -245,3 +239,22 @@ works:
     title: Sayonara Jupiter
     year: 1984
 ---
+
+He had completed law school and was employed full time before he embraced
+acting.
+
+Joined Toho as part of the 5th "New Face" class. He met fellow actor Sahara
+Kenji at this time and they remained close friends until Hirata's death.
+
+Well known for playing the villainous Mr. K on TV's <i>Rainbowman</i>.
+
+Made a cameo appearance in the <i>Star Wolf</i> TV series, later adapted into
+the <i>Fugitive Alien</i> films and featured on <i>Mystery Science Theater
+3000</i>.
+
+Known for the trademark eyepatch he wore when he played Dr. Serizawa in the
+original <i>Godzilla</i> (1954). He wore the patch again in <i>Ebirah, Horror of
+the Deep</i> (1966) and once more during the official press conference
+announcing production of <i>The Return of Godzilla</i> (1984). Hirata was
+originally meant to star in that film but failing health forced him to drop out,
+and he was replaced by Natsuki Yôsuke.

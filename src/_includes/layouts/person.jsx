@@ -19,24 +19,17 @@ export default ({
   spouses,
   comp,
   works,
-}, { icon }) => {
-  const display_date = (date, resolution) => {
-    if (!date) {
+}, { date, icon }) => {
+  const display_date = (date_value, resolution) => {
+    if (!date_value) {
       return "";
     }
     if (resolution === "year") {
-      return new Date(date).getFullYear();
+      return date(new Date(date_value), "yyyy");
     } else if (resolution === "month") {
-      return new Date(date).toLocaleDateString("en-US", {
-        year: "numeric",
-        month: "short",
-      });
+      return date(new Date(date_value), "MMM yyyy");
     } else {
-      return new Date(date).toLocaleDateString("en-US", {
-        year: "numeric",
-        month: "short",
-        day: "numeric",
-      });
+      return date(new Date(date_value), "d MMM yyyy");
     }
   };
 
@@ -61,6 +54,15 @@ export default ({
     const null_safe_roles = (roles && roles.length > 0) ? roles : [];
     return null_safe_kaiju_roles.concat(null_safe_roles);
   };
+
+  function process_role_name(role) {
+    return role
+      .replace("-maru", '<span class="italic">-maru</span>')
+      .replace("-seijin", '<span class="italic">-seijin</span>')
+      .replace("Gôtengô", '<span class="italic">Gôtengô</span>')
+      .replace("Eclair", '<span class="italic">Eclair</span>')
+      .replace("Karyû", '<span class="italic">Karyû</span>');
+  }
   return (
     <>
       <div class="text-center w-fit m-auto">
@@ -179,7 +181,7 @@ export default ({
             )}
           {dod && typeof dod === "string" && dod.toLowerCase() === "unknown" &&
             (
-              <div class="flex lg:break-inside-avoid-column gap-1 items-baseline">
+              <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
                 <div>
                   <img
                     class="h-5 w-4 text-gray-500"
@@ -192,7 +194,7 @@ export default ({
             )}
           {aliases && aliases.length > 0 &&
             aliases.map((a) => (
-              <div class="flex lg:break-inside-avoid-column gap-1 items-baseline">
+              <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
                 <div>
                   <img
                     class="h-5 w-4 text-gray-500"
@@ -224,7 +226,7 @@ export default ({
 
           {spouses && spouses.length > 0 &&
             spouses.map((spouse) => (
-              <div class="flex lg:break-inside-avoid-column gap-1 items-center">
+              <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
                 <div>
                   <img
                     class="h-5 w-5 text-gray-500"
@@ -242,7 +244,7 @@ export default ({
               </div>
             ))}
           {family && family.length > 0 && (
-            <div class="flex lg:break-inside-avoid-column gap-1 items-baseline">
+            <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
               <div>
                 <img
                   class="h-5 w-5 text-gray-500"
@@ -462,10 +464,12 @@ export default ({
                             <div>
                               {r.name}
                             </div>
-                            <div>
-                              {r.episode_count}{" "}
-                              {r.episode_count > 1 ? "Episodes" : "Episode"}
-                            </div>
+                            {r.episode_count && (
+                              <div>
+                                {r.episode_count}{" "}
+                                {r.episode_count > 1 ? "Episodes" : "Episode"}
+                              </div>
+                            )}
                           </div>
                         </div>
                       ))}
@@ -545,29 +549,36 @@ export default ({
                           </div>
                           <div>
                             <div>
-                              {r.name}
+                              <span
+                                dangerouslySetInnerHTML={{
+                                  __html: process_role_name(r.name),
+                                }}
+                              >
+                              </span>
                             </div>
                             {r.actor_alias && (
                               <>
                                 <img
-                                  class="h-3 w-3"
+                                  class="h-3 w-3 inline"
                                   src={icon("at", "tabler", "outline")}
                                   inline
                                 />
                                 {r.actor_alias}
                               </>
                             )}
-                            {r.qualifiers &&
-                              r.qualifiers.map((q) => (
-                                <comp.qualifier_icon qualifier={q} />
-                              ))}
-                            {r.uncredited && (
-                              <img
-                                class="text-red-700 h-3 w-3"
-                                src={icon("id-off", "tabler", "outline")}
-                                inline
-                              />
-                            )}
+                            <div class="flex">
+                              {r.qualifiers &&
+                                r.qualifiers.map((q) => (
+                                  <comp.qualifier_icon qualifier={q} />
+                                ))}
+                              {r.uncredited && (
+                                <img
+                                  class="text-red-700 h-4 w-4"
+                                  src={icon("id-off", "tabler", "outline")}
+                                  inline
+                                />
+                              )}
+                            </div>
                           </div>
                         </div>
                       ))}
