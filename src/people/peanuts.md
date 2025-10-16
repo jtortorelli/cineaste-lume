@@ -1,4 +1,5 @@
 ---
+layout: layouts/group.jsx
 tags: ["cineaste", "people"]
 active_period_end: 1975
 active_period_start: 1959

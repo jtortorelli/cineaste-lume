@@ -1,38 +1,33 @@
 export const layout = "layouts/layout.vto";
-export default ({
-  accolades,
-  aliases,
-  avatar_url,
-  birth_name,
-  birth_place,
-  children,
-  dob,
-  dob_resolution,
-  dod,
-  dod_resolution,
-  cause_of_death,
-  death_place,
-  family,
-  name,
-  japanese_birth_name,
-  japanese_name,
-  spouses,
-  comp,
-  works,
-}, { date, icon }) => {
-  const display_date = (date_value, resolution) => {
-    if (!date_value) {
-      return "";
-    }
-    if (resolution === "year") {
-      return date(new Date(date_value), "yyyy");
-    } else if (resolution === "month") {
-      return date(new Date(date_value), "MMM yyyy");
-    } else {
-      return date(new Date(date_value), "d MMM yyyy");
-    }
+export default (
+  {
+    active_period_start,
+    active_period_end,
+    avatar_url,
+    japanese_name,
+    members,
+    name,
+    type,
+    comp,
+    works,
+  },
+  { date, icon },
+) => {
+  function process_role_name(role) {
+    return role
+      .replace("-maru", '<span class="italic">-maru</span>')
+      .replace("-seijin", '<span class="italic">-seijin</span>')
+      .replace("Gôtengô", '<span class="italic">Gôtengô</span>')
+      .replace("Eclair", '<span class="italic">Eclair</span>')
+      .replace("Karyû", '<span class="italic">Karyû</span>');
+  }
+  const process_roles = (kaiju_roles, roles) => {
+    const null_safe_kaiju_roles = (kaiju_roles && kaiju_roles.length > 0)
+      ? kaiju_roles
+      : [];
+    const null_safe_roles = (roles && roles.length > 0) ? roles : [];
+    return null_safe_kaiju_roles.concat(null_safe_roles);
   };
-
   const lifespan = (dob, dod) => {
     if (!dob || !dod) {
       return "";
@@ -46,23 +41,18 @@ export default ({
     }
     return age;
   };
-
-  const process_roles = (kaiju_roles, roles) => {
-    const null_safe_kaiju_roles = (kaiju_roles && kaiju_roles.length > 0)
-      ? kaiju_roles
-      : [];
-    const null_safe_roles = (roles && roles.length > 0) ? roles : [];
-    return null_safe_kaiju_roles.concat(null_safe_roles);
+  const display_date = (date_value, resolution) => {
+    if (!date_value) {
+      return "";
+    }
+    if (resolution === "year") {
+      return date(new Date(date_value), "yyyy");
+    } else if (resolution === "month") {
+      return date(new Date(date_value), "MMM yyyy");
+    } else {
+      return date(new Date(date_value), "d MMM yyyy");
+    }
   };
-
-  function process_role_name(role) {
-    return role
-      .replace("-maru", '<span class="italic">-maru</span>')
-      .replace("-seijin", '<span class="italic">-seijin</span>')
-      .replace("Gôtengô", '<span class="italic">Gôtengô</span>')
-      .replace("Eclair", '<span class="italic">Eclair</span>')
-      .replace("Karyû", '<span class="italic">Karyû</span>');
-  }
   return (
     <>
       <div class="text-center w-fit m-auto">
@@ -82,7 +72,7 @@ export default ({
         </div>
         <div class="text-sm m-auto space-y-3 h-full">
           {japanese_name && (
-            <div class="flex lg:break-inside-avoid-column gap-1 items-center">
+            <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
               <div>
                 <img
                   class="h-4 w-4 text-gray-500"
@@ -93,216 +83,101 @@ export default ({
               <div class="font-japanese text-gray-700">{japanese_name}</div>
             </div>
           )}
-          {dob && (
-            <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
+          {type === "group" && active_period_start && (
+            <div className="flex lg:break-inside-avoid-column gap-1 items-middle">
               <div>
                 <img
-                  class="h-5 w-4 text-gray-500"
-                  src={icon("sun-high", "tabler", "outline")}
+                  class="h-4 w-4 text-gray-500"
+                  src={icon("calendar-time", "tabler", "outline")}
                   inline
                 />
               </div>
-              <div class="space-y-1">
-                <div class="font-content text-gray-700">
-                  {display_date(dob, dob_resolution)}{" "}
-                  <span id="age-span"></span>
-                  {!dod && (
-                    <script>
-                      {`
-                            const dob = new Date("${dob}");
-                            const ageDifMs = Date.now() - dob.getTime();
-                            const ageDate = new Date(ageDifMs); // miliseconds from epoch
-                            const age = Math.abs(ageDate.getUTCFullYear() - 1970);
-                            const ageSpan = document.getElementById("age-span");
-                            ageSpan.textContent = "(" + age + ")";
-                        `}
-                    </script>
-                  )}
-                </div>
-
-                {birth_name && (
-                  <div class="font-content text-gray-500 text-xs">
-                    {birth_name}
-                  </div>
-                )}
-                {japanese_birth_name && (
-                  <div class="font-content text-gray-500 text-xs">
-                    {japanese_birth_name}
-                  </div>
-                )}
-                {birth_place && (
-                  <div class="font-content text-gray-500 text-xs">
-                    {birth_place}
-                  </div>
-                )}
-              </div>
-            </div>
-          )}
-          {dod && typeof dod !== "string" &&
-            (
-              <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
-                <div>
-                  <img
-                    class="h-5 w-4 text-gray-500"
-                    src={icon("moon", "tabler", "outline")}
-                    inline
-                  />
-                </div>
-                <div class="space-y-1">
-                  <div class="font-content text-gray-700">
-                    {display_date(dod, dod_resolution)} ({lifespan(
-                      dob,
-                      dod,
-                    )})
-                  </div>
-                  {death_place && (
-                    <div class="font-content text-gray-500 text-xs">
-                      {death_place}
-                    </div>
-                  )}
-                  {cause_of_death && (
-                    <div class="font-content text-gray-500 text-xs">
-                      {cause_of_death}
-                    </div>
-                  )}
-                </div>
-              </div>
-            )}
-          {dod && typeof dod === "string" && dod.toLowerCase() === "unknown" &&
-            (
-              <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
-                <div>
-                  <img
-                    class="h-5 w-4 text-gray-500"
-                    src={icon("moon", "tabler", "outline")}
-                    inline
-                  />
-                </div>
-                <div class="font-content text-gray-700">Unknown Date</div>
-              </div>
-            )}
-          {aliases && aliases.length > 0 &&
-            aliases.map((a) => (
-              <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
-                <div>
-                  <img
-                    class="h-5 w-4 text-gray-500"
-                    src={icon("at", "tabler", "outline")}
-                    inline
-                  />
-                </div>
-                <div>
-                  <div class="font-content text-gray-700">{a.name}</div>
-
-                  {a.japanese_name && (
-                    <div class="font-content text-gray-500 text-xs">
-                      {a.japanese_name}
-                    </div>
-                  )}
-                  {a.context && (
-                    <div class="font-content text-gray-500 text-xs">
-                      {a.context}
-                    </div>
-                  )}
-                  {a.category == "mistranslation" && (
-                    <div class="font-content text-gray-500 text-xs">
-                      Mistranslation
-                    </div>
-                  )}
-                </div>
-              </div>
-            ))}
-
-          {spouses && spouses.length > 0 &&
-            spouses.map((spouse) => (
-              <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
-                <div>
-                  <img
-                    class="h-5 w-5 text-gray-500"
-                    src={icon("chart-circles", "tabler", "outline")}
-                    inline
-                  />
-                </div>
-                <div>
-                  <div class="font-content text-gray-700">
-                    <comp.person_showcase_link slug={spouse.slug}>
-                      {spouse.name}
-                    </comp.person_showcase_link>
-                  </div>
-                </div>
-              </div>
-            ))}
-          {family && family.length > 0 && (
-            <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
-              <div>
-                <img
-                  class="h-5 w-5 text-gray-500"
-                  src={icon("users-group", "tabler", "outline")}
-                  inline
-                />
-              </div>
-              <div>
-                {family.map((family) => (
-                  <>
-                    <div class="font-content text-gray-700">
-                      <comp.person_showcase_link slug={family.slug}>
-                        {family.name}
-                      </comp.person_showcase_link>
-                    </div>
-                    <div class="font-content text-gray-500 text-xs capitalize">
-                      {family.relationship}
-                    </div>
-                  </>
-                ))}
+              <div class="font-content text-gray-700">
+                {active_period_start} - {active_period_end ?? "Present"}
               </div>
             </div>
           )}
         </div>
       </div>
-      <div class="text-sm font-content text-gray-700 mb-1 pt-2 w-96 mx-auto space-y-2">
-        {children}
-      </div>
-      {accolades && accolades.length > 0 && (
+      {type === "group" && members && members.length > 0 && (
         <>
-          <comp.named_divider name="Accolades" />
-          <div class="flex flex-col sm:flex-row sm:flex-wrap gap-4 m-auto sm:w-fit w-96">
-            {accolades.map((accolade) => (
+          <comp.named_divider name="Members" />
+          <div class="w-96 m-auto sm:w-fit flex flex-col sm:flex-row flex-wrap gap-6 justify-center">
+            {members.map((member) => (
               <>
-                <div
-                  class={`font-content text-xs gap-1 ${
-                    accolade.status === "won"
-                      ? "text-amber-600"
-                      : "text-gray-700"
-                  }`}
-                >
-                  <div class="flex items-end gap-1">
-                    <div>
-                      <img
-                        class="h-4 w-4"
-                        src={icon(
-                          "award",
-                          "tabler",
-                          accolade.status === "won" ? "filled" : "outline",
-                        )}
-                        inline
-                      />
-                    </div>
-                    <div
-                      class={`uppercase font-detail ${
-                        accolade.status !== "won" ? "text-gray-500" : ""
-                      }`}
-                    >
-                      {accolade.status === "won" ? "Won" : "Nominated"}
-                    </div>
+                <div class="flex flex-col text-sm gap-3">
+                  <div class="sm:text-center text-base font-content text-gray-700">
+                    {member.name}
                   </div>
                   <div>
-                    <div>
-                      {accolade.ceremony}
-                    </div>
-                    <div>{accolade.category}</div>
-                    <div class="italic">
-                      {accolade.films.map((f) => f.title).join(", ")}
-                    </div>
+                    {member.dob && (
+                      <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
+                        <div>
+                          <img
+                            class="h-4 w-4 text-gray-500"
+                            src={icon("sun-high", "tabler", "outline")}
+                            inline
+                          />
+                        </div>
+                        <div class="space-y-1">
+                          <div class="font-content text-gray-700">
+                            {display_date(
+                              member.dob,
+                              member.dob_resolution,
+                            )}
+                            {!member.dod && <>({age(member.dob)})</>}
+                          </div>
+                          {member.birth_name && (
+                            <div class="font-content text-gray-500 text-xs">
+                              {member.birth_name}
+                            </div>
+                          )}
+                          {member.japanese_birth_name && (
+                            <div class="font-content text-gray-500 text-xs">
+                              {member.japanese_birth_name}
+                            </div>
+                          )}
+                          {member.birth_place && (
+                            <div class="font-content text-gray-500 text-xs">
+                              {member.birth_place}
+                            </div>
+                          )}
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                  <div>
+                    {member.dod && typeof member.dod !== "string" && (
+                      <div class="flex lg:break-inside-avoid-column gap-1 items-baseline">
+                        <div>
+                          <img
+                            class="h-4 w-4 text-gray-500"
+                            src={icon("moon", "tabler", "outline")}
+                            inline
+                          />
+                        </div>
+                        <div class="space-y-1">
+                          <div class="font-content text-gray-700">
+                            {display_date(member.dod, member.dod_resolution)}
+                            {" "}
+                            ({lifespan(
+                              member.dob,
+                              member.dod,
+                            )})
+                          </div>
+                          {member.death_place && (
+                            <div class="font-content text-gray-500 text-xs">
+                              {member.death_place}
+                            </div>
+                          )}
+                          {member.cause_of_death && (
+                            <div class="font-content text-gray-500 text-xs">
+                              {member.cause_of_death}
+                            </div>
+                          )}
+                        </div>
+                      </div>
+                    )}
                   </div>
                 </div>
               </>
