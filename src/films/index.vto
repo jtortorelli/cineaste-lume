@@ -50,7 +50,7 @@ title: Films
             <div class="font-content italic text-sm text-gray-700">
               {{ film.title }}
             </div>
-            <div class="font-detail text-red-700 text-xs">
+            <div class="font-content text-gray-500 text-xs">
               {{ film.release_date |> date("yyyy") }}
             </div>
           </a>
@@ -61,11 +61,15 @@ title: Films
   </div>
 </div>
 <script>
+  function normalizeString(str) {
+    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  }
+
   const searchInput = document.getElementById("default-search");
   const filterables = document.querySelectorAll(".filterable");
 
   function filterElements() {
-    const inputValue = searchInput.value.toLowerCase();
+    const inputValue = searchInput.value.trim();
 
     if (!inputValue) {
       filterables.forEach((el) => {
@@ -74,7 +78,7 @@ title: Films
       return;
     }
 
-    const terms = inputValue.split(/\s+/).filter((term) => term.length > 0);
+    const terms = inputValue.split(/\s+/).filter((term) => term.length > 0).map(normalizeString);
 
     if (terms.length === 0) {
       filterables.forEach((el) => {
@@ -84,8 +88,9 @@ title: Films
     }
 
     filterables.forEach((el) => {
-      const elementTerms = el.getAttribute("data-terms").toLowerCase()
+      const elementTermsRaw = el.getAttribute("data-terms").toLowerCase()
         .split(/\s+/);
+      const elementTerms = elementTermsRaw.map(normalizeString);
 
       const allTermsMatch = terms.every((term) =>
         elementTerms.some((elementTerm) => elementTerm.includes(term))
