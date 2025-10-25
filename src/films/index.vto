@@ -8,34 +8,95 @@ title: Films
     Films
   </h1>
 </div>
+<div class="pb-6">
+  <div class="relative shadow-lg">
+    <div
+      class="absolute inset-y-0 start-0 flex pl-4 items-center ps-3 pointer-events-none text-red-700"
+    >
+      <img
+        src="{{ "search" |> icon("tabler", "outline")}}"
+        class="h-5 w-5"
+        inline
+      />
+    </div>
+    <input
+      type="text"
+      id="default-search"
+      class="font-content block w-full p-4 pl-12 ps-10 text-base text-red-700 border-none rounded-lg"
+    />
+  </div>
+</div>
 <div>
   <div class="flex flex-col sm:flex-row sm:flex-wrap sm:items-start gap-4">
     {{ for film of search.pages('cineaste films', 'url') }}
-    <div class="sm:flex sm:flex-col sm:w-36 grid grid-cols-[101px_auto] gap-3">
-      <div>
-        <a href="{{ film.url }}">
-          <div class="text-center w-fit m-auto">
-            <img
-              class="rounded-lg drop-shadow-lg"
-              height="{{ 150 }}"
-              width="{{ 101 }}"
-              src="{{ film.poster_url }}"
-            />
-          </div>
-        </a>
+      <div
+        class="filterable sm:flex sm:flex-col sm:w-36 grid grid-cols-[101px_auto] gap-3"
+        data-terms="{{ film.title }} {{ (film.aliases || []).map(a => a.alias).join(" ") }}"
+      >
+        <div>
+          <a href="{{ film.url }}">
+            <div class="text-center w-fit m-auto">
+              <img
+                class="rounded-lg drop-shadow-lg"
+                height="{{ 150 }}"
+                width="{{ 101 }}"
+                src="{{ film.poster_url }}"
+              />
+            </div>
+          </a>
+        </div>
+        <div class="sm:text-center">
+          <a href="{{ film.url }}">
+            <div class="font-content italic text-sm text-gray-700">
+              {{ film.title }}
+            </div>
+            <div class="font-detail text-red-700 text-xs">
+              {{ film.release_date |> date("yyyy") }}
+            </div>
+          </a>
+        </div>
       </div>
-      <div class="sm:text-center">
-        <a href="{{ film.url }}">
-          <div class="font-content italic text-sm text-gray-700">
-            {{ film.title }}
-          </div>
-          <div class="font-detail text-red-700 text-xs">
-            {{ film.release_date |> date('yyyy')}}
-          </div>
-        </a>
-      </div>
-    </div>
     {{ /for }}
     <div></div>
   </div>
 </div>
+<script>
+  const searchInput = document.getElementById("default-search");
+  const filterables = document.querySelectorAll(".filterable");
+
+  function filterElements() {
+    const inputValue = searchInput.value.toLowerCase();
+
+    if (!inputValue) {
+      filterables.forEach((el) => {
+        el.style.display = "block";
+      });
+      return;
+    }
+
+    const terms = inputValue.split(/\s+/).filter((term) => term.length > 0);
+
+    if (terms.length === 0) {
+      filterables.forEach((el) => {
+        el.style.display = "block";
+      });
+      return;
+    }
+
+    filterables.forEach((el) => {
+      const elementTerms = el.getAttribute("data-terms").toLowerCase()
+        .split(/\s+/);
+
+      const allTermsMatch = terms.every((term) =>
+        elementTerms.some((elementTerm) => elementTerm.includes(term))
+      );
+      if (allTermsMatch) {
+        el.style.display = "block";
+      } else {
+        el.style.display = "none";
+      }
+    });
+  }
+
+  searchInput.addEventListener("input", filterElements);
+</script>
