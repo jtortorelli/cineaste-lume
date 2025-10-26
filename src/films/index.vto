@@ -30,7 +30,7 @@ title: Films
   <div class="flex flex-col sm:flex-row sm:flex-wrap sm:items-start gap-4">
     {{ for film of search.pages('cineaste films', 'url') }}
       <div
-        class="filterable sm:flex sm:flex-col sm:w-36 grid grid-cols-[101px_auto] gap-3"
+        class="filterable sm:flex sm:flex-col sm:w-36 grid grid-cols-[101px_auto]"
         data-terms="{{ film.title }} {{ (film.aliases || []).map(a => a.alias).join(" ") }}"
       >
         <div>
@@ -45,7 +45,7 @@ title: Films
             </div>
           </a>
         </div>
-        <div class="sm:text-center">
+        <div class="sm:text-center pt-3">
           <a href="{{ film.url }}">
             <div class="font-content italic text-sm text-gray-700">
               {{ film.title }}
@@ -60,48 +60,4 @@ title: Films
     <div></div>
   </div>
 </div>
-<script>
-  function normalizeString(str) {
-    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
-  }
-
-  const searchInput = document.getElementById("default-search");
-  const filterables = document.querySelectorAll(".filterable");
-
-  function filterElements() {
-    const inputValue = searchInput.value.trim();
-
-    if (!inputValue) {
-      filterables.forEach((el) => {
-        el.style.display = "block";
-      });
-      return;
-    }
-
-    const terms = inputValue.split(/\s+/).filter((term) => term.length > 0).map(normalizeString);
-
-    if (terms.length === 0) {
-      filterables.forEach((el) => {
-        el.style.display = "block";
-      });
-      return;
-    }
-
-    filterables.forEach((el) => {
-      const elementTermsRaw = el.getAttribute("data-terms").toLowerCase()
-        .split(/\s+/);
-      const elementTerms = elementTermsRaw.map(normalizeString);
-
-      const allTermsMatch = terms.every((term) =>
-        elementTerms.some((elementTerm) => elementTerm.includes(term))
-      );
-      if (allTermsMatch) {
-        el.style.display = "block";
-      } else {
-        el.style.display = "none";
-      }
-    });
-  }
-
-  searchInput.addEventListener("input", filterElements);
-</script>
+<script src="/scripts/filter.js"></script>

@@ -32,5 +32,6 @@ site.add("style.css"); //Add the entry point
 site.use(icons());
 site.use(inline());
 site.add("/static");
+site.add("/scripts");
 
 export default site;
