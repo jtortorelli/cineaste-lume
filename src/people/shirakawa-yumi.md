@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/shirakawa-yumi/avatar.jpg
+avatar_url: /static/images/people/shirakawa-yumi/avatar.webp
 birth_name: Yamazaki Akiko
 birth_place: Tokyo, Japan
 cause_of_death: Heart Failure
@@ -18,7 +18,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.webp
     roles:
       - name: Kiyo
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     roles:
       - name: Shiraishi Etsuko
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.webp
     roles:
       - name: Arai Chikako
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
     roles:
       - name: Chûjô Akiko
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: Ebara Sanae
         uncredited: false
@@ -58,7 +58,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: Sonoda Tomoko
         uncredited: false
@@ -66,7 +66,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     roles:
       - name: The Queen
         uncredited: false

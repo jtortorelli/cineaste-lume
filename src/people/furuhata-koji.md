@@ -1,13 +1,13 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/furuhata-koji/avatar.jpg
+avatar_url: /static/images/people/furuhata-koji/avatar.webp
 japanese_name: 古畑弘二
 name: Furuhata Kôji
 profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Frankenstein
         uncredited: false

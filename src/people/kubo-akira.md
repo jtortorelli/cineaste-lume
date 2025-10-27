@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/kubo-akira/avatar.jpg
+avatar_url: /static/images/people/kubo-akira/avatar.webp
 birth_name: Yamauchi Yasuyoshi
 birth_place: Tokyo, Japan
 dob: 1936-12-01
@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
     roles:
       - name: Miki Yoshiteru
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Prince Ioki
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.jpg
+    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
     roles:
       - name: Morishima Hayato
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: Astronaut Kanai Tatsumaro
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.webp
     roles:
       - name: Murai Kenji
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.jpg
+    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
     roles:
       - name: Daijirô
         uncredited: false
@@ -60,7 +60,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: Torii Tetsuo
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
+    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
     roles:
       - name: Maki Gorô
         uncredited: false
@@ -76,7 +76,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
       - name: Yamabe Katsuo
         uncredited: false
@@ -84,7 +84,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/space-amoeba-1970/posters/poster.jpg
+    poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
     roles:
       - name: Kudô Tarô
         uncredited: false
@@ -92,7 +92,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: /static/images/films/gamera-guardian-of-the-universe-1995/posters/poster.jpg
+    poster_url: /static/images/films/gamera-guardian-of-the-universe-1995/posters/poster.webp
     roles:
       - name: Captain of Kairyu<span class="italic">-maru</span>
         uncredited: false

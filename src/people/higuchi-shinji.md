@@ -21,7 +21,7 @@ accolades:
     films:
       - title: Shin Ultraman
     status: nominated
-avatar_url: /static/images/people/higuchi-shinji/avatar.jpg
+avatar_url: /static/images/people/higuchi-shinji/avatar.webp
 birth_place: Tokyo, Japan
 dob: 1965-09-22
 dob_resolution: exact
@@ -31,13 +31,13 @@ profession: Director
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/royal-space-force-the-wings-of-honneamise-1987/posters/poster.jpeg
+    poster_url: /static/images/films/royal-space-force-the-wings-of-honneamise-1987/posters/poster.webp
     staff:
       - role: Assistant Director
     title: "Royal Space Force: The Wings of Honnêamise"
     year: 1987
   - format: film
-    poster_url: /static/images/films/gamera-guardian-of-the-universe-1995/posters/poster.jpg
+    poster_url: /static/images/films/gamera-guardian-of-the-universe-1995/posters/poster.webp
     slug: gamera-guardian-of-the-universe-1995
     staff:
       - role: SFX Director
@@ -48,10 +48,10 @@ works:
       - role: Storyboard Artist
       - role: Screenplay
     title: Neon Genesis Evangelion
-    title_card_url: /static/images/tv-series/neon-genesis-evangelion-1995/title_cards/Neon_Genesis_Evangelion_Title_Card.webp
+    title_card_url: /static/images/tv-series/neon-genesis-evangelion-1995/title-cards/Neon_Genesis_Evangelion_Title_Card.webp
     year: 1995
   - format: film
-    poster_url: /static/images/films/gamera-2-attack-of-legion-1996/posters/poster.jpg
+    poster_url: /static/images/films/gamera-2-attack-of-legion-1996/posters/poster.webp
     slug: gamera-2-attack-of-legion-1996
     staff:
       - role: SFX Director
@@ -59,7 +59,7 @@ works:
     title: "Gamera 2: Attack of Legion"
     year: 1996
   - format: film
-    poster_url: /static/images/films/gamera-3-revenge-of-iris-1999/posters/poster.jpg
+    poster_url: /static/images/films/gamera-3-revenge-of-iris-1999/posters/poster.webp
     slug: gamera-3-revenge-of-iris-1999
     staff:
       - role: SFX Director
@@ -67,21 +67,21 @@ works:
     title: "Gamera 3: Revenge of Iris"
     year: 1999
   - format: film
-    poster_url: /static/images/films/sakuya-slayer-of-demons-2000/posters/poster.jpg
+    poster_url: /static/images/films/sakuya-slayer-of-demons-2000/posters/poster.webp
     slug: sakuya-slayer-of-demons-2000
     staff:
       - role: SFX Director
     title: "Sakuya: Slayer of Demons"
     year: 2000
   - format: film
-    poster_url: /static/images/films/princess-blade-2001/posters/poster.jpg
+    poster_url: /static/images/films/princess-blade-2001/posters/poster.webp
     slug: princess-blade-2001
     staff:
       - role: SFX Director
     title: The Princess Blade
     year: 2001
   - format: film
-    poster_url: /static/images/films/returner-2002/posters/poster.jpg
+    poster_url: /static/images/films/returner-2002/posters/poster.webp
     roles:
       - name: UFO Researcher
         uncredited: false
@@ -89,14 +89,14 @@ works:
     title: Returner
     year: 2002
   - format: film
-    poster_url: /static/images/films/casshern-2004/posters/poster.jpg
+    poster_url: /static/images/films/casshern-2004/posters/poster.webp
     slug: casshern-2004
     staff:
       - role: Battle Scene Storyboards
     title: Casshern
     year: 2004
   - format: film
-    poster_url: /static/images/films/lorelei-the-witch-of-the-pacific-ocean-2005/posters/poster.jpg
+    poster_url: /static/images/films/lorelei-the-witch-of-the-pacific-ocean-2005/posters/poster.webp
     slug: lorelei-the-witch-of-the-pacific-ocean-2005
     staff:
       - role: Director
@@ -104,55 +104,55 @@ works:
     title: "Lorelei: The Witch of the Pacific Ocean"
     year: 2005
   - format: film
-    poster_url: /static/images/films/samurai-commando-mission-1549-2005/posters/poster.jpg
+    poster_url: /static/images/films/samurai-commando-mission-1549-2005/posters/poster.webp
     slug: samurai-commando-mission-1549-2005
     staff:
       - role: Planning Cooperation
     title: "Samurai Commando: Mission 1549"
     year: 2005
   - format: film
-    poster_url: /static/images/films/sinking-of-japan-2006/posters/poster.jpg
+    poster_url: /static/images/films/sinking-of-japan-2006/posters/poster.webp
     slug: sinking-of-japan-2006
     staff:
       - role: Director
     title: The Sinking of Japan
     year: 2006
   - format: film
-    poster_url: /static/images/films/hidden-fortress-the-last-princess-2008/posters/poster.jpg
+    poster_url: /static/images/films/hidden-fortress-the-last-princess-2008/posters/poster.webp
     slug: hidden-fortress-the-last-princess-2008
     staff:
       - role: Director
     title: "Hidden Fortress: The Last Princess"
     year: 2008
   - format: film
-    poster_url: /static/images/films/assault-girls-2009/posters/poster.jpg
+    poster_url: /static/images/films/assault-girls-2009/posters/poster.webp
     slug: assault-girls-2009
     staff:
       - role: Key Art Design
     title: Assault Girls
     year: 2009
   - format: film
-    poster_url: /static/images/films/floating-castle-2012/posters/poster.jpg
+    poster_url: /static/images/films/floating-castle-2012/posters/poster.webp
     staff:
       - role: Director
     title: The Floating Castle
     year: 2012
   - format: film
-    poster_url: /static/images/films/attack-on-titan-2015/posters/poster.jpg
+    poster_url: /static/images/films/attack-on-titan-2015/posters/poster.webp
     slug: attack-on-titan-2015
     staff:
       - role: Director
     title: Attack on Titan
     year: 2015
   - format: film
-    poster_url: /static/images/films/attack-on-titan-end-of-the-world-2015/posters/poster.jpg
+    poster_url: /static/images/films/attack-on-titan-end-of-the-world-2015/posters/poster.webp
     slug: attack-on-titan-end-of-the-world-2015
     staff:
       - role: Director
     title: "Attack on Titan: End of the World"
     year: 2015
   - format: film
-    poster_url: /static/images/films/shin-godzilla-2016/posters/poster.jpg
+    poster_url: /static/images/films/shin-godzilla-2016/posters/poster.webp
     slug: shin-godzilla-2016
     staff:
       - role: Director
@@ -160,7 +160,7 @@ works:
     title: Shin Godzilla
     year: 2016
   - format: film
-    poster_url: /static/images/films/shin-ultraman-2022/posters/poster.jpg
+    poster_url: /static/images/films/shin-ultraman-2022/posters/poster.webp
     staff:
       - role: Director
     title: Shin Ultraman

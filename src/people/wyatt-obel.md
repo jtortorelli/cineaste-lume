@@ -1,13 +1,13 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/wyatt-obel/avatar.jpg
+avatar_url: /static/images/people/wyatt-obel/avatar.webp
 japanese_name: オーベル・ワイアット
 name: Obel Wyatt
 profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
     roles:
       - name: Military Officer
         uncredited: true
@@ -15,7 +15,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Rolisican Mayor
         uncredited: false
@@ -23,7 +23,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: Alliance Officer
         uncredited: true
@@ -31,7 +31,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: UN Ambassador
         uncredited: true

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/ueda-kichijiro/avatar.jpg
+avatar_url: /static/images/people/ueda-kichijiro/avatar.webp
 birth_name: Ueda Sadao
 birth_place: Kobe, Hyogo, Japan
 cause_of_death: Laryngeal Cancer
@@ -16,7 +16,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/rashomon-1950/posters/poster.jpg
+    poster_url: /static/images/films/rashomon-1950/posters/poster.webp
     roles:
       - name: The Peaseant
         uncredited: false
@@ -24,7 +24,7 @@ works:
     title: Rashomon
     year: 1950
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
     roles:
       - name: Bandit Scout
         uncredited: false
@@ -32,7 +32,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     roles:
       - name: Ogon
         uncredited: false
@@ -40,7 +40,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
     roles:
       - name: Warlord
         uncredited: false
@@ -48,7 +48,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     roles:
       - name: Slave Dealer
         uncredited: false
@@ -56,7 +56,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Hachihara
         uncredited: false
@@ -64,7 +64,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     roles:
       - name: Zenbei
         uncredited: false
@@ -72,7 +72,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/three-outlaw-samurai-1964/posters/poster.jpg
+    poster_url: /static/images/films/three-outlaw-samurai-1964/posters/poster.webp
     roles:
       - name: Ishigaki
         uncredited: false
@@ -80,7 +80,7 @@ works:
     title: Three Outlaw Samurai
     year: 1964
   - format: film
-    poster_url: /static/images/films/adventures-of-zatoichi-1964/posters/poster.jpg
+    poster_url: /static/images/films/adventures-of-zatoichi-1964/posters/poster.webp
     roles:
       - name: Boss Jinbei
         uncredited: false
@@ -88,7 +88,7 @@ works:
     title: Adventures of Zatoichi
     year: 1964
   - format: film
-    poster_url: /static/images/films/gamera-vs-gyaos-1967/posters/poster.jpg
+    poster_url: /static/images/films/gamera-vs-gyaos-1967/posters/poster.webp
     roles:
       - name: Kanamaru Tanaemon
         uncredited: false

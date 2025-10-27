@@ -9,7 +9,7 @@ aliases:
     context:
     japanese_name: 東明浩
     name: Azuma Akihiro
-avatar_url: /static/images/people/inagaki-hiroshi/avatar.jpg
+avatar_url: /static/images/people/inagaki-hiroshi/avatar.webp
 birth_name: Inagaki Kôjirô
 birth_place: Tokyo, Japan
 cause_of_death: Cirrhosis
@@ -24,7 +24,7 @@ profession: Director
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.jpg
+    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
     slug: samurai-i-musashi-miyamoto-1954
     staff:
       - role: Director
@@ -32,7 +32,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
     slug: samurai-ii-duel-at-ichijoji-temple-1955
     staff:
       - role: Director
@@ -40,7 +40,7 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     slug: samurai-iii-duel-at-ganryu-island-1956
     staff:
       - role: Director
@@ -48,14 +48,14 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     slug: three-treasures-1959
     staff:
       - role: Director
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     slug: daredevil-in-the-castle-1961
     staff:
       - role: Director
@@ -69,7 +69,7 @@ works:
     title: Chushingura
     year: 1962
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.jpg
+    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
     slug: whirlwind-1964
     staff:
       - role: Director

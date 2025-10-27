@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/koizumi-hiroshi/avatar.jpg
+avatar_url: /static/images/people/koizumi-hiroshi/avatar.webp
 birth_place: Kamakura, Kanagawa, Japan
 cause_of_death: Pneumonia
 dob: 1926-08-12
@@ -13,7 +13,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.webp
     roles:
       - name: Tsukioka Shôichi
         uncredited: false
@@ -21,7 +21,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Doctor Chûjô Shin'ichi
         uncredited: false
@@ -29,7 +29,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.webp
     roles:
       - name: Sakuta Naoyuki
         uncredited: false
@@ -37,7 +37,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: Detective Itô
         uncredited: false
@@ -45,7 +45,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
     roles:
       - name: Doctor Miura
         uncredited: false
@@ -53,7 +53,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: Doctor Kirino
         uncredited: false
@@ -61,7 +61,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
     roles:
       - name: Doctor Murai
         uncredited: false
@@ -69,7 +69,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/godzilla-vs-mechagodzilla-1974/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-mechagodzilla-1974/posters/poster.webp
     roles:
       - name: Doctor Wagura
         uncredited: false
@@ -77,7 +77,7 @@ works:
     title: Godzilla vs. Mechagodzilla
     year: 1974
   - format: film
-    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.jpg
+    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.webp
     roles:
       - name: Environmental Scientist
         uncredited: false
@@ -85,7 +85,7 @@ works:
     title: Prophecies of Nostradamus
     year: 1974
   - format: film
-    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.jpg
+    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.webp
     roles:
       - name: Doctor Minami
         uncredited: false
@@ -93,7 +93,7 @@ works:
     title: The Return of Godzilla
     year: 1985
   - format: film
-    poster_url: /static/images/films/godzilla-tokyo-sos-2003/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-tokyo-sos-2003/posters/poster.webp
     roles:
       - name: Chûjô Shin'ichi
         uncredited: false

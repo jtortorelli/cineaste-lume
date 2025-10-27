@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/sawai-keiko/avatar.jpg
+avatar_url: /static/images/people/sawai-keiko/avatar.webp
 birth_place: Osaka, Japan
 dob: 1945-01-02
 dob_resolution: exact
@@ -10,7 +10,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Kazuko
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: Fuji Haruno
         uncredited: false

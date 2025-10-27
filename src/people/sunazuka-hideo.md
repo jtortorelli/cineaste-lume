@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/sunazuka-hideo/avatar.jpg
+avatar_url: /static/images/people/sunazuka-hideo/avatar.webp
 birth_place: Shizuoka, Japan
 dob: 1932-08-07
 dob_resolution: exact
@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     roles:
       - name: Mustachioed Rebel
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
     roles:
       - name: Nita
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/zatoichi-meets-yojimbo-1970/posters/poster.jpg
+    poster_url: /static/images/films/zatoichi-meets-yojimbo-1970/posters/poster.webp
     roles:
       - name: Yunosuke
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: Zatoichi Meets Yojimbo
     year: 1970
   - format: film
-    poster_url: /static/images/films/daigoro-vs-goliath-1972/posters/poster.jpg
+    poster_url: /static/images/films/daigoro-vs-goliath-1972/posters/poster.webp
     roles:
       - name: Salaryman
         uncredited: false

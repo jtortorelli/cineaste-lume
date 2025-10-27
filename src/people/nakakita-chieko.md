@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/nakakita-chieko/avatar.jpg
+avatar_url: /static/images/people/nakakita-chieko/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Myocardial Infarction
 death_place: Tokyo, Japan
@@ -17,7 +17,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Tenazuchi
         uncredited: false
@@ -25,7 +25,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     roles:
       - name: Yae No Kyoku
         uncredited: false
@@ -33,7 +33,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: Ohara
         uncredited: false
@@ -41,7 +41,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
     roles:
       - name: "Yata's & Ryota's Mother"
         uncredited: false

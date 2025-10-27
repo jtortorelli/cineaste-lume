@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/ito-minoru/avatar.jpg
+avatar_url: /static/images/people/ito-minoru/avatar.webp
 birth_place: Chiba, Japan
 dob: 1928-03-13
 dob_resolution: exact
@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
     roles:
       - name: Bandit
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.jpg
+    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
     roles:
       - name: Driver
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     roles:
       - name: Spectator
         uncredited: true
@@ -34,7 +34,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     roles:
       - name: Reporter
         uncredited: true
@@ -42,7 +42,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     roles:
       - name: Yamana Cavalry
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
     roles:
       - name: Speaker
         uncredited: true
@@ -58,7 +58,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
     roles:
       - name: Thriller Show Employee
         uncredited: true
@@ -66,7 +66,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -74,7 +74,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     roles:
       - name: Warrior Priest
         uncredited: true
@@ -82,7 +82,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.jpg
+    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
     roles:
       - name: Ushitora Underling
         uncredited: true
@@ -90,7 +90,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -98,7 +98,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.jpg
+    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
     roles:
       - name: Kikui Samurai
         uncredited: false
@@ -106,7 +106,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
     roles:
       - name: Detective
         uncredited: false
@@ -114,7 +114,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: <span class="italic">Gôtengô</span> Crew
         uncredited: true
@@ -122,7 +122,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -130,7 +130,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
     roles:
       - name: Reporter
         uncredited: true
@@ -138,7 +138,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Scientist
         uncredited: true
@@ -146,7 +146,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -154,7 +154,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     roles:
       - name: Palace Guard
         uncredited: true
@@ -162,7 +162,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -170,7 +170,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     roles:
       - name: Who Henchman
         uncredited: true
@@ -178,7 +178,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
       - name: Possessed Monsterland Personnel
         uncredited: false
@@ -186,7 +186,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/latitude-zero-1969/posters/poster.jpg
+    poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
     roles:
       - name: Research Ship Captain
         uncredited: true

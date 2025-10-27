@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/shimizu-gen/avatar.jpg
+avatar_url: /static/images/people/shimizu-gen/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Stomach Cancer
 dob: 1907-01-01
@@ -13,7 +13,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
     roles:
       - name: Offended Samurai
         uncredited: false
@@ -21,7 +21,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
     roles:
       - name: Washizu Soldier
         uncredited: false
@@ -29,7 +29,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.jpg
+    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
     roles:
       - name: Seibei Underling
         uncredited: false
@@ -37,7 +37,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.jpg
+    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
     roles:
       - name: Kikui Deputy
         uncredited: false
@@ -45,7 +45,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
     roles:
       - name: Doctor
         uncredited: false
@@ -53,7 +53,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: General
         uncredited: false
@@ -61,7 +61,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/godzilla-vs-gigan-1972/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-gigan-1972/posters/poster.webp
     roles:
       - name: Defense Commander
         uncredited: false

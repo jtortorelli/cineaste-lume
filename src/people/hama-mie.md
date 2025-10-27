@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/hama-mie/avatar.jpg
+avatar_url: /static/images/people/hama-mie/avatar.webp
 birth_place: Tokyo, Japan
 dob: 1943-11-20
 dob_resolution: exact
@@ -10,7 +10,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
     roles:
       - name: Sakurai Fumiko
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     roles:
       - name: Princess Yaya
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     roles:
       - name: Kureya
         uncredited: false
@@ -34,13 +34,13 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/you-only-live-twice-1967/posters/poster.jpg
+    poster_url: /static/images/films/you-only-live-twice-1967/posters/poster.webp
     roles:
       - name: Kissy Suzuki
     title: You Only Live Twice
     year: 1967
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     roles:
       - name: Madame Piranha
         uncredited: false

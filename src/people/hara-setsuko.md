@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/hara-setsuko/avatar.jpg
+avatar_url: /static/images/people/hara-setsuko/avatar.webp
 birth_name: Aida Masae
 birth_place: Yokohama, Kanagawa, Japan
 cause_of_death: Pneumonia
@@ -16,13 +16,13 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/daughter-of-the-samurai-1937/posters/poster.jpg
+    poster_url: /static/images/films/daughter-of-the-samurai-1937/posters/poster.webp
     roles:
       - name: Yamato Mitsuko
     title: The Daughter of the Samurai
     year: 1937
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Amaterasu
         uncredited: false

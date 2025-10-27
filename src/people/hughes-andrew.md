@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/hughes-andrew/avatar.jpg
+avatar_url: /static/images/people/hughes-andrew/avatar.webp
 birth_place: Turkey
 death_place: France
 dob: 1908-01-16
@@ -13,7 +13,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
     roles:
       - name: UN Official
         uncredited: true
@@ -27,7 +27,7 @@ works:
     title: Crazy Adventure
     year: 1965
   - format: film
-    poster_url: /static/images/films/golden-bat-1966/posters/poster.jpg
+    poster_url: /static/images/films/golden-bat-1966/posters/poster.webp
     roles:
       - name: Doctor Pearl
         uncredited: false
@@ -35,7 +35,7 @@ works:
     title: The Golden Bat
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     roles:
       - name: UN Reporter
         uncredited: true
@@ -43,7 +43,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
       - name: Doctor Stevenson
         uncredited: false
@@ -51,7 +51,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/latitude-zero-1969/posters/poster.jpg
+    poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
     roles:
       - name: Sir Maurice Pauli
         uncredited: true
@@ -59,7 +59,7 @@ works:
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.jpg
+    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.webp
     roles:
       - name: Australian Prime Minister
         uncredited: false
@@ -67,7 +67,7 @@ works:
     title: Submersion of Japan
     year: 1973
   - format: film
-    poster_url: /static/images/films/espy-1974/posters/poster.jpg
+    poster_url: /static/images/films/espy-1974/posters/poster.webp
     roles:
       - name: ESPY Chief
         uncredited: false
@@ -75,7 +75,7 @@ works:
     title: ESPY
     year: 1974
   - format: film
-    poster_url: /static/images/films/sayonara-jupiter-1984/posters/poster.jpg
+    poster_url: /static/images/films/sayonara-jupiter-1984/posters/poster.webp
     roles:
       - name: Senator Shadillic
         uncredited: false

@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 惑星大戦争
-poster_url: /static/images/films/war-in-space-1977/posters/poster.jpg
+poster_url: /static/images/films/war-in-space-1977/posters/poster.webp
 release_date: 1977-12-17
 runtime: 91
 staff:
@@ -55,69 +55,69 @@ studios:
   - Toho Co., Ltd.
 title: The War in Space
 top_billed_cast:
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/kensaku-morita-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/kensaku-morita-0.webp
     character_qualifiers:
     name: Morita Kensaku
     role: Miyoshi Kôji
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/yuko-asano-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/yuko-asano-0.webp
     character_qualifiers:
     name: Asano Yûko
     role: Takigawa Jun
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/hiroshi-miyauchi-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/hiroshi-miyauchi-0.webp
     character_qualifiers:
     name: Miyauchi Hiroshi
     role: Fuyuki Kazuo
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/katsutoshi-atarashi-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/katsutoshi-atarashi-0.webp
     character_qualifiers:
     name: Atarashi Katsutoshi
     role: Mikasa Tadashi
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/hideji-otaki-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/hideji-otaki-0.webp
     character_qualifiers:
     name: Ôtaki Hideji
     role: Doctor Matsuzawa
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/akihiko-hirata-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/akihiko-hirata-0.webp
     character_qualifiers:
     name: Hirata Akihiko
     role: Defense Force Commander Ôishi
     slug: hirata-akihiko
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/isao-hashimoto-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/isao-hashimoto-0.webp
     character_qualifiers:
     name: Hashimoto Isao
     role: Researcher
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/shuji-nakayama-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/shuji-nakayama-0.webp
     character_qualifiers:
     name: Nakayama Shôji
     role: Defense Force Officer
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/goro-mutsumi-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/goro-mutsumi-0.webp
     character_qualifiers:
     name: Mutsumi Gorô
     role: Commander Hell
     slug: mutsumi-goro
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/sen-yamamoto-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/sen-yamamoto-0.webp
     character_qualifiers:
     name: Yamamoto Sen
     role: <span class="italic">Gôtengô</span> Pilot
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/mammoth-suzuki-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/mammoth-suzuki-0.webp
     character_qualifiers:
     name: Mammoth Suzuki
     role: Space Beastman
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/william-ross-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/william-ross-0.webp
     character_qualifiers:
     name: William Ross
     role: Doctor Schmidt
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/david-palen-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/david-palen-0.webp
     character_qualifiers:
     name: David Palen
     role: Jimmy
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/takashi-kanematsu-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/takashi-kanematsu-0.webp
     character_qualifiers:
     name: Kanematsu Takashi
     role: Kusaka Tetsuo
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/masaya-oki-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/masaya-oki-0.webp
     character_qualifiers:
     name: Oki Masaya
     role: Muroi Reisuke
-  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/ryo-ikebe-0.jpg
+  - avatar_url: /static/images/films/war-in-space-1977/cast-avatars/ryo-ikebe-0.webp
     character_qualifiers:
     name: Ikebe Ryô
     role: Takigawa Masato

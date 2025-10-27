@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/tazaki-jun/avatar.jpg
+avatar_url: /static/images/people/tazaki-jun/avatar.webp
 birth_name: Tanaka Minoru
 birth_place: Aomori, Japan
 cause_of_death: Lung Cancer
@@ -16,7 +16,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Kurohiko
         uncredited: false
@@ -24,7 +24,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     roles:
       - name: Tsutsui Zekaibô
         uncredited: false
@@ -32,7 +32,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: Captain Sonoda Raizô
         uncredited: false
@@ -40,7 +40,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
     roles:
       - name: General Shinzô
         uncredited: false
@@ -48,7 +48,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
     roles:
       - name: Kamiya
         uncredited: false
@@ -56,7 +56,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     roles:
       - name: Slim
         uncredited: false
@@ -64,7 +64,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: Captain Jinguji Hachirô
         uncredited: false
@@ -72,7 +72,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
     roles:
       - name: Newspaper Editor
         uncredited: false
@@ -80,7 +80,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: Police Chief
         uncredited: false
@@ -88,7 +88,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Officer Nishi
         uncredited: false
@@ -96,7 +96,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: Doctor Sakurai
         uncredited: false
@@ -104,7 +104,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     roles:
       - name: The Innkeeper
         uncredited: false
@@ -112,7 +112,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
     roles:
       - name: General Hashimoto
         uncredited: false
@@ -120,7 +120,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
     roles:
       - name: Red Bamboo Commander
         uncredited: false
@@ -128,7 +128,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
       - name: Doctor Yoshida
         uncredited: false

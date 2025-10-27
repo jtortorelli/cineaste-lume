@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/fujiwara-kamatari/avatar.jpg
+avatar_url: /static/images/people/fujiwara-kamatari/avatar.webp
 birth_place: Tokyo, Japan
 dob: 1905-01-15
 dob_resolution: exact
@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
     roles:
       - name: Manzô
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.jpg
+    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
     roles:
       - name: Mari's Grandfather
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     roles:
       - name: Matashichi
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.jpg
+    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
     roles:
       - name: Tazaemon
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.jpg
+    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
     roles:
       - name: Takebayashi
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
     roles:
       - name: Hospital Waste Collector
         uncredited: false
@@ -60,7 +60,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/three-outlaw-samurai-1964/posters/poster.jpg
+    poster_url: /static/images/films/three-outlaw-samurai-1964/posters/poster.webp
     roles:
       - name: Jinbei
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: Three Outlaw Samurai
     year: 1964
   - format: film
-    poster_url: /static/images/films/kagemusha-1980/posters/poster.jpg
+    poster_url: /static/images/films/kagemusha-1980/posters/poster.webp
     roles:
       - name: Doctor
         uncredited: false

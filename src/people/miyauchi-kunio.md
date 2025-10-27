@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/miyauchi-kunio/avatar.jpg
+avatar_url: /static/images/people/miyauchi-kunio/avatar.webp
 birth_name: Miyauchi Kokurô
 birth_place: Tokyo, Japan
 cause_of_death: Colon Cancer
@@ -16,14 +16,14 @@ profession: Composer
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
     slug: human-vapor-1960
     staff:
       - role: Music
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.jpg
+    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
     slug: all-monsters-attack-1969
     staff:
       - role: Music

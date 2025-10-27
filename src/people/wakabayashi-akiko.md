@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/wakabayashi-akiko/avatar.jpg
+avatar_url: /static/images/people/wakabayashi-akiko/avatar.webp
 birth_place: Tokyo, Japan
 dob: 1939-12-13
 dob_resolution: exact
@@ -10,7 +10,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
     roles:
       - name: Tamiye
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     roles:
       - name: Yaya's Handmaiden
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: Hamako
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
     roles:
       - name: Princess Salno
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     roles:
       - name: Spriya
         uncredited: false

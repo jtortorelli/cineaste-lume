@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/fujiki-yu/avatar.jpg
+avatar_url: /static/images/people/fujiki-yu/avatar.webp
 birth_name: Suzuki Yûzô
 birth_place: Tokyo, Japan
 cause_of_death: Pulmonary Embolism
@@ -16,7 +16,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
     roles:
       - name: Eiko<span class="italic">-maru</span> Radio Operator
         uncredited: true
@@ -24,7 +24,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
     roles:
       - name: Yoshioka Denshichirô
         uncredited: false
@@ -32,7 +32,7 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
     roles:
       - name: Washizu Soldier
         uncredited: false
@@ -40,7 +40,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     roles:
       - name: Yamana Border Guard
         uncredited: false
@@ -48,7 +48,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Okabi
         uncredited: false
@@ -56,7 +56,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     roles:
       - name: Hanawa Danemon
         uncredited: false
@@ -64,7 +64,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
     roles:
       - name: Furue Kinsaburô
         uncredited: false
@@ -72,7 +72,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: Nishibe Yoshito
         uncredited: false
@@ -80,7 +80,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
     roles:
       - name: Nakamura Jirô
         uncredited: false
@@ -88,7 +88,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/space-amoeba-1970/posters/poster.jpg
+    poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
     roles:
       - name: Advertising Chief
         uncredited: false
@@ -96,7 +96,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: /static/images/films/year-one-in-the-north-2005/posters/poster.jpg
+    poster_url: /static/images/films/year-one-in-the-north-2005/posters/poster.webp
     roles:
       - name: Nakano Kamejirô
     title: Year One in the North

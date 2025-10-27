@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/wakamatsu-akira/avatar.jpg
+avatar_url: /static/images/people/wakamatsu-akira/avatar.webp
 birth_place: Fukushima, Japan
 dob: 1933-06-12
 dob_resolution: exact
@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Nelson's Henchman
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: Gangster
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: X<span class="italic">-seijin</span>
         uncredited: true

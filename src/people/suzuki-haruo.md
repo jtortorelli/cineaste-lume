@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/suzuki-haruo/avatar.jpg
+avatar_url: /static/images/people/suzuki-haruo/avatar.webp
 birth_place: Tokyo, Japan
 dob: 1926-10-04
 dob_resolution: exact
@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
     roles:
       - name: Peasant
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.jpg
+    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -26,7 +26,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.jpg
+    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
     roles:
       - name: Yajima's Henchman
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.webp
     roles:
       - name: Coal Car Personnel
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     roles:
       - name: Policeman
         uncredited: true
@@ -50,7 +50,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     roles:
       - name: Yamana Cavalry
         uncredited: false
@@ -58,7 +58,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.webp
     roles:
       - name: Policeman
         uncredited: true
@@ -66,7 +66,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
     roles:
       - name: Detective
         uncredited: true
@@ -74,7 +74,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
     roles:
       - name: Policeman
         uncredited: true
@@ -82,7 +82,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     roles:
       - name: Tokugawa Emissary
         uncredited: true
@@ -90,7 +90,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.jpg
+    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
     roles:
       - name: Ushitora Underling
         uncredited: true
@@ -98,7 +98,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: Defense Officer
         uncredited: true
@@ -106,7 +106,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.jpg
+    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
     roles:
       - name: Samurai Reading Notice
         uncredited: true
@@ -114,7 +114,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: Minister
         uncredited: true
@@ -122,7 +122,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
     roles:
       - name: Sailor
         uncredited: true
@@ -130,7 +130,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
     roles:
       - name: Detective
         uncredited: false
@@ -138,7 +138,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     roles:
       - name: Samurai
         uncredited: false
@@ -146,7 +146,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: <span class="italic">Gôtengô</span> Crew
         uncredited: true
@@ -154,7 +154,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.jpg
+    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
     roles:
       - name: Toyotomi Loyalist
         uncredited: true
@@ -162,7 +162,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
     roles:
       - name: Radio Operator
         uncredited: false
@@ -170,7 +170,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -178,7 +178,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Reporter
         uncredited: true
@@ -186,7 +186,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: Scientist
         uncredited: true
@@ -194,7 +194,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     roles:
       - name: Who Henchman
         uncredited: true
@@ -202,7 +202,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
       - name: Military Officer
         uncredited: true
@@ -210,7 +210,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.jpg
+    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
     roles:
       - name: Reporter
         uncredited: true
@@ -218,7 +218,7 @@ works:
     title: All Monsters Attack
     year: 1969
   - format: film
-    poster_url: /static/images/films/lake-of-dracula-1971/posters/poster.jpg
+    poster_url: /static/images/films/lake-of-dracula-1971/posters/poster.webp
     roles:
       - name: Policeman
         uncredited: false
@@ -226,7 +226,7 @@ works:
     title: Lake of Dracula
     year: 1971
   - format: film
-    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.webp
     roles:
       - name: Military Officer
         uncredited: false
@@ -234,7 +234,7 @@ works:
     title: Godzilla vs. Hedorah
     year: 1971
   - format: film
-    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.jpg
+    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.webp
     roles:
       - name: Helicopter Pilot
         uncredited: false
@@ -242,7 +242,7 @@ works:
     title: Submersion of Japan
     year: 1973
   - format: film
-    poster_url: /static/images/films/evil-of-dracula-1974/posters/poster.jpg
+    poster_url: /static/images/films/evil-of-dracula-1974/posters/poster.webp
     roles:
       - name: Security Guard
         uncredited: false
@@ -250,7 +250,7 @@ works:
     title: Evil of Dracula
     year: 1974
   - format: film
-    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.jpg
+    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.webp
     roles:
       - name: Policeman
         uncredited: false
@@ -258,7 +258,7 @@ works:
     title: Prophecies of Nostradamus
     year: 1974
   - format: film
-    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.jpg
+    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.webp
     roles:
       - name: Submarine Crew
         uncredited: false

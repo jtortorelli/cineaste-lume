@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/sanjo-miki/avatar.jpg
+avatar_url: /static/images/people/sanjo-miki/avatar.webp
 birth_place: Kyoto, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan
@@ -14,7 +14,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.jpg
+    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
     roles:
       - name: Michiyo
         uncredited: false

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/senda-koreya/avatar.jpg
+avatar_url: /static/images/people/senda-koreya/avatar.webp
 birth_name: Itô Kunio
 birth_place: Tokyo, Japan
 cause_of_death: Liver Cancer
@@ -22,7 +22,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.jpg
+    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.webp
     roles:
       - name: Doctor Sugimoto
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.webp
     roles:
       - name: Doctor Maki
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
     roles:
       - name: Doctor Adachi
         uncredited: false

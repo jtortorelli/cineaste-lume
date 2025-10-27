@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/hodgson-william-hope/avatar.jpg
+avatar_url: /static/images/people/hodgson-william-hope/avatar.webp
 birth_place: Blackmore End, Essex, England
 cause_of_death: Artillery Shell Impact
 death_place: Ypres, Belgium
@@ -13,13 +13,13 @@ name: William Hope Hodgson
 profession: Author
 type: person
 works:
-  - cover_url: /static/images/books/voice-in-the-night-1907/William%20Hope%20Hodgson%20Voice%20in%20the%20Night.jpg
+  - cover_url: /static/images/books/voice-in-the-night-1907/William%20Hope%20Hodgson%20Voice%20in%20the%20Night.webp
     format: book
     staff:
       - role: Author
     title: The Voice in the Night
     year: 1907
-  - cover_url: /static/images/books/house-on-the-borderland-1908/House%20on%20the%20Borderland%20First.jpg
+  - cover_url: /static/images/books/house-on-the-borderland-1908/House%20on%20the%20Borderland%20First.webp
     format: book
     staff:
       - role: Author
@@ -30,10 +30,10 @@ works:
       - episode_count: 1
         role: Original Work
     title: Suspicion
-    title_card_url: /static/images/books/suspicion-1957/Suspicion%20TV%20Title%20Card.jpg
+    title_card_url: /static/images/tv-series/suspicion-1957/Suspicion%20TV%20Title%20Card.webp
     year: 1957
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.webp
     slug: matango-1963
     staff:
       - role: Original Work

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/miyazaki-hayao/avatar.jpg
+avatar_url: /static/images/people/miyazaki-hayao/avatar.webp
 birth_place: Tokyo, Japan
 dob: 1941-01-15
 dob_resolution: exact
@@ -10,7 +10,7 @@ profession: Director
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/lupin-iii-the-castle-of-cagliostro-1979/posters/poster.jpg
+    poster_url: /static/images/films/lupin-iii-the-castle-of-cagliostro-1979/posters/poster.webp
     slug: lupin-iii-the-castle-of-cagliostro-1979
     staff:
       - role: Director
@@ -18,7 +18,7 @@ works:
     title: "Lupin III: The Castle of Cagliostro"
     year: 1979
   - format: film
-    poster_url: /static/images/films/nausicaa-of-the-valley-of-the-wind-1984/posters/poster.jpg
+    poster_url: /static/images/films/nausicaa-of-the-valley-of-the-wind-1984/posters/poster.webp
     slug: nausicaa-of-the-valley-of-the-wind-1984
     staff:
       - role: Director
@@ -27,7 +27,7 @@ works:
     title: Nausicaä of the Valley of the Wind
     year: 1984
   - format: film
-    poster_url: /static/images/films/castle-in-the-sky-1986/posters/poster.jpg
+    poster_url: /static/images/films/castle-in-the-sky-1986/posters/poster.webp
     slug: castle-in-the-sky-1986
     staff:
       - role: Director
@@ -36,7 +36,7 @@ works:
     title: Castle in the Sky
     year: 1986
   - format: film
-    poster_url: /static/images/films/my-neighbor-totoro-1988/posters/poster.jpg
+    poster_url: /static/images/films/my-neighbor-totoro-1988/posters/poster.webp
     slug: my-neighbor-totoro-1988
     staff:
       - role: Director
@@ -45,7 +45,7 @@ works:
     title: My Neighbor Totoro
     year: 1988
   - format: film
-    poster_url: /static/images/films/kikis-delivery-service-1989/posters/poster.jpg
+    poster_url: /static/images/films/kikis-delivery-service-1989/posters/poster.webp
     slug: kikis-delivery-service-1989
     staff:
       - role: Director
@@ -54,7 +54,7 @@ works:
     title: Kiki's Delivery Service
     year: 1989
   - format: film
-    poster_url: /static/images/films/porco-rosso-1992/posters/poster.jpg
+    poster_url: /static/images/films/porco-rosso-1992/posters/poster.webp
     slug: porco-rosso-1992
     staff:
       - role: Director
@@ -63,7 +63,7 @@ works:
     title: Porco Rosso
     year: 1992
   - format: film
-    poster_url: /static/images/films/princess-mononoke-1997/posters/poster.jpg
+    poster_url: /static/images/films/princess-mononoke-1997/posters/poster.webp
     slug: princess-mononoke-1997
     staff:
       - role: Director
@@ -72,7 +72,7 @@ works:
     title: Princess Mononoke
     year: 1997
   - format: film
-    poster_url: /static/images/films/spirited-away-2001/posters/poster.jpg
+    poster_url: /static/images/films/spirited-away-2001/posters/poster.webp
     slug: spirited-away-2001
     staff:
       - role: Director
@@ -81,7 +81,7 @@ works:
     title: Spirited Away
     year: 2001
   - format: film
-    poster_url: /static/images/films/howls-moving-castle-2004/posters/poster.jpg
+    poster_url: /static/images/films/howls-moving-castle-2004/posters/poster.webp
     slug: howls-moving-castle-2004
     staff:
       - role: Director
@@ -89,7 +89,7 @@ works:
     title: Howl's Moving Castle
     year: 2004
   - format: film
-    poster_url: /static/images/films/ponyo-2008/posters/poster.jpg
+    poster_url: /static/images/films/ponyo-2008/posters/poster.webp
     slug: ponyo-2008
     staff:
       - role: Director
@@ -98,7 +98,7 @@ works:
     title: Ponyo
     year: 2008
   - format: film
-    poster_url: /static/images/films/wind-rises-2013/posters/poster.jpg
+    poster_url: /static/images/films/wind-rises-2013/posters/poster.webp
     slug: wind-rises-2013
     staff:
       - role: Director

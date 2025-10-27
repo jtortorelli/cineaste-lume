@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/hirata-akihiko/avatar.jpg
+avatar_url: /static/images/people/hirata-akihiko/avatar.webp
 birth_name: Onoda Akihiko
 birth_place: Gyeongseong, Korea
 cause_of_death: Lymphangiectasia
@@ -17,7 +17,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.jpg
+    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
     roles:
       - name: Yoshioka Seijûrô
         uncredited: false
@@ -25,7 +25,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
     roles:
       - name: Doctor Serizawa Daisuke
         uncredited: false
@@ -33,7 +33,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
     roles:
       - name: Yoshioka Seijûrô
         uncredited: false
@@ -41,7 +41,7 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.webp
     roles:
       - name: Doctor Kashiwagi
         uncredited: false
@@ -49,7 +49,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     roles:
       - name: Doctor Shiraishi Ryôichi
         uncredited: false
@@ -57,7 +57,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.jpg
+    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.webp
     roles:
       - name: Doctor Fujimura
         uncredited: false
@@ -65,7 +65,7 @@ works:
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.webp
     roles:
       - name: Detective Tominaga
         uncredited: false
@@ -73,7 +73,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Takehiko
         uncredited: false
@@ -81,7 +81,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
     roles:
       - name: Detective Kobayashi
         uncredited: false
@@ -89,7 +89,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     roles:
       - name: Susukida Kanesuke
         uncredited: false
@@ -97,7 +97,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Doctor
         uncredited: false
@@ -105,7 +105,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.jpg
+    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
     roles:
       - name: Terada Bunji
         uncredited: false
@@ -113,7 +113,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: Captain Endô
         uncredited: false
@@ -121,7 +121,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
     roles:
       - name: Minister Shigezawa
         uncredited: false
@@ -129,7 +129,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: Mû Agent No. 23
         uncredited: false
@@ -137,7 +137,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.jpg
+    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
     roles:
       - name: Soga Matazaemon
         uncredited: false
@@ -145,7 +145,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
     roles:
       - name: Chief Okita
         uncredited: false
@@ -153,7 +153,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     roles:
       - name: The Chamberlain
         uncredited: false
@@ -161,7 +161,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
     roles:
       - name: Captain Yamato
         uncredited: false
@@ -169,7 +169,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
+    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
     roles:
       - name: Fujisaki
         uncredited: false
@@ -177,7 +177,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/latitude-zero-1969/posters/poster.jpg
+    poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
     roles:
       - name: Doctor Sugata
         uncredited: false
@@ -189,10 +189,10 @@ works:
       - episode_count: 49
         name: Mr. K
     title: Warrior of Love Rainbowman
-    title_card_url: /static/images/tv-series/warrior-of-love-rainbowman-1972/title-cards/Ai%20no%20Senshi%20Reinbooman.png
+    title_card_url: /static/images/tv-series/warrior-of-love-rainbowman-1972/title-cards/Ai%20no%20Senshi%20Reinbooman.webp
     year: 1972
   - format: film
-    poster_url: /static/images/films/godzilla-vs-mechagodzilla-1974/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-mechagodzilla-1974/posters/poster.webp
     roles:
       - name: Doctor Miyajima Hideto
         uncredited: false
@@ -200,7 +200,7 @@ works:
     title: Godzilla vs. Mechagodzilla
     year: 1974
   - format: film
-    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.jpg
+    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.webp
     roles:
       - name: Environmental Scientist
         uncredited: false
@@ -208,7 +208,7 @@ works:
     title: Prophecies of Nostradamus
     year: 1974
   - format: film
-    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.jpg
+    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.webp
     roles:
       - name: Doctor Mafune Shinzô
         uncredited: false
@@ -216,7 +216,7 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
   - format: film
-    poster_url: /static/images/films/war-in-space-1977/posters/poster.jpg
+    poster_url: /static/images/films/war-in-space-1977/posters/poster.webp
     roles:
       - name: Defense Force Commander Ôishi
         uncredited: false
@@ -231,7 +231,7 @@ works:
     title_card_url: /static/images/tv-series/star-wolf-1978/title-cards/Star%20Wolf%20OP.webp
     year: 1978
   - format: film
-    poster_url: /static/images/films/sayonara-jupiter-1984/posters/poster.jpg
+    poster_url: /static/images/films/sayonara-jupiter-1984/posters/poster.webp
     roles:
       - name: Doctor Inoue
         uncredited: false

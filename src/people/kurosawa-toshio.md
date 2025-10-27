@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/kurosawa-toshio/avatar.jpg
+avatar_url: /static/images/people/kurosawa-toshio/avatar.webp
 birth_place: Yokohama, Kanagawa, Japan
 dob: 1944-02-04
 dob_resolution: exact
@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     roles:
       - name: Ôsumi's Brother
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/evil-of-dracula-1974/posters/poster.jpg
+    poster_url: /static/images/films/evil-of-dracula-1974/posters/poster.webp
     roles:
       - name: Shiraki
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: Evil of Dracula
     year: 1974
   - format: film
-    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.jpg
+    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.webp
     roles:
       - name: Nakagawa Akira
         uncredited: false

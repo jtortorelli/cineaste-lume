@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/kobayashi-tetsuko/avatar.jpg
+avatar_url: /static/images/people/kobayashi-tetsuko/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Lung Cancer
 dob: 1941-03-12
@@ -13,7 +13,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: Mû Empress
         uncredited: false

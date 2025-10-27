@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/yachigusa-kaoru/avatar.jpg
+avatar_url: /static/images/people/yachigusa-kaoru/avatar.webp
 birth_name: Matsuda Hitomi
 birth_place: Osaka, Japan
 cause_of_death: Pancreatic Cancer
@@ -18,7 +18,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.jpg
+    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
     roles:
       - name: Otsû
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
     roles:
       - name: Otsû
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     roles:
       - name: Otsû
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
     roles:
       - name: Kasuga Fujichiyo
         uncredited: false

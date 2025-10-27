@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/miki-norihei/avatar.jpg
+avatar_url: /static/images/people/miki-norihei/avatar.webp
 birth_name: Tanuma Tadashi
 birth_place: Tokyo, Japan
 cause_of_death: Liver Tumor
@@ -15,7 +15,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Koyane
         uncredited: false
@@ -23,7 +23,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/zatoichis-revenge-1965/posters/poster.jpg
+    poster_url: /static/images/films/zatoichis-revenge-1965/posters/poster.webp
     roles:
       - name: Denroku
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: Zatoichi's Revenge
     year: 1965
   - format: film
-    poster_url: /static/images/films/magnitude-7-9-1980/posters/poster.jpg
+    poster_url: /static/images/films/magnitude-7-9-1980/posters/poster.webp
     roles:
       - name: Sukegawa Shôzô
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: Magnitude 7.9
     year: 1980
   - format: film
-    poster_url: /static/images/films/tokyo-blackout-1987/posters/poster.jpg
+    poster_url: /static/images/films/tokyo-blackout-1987/posters/poster.webp
     roles:
       - name: Kimura Matsukichi
         uncredited: false
@@ -47,7 +47,7 @@ works:
     title: Tokyo Blackout
     year: 1987
   - format: film
-    poster_url: /static/images/films/zatoichi-1989/posters/poster.jpg
+    poster_url: /static/images/films/zatoichi-1989/posters/poster.webp
     roles:
       - name: Giabara
         uncredited: false

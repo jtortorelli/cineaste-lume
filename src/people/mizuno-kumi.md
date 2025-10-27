@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/mizuno-kumi/avatar.jpg
+avatar_url: /static/images/people/mizuno-kumi/avatar.webp
 birth_name: Igarashi Maya
 birth_place: Sanjo, Niigata, Japan
 dob: 1937-01-01
@@ -15,7 +15,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Azami
         uncredited: false
@@ -23,7 +23,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: Nomura Takiko
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.webp
     roles:
       - name: Sekiguchi Mami
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     roles:
       - name: Miwa
         uncredited: false
@@ -47,7 +47,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.jpg
+    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
     roles:
       - name: Orie
         uncredited: false
@@ -55,7 +55,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Doctor Togami Sueko
         uncredited: false
@@ -63,7 +63,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: Namikawa
         uncredited: false
@@ -71,7 +71,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
     roles:
       - name: Akemi
         uncredited: false
@@ -79,7 +79,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
     roles:
       - name: Dayo
         uncredited: false
@@ -87,7 +87,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/godzilla-against-mechagodzilla-2002/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-against-mechagodzilla-2002/posters/poster.webp
     roles:
       - name: Prime Minister Tsuge Machiko
         uncredited: false
@@ -95,7 +95,7 @@ works:
     title: Godzilla Against Mechagodzilla
     year: 2002
   - format: film
-    poster_url: /static/images/films/godzilla-final-wars-2004/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-final-wars-2004/posters/poster.webp
     roles:
       - name: Commander Namikawa Reiko
         uncredited: false

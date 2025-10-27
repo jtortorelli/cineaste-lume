@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/kobayashi-keiju/avatar.jpg
+avatar_url: /static/images/people/kobayashi-keiju/avatar.webp
 birth_place: Murota, Gunma, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan
@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Amatsumara
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.jpg
+    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
     roles:
       - name: Kimura
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.jpg
+    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.webp
     roles:
       - name: Doctor Tadokoro Yûsuke
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: Submersion of Japan
     year: 1973
   - format: film
-    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.jpg
+    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.webp
     roles:
       - name: Prime Minister Mitamura Seiki
         uncredited: false

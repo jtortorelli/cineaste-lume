@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/yamamoto-ren/avatar.jpg
+avatar_url: /static/images/people/yamamoto-ren/avatar.webp
 birth_name: Yamamoto Kiyoshi
 birth_place: Ashigarakami, Kanagawa, Japan
 cause_of_death: Cerebral Hemorrhage
@@ -15,7 +15,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
     roles:
       - name: Peasant
         uncredited: true
@@ -23,7 +23,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
     roles:
       - name: Masaji
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.webp
     roles:
       - name: Ikeda
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
     roles:
       - name: Kawakami Riichi
         uncredited: false
@@ -47,7 +47,7 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     roles:
       - name: Villager
         uncredited: false
@@ -55,7 +55,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -63,7 +63,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.webp
     roles:
       - name: Gangster
         uncredited: false
@@ -71,7 +71,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Yamato Soldier
         uncredited: true
@@ -79,7 +79,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
     roles:
       - name: Detective Marune
         uncredited: false
@@ -87,7 +87,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
     roles:
       - name: Nishiyama
         uncredited: false
@@ -95,7 +95,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     roles:
       - name: Mohei's Crew
         uncredited: false
@@ -103,7 +103,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Marooned Sailor
         uncredited: false
@@ -111,7 +111,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
     roles:
       - name: Soldier
         uncredited: false
@@ -119,7 +119,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.jpg
+    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
     roles:
       - name: Mineo
         uncredited: false
@@ -127,7 +127,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
     roles:
       - name: Sailor
         uncredited: false
@@ -135,7 +135,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Kawai's Assistant
         uncredited: false
@@ -143,7 +143,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     roles:
       - name: Jail Keeper
         uncredited: false
@@ -151,7 +151,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
     roles:
       - name: Sailor
         uncredited: false

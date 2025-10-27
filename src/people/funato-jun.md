@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/funato-jun/avatar.jpg
+avatar_url: /static/images/people/funato-jun/avatar.webp
 birth_name: Nishina Tsunetaka
 birth_place: Wakayama, Japan
 cause_of_death: Lung Cancer
@@ -17,7 +17,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     roles:
       - name: The Prince of Ming
         uncredited: false
@@ -25,7 +25,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: Detective Nitta
         uncredited: false

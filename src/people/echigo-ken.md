@@ -5,7 +5,7 @@ aliases:
     context:
     japanese_name: 越後憲三
     name: Echigo Kenzô
-avatar_url: /static/images/people/echigo-ken/avatar.jpg
+avatar_url: /static/images/people/echigo-ken/avatar.webp
 birth_place: Akita, Japan
 dob: 1929-12-02
 dob_resolution: exact
@@ -19,7 +19,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.jpg
+    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
     roles:
       - name: Villager
         uncredited: true
@@ -27,7 +27,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
     roles:
       - name: Eiko-maru Sailor
         uncredited: true
@@ -35,7 +35,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.jpg
+    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
     roles:
       - name: Waiter
         uncredited: true
@@ -43,7 +43,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.webp
     roles:
       - actor_alias: Echigo Kenzô
         name: Policeman
@@ -52,7 +52,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     roles:
       - name: Pilot
         uncredited: true
@@ -60,7 +60,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.webp
     roles:
       - name: Nightclub Patron
         uncredited: true
@@ -68,7 +68,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Yamato Soldier
         uncredited: true
@@ -76,7 +76,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -84,7 +84,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
     roles:
       - name: Policeman
         uncredited: true
@@ -92,7 +92,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
     roles:
       - name: Scientist
         uncredited: true
@@ -100,7 +100,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     roles:
       - name: Warrior Priest
         uncredited: true
@@ -108,7 +108,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: TV Singer
         uncredited: true
@@ -116,7 +116,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.jpg
+    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
     roles:
       - name: Kikui Samurai
         uncredited: true
@@ -124,7 +124,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: Satellite Crew
         uncredited: true
@@ -132,7 +132,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
     roles:
       - name: Train Crew
         uncredited: true
@@ -140,7 +140,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
     roles:
       - actor_alias: Echigo Kenzô
         name: Reporter
@@ -149,7 +149,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -157,7 +157,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
     roles:
       - actor_alias: Echigo Kenzô
         name: Bystander
@@ -169,7 +169,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Man Fleeing Resort
         uncredited: true
@@ -177,7 +177,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
     roles:
       - name: Red Bamboo Soldier
         uncredited: true
@@ -185,7 +185,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
       - name: SY-3 Crew
         uncredited: false
@@ -193,7 +193,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/latitude-zero-1969/posters/poster.jpg
+    poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
     roles:
       - name: Observer
         uncredited: true
@@ -201,7 +201,7 @@ works:
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.jpg
+    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
     roles:
       - name: Policeman
         uncredited: true
@@ -209,7 +209,7 @@ works:
     title: All Monsters Attack
     year: 1969
   - format: film
-    poster_url: /static/images/films/space-amoeba-1970/posters/poster.jpg
+    poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
     roles:
       - name: Journalist
         uncredited: true
@@ -217,7 +217,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.webp
     roles:
       - name: Talking Head
         uncredited: true

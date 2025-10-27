@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/uehara-misa/avatar.jpg
+avatar_url: /static/images/people/uehara-misa/avatar.webp
 birth_name: Uehara Misako
 birth_place: Fukuoka, Japan
 dob: 1937-03-26
@@ -14,7 +14,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     roles:
       - name: Princess Yuki
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Kushinada
         uncredited: false

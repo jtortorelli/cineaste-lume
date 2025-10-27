@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/nakamura-ganjiro/avatar.jpg
+avatar_url: /static/images/people/nakamura-ganjiro/avatar.webp
 birth_name: Hayashi Yoshio
 birth_place: Osaka, Japan
 dob: 1902-02-17
@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Emperor Keikô
         uncredited: false

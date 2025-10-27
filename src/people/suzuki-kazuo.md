@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/suzuki-kazuo/avatar.jpg
+avatar_url: /static/images/people/suzuki-kazuo/avatar.webp
 birth_place: Tokyo, Japan
 dob: 1937-01-18
 dob_resolution: exact
@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
     roles:
       - name: Bystander
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
     roles:
       - name: Drug Addict
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
     roles:
       - name: Assassin
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: X<span class="italic">-seijin</span>
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
     roles:
       - name: Escaped Islander
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     roles:
       - name: Who Henchman
         uncredited: false
@@ -60,7 +60,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
+    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
     roles:
       - name: Pilot
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
       - name: Possessed Monsterland Personnel
         uncredited: false
@@ -76,7 +76,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.jpg
+    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
     roles:
       - name: Okuda
         uncredited: false
@@ -84,7 +84,7 @@ works:
     title: All Monsters Attack
     year: 1969
   - format: film
-    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.jpg
+    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.webp
     roles:
       - name: Third Planet of the Black Hole<span class="italic">-seijin</span>
         uncredited: false

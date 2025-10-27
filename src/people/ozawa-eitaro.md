@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/ozawa-eitaro/avatar.jpg
+avatar_url: /static/images/people/ozawa-eitaro/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Lung Cancer
 death_place: Zushi, Kanagawa, Japan
@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.jpg
+    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
     roles:
       - name: Ikeda Terumasa
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.webp
     roles:
       - name: Detective Miyashita
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: Minister Kinami
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/zatoichi-challenged-1967/posters/poster.jpg
+    poster_url: /static/images/films/zatoichi-challenged-1967/posters/poster.webp
     roles:
       - name: Torikoshi
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: Zatoichi Challenged
     year: 1967
   - format: film
-    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.jpg
+    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.webp
     roles:
       - name: Minister Kanzaki
         uncredited: false

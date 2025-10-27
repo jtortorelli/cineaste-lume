@@ -5,7 +5,7 @@ aliases:
     context: After 1964
     japanese_name: 馬淵薫
     name: Mabuchi Kaoru
-avatar_url: /static/images/people/kimura-takeshi/avatar.jpg
+avatar_url: /static/images/people/kimura-takeshi/avatar.webp
 birth_place: Osaka, Japan
 dob: 1911-02-04
 dob_resolution: exact
@@ -17,70 +17,70 @@ profession: Screenwriter
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.webp
     slug: rodan-1956
     staff:
       - role: Screenplay
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     slug: mysterians-1957
     staff:
       - role: Screenplay
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
     slug: human-vapor-1960
     staff:
       - role: Screenplay
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     slug: daredevil-in-the-castle-1961
     staff:
       - role: Screenplay
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     slug: last-war-1961
     staff:
       - role: Screenplay
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     slug: gorath-1962
     staff:
       - role: Screenplay
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.webp
     slug: matango-1963
     staff:
       - role: Screenplay
     title: Matango
     year: 1963
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     slug: lost-world-of-sinbad-1963
     staff:
       - role: Screenplay
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.jpg
+    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
     slug: whirlwind-1964
     staff:
       - role: Screenplay
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     slug: frankenstein-conquers-the-world-1965
     staff:
       - role: Screenplay
@@ -88,7 +88,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     slug: adventure-of-kigan-castle-1966
     staff:
       - role: Screenplay
@@ -96,7 +96,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
     slug: war-of-the-gargantuas-1966
     staff:
       - role: Screenplay
@@ -104,7 +104,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     slug: king-kong-escapes-1967
     staff:
       - role: Screenplay
@@ -112,7 +112,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     slug: destroy-all-monsters-1968
     staff:
       - role: Screenplay
@@ -120,7 +120,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.webp
     slug: godzilla-vs-hedorah-1971
     staff:
       - role: Screenplay

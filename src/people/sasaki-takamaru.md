@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/sasaki-takamaru/avatar.jpg
+avatar_url: /static/images/people/sasaki-takamaru/avatar.webp
 birth_place: Kawakami, Hokkaido, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan
@@ -20,7 +20,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     roles:
       - name: Iwama Kakubei
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
     roles:
       - name: Tsuzuki Kuniharu
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
     roles:
       - name: Doctor Niki
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
     roles:
       - name: Police Executive
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: Prime Minister Seki
         uncredited: false
@@ -60,7 +60,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: Prime Minister
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/zatoichi-meets-the-one-armed-swordsman-1971/posters/poster.jpg
+    poster_url: /static/images/films/zatoichi-meets-the-one-armed-swordsman-1971/posters/poster.webp
     roles:
       - name: Monk
         uncredited: false

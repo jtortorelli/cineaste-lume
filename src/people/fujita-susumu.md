@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/fujita-susumu/avatar.jpg
+avatar_url: /static/images/people/fujita-susumu/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Liver Cancer
 death_place: Tokyo, Japan
@@ -14,19 +14,19 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/sanshiro-sugata-1943/posters/poster.jpg
+    poster_url: /static/images/films/sanshiro-sugata-1943/posters/poster.webp
     roles:
       - name: Sugata Sanshirô
     title: Sanshiro Sugata
     year: 1943
   - format: film
-    poster_url: /static/images/films/sanshiro-sugata-part-two-1945/posters/poster.jpg
+    poster_url: /static/images/films/sanshiro-sugata-part-two-1945/posters/poster.webp
     roles:
       - name: Sugata Sanshirô
     title: "Sanshiro Sugata: Part Two"
     year: 1945
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     roles:
       - name: General Morita
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     roles:
       - name: Tadokoro Hyôe
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     roles:
       - name: Sakakibara Katsuyasu
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.jpg
+    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
     roles:
       - name: Honma
         uncredited: false
@@ -58,7 +58,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
     roles:
       - name: Police Executive
         uncredited: false
@@ -66,7 +66,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: General
         uncredited: false
@@ -74,7 +74,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
     roles:
       - name: General
         uncredited: false
@@ -82,7 +82,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: General Iwasa
         uncredited: false
@@ -90,7 +90,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Osaka Police Chief
         uncredited: false

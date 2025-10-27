@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/tanaka-kinuyo/avatar.jpg
+avatar_url: /static/images/people/tanaka-kinuyo/avatar.webp
 birth_place: Yamaguchi, Japan
 cause_of_death: Brain Tumor
 death_place: Tokyo, Japan
@@ -14,7 +14,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Princess Yamato
         uncredited: false

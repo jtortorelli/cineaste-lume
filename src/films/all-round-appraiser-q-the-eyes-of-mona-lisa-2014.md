@@ -7,7 +7,7 @@ original_works:
     format: novel series
     slug: all-round-appraiser-qs-case-files
     title: All-Round Appraiser Q's Case Files
-poster_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/posters/poster.jpg
+poster_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/posters/poster.webp
 release_date: 2014-05-31
 runtime: 119
 staff:
@@ -50,68 +50,68 @@ studios:
   - Hokkaido Broadcasting Co., Ltd.
   - GYAO Corporation
 supporting_cast:
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/kazuhide-kobayashi-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/kazuhide-kobayashi-0.webp
     character_qualifiers:
     name: Kobayashi Kazuhide
     role: Detective
     uncredited: false
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/masanobu-sakata-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/masanobu-sakata-0.webp
     character_qualifiers:
     name: Sakata Masanobu
     role: Detective
     uncredited: false
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/donpei-tsuchihira-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/donpei-tsuchihira-0.webp
     character_qualifiers:
     name: Tsuchihira Donpei
     role: Priest
     uncredited: false
 title: "All-Round Appraiser Q: The Eyes of Mona Lisa"
 top_billed_cast:
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/haruka-ayase-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/haruka-ayase-0.webp
     character_qualifiers:
     name: Ayase Haruka
     role: Rinda Riko
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/tori-matsuzaka-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/tori-matsuzaka-0.webp
     character_qualifiers:
     name: Matsuzaka Tôri
     role: Ogasawara Yûma
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/eriko-hatsune-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/eriko-hatsune-0.webp
     character_qualifiers:
     name: Hatsune Eriko
     role: Ryûsenji Misa
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/hiroaki-mukami-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/hiroaki-mukami-0.webp
     character_qualifiers:
     name: Murakami Hiroaki
     role: Asahina Naoyuki
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/pierre-deladonchamps-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/pierre-deladonchamps-0.webp
     character_qualifiers:
     name: Pierre Deladonchamps
     role: Richard Bre
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/jun-hashimoto-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/jun-hashimoto-0.webp
     character_qualifiers:
     name: Hashimoto Jun
     role: Ogino Kôyô
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/seminosuke-murasugi-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/seminosuke-murasugi-0.webp
     character_qualifiers:
     name: Murasugi Seminosuke
     role: Yamada Satoshi
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/kazuya-kojima-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/kazuya-kojima-0.webp
     character_qualifiers:
     name: Kojima Kazuya
     role: Kiyabu Yûzen
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/tomoya-moeno-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/tomoya-moeno-0.webp
     character_qualifiers:
     name: Maeno Tomoya
     role: Shimada
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/kazuyuki-aijima-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/kazuyuki-aijima-0.webp
     character_qualifiers:
     name: Aijima Kazuyuki
     role: Doctor
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/nana-eikura-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/nana-eikura-0.webp
     character_qualifiers:
     name: Eikura Nana
     role: Thrift Store Clerk
-  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/kazue-tsunogae-0.jpg
+  - avatar_url: /static/images/films/all-round-appraiser-q-the-eyes-of-mona-lisa-2014/cast-avatars/kazue-tsunogae-0.webp
     character_qualifiers:
     name: Tsunogae Kazue
     role: Erai Kaori

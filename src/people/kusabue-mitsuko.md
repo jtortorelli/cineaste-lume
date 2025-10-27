@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/kusabue-mitsuko/avatar.jpg
+avatar_url: /static/images/people/kusabue-mitsuko/avatar.webp
 birth_place: Yokohama, Kanagawa, Japan
 dob: 1933-10-22
 dob_resolution: exact
@@ -12,7 +12,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     roles:
       - name: Sobei
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.jpg
+    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
     roles:
       - name: Shûzuki
         uncredited: false

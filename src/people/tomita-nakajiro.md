@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/tomita-nakajiro/avatar.jpg
+avatar_url: /static/images/people/tomita-nakajiro/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Heart Failure
 dob: 1911-11-01
@@ -13,7 +13,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     roles:
       - name: Tsujikaze Kôhei
         uncredited: false
@@ -21,7 +21,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
     roles:
       - name: Warlord
         uncredited: false
@@ -29,7 +29,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     roles:
       - name: Yamana Border Guard
         uncredited: false
@@ -37,7 +37,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     roles:
       - name: Samurai Tokubei
         uncredited: false
@@ -45,7 +45,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/three-outlaw-samurai-1964/posters/poster.jpg
+    poster_url: /static/images/films/three-outlaw-samurai-1964/posters/poster.webp
     roles:
       - name: Onda
         uncredited: false
@@ -53,7 +53,7 @@ works:
     title: Three Outlaw Samurai
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
     roles:
       - name: General
         uncredited: false
@@ -61,7 +61,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/adventures-of-zatoichi-1964/posters/poster.jpg
+    poster_url: /static/images/films/adventures-of-zatoichi-1964/posters/poster.webp
     roles:
       - name: Kanjûrô
         uncredited: false

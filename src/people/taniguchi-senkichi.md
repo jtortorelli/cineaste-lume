@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/taniguchi-senkichi/avatar.jpg
+avatar_url: /static/images/people/taniguchi-senkichi/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Pneumonia
 dob: 1912-02-19
@@ -19,14 +19,14 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     slug: lost-world-of-sinbad-1963
     staff:
       - role: Director
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     slug: adventure-of-kigan-castle-1966
     staff:
       - role: Director

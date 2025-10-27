@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/takarada-akira/avatar.jpg
+avatar_url: /static/images/people/takarada-akira/avatar.webp
 birth_place: Hamgyeongbuk-do, Korea
 dob: 1934-04-29
 dob_resolution: exact
@@ -14,7 +14,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
     roles:
       - name: Ogata Hideto
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Prince Wakatarashi
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: Takano
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
     roles:
       - name: Sakai Ichirô
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: Astronaut Fuji Kazuo
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
     roles:
       - name: Yoshimura
         uncredited: false
@@ -62,7 +62,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     roles:
       - name: Lieutenant Nomura Jirô
         uncredited: false
@@ -70,7 +70,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/latitude-zero-1969/posters/poster.jpg
+    poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
     roles:
       - name: Tashiro Ken
         uncredited: false
@@ -80,7 +80,7 @@ works:
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: /static/images/films/godzilla-vs-mothra-1992/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-mothra-1992/posters/poster.webp
     roles:
       - name: Minamino Jôji
         uncredited: false
@@ -88,7 +88,7 @@ works:
     title: Godzilla vs. Mothra
     year: 1992
   - format: film
-    poster_url: /static/images/films/godzilla-final-wars-2004/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-final-wars-2004/posters/poster.webp
     roles:
       - name: Secretary General Daigo Naotarô
         uncredited: false

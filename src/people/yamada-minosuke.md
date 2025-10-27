@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/yamada-minosuke/avatar.jpg
+avatar_url: /static/images/people/yamada-minosuke/avatar.webp
 birth_place: Tokyo, Japan
 dob: 1893-11-13
 dob_resolution: exact
@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.webp
     roles:
       - name: Defense Secretary
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     roles:
       - name: Villager
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.webp
     roles:
       - name: Mining Chief Ôsaki
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     roles:
       - name: Defense Secretary
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.jpg
+    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.webp
     roles:
       - name: Defense Secretary
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.webp
     roles:
       - name: Police Executive
         uncredited: false
@@ -60,7 +60,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Okuri
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
     roles:
       - name: Newspaper Executive
         uncredited: false

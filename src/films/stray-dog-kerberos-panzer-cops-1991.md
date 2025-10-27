@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: ケルベロス-地獄の番犬
-poster_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/posters/poster.jpg
+poster_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/posters/poster.webp
 release_date: 1991-03-23
 runtime: 99
 series:
@@ -50,26 +50,26 @@ studios:
   - Fuji Television Network, Inc.
   - Omnibus Promotion, Inc.
 supporting_cast:
-  - avatar_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/cast-avatars/fumihiko-tachiki-0.jpg
+  - avatar_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/cast-avatars/fumihiko-tachiki-0.webp
     character_qualifiers:
     name: Tachiki Fumihiko
     role: Assassin
     uncredited: false
 title: "Stray Dog: Kerberos Panzer Cops"
 top_billed_cast:
-  - avatar_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/cast-avatars/yoshikatsu-fujiki-0.jpg
+  - avatar_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/cast-avatars/yoshikatsu-fujiki-0.webp
     character_qualifiers:
     name: Fujiki Yoshikatsu
     role: Inui
-  - avatar_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/cast-avatars/sue-eaching-0.jpg
+  - avatar_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/cast-avatars/sue-eaching-0.webp
     character_qualifiers:
     name: Su Yi Jing
     role: Tang Mie
-  - avatar_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/cast-avatars/takashi-matsuyama-0.jpg
+  - avatar_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/cast-avatars/takashi-matsuyama-0.webp
     character_qualifiers:
     name: Matsuyama Takashi
     role: Hayashi
-  - avatar_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/cast-avatars/shigeru-chiba-0.jpg
+  - avatar_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/cast-avatars/shigeru-chiba-0.webp
     character_qualifiers:
     name: Chiba Shigeru
     role: Todome Kôichi

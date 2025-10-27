@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/kato-shigeo/avatar.jpg
+avatar_url: /static/images/people/kato-shigeo/avatar.webp
 birth_place: Kamakura, Kanagawa, Japan
 cause_of_death: Chronic Renal Failure
 death_place: Kamakura, Kanagawa, Japan
@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
     roles:
       - name: Peasant
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     roles:
       - name: Bearer in Procession
         uncredited: true
@@ -30,7 +30,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     roles:
       - name: Yamana Peasant
         uncredited: true
@@ -38,7 +38,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.webp
     roles:
       - name: Fisherman
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
     roles:
       - name: Train Conductor
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Dam Worker
         uncredited: false
@@ -62,7 +62,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.jpg
+    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
     roles:
       - name: Kikui Samurai
         uncredited: true
@@ -70,7 +70,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
     roles:
       - name: Islander
         uncredited: true
@@ -78,7 +78,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -86,7 +86,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
     roles:
       - name: Mt. Aso Tourist
         uncredited: true
@@ -94,7 +94,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Village Policeman
         uncredited: true
@@ -102,7 +102,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -110,7 +110,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     roles:
       - name: Who Henchman
         uncredited: true
@@ -118,7 +118,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
       - name: Mt. Fuji Soldier
         uncredited: true
@@ -130,7 +130,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/latitude-zero-1969/posters/poster.jpg
+    poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
     roles:
       - name: Observer
         uncredited: true
@@ -138,7 +138,7 @@ works:
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: /static/images/films/space-amoeba-1970/posters/poster.jpg
+    poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
     roles:
       - name: Islander
         uncredited: false
@@ -146,7 +146,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: /static/images/films/lake-of-dracula-1971/posters/poster.jpg
+    poster_url: /static/images/films/lake-of-dracula-1971/posters/poster.webp
     roles:
       - name: Coffee Shop Patron
         uncredited: true
@@ -154,7 +154,7 @@ works:
     title: Lake of Dracula
     year: 1971
   - format: film
-    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.webp
     roles:
       - name: Construction Worker
         uncredited: true
@@ -162,7 +162,7 @@ works:
     title: Godzilla vs. Hedorah
     year: 1971
   - format: film
-    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.jpg
+    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.webp
     roles:
       - name: Burned Man
         uncredited: false
@@ -170,7 +170,7 @@ works:
     title: Prophecies of Nostradamus
     year: 1974
   - format: film
-    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.jpg
+    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.webp
     roles:
       - name: Submarine Crew
         uncredited: false
@@ -178,7 +178,7 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
   - format: film
-    poster_url: /static/images/films/conflagration-1975/posters/poster.jpg
+    poster_url: /static/images/films/conflagration-1975/posters/poster.webp
     roles:
       - name: Misuga HQ Staff
         uncredited: false
@@ -186,7 +186,7 @@ works:
     title: Conflagration
     year: 1975
   - format: film
-    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.jpg
+    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.webp
     roles:
       - name: Ship's Radio Operator
         uncredited: false
@@ -194,7 +194,7 @@ works:
     title: The Return of Godzilla
     year: 1985
   - format: film
-    poster_url: /static/images/films/godzilla-vs-megaguirus-2000/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-megaguirus-2000/posters/poster.webp
     roles:
       - name: Janitor
         uncredited: false

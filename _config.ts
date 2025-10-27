@@ -6,6 +6,8 @@ import inline from "lume/plugins/inline.ts";
 import jsx from "lume/plugins/jsx.ts";
 import date from "lume/plugins/date.ts";
 import sheets from "lume/plugins/sheets.ts";
+import transformImages from "lume/plugins/transform_images.ts";
+import { walk } from "jsr:@std/fs";
 
 Deno.env.set("TZ", "Z");
 
@@ -30,8 +32,26 @@ site.use(
 site.use(tailwindcss());
 site.add("style.css"); //Add the entry point
 site.use(icons());
+site.use(transformImages());
 site.use(inline());
 site.add("/static");
 site.add("/scripts");
+
+site.addEventListener("afterBuild", async(_event) => {
+  const outDir = "_site";
+
+  for await (const entry of walk(outDir, {
+    includeDirs: false,
+    exts: ["jpg", "gif", "png", "jpeg"]
+  })) {
+    const path = entry.path;
+
+    if (path.includes(".webp")) {
+      continue;
+    }
+    await Deno.remove(path, {recursive: false});
+    console.log(`Deleted original: ${path}`);
+  }
+});
 
 export default site;

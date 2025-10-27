@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/maruyama-kenichiro/avatar.jpg
+avatar_url: /static/images/people/maruyama-kenichiro/avatar.webp
 dob: 1938-07-12
 dob_resolution: exact
 japanese_name: 丸山謙一郎
@@ -9,7 +9,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: Spaceship Crew
         uncredited: false
@@ -17,7 +17,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
     roles:
       - name: Dining Car Waiter
         uncredited: true
@@ -25,7 +25,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: Cargo Ship Crew
         uncredited: true
@@ -33,7 +33,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
     roles:
       - name: Islander
         uncredited: true
@@ -41,7 +41,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -49,7 +49,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
+    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
     roles:
       - name: Ozawa
         uncredited: false
@@ -57,7 +57,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
       - name: Moon Base Personnel
         uncredited: false

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/fujiyama-yoko/avatar.jpg
+avatar_url: /static/images/people/fujiyama-yoko/avatar.webp
 birth_place: Yokohama, Kanagawa, Japan
 cause_of_death: Subarachnoid Hemorrhage
 dob: 1941-12-17
@@ -13,13 +13,13 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/sir-galahad-in-campus-1961/posters/poster.jpg
+    poster_url: /static/images/films/sir-galahad-in-campus-1961/posters/poster.webp
     roles:
       - name: Nomura Chieko
     title: Sir Galahad in Campus
     year: 1961
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: Jinguji Makoto
         uncredited: false
@@ -27,7 +27,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: Kirino Masayo
         uncredited: false

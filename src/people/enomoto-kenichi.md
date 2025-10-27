@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/enomoto-kenichi/avatar.jpg
+avatar_url: /static/images/people/enomoto-kenichi/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Cirrhosis
 dob: 1904-10-11
@@ -13,7 +13,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Tamaso
         uncredited: false

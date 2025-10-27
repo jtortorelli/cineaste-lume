@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/miller-linda/avatar.jpg
+avatar_url: /static/images/people/miller-linda/avatar.webp
 birth_place: Pennsylvania, United States
 dob: 1947-12-26
 dob_resolution: exact
@@ -10,7 +10,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     roles:
       - name: Susan Watson
         uncredited: false

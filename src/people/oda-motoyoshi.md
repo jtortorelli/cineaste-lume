@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/oda-motoyoshi/avatar.jpg
+avatar_url: /static/images/people/oda-motoyoshi/avatar.webp
 birth_place: Fukuoka, Japan
 dob: 1909-07-21
 dob_resolution: exact
@@ -12,14 +12,14 @@ profession: Director
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.jpg
+    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
     slug: invisible-man-1954
     staff:
       - role: Director
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.webp
     slug: godzilla-raids-again-1955
     staff:
       - role: Director

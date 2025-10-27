@@ -4,7 +4,7 @@ aliases:
   - context: Pseudonym
     japanese_name: 塚本靖
     name: Tsukamoto Yasushi
-avatar_url: /static/images/people/fujimoto-sanezumi/avatar.jpg
+avatar_url: /static/images/people/fujimoto-sanezumi/avatar.webp
 birth_place: Ryojun, Manchuria
 dob: 1910-07-15
 dob_resolution: exact
@@ -16,27 +16,27 @@ profession: Producer
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/ecology-of-marriage-1940/posters/poster.jpg
+    poster_url: /static/images/films/ecology-of-marriage-1940/posters/poster.webp
     staff:
       - role: Producer
     title: Ecology of Marriage
     year: 1940
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     slug: hidden-fortress-1958
     staff:
       - role: Producer
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     slug: three-treasures-1959
     staff:
       - role: Producer
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     slug: last-war-1961
     staff:
       - role: Producer

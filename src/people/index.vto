@@ -26,7 +26,7 @@ layout: layouts/layout.vto
     />
   </div>
 </div>
-<div class="flex flex-col sm:flex-row sm:flex-wrap justify-center gap-4">
+<div class="flex flex-col sm:flex-row sm:flex-wrap justify-center items-start gap-4">
   {{ for p of search.pages('cineaste people', 'url') }}
   <div class="filterable flex flex-row sm:flex-col sm:w-32 items-center"
   data-terms="{{p.name}} {{p.birth_name}} {{ (p.aliases || []).map(a => a.name).join(" ") }} {{(p.members || []).map(m => `${m.name} ${m.birth_name}`).join(" ") }}"

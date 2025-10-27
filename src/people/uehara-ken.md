@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/uehara-ken/avatar.jpg
+avatar_url: /static/images/people/uehara-ken/avatar.webp
 birth_name: Ikehata Kiyoaki
 birth_place: Tokyo, Japan
 cause_of_death: Heart Failure
@@ -21,7 +21,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Doctor Harada
         uncredited: false
@@ -29,7 +29,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: Minister
         uncredited: false
@@ -37,7 +37,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: Doctor Kôno
         uncredited: false
@@ -45,7 +45,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: Admiral Kusumi
         uncredited: false

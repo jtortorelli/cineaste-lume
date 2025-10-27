@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/maeda-beverly/avatar.jpg
+avatar_url: /static/images/people/maeda-beverly/avatar.webp
 birth_place: Kamakura, Kanagawa, Japan
 dob: 1948-08-08
 dob_resolution: exact
@@ -10,7 +10,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
+    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
     roles:
       - name: Saeko
         uncredited: false

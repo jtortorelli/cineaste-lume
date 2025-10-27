@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/yashiro-miki/avatar.jpg
+avatar_url: /static/images/people/yashiro-miki/avatar.webp
 birth_name: Yamada Mikiko
 birth_place: Yokohama, Kanagawa, Japan
 dob: 1943-01-01
@@ -12,7 +12,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.webp
     roles:
       - name: Sôma Akiko
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
     roles:
       - name: Schoolteacher
         uncredited: false

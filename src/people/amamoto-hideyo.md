@@ -4,7 +4,7 @@ aliases:
   - category: mistranslation
     japanese_name: 天本英世
     name: Amamoto Eisei
-avatar_url: /static/images/people/amamoto-hideyo/avatar.jpg
+avatar_url: /static/images/people/amamoto-hideyo/avatar.webp
 birth_place: Fukuoka, Japan
 cause_of_death: Pneumonia
 death_place: Wakamatsu, Fukuoka, Japan
@@ -18,7 +18,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Deity
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
     roles:
       - name: Bodyguard
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     roles:
       - name: Portuguese Interpretor
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.jpg
+    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
     roles:
       - name: Seibei Underling
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: Barfly
         uncredited: false
@@ -58,7 +58,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.jpg
+    poster_url: /static/images/films/matango-1963/posters/poster.webp
     roles:
       - name: Mushroom Man
         uncredited: false
@@ -66,7 +66,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.jpg
+    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     roles:
       - name: Granny
         uncredited: false
@@ -74,7 +74,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: Mû High Priest
         uncredited: false
@@ -82,7 +82,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: Gangster
         uncredited: false
@@ -90,7 +90,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
     roles:
       - name: Salno's Manservant
         uncredited: false
@@ -98,7 +98,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.jpg
+    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     roles:
       - name: Granny the Witch
         uncredited: false
@@ -106,7 +106,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
     roles:
       - name: Red Bamboo Officer
         uncredited: false
@@ -114,7 +114,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     roles:
       - name: Dr. Who
         uncredited: false
@@ -122,7 +122,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.jpg
+    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
     roles:
       - name: Minami Shinpei
         uncredited: false
@@ -134,10 +134,10 @@ works:
       - episode_count: 16
         name: Dr. Shinigami
     title: Kamen Rider
-    title_card_url: /static/images/tv-series/kamen-rider-1971/title-cards/E9B5Y4uUYAMJsaS.jpg
+    title_card_url: /static/images/tv-series/kamen-rider-1971/title-cards/E9B5Y4uUYAMJsaS.webp
     year: 1973
   - format: film
-    poster_url: /static/images/films/message-from-space-1978/posters/poster.jpg
+    poster_url: /static/images/films/message-from-space-1978/posters/poster.webp
     roles:
       - name: Elder Dark
         uncredited: false
@@ -145,7 +145,7 @@ works:
     title: Message from Space
     year: 1978
   - format: film
-    poster_url: /static/images/films/red-spectacles-1987/posters/poster.jpg
+    poster_url: /static/images/films/red-spectacles-1987/posters/poster.webp
     roles:
       - name: Moongaze Ginji
         uncredited: false
@@ -153,7 +153,7 @@ works:
     title: The Red Spectacles
     year: 1987
   - format: film
-    poster_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/posters/poster.jpg
+    poster_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/posters/poster.webp
     roles:
       - name: Elder
         uncredited: false
@@ -161,7 +161,7 @@ works:
     title: "Eko Eko Azarak II: Birth of the Wizard"
     year: 1996
   - format: film
-    poster_url: /static/images/films/godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001/posters/poster.webp
     roles:
       - name: Isayama Yoshitoshi
         uncredited: false
@@ -169,7 +169,7 @@ works:
     title: "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack"
     year: 2001
   - format: film
-    poster_url: /static/images/films/kamen-rider-the-first-2005/posters/poster.jpg
+    poster_url: /static/images/films/kamen-rider-the-first-2005/posters/poster.webp
     roles:
       - name: Shocker Chief
         qualifiers:

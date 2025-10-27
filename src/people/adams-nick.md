@@ -6,7 +6,7 @@ accolades:
     films:
       - title: Twilight of Honor
     status: nominated
-avatar_url: /static/images/people/adams-nick/avatar.jpg
+avatar_url: /static/images/people/adams-nick/avatar.webp
 birth_name: Nicholas Aloysius Adamshock
 birth_place: Nanticoke, Pennsylvania, USA
 cause_of_death: Drug Overdose
@@ -27,35 +27,35 @@ works:
     staff:
       - role: Creator
     title: The Rebel
-    title_card_url: /static/images/tv-series/rebel-1959/title-cards/s-l1200.jpg
+    title_card_url: /static/images/tv-series/rebel-1959/title-cards/s-l1200.webp
     year: 1959
   - format: Film
-    poster_url: /static/images/films/twilight-of-honor-1963/posters/poster.jpg
+    poster_url: /static/images/films/twilight-of-honor-1963/posters/poster.webp
     roles:
       - name: Ben Brown
     title: Twilight of Honor
     year: 1963
   - format: Film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Doctor James Bowen
     slug: frankenstein-conquers-the-world-1965
     title: Frankenstein Conquers the World
     year: 1965
   - format: Film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: Astronaut Glenn
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
   - format: Film
-    poster_url: /static/images/films/killing-bottle-1967/posters/poster.jpg
+    poster_url: /static/images/films/killing-bottle-1967/posters/poster.webp
     roles:
       - name: John Carter
     title: The Killing Bottle
     year: 1967
-  - cover_url: /static/images/books/rebel-and-the-king-2012/The%20Rebel%20and%20the%20King.jpg
+  - cover_url: /static/images/books/rebel-and-the-king-2012/The%20Rebel%20and%20the%20King.webp
     format: Book
     staff:
       - role: Author

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/reason-rhodes/avatar.jpg
+avatar_url: /static/images/people/reason-rhodes/avatar.webp
 birth_place: Glendale, California, United States
 cause_of_death: Lymphoma
 death_place: Palm Springs, California, United States
@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     roles:
       - name: Carl Nelson
         uncredited: false

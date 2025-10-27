@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/koseki-yuji/avatar.jpg
+avatar_url: /static/images/people/koseki-yuji/avatar.webp
 birth_place: Fukushima, Japan
 cause_of_death: Cerebral Infarction
 dob: 1909-08-11
@@ -15,7 +15,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.webp
     slug: mothra-1961
     staff:
       - role: Music

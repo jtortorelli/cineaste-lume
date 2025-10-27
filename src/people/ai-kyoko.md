@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/ai-kyoko/avatar.jpg
+avatar_url: /static/images/people/ai-kyoko/avatar.webp
 birth_name: Tabuchi Miho
 dob: 1943-03-02
 dob_resolution: exact
@@ -11,7 +11,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
       - name: Queen Kilaak
         uncredited: false

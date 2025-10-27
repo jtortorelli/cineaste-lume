@@ -16,7 +16,7 @@ accolades:
     films:
       - title: Gray Sunset
     status: won
-avatar_url: /static/images/people/chiaki-minoru/avatar.jpg
+avatar_url: /static/images/people/chiaki-minoru/avatar.webp
 birth_name: Sasaki Katsuji
 birth_place: Nakagawa, Hokkaido, Japan
 cause_of_death: Cardiac Arrest
@@ -38,13 +38,13 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/stray-dog-1949/posters/poster.jpg
+    poster_url: /static/images/films/stray-dog-1949/posters/poster.webp
     roles:
       - name: Dance Director
     title: Stray Dog
     year: 1949
   - format: film
-    poster_url: /static/images/films/rashomon-1950/posters/poster.jpg
+    poster_url: /static/images/films/rashomon-1950/posters/poster.webp
     roles:
       - name: The Priest
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: Rashomon
     year: 1950
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
     roles:
       - name: Hayashida Heihachi
         uncredited: false
@@ -60,7 +60,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.webp
     roles:
       - name: Kobayashi Kôji
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     roles:
       - name: Sasuke
         uncredited: false
@@ -76,7 +76,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
     roles:
       - name: Miki Yoshiaki
         uncredited: false
@@ -84,7 +84,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.jpg
+    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     roles:
       - name: Taihei
         uncredited: false
@@ -92,7 +92,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -100,7 +100,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/gray-sunset-1985/posters/poster.jpg
+    poster_url: /static/images/films/gray-sunset-1985/posters/poster.webp
     roles:
       - name: Takano Fuyukichi
         uncredited: false

@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/sakai-frankie/avatar.jpg
+avatar_url: /static/images/people/sakai-frankie/avatar.webp
 birth_name: Sakai Masatoshi
 birth_place: Kagoshima, Japan
 cause_of_death: Liver Failure
@@ -16,7 +16,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Fukuda Sen'ichirô
         uncredited: false
@@ -24,7 +24,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: Tamura Mokichi
         uncredited: false

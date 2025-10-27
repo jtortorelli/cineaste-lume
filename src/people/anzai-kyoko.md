@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/anzai-kyoko/avatar.jpg
+avatar_url: /static/images/people/anzai-kyoko/avatar.webp
 birth_place: Osaka, Japan
 cause_of_death: Liver Failure
 death_place: Tokyo, Japan
@@ -17,7 +17,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
     roles:
       - name: Shiraishi Etsuko
         uncredited: false

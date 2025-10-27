@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/asahiyo-taro/avatar.jpg
+avatar_url: /static/images/people/asahiyo-taro/avatar.webp
 birth_name: Yonekawa Fumitoshi
 birth_place: Tokunoshima, Kagoshima, Japan
 cause_of_death: Cerebral Hemorrhage
@@ -15,7 +15,7 @@ profession: Wrestler
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Tajikarao
         uncredited: false

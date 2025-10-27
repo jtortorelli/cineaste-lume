@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/nakamura-nobuo/avatar.jpg
+avatar_url: /static/images/people/nakamura-nobuo/avatar.webp
 birth_place: Otaru, Hokkaido, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan
@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.jpg
+    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
     roles:
       - name: Phantom Warrior
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: Cabinet Secretary
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.jpg
+    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
     roles:
       - name: Ishimaru
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.jpg
+    poster_url: /static/images/films/dogora-1964/posters/poster.webp
     roles:
       - name: Doctor Munakata
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Skeptical Museum Curator
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
     roles:
       - name: Doctor Kida
         uncredited: false
@@ -62,7 +62,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.jpg
+    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.webp
     roles:
       - name: Envoy Nozaki
         uncredited: false

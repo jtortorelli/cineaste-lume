@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/inoue-yasuyuki/avatar.jpg
+avatar_url: /static/images/people/inoue-yasuyuki/avatar.webp
 birth_place: Fukuoka, Japan
 cause_of_death: Heart Failure
 dob: 1922-11-26
@@ -13,111 +13,111 @@ profession: SFX Art Director
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/storm-over-the-pacific-1960/posters/poster.jpg
+    poster_url: /static/images/films/storm-over-the-pacific-1960/posters/poster.webp
     staff:
       - role: Art Assistant
     title: Storm Over the Pacific
     year: 1960
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.jpg
+    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
     slug: war-of-the-gargantuas-1966
     staff:
       - role: SFX Art
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.jpg
+    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
     slug: ebirah-horror-of-the-deep-1966
     staff:
       - role: SFX Art
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     slug: king-kong-escapes-1967
     staff:
       - role: SFX Art
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
+    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
     slug: son-of-godzilla-1967
     staff:
       - role: SFX Art
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     slug: destroy-all-monsters-1968
     staff:
       - role: SFX Art
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/latitude-zero-1969/posters/poster.jpg
+    poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
     slug: latitude-zero-1969
     staff:
       - role: SFX Art
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: /static/images/films/space-amoeba-1970/posters/poster.jpg
+    poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
     slug: space-amoeba-1970
     staff:
       - role: SFX Art
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.webp
     slug: godzilla-vs-hedorah-1971
     staff:
       - role: Art
     title: Godzilla vs. Hedorah
     year: 1971
   - format: film
-    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.jpg
+    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.webp
     slug: submersion-of-japan-1973
     staff:
       - role: SFX Art
     title: Submersion of Japan
     year: 1973
   - format: film
-    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.jpg
+    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.webp
     slug: prophecies-of-nostradamus-1974
     staff:
       - role: SFX Art
     title: Prophecies of Nostradamus
     year: 1974
   - format: film
-    poster_url: /static/images/films/conflagration-1975/posters/poster.jpg
+    poster_url: /static/images/films/conflagration-1975/posters/poster.webp
     slug: conflagration-1975
     staff:
       - role: SFX Art
     title: Conflagration
     year: 1975
   - format: film
-    poster_url: /static/images/films/war-in-space-1977/posters/poster.jpg
+    poster_url: /static/images/films/war-in-space-1977/posters/poster.webp
     slug: war-in-space-1977
     staff:
       - role: SFX Art
     title: The War in Space
     year: 1977
   - format: film
-    poster_url: /static/images/films/magnitude-7-9-1980/posters/poster.jpg
+    poster_url: /static/images/films/magnitude-7-9-1980/posters/poster.webp
     slug: magnitude-7-9-1980
     staff:
       - role: SFX Art
     title: Magnitude 7.9
     year: 1980
   - format: film
-    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.jpg
+    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.webp
     slug: return-of-godzilla-1984
     staff:
       - role: SFX Art
     title: The Return of Godzilla
     year: 1985
   - format: film
-    poster_url: /static/images/films/tokyo-blackout-1987/posters/poster.jpg
+    poster_url: /static/images/films/tokyo-blackout-1987/posters/poster.webp
     slug: tokyo-blackout-1987
     staff:
       - role: SFX Art

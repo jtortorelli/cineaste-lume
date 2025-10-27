@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/kochi-momoko/avatar.jpg
+avatar_url: /static/images/people/kochi-momoko/avatar.webp
 birth_name: Ôkouchi Momoko
 birth_place: Tokyo, Japan
 cause_of_death: Colon Cancer
@@ -16,7 +16,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
     roles:
       - name: Yamane Emiko
         uncredited: false
@@ -24,7 +24,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     roles:
       - name: Iwamoto Hiroko
         uncredited: false
@@ -32,7 +32,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/godzilla-vs-destoroyah-1995/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-destoroyah-1995/posters/poster.webp
     roles:
       - name: Yamane Emiko
         uncredited: false

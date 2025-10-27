@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/tsukasa-yoko/avatar.jpg
+avatar_url: /static/images/people/tsukasa-yoko/avatar.webp
 birth_name: Shôji Yôko
 birth_place: Saihaku, Tottori, Japan
 dob: 1934-08-20
@@ -12,7 +12,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Oto Tachibana
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.jpg
+    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
     roles:
       - name: Nui
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.jpg
+    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.webp
     roles:
       - name: Nishiyama Nobue
         uncredited: false

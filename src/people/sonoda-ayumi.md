@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/sonoda-ayumi/avatar.jpg
+avatar_url: /static/images/people/sonoda-ayumi/avatar.webp
 birth_name: Iwadate Yûko
 birth_place: Kanagawa, Japan
 dob: 1933-09-23
@@ -12,7 +12,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.jpg
+    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.webp
     roles:
       - name: Shinjô Yuriko
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.jpg
+    poster_url: /static/images/films/h-man-1958/posters/poster.webp
     roles:
       - name: Nightclub Dancer
         uncredited: false

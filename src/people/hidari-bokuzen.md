@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/hidari-bokuzen/avatar.jpg
+avatar_url: /static/images/people/hidari-bokuzen/avatar.webp
 birth_name: Mikashima Ichiro
 birth_place: Iruma, Saitama, Japan
 dob: 1894-02-20
@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.jpg
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
     roles:
       - name: Yôhei
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Deity
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
     roles:
       - name: Jiya
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/zatoichis-flashing-sword-1964/posters/poster.jpg
+    poster_url: /static/images/films/zatoichis-flashing-sword-1964/posters/poster.webp
     roles:
       - name: Kyûbei
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: Zatoichi's Flashing Sword
     year: 1964
   - format: film
-    poster_url: /static/images/films/gamera-the-giant-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/gamera-the-giant-monster-1965/posters/poster.webp
     roles:
       - name: Drunk Old Man
         uncredited: false
@@ -71,5 +71,6 @@ required crutches for normal movement.
 He played a drunken old man in the first <i>Gamera</i> film in 1965, which
 featured as an episode on <i>Mystery Science Theater 3000</i> in the 90s. His
 character's impeccably delivered [dubbed] line, "It must have been one of those
-flying saucers I've heard them talk about so much about lately," became a recurring joke on
+flying saucers I've heard them talk about so much about lately," became a
+recurring joke on
 <i>MST3K</i>.

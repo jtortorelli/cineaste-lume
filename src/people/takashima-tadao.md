@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/takashima-tadao/avatar.jpg
+avatar_url: /static/images/people/takashima-tadao/avatar.webp
 birth_place: Muko, Hyogo, Jaan
 death_place: Tokyo, Japan
 dob: 1930-07-27
@@ -20,7 +20,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
     roles:
       - name: Sakurai Osamu
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
       - name: Hatanaka Susumu
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.jpg
+    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
     roles:
       - name: Doctor Kawaji Ken'ichirô
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.jpg
+    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
     roles:
       - name: Doctor Kusumi
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/godzilla-vs-mechagodzilla-ii-1993/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-mechagodzilla-ii-1993/posters/poster.webp
     roles:
       - name: Hosono
         uncredited: false

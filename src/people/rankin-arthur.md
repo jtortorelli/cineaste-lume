@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/rankin-arthur/avatar.jpg
+avatar_url: /static/images/people/rankin-arthur/avatar.webp
 birth_place: New York City, New York, United States
 death_place: Harrington Sound, Bermuda
 dob: 1924-07-19
@@ -13,7 +13,7 @@ profession: Producer
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     slug: king-kong-escapes-1967
     staff:
       - role: Technical Adviser

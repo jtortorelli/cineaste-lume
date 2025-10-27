@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/iketani-saburo/avatar.jpg
+avatar_url: /static/images/people/iketani-saburo/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Pneumonia
 dob: 1923-08-19
@@ -13,7 +13,7 @@ profession: Announcer
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
     roles:
       - name: Announcer
         uncredited: false
@@ -21,7 +21,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.jpg
+    poster_url: /static/images/films/rodan-1956/posters/poster.webp
     roles:
       - name: News Reader
         uncredited: true
@@ -29,7 +29,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.jpg
+    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
     roles:
       - name: Newsreader
         uncredited: true
@@ -37,7 +37,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Announcer
         uncredited: true
@@ -45,7 +45,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: TV Announcer
         uncredited: true
@@ -53,7 +53,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: TV Announcer
         uncredited: true
@@ -61,7 +61,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.jpg
+    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:
       - name: Radio Announcer
         uncredited: true
@@ -69,7 +69,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.jpg
+    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
       - name: Radio Announcer
         uncredited: false

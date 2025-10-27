@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/oshikawa-shunro/avatar.jpg
+avatar_url: /static/images/people/oshikawa-shunro/avatar.webp
 birth_name: Oshikawa Masanori
 birth_place: Matsuyama, Ehime, Japan
 cause_of_death: Meningitis
@@ -16,7 +16,7 @@ profession: Author
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.jpg
+    poster_url: /static/images/films/atragon-1963/posters/poster.webp
     slug: atragon-1963
     title: Atragon
     year: 1963

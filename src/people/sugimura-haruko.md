@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/sugimura-haruko/avatar.jpg
+avatar_url: /static/images/people/sugimura-haruko/avatar.webp
 birth_name: Nakano Haruko
 birth_place: Hiroshima, Japan
 cause_of_death: Pancreatic Cancer
@@ -16,7 +16,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Storyteller
         uncredited: false

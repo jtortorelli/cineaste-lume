@@ -2,53 +2,75 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>{{title ? title + " - The Godzilla Cineaste" : "The Godzilla Cineaste"}}</title>
+    <title>
+      {{
+        title
+          ? title + " - The Godzilla Cineaste"
+          : "The Godzilla Cineaste"
+      }}
+    </title>
     <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
-<div class="flex flex-col h-screen justify-between">
-  <div>
-    <header class="px-4 sm:px-6 lg:px-8">
-      <div class="flex items-center justify-between py-3 text-sm">
-        <div class="flex items-baseline gap-6">
-          <a href="/">
-            <span class="font-content text-red-500 hover:text-red-700">
-              godzillacineaste.net
-            </span>
-          </a>
-          <a href="/about">
-            <span class="font-content text-red-500 hover:text-red-700">about</span>
-          </a>
-          <a href="/films">
-            <span class="font-content text-red-500 hover:text-red-700">films</span>
-          </a>
-          <a href="/people">
-            <span class="font-content text-red-500 hover:text-red-700">people</span>
-          </a>
+    <div class="flex flex-col h-screen justify-between">
+      <div>
+        <header class="px-4 sm:px-6 lg:px-8">
+          <div class="flex items-center justify-between py-3 text-sm">
+            <div class="flex items-baseline gap-6">
+              <a href="/">
+                <span class="font-content text-red-700 hover:underline">
+                  godzillacineaste.net
+                </span>
+              </a>
+              <a href="/about">
+                <span class="font-content text-red-700 hover:underline"
+                >about</span>
+              </a>
+              <a href="/films">
+                <span class="font-content text-red-700 hover:underline"
+                >films</span>
+              </a>
+              <a href="/people">
+                <span class="font-content text-red-700 hover:underline"
+                >people</span>
+              </a>
+            </div>
+          </div>
+        </header>
+        <main class="px-4 py-10 sm:px-6 lg:px-8">
+          <div class="mx-auto max-w-2xl lg:max-w-5xl">
+            {{ content }}
+          </div>
+        </main>
+      </div>
+      <footer class="px-4 sm:px-6 lg:px-8 py-9">
+        <div
+          class="w-fit m-auto font-content text-sm text-center tracking-wider text-gray-500"
+        >
+          <p>Est. 2016</p>
+          <p>James Tortorelli</p>
+          <p class="font-detail text-xs pb-2">@jingowestern</p>
+
+          <p>
+            <a href="https://x.com/jingowestern"><img
+                class="inline h-5 w-5"
+                src='{{ "brand-x" |> icon("tabler", "outline")}}'
+                inline
+              /></a>
+            &nbsp;
+            <a href="https://www.youtube.com/@jingowestern"><img
+                class="inline h-5 w-5"
+                src='{{ "brand-youtube" |> icon("tabler", "outline")}}'
+                inline
+              /></a>
+            &nbsp; <a href="https://rumble.com/c/c-7743057"><img
+                class="inline h-5 w-5"
+                src='{{ "brand-rumble" |> icon("tabler", "outline")}}'
+                inline
+              /></a>
+          </p>
         </div>
-      </div>
-    </header>
-    <main class="px-4 py-10 sm:px-6 lg:px-8">
-      <div class="mx-auto max-w-2xl lg:max-w-5xl">
-        {{content}}
-      </div>
-    </main>
-  </div>
-  <footer class="px-4 sm:px-6 lg:px-8 py-9">
-    <div class="w-fit m-auto font-content text-sm text-center tracking-wider text-gray-500">
-      <p>Est. 2016</p>
-      <p>James Tortorelli</p>
-      <p class="font-detail text-xs pb-2">@jingowestern</p>
-
-
-      <p>
-        <a href="https://x.com/jingowestern"><img class="inline h-5 w-5" src="{{ "brand-x" |> icon("tabler", "outline")}}" inline /></a>
-        &nbsp;
-        <a href="https://www.youtube.com/@jingowestern"><img class="inline h-5 w-5" src="{{ "brand-youtube" |> icon("tabler", "outline")}}" inline /></a>
-        &nbsp; <a href="https://rumble.com/c/c-7743057"><img class="inline h-5 w-5" src="{{ "brand-rumble" |> icon("tabler", "outline")}}" inline /></a>
-      </p>
+      </footer>
     </div>
-  </footer>
-</div>
   </body>
 </html>

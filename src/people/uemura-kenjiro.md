@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/uemura-kenjiro/avatar.jpg
+avatar_url: /static/images/people/uemura-kenjiro/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Dueodenal Perforation
 dob: 1914-01-03
@@ -13,7 +13,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.jpg
+    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
     roles:
       - name: Ken
         uncredited: false
@@ -21,7 +21,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/zatoichi-and-the-chest-of-gold-1964/posters/poster.jpg
+    poster_url: /static/images/films/zatoichi-and-the-chest-of-gold-1964/posters/poster.webp
     roles:
       - name: Matsui
         uncredited: false

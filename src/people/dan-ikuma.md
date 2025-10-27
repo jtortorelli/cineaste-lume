@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/dan-ikuma/avatar.jpg
+avatar_url: /static/images/people/dan-ikuma/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Heart Failure
 death_place: Suzhou, Jiangsu, China
@@ -19,28 +19,28 @@ profession: Composer
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.jpg
+    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
     slug: samurai-i-musashi-miyamoto-1954
     staff:
       - role: Music
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.jpg
+    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
     slug: samurai-ii-duel-at-ichijoji-temple-1955
     staff:
       - role: Music
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.jpg
+    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     slug: samurai-iii-duel-at-ganryu-island-1956
     staff:
       - role: Music
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     slug: last-war-1961
     staff:
       - role: Music

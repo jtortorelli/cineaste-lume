@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/hoshi-yuriko/avatar.jpg
+avatar_url: /static/images/people/hoshi-yuriko/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Lung Cancer
 death_place: Kyoto, Japan
@@ -14,7 +14,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.jpg
+    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
     roles:
       - name: Princess Sen
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: Tamura Saeko
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.jpg
+    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
     roles:
       - name: Kozato
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.jpg
+    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
     roles:
       - name: Nakanishi Junko
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.jpg
+    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
     roles:
       - name: Shindô Naoko
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/godzilla-vs-megaguirus-2000/posters/poster.jpg
+    poster_url: /static/images/films/godzilla-vs-megaguirus-2000/posters/poster.webp
     roles:
       - name: Doctor Yoshizawa Yoshino
         uncredited: false

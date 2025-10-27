@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/otowa-nobuko/avatar.jpg
+avatar_url: /static/images/people/otowa-nobuko/avatar.webp
 birth_name: Kaji Nobuko
 birth_place: Saihaku, Tottori, Japan
 cause_of_death: Cirrhosis
@@ -17,7 +17,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.jpg
+    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Dancing Goddess
         uncredited: false
@@ -25,7 +25,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: Tamura Yoshi
         uncredited: false

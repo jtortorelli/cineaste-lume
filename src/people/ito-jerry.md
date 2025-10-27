@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/ito-jerry/avatar.jpg
+avatar_url: /static/images/people/ito-jerry/avatar.webp
 birth_name: Gerald Takemichi Itô
 birth_place: New York, United States
 cause_of_death: Pneumonia
@@ -23,7 +23,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.jpg
+    poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Clark Nelson
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.jpg
+    poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: Watkins
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/message-from-space-1978/posters/poster.jpg
+    poster_url: /static/images/films/message-from-space-1978/posters/poster.webp
     roles:
       - name: Earth Federation Commander
         uncredited: false
@@ -50,7 +50,7 @@ works:
     roles:
       - name: Grandpa Jerry
     title: "Let's Play in English 3: Planet Paradise"
-    title_card_url: /static/images/tv-series/lets-play-in-english-1995/title-cards/Screenshot%202025-08-18%20at%209.30.15%20PM.png
+    title_card_url: /static/images/tv-series/lets-play-in-english-1995/title-cards/Screenshot%202025-08-18%20at%209.30.15%20PM.webp
     year: 1995
 ---
 

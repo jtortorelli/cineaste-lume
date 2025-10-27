@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/furness-george-a/avatar.jpg
+avatar_url: /static/images/people/furness-george-a/avatar.webp
 birth_place: New Jersey, United States
 dob: 1896-01-01
 dob_resolution: year
@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.jpg
+    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     roles:
       - name: Doctor Svenson
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.jpg
+    poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
       - name: UN Ambassador
         uncredited: false

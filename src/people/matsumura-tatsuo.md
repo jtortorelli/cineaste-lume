@@ -1,6 +1,6 @@
 ---
 tags: ["cineaste", "people"]
-avatar_url: /static/images/people/matsumura-tatsuo/avatar.jpg
+avatar_url: /static/images/people/matsumura-tatsuo/avatar.webp
 birth_place: Yokohama, Kanagawa, Japan
 cause_of_death: Heart Failure
 death_place: Tokyo, Japan
@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.jpg
+    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
     roles:
       - name: Newspaper Editor
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.jpg
+    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
     roles:
       - name: Newspaper Editor
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.jpg
+    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
     roles:
       - name: Doctor Makino
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/zatoichi-challenged-1967/posters/poster.jpg
+    poster_url: /static/images/films/zatoichi-challenged-1967/posters/poster.webp
     roles:
       - name: Taibei
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: Zatoichi Challenged
     year: 1967
   - format: film
-    poster_url: /static/images/films/magnitude-7-9-1980/posters/poster.jpg
+    poster_url: /static/images/films/magnitude-7-9-1980/posters/poster.webp
     roles:
       - name: Ashida Kôzô
         uncredited: false
