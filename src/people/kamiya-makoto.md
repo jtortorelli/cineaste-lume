@@ -52,6 +52,12 @@ works:
     title: "Gamera 3: Revenge of Iris"
     year: 1999
   - format: film
+    poster_url: /static/images/films/whiteout-2000/posters/poster.webp
+    staff:
+      - role: SFX Director
+    title: Whiteout
+    year: 2000
+  - format: film
     poster_url: /static/images/films/avalon-2001/posters/poster.webp
     slug: avalon-2001
     staff:
@@ -88,6 +94,12 @@ works:
     title: "L: Change the World"
     year: 2008
   - format: film
+    poster_url: /static/images/films/resident-evil-degeneration-2008/posters/poster.webp
+    staff:
+      - role: Director
+    title: "Resident Evil: Degeneration"
+    year: 2008
+  - format: film
     poster_url: /static/images/films/gantz-2011/posters/poster.webp
     slug: gantz-2011
     staff:
@@ -101,6 +113,12 @@ works:
       - role: SFX Director
     title: "Gantz: Perfect Answer"
     year: 2011
+  - format: film
+    poster_url: /static/images/films/resident-evil-damnation-2012/posters/poster.webp
+    staff:
+      - role: Director
+    title: "Resident Evil: Damnation"
+    year: 2012
   - format: film
     poster_url: /static/images/films/library-wars-2013/posters/poster.webp
     slug: library-wars-2013
@@ -129,4 +147,51 @@ works:
       - role: SFX Director
     title: "Death Note: Light Up the New World"
     year: 2016
+  - format: film
+    poster_url: /static/images/films/inuyashiki-2017/posters/poster.webp
+    staff:
+      - role: SFX Director
+    title: Inuyashiki
+    year: 2018
+  - format: film
+    poster_url: /static/images/films/bleach-2017/posters/poster.webp
+    staff:
+      - role: SFX Director
+    title: Bleach
+    year: 2018
+  - format: film
+    poster_url: /static/images/films/kingdom-2019/posters/poster.webp
+    staff:
+      - role: VFX Supervisor
+    title: Kingdom
+    year: 2019
+  - format: film
+    poster_url: /static/images/films/kingdom-2-far-and-away-2022/posters/poster.webp
+    staff:
+      - role: VFX Supervisor
+    title: "Kingdom 2: Far and Away"
+    year: 2022
+  - format: film
+    poster_url: /static/images/films/kingdom-3-flame-of-destiny-2023/posters/poster.webp
+    staff:
+      - role: VFX Supervisor
+    title: "Kingdom 3: Flame of Destiny"
+    year: 2023
+  - format: film
+    poster_url: /static/images/films/kingdom-4-return-of-the-great-general-2024/posters/poster.webp
+    staff:
+      - role: VFX Supervisor
+    title: "Kingdom 4: Return of the Great General"
+    year: 2024
 ---
+
+Kamiya got his start as an assistant director under Kawakita Kôichi on the
+Heisei Godzilla films, before jumping ship to work with Higuchi Shinji on the
+Heisei Gamera films instead.
+
+He assumed the title of Special Effects Director starting with <i>Whiteout</i>
+in 2000. Kamiya has advocated for increased use of CGI over traditional
+hand-made effects, perhaps due to Higuchi's influence.
+
+Has collaborated frequently with director Satô Shinsuke on a string of
+manga-to-film adaptations.
