@@ -15,12 +15,30 @@ works:
       - role: Music
     title: The Red Spectacles
     year: 1987
+  - format: TV Series
+    title_card_url: /static/images/tv-series/irresponsible-captain-tylor-1989/title-cards/title-card.webp
+    staff:
+      - role: Music
+    title: The Irresponsible Captain Tylor
+    year: 1989
+  - format: TV Series
+    title_card_url: /static/images/tv-series/ranma-1-2-1989/title-cards/title-card.webp
+    staff:
+      - role: Music
+    title: "Ranma 1/2"
+    year: 1989
   - format: film
     poster_url: /static/images/films/patlabor-the-movie-1989/posters/poster.webp
     slug: patlabor-the-movie-1989
     staff:
       - role: Music
     title: "Patlabor: The Movie"
+    year: 1989
+  - format: TV Series
+    title_card_url: /static/images/tv-series/patlabor-the-tv-series-1989/title-cards/title-card.webp
+    staff:
+      - role: Music
+    title: "Patlabor: The TV Series"
     year: 1989
   - format: film
     poster_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/posters/poster.webp
@@ -85,6 +103,24 @@ works:
       - role: Music
     title: The Princess Blade
     year: 2001
+  - format: TV Series
+    title_card_url: /static/images/tv-series/ultraman-nexus-2004/title-cards/title-card.webp
+    staff:
+      - role: Music
+    title: Ultraman Nexus
+    year: 2004
+  - format: film
+    poster_url: /static/images/films/seven-swords-2005/posters/poster.webp
+    staff:
+      - role: Music
+    title: Seven Swords
+    year: 2005
+  - format: TV Series
+    title_card_url: /static/images/tv-series/fate-stay-night-2006/title-cards/title-card.webp
+    staff:
+      - role: Music
+    title: "Fate/Stay Night"
+    year: 2006
   - format: film
     poster_url: /static/images/films/death-note-2006/posters/poster.webp
     slug: death-note-2006
@@ -99,6 +135,18 @@ works:
       - role: Music
     title: "Death Note: The Last Name"
     year: 2006
+  - format: TV Series
+    title_card_url: /static/images/tv-series/mobile-suit-gundam-00-2007/title-cards/title-card.webp
+    staff:
+      - role: Music
+    title: Mobile Suit Gundam 00
+    year: 2007
+  - format: film
+    poster_url: /static/images/films/ip-man-2008/posters/poster.webp
+    staff:
+      - role: Music
+    title: Ip Man
+    year: 2008
   - format: film
     poster_url: /static/images/films/l-change-the-world-2008/posters/poster.webp
     slug: l-change-the-world-2008
@@ -113,6 +161,12 @@ works:
       - role: Music
     title: The Sky Crawlers
     year: 2008
+  - format: TV Series
+    title_card_url: /static/images/tv-series/eden-of-the-east-2009/title-cards/title-card.webp
+    staff:
+      - role: Music
+    title: Eden of the East
+    year: 2009
   - format: film
     poster_url: /static/images/films/assault-girls-2009/posters/poster.webp
     slug: assault-girls-2009
@@ -120,6 +174,12 @@ works:
       - role: Music
     title: Assault Girls
     year: 2009
+  - format: film
+    poster_url: /static/images/films/ip-man-2-2010/posters/poster.webp
+    staff:
+      - role: Music
+    title: Ip Man 2
+    year: 2010
   - format: film
     poster_url: /static/images/films/gantz-2011/posters/poster.webp
     slug: gantz-2011
@@ -134,4 +194,29 @@ works:
       - role: Music
     title: "Gantz: Perfect Answer"
     year: 2011
+  - format: Film
+    poster_url: /static/images/films/ip-man-3-2015/posters/poster.webp
+    staff:
+      - role: Music
+    title: Ip Man 3
+    year: 2015
+  - format: TV Series
+    title_card_url: /static/images/tv-series/ultraman-geed-2017/title-cards/title-card.webp
+    staff:
+      - role: Music
+    title: Ultraman Geed
+    year: 2017
+  - format: film
+    poster_url: /static/images/films/ip-man-4-the-finale-2019/posters/poster.webp
+    staff:
+      - role: Music
+    title: "Ip Man 4: The Finale"
+    year: 2019
 ---
+Famed composer of anime and film music. He credits Burt Bacharach, Deep Purple and Santana as early influences. Kawai dropped out of engineering school to pursue music education, and later dropped out of music school to join a band. The band won first place at a band tournament, but the prize winnings were not enough to live on, so Kawai dropped out of the band and started composing music for TV dramas.
+
+He first met anime director Oshii Mamoru in 1986 and the following year they worked on <i>The Red Spectacles</i>. Kawai produced and performed the entire soundtrack himself out of his home studio. He has scored all of Oshii's subsequent films, including the iconic soundtrack from <i>Ghost in the Shell</i> (1995).
+
+Kawai has had a lucrative collaboration with horror director Nakata Hideo of <i>Ring</i> fame. He has also scored a number of martial arts films out of Hong Kong, including Donnie Yen's <i>Ip Man</i> series.
+
+Kawai is multitalented and often performs percussion, guitar and keyboards on his own soundtracks. He produced a concert of his film works, "Cinema Symphony," in 2007.

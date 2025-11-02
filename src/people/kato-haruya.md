@@ -68,3 +68,10 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
 ---
+Toho-exclusive actor with a perpetually youthful appearance. Regularly played in supporting roles and providing comic relief.
+
+As with other Toho actors of his generation, he made frequent appearances in the 50s and 60s, and after the contract system ended he retired from film and acted in television during the 70s and 80s.
+
+In 2009 he made a rare public appearance at a screening of <i>Godzilla</i> and <i>The Mysterians</i> where he gave interviews with suit actor Nakajima Haruo.
+
+Katô passed away in either 2015 or 2016, according to a volume from Yosensha's <i>Special Effects</i> series.

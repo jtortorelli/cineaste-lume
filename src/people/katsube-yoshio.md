@@ -264,3 +264,8 @@ works:
     title: Conflagration
     year: 1975
 ---
+Frequent supporting actor in Toho films, distinguished by relatively youthful appearance and thick eyebrows.
+
+He frequently played reporters in special effects films.
+
+He reportedly appeared in over 320 films during his career.

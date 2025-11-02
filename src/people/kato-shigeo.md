@@ -192,7 +192,7 @@ works:
         uncredited: false
     slug: return-of-godzilla-1984
     title: The Return of Godzilla
-    year: 1985
+    year: 1984
   - format: film
     poster_url: /static/images/films/godzilla-vs-megaguirus-2000/posters/poster.webp
     roles:
@@ -202,3 +202,11 @@ works:
     title: Godzilla vs. Megaguirus
     year: 2000
 ---
+
+A Toho-exclusive supporting actor, often times appearing in films without
+credit.
+
+After the collapse of the contract system in 1972 he retired from acting and
+became a fisherman, although he would make occasional cameo appearances in the
+<i>kaiju eiga</i> genre in <i>The Return of Godzilla</i> (1984) and even as late
+as <i>Godzilla vs. Megaguirus</i> (2000).
