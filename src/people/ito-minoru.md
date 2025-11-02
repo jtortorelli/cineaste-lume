@@ -153,6 +153,13 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - format: TV Series
+    title: Ultra Q
+    year: 1966
+    title_card_url: /static/images/tv-series/ultra-q-1966/title-card.webp
+    roles:
+      - episode_count: 3
+        name: Various Roles
   - format: film
     poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     roles:
@@ -161,6 +168,13 @@ works:
     slug: adventure-of-kigan-castle-1966
     title: The Adventure of Kigan Castle
     year: 1966
+  - format: TV Series
+    title: Ultraman
+    year: 1966
+    title_card_url: /static/images/tv-series/ultraman-1966/title-card.webp
+    roles:
+      - episode_count: 2
+        name: Various Roles
   - format: film
     poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
     roles:
@@ -177,6 +191,13 @@ works:
     slug: king-kong-escapes-1967
     title: King Kong Escapes
     year: 1967
+  - format: TV Series
+    title: Ultraseven
+    year: 1967
+    title_card_url: /static/images/tv-series/ultraseven-1967/title-card.webp
+    roles:
+      - episode_count: 2
+        name: Various Roles
   - format: film
     poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
@@ -194,3 +215,6 @@ works:
     title: Latitude Zero
     year: 1969
 ---
+
+Frequent supporting actor across a number of genres, usually in minor roles. In
+<i>tokusatsu</i> films he appeared most frequently as a reporter.
