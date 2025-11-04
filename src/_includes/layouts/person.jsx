@@ -48,10 +48,9 @@ export default ({
   };
 
   const process_roles = (kaiju_roles, roles) => {
-    const null_safe_kaiju_roles = (kaiju_roles && kaiju_roles.length > 0)
-      ? kaiju_roles
-      : [];
-    const null_safe_roles = (roles && roles.length > 0) ? roles : [];
+    const null_safe_kaiju_roles =
+      kaiju_roles && kaiju_roles.length > 0 ? kaiju_roles : [];
+    const null_safe_roles = roles && roles.length > 0 ? roles : [];
     return null_safe_kaiju_roles.concat(null_safe_roles);
   };
 
@@ -138,38 +137,35 @@ export default ({
               </div>
             </div>
           )}
-          {dod && typeof dod !== "string" &&
-            (
-              <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
-                <div>
-                  <img
-                    class="h-5 w-4 text-gray-500"
-                    src={icon("moon", "tabler", "outline")}
-                    inline
-                  />
-                </div>
-                <div class="space-y-1">
-                  <div class="font-content text-gray-700">
-                    {display_date(dod, dod_resolution)} ({lifespan(
-                      dob,
-                      dod,
-                    )})
-                  </div>
-                  {death_place && (
-                    <div class="font-content text-gray-500 text-xs">
-                      {death_place}
-                    </div>
-                  )}
-                  {cause_of_death && (
-                    <div class="font-content text-gray-500 text-xs">
-                      {cause_of_death}
-                    </div>
-                  )}
-                </div>
+          {dod && typeof dod !== "string" && (
+            <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
+              <div>
+                <img
+                  class="h-5 w-4 text-gray-500"
+                  src={icon("moon", "tabler", "outline")}
+                  inline
+                />
               </div>
-            )}
-          {dod && typeof dod === "string" && dod.toLowerCase() === "unknown" &&
-            (
+              <div class="space-y-1">
+                <div class="font-content text-gray-700">
+                  {display_date(dod, dod_resolution)} ({lifespan(dob, dod)})
+                </div>
+                {death_place && (
+                  <div class="font-content text-gray-500 text-xs">
+                    {death_place}
+                  </div>
+                )}
+                {cause_of_death && (
+                  <div class="font-content text-gray-500 text-xs">
+                    {cause_of_death}
+                  </div>
+                )}
+              </div>
+            </div>
+          )}
+          {dod &&
+            typeof dod === "string" &&
+            dod.toLowerCase() === "unknown" && (
               <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
                 <div>
                   <img
@@ -181,7 +177,8 @@ export default ({
                 <div class="font-content text-gray-700">Unknown Date</div>
               </div>
             )}
-          {aliases && aliases.length > 0 &&
+          {aliases &&
+            aliases.length > 0 &&
             aliases.map((a) => (
               <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
                 <div>
@@ -213,7 +210,8 @@ export default ({
               </div>
             ))}
 
-          {spouses && spouses.length > 0 &&
+          {spouses &&
+            spouses.length > 0 &&
             spouses.map((spouse) => (
               <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
                 <div>
@@ -282,7 +280,7 @@ export default ({
                         src={icon(
                           "award",
                           "tabler",
-                          accolade.status === "won" ? "filled" : "outline",
+                          accolade.status === "won" ? "filled" : "outline"
                         )}
                         inline
                       />
@@ -296,9 +294,7 @@ export default ({
                     </div>
                   </div>
                   <div>
-                    <div>
-                      {accolade.ceremony}
-                    </div>
+                    <div>{accolade.ceremony}</div>
                     <div>{accolade.category}</div>
                     <div class="italic">
                       {accolade.films.map((f) => f.title).join(", ")}
@@ -313,92 +309,17 @@ export default ({
       <comp.named_divider name="Selected Works" />
       <div class="full-filmography">
         <div class="flex flex-col sm:flex-row sm:flex-wrap gap-4 m-auto sm:w-fit w-96">
-          {works && works.length > 0 && works.map((entry) => (
-            <>
-              {entry.format.toLowerCase() === "tv series" && (
-                <div class="flex flex-row w-60 items-start gap-3">
-                  <div class="shrink-0">
-                    <img
-                      class="rounded-lg drop-shadow-lg"
-                      width={101}
-                      src={entry.title_card_url}
-                    />
-                  </div>
-                  <div>
-                    <div class="font-content text-xs text-gray-500 flex items-center gap-1">
-                      <div>
-                        <img
-                          class="h-5 w-4 text-gray-500"
-                          src={icon("device-tv-old", "tabler", "outline")}
-                          inline
-                        />
-                      </div>
-                      <div>
-                        {entry.year}
-                      </div>
-                    </div>
-                    <div class="font-content text-sm text-gray-700 mb-1">
-                      <span class="italic">{entry.title}</span>
-                    </div>
-
-                    {entry.staff && entry.staff.length > 0 &&
-                      entry.staff.map((s) => (
-                        <div class="font-content text-xs text-gray-500 flex">
-                          <div>
-                            <img
-                              class="h-4 w-4"
-                              src={icon("chair-director", "tabler", "outline")}
-                              inline
-                            />
-                          </div>
-                          <div>
-                            <div>
-                              {s.role}
-                            </div>
-                            {s.episode_count && (
-                              <div>
-                                {s.episode_count}{" "}
-                                {s.episode_count > 1 ? "Episodes" : "Episode"}
-                              </div>
-                            )}
-                          </div>
-                        </div>
-                      ))}
-                    {entry.roles && entry.roles.length > 0 &&
-                      entry.roles.map((r) => (
-                        <div class="font-content text-xs text-gray-500 flex gap-1">
-                          <div>
-                            <img
-                              class="h-4 w-4"
-                              src={icon("masks-theater", "tabler", "outline")}
-                              inline
-                            />
-                          </div>
-                          <div>
-                            <div>
-                              {r.name}
-                            </div>
-                            {r.episode_count && (
-                              <div>
-                                {r.episode_count}{" "}
-                                {r.episode_count > 1 ? "Episodes" : "Episode"}
-                              </div>
-                            )}
-                          </div>
-                        </div>
-                      ))}
-                  </div>
-                </div>
-              )}
-              {entry.format.toLowerCase() === "film" && (
-                <>
+          {works &&
+            works.length > 0 &&
+            works.map((entry) => (
+              <>
+                {entry.format.toLowerCase() === "tv series" && (
                   <div class="flex flex-row w-60 items-start gap-3">
                     <div class="shrink-0">
                       <img
-                        class="rounded-lg drop-shadow-lg min-h-[150px] max-h-[150px]"
-                        height={150}
+                        class="rounded-lg drop-shadow-lg"
                         width={101}
-                        src={entry["poster_url"]}
+                        src={entry.title_card_url}
                       />
                     </div>
                     <div>
@@ -406,20 +327,18 @@ export default ({
                         <div>
                           <img
                             class="h-5 w-4 text-gray-500"
-                            src={icon("movie", "tabler", "outline")}
+                            src={icon("device-tv-old", "tabler", "outline")}
                             inline
                           />
                         </div>
-                        <div>
-                          {entry.year}
-                        </div>
+                        <div>{entry.year}</div>
                       </div>
                       <div class="font-content text-sm text-gray-700 mb-1">
-                        <comp.film_showcase_link slug={entry.slug}>
-                          <span class="italic">{entry.title}</span>
-                        </comp.film_showcase_link>
+                        <span class="italic">{entry.title}</span>
                       </div>
-                      {entry.staff && entry.staff.length > 0 &&
+
+                      {entry.staff &&
+                        entry.staff.length > 0 &&
                         entry.staff.map((s) => (
                           <div class="font-content text-xs text-gray-500 flex">
                             <div>
@@ -428,129 +347,205 @@ export default ({
                                 src={icon(
                                   "chair-director",
                                   "tabler",
-                                  "outline",
+                                  "outline"
                                 )}
                                 inline
                               />
                             </div>
                             <div>
-                              <div>
-                                {s.role}
-                              </div>
-                              {s.staff_alias && (
+                              <div>{s.role}</div>
+                              {s.episode_count && (
                                 <div>
-                                  <img
-                                    class="h-3 w-3"
-                                    src={icon("at", "tabler", "outline")}
-                                    inline
-                                  />
-                                  {s.staff_alias}
+                                  {s.episode_count}{" "}
+                                  {s.episode_count > 1 ? "Episodes" : "Episode"}
                                 </div>
                               )}
                             </div>
                           </div>
                         ))}
-                      {process_roles(entry.kaiju_roles, entry.roles).map((
-                        r,
-                      ) => (
-                        <div class="font-content text-xs text-gray-500 flex gap-1">
-                          <div>
-                            <img
-                              class="h-4 w-4"
-                              src={icon("masks-theater", "tabler", "outline")}
-                              inline
-                            />
-                          </div>
-                          <div>
-                            <div>
-                              <span
-                                dangerouslySetInnerHTML={{
-                                  __html: process_role_name(r.name),
-                                }}
-                              >
-                              </span>
-                            </div>
-                            {r.actor_alias && (
-                              <>
-                                <img
-                                  class="h-3 w-3 inline"
-                                  src={icon("at", "tabler", "outline")}
-                                  inline
-                                />
-                                {r.actor_alias}
-                              </>
-                            )}
-                            <div class="flex">
-                              {r.qualifiers &&
-                                r.qualifiers.map((q) => (
-                                  <comp.qualifier_icon qualifier={q} />
-                                ))}
-                              {r.uncredited && (
-                                <img
-                                  class="text-red-700 h-4 w-4"
-                                  src={icon("id-off", "tabler", "outline")}
-                                  inline
-                                />
-                              )}
-                            </div>
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                </>
-              )}
-              {entry.format.toLowerCase() === "book" && (
-                <>
-                  <div class="flex flex-row w-60 items-start gap-3">
-                    <div class="shrink-0">
-                      <img
-                        class="rounded-lg drop-shadow-lg min-h-[125px]"
-                        height={125}
-                        width={101}
-                        src={entry["cover_url"]}
-                      />
-                    </div>
-                    <div>
-                      <div class="font-content text-xs text-gray-500 flex items-center gap-1">
-                        <div>
-                          <img
-                            class="h-5 w-4"
-                            src={icon("book", "tabler", "outline")}
-                            inline
-                          />
-                        </div>
-                        <div>
-                          {entry.year}
-                        </div>
-                      </div>
-                      <div class="font-content text-sm text-gray-700 mb-1">
-                        <span class="italic">{entry.title}</span>
-                      </div>
-
-                      {entry.staff && entry.staff.length > 0 &&
-                        entry.staff.map((s) => (
+                      {entry.roles &&
+                        entry.roles.length > 0 &&
+                        entry.roles.map((r) => (
                           <div class="font-content text-xs text-gray-500 flex gap-1">
                             <div>
                               <img
                                 class="h-4 w-4"
-                                src={icon("pencil", "tabler", "outline")}
+                                src={icon("masks-theater", "tabler", "outline")}
                                 inline
                               />
                             </div>
                             <div>
-                              <div>
-                                {s.role}
-                              </div>
+                              <div>{r.name}</div>
+                              {r.episode_count && (
+                                <div>
+                                  {r.episode_count}{" "}
+                                  {r.episode_count > 1 ? "Episodes" : "Episode"}
+                                </div>
+                              )}
                             </div>
                           </div>
                         ))}
                     </div>
                   </div>
-                </>
-              )}
-            </>
-          ))}
+                )}
+                {entry.format.toLowerCase() === "film" && (
+                  <>
+                    <div class="flex flex-row w-60 items-start gap-3">
+                      <div class="shrink-0">
+                        <img
+                          class="rounded-lg drop-shadow-lg min-h-[150px] max-h-[150px]"
+                          height={150}
+                          width={101}
+                          src={entry["poster_url"]}
+                        />
+                      </div>
+                      <div>
+                        <div class="font-content text-xs text-gray-500 flex items-center gap-1">
+                          <div>
+                            <img
+                              class="h-5 w-4 text-gray-500"
+                              src={icon("movie", "tabler", "outline")}
+                              inline
+                            />
+                          </div>
+                          <div>{entry.year}</div>
+                        </div>
+                        <div class="font-content text-sm text-gray-700 mb-1">
+                          <comp.film_showcase_link slug={entry.slug}>
+                            <span class="italic">{entry.title}</span>
+                          </comp.film_showcase_link>
+                        </div>
+                        {entry.staff &&
+                          entry.staff.length > 0 &&
+                          entry.staff.map((s) => (
+                            <div class="font-content text-xs text-gray-500 flex">
+                              <div>
+                                <img
+                                  class="h-4 w-4"
+                                  src={icon(
+                                    "chair-director",
+                                    "tabler",
+                                    "outline"
+                                  )}
+                                  inline
+                                />
+                              </div>
+                              <div>
+                                <div>{s.role}</div>
+                                {s.staff_alias && (
+                                  <div>
+                                    <img
+                                      class="h-3 w-3"
+                                      src={icon("at", "tabler", "outline")}
+                                      inline
+                                    />
+                                    {s.staff_alias}
+                                  </div>
+                                )}
+                              </div>
+                            </div>
+                          ))}
+                        {process_roles(entry.kaiju_roles, entry.roles).map(
+                          (r) => (
+                            <div class="font-content text-xs text-gray-500 flex gap-1">
+                              <div>
+                                <img
+                                  class="h-4 w-4"
+                                  src={icon(
+                                    "masks-theater",
+                                    "tabler",
+                                    "outline"
+                                  )}
+                                  inline
+                                />
+                              </div>
+                              <div>
+                                <div>
+                                  <span
+                                    dangerouslySetInnerHTML={{
+                                      __html: process_role_name(r.name),
+                                    }}
+                                  ></span>
+                                </div>
+                                {r.actor_alias && (
+                                  <>
+                                    <img
+                                      class="h-3 w-3 inline"
+                                      src={icon("at", "tabler", "outline")}
+                                      inline
+                                    />
+                                    {r.actor_alias}
+                                  </>
+                                )}
+                                <div class="flex">
+                                  {r.qualifiers &&
+                                    r.qualifiers.map((q) => (
+                                      <comp.qualifier_icon qualifier={q} />
+                                    ))}
+                                  {r.uncredited && (
+                                    <img
+                                      class="text-red-700 h-4 w-4"
+                                      src={icon("id-off", "tabler", "outline")}
+                                      inline
+                                    />
+                                  )}
+                                </div>
+                              </div>
+                            </div>
+                          )
+                        )}
+                      </div>
+                    </div>
+                  </>
+                )}
+                {entry.format.toLowerCase() === "book" && (
+                  <>
+                    <div class="flex flex-row w-60 items-start gap-3">
+                      <div class="shrink-0">
+                        <img
+                          class="rounded-lg drop-shadow-lg min-h-[125px]"
+                          height={125}
+                          width={101}
+                          src={entry["cover_url"]}
+                        />
+                      </div>
+                      <div>
+                        <div class="font-content text-xs text-gray-500 flex items-center gap-1">
+                          <div>
+                            <img
+                              class="h-5 w-4"
+                              src={icon("book", "tabler", "outline")}
+                              inline
+                            />
+                          </div>
+                          <div>{entry.year}</div>
+                        </div>
+                        <div class="font-content text-sm text-gray-700 mb-1">
+                          <span class="italic">{entry.title}</span>
+                        </div>
+
+                        {entry.staff &&
+                          entry.staff.length > 0 &&
+                          entry.staff.map((s) => (
+                            <div class="font-content text-xs text-gray-500 flex gap-1">
+                              <div>
+                                <img
+                                  class="h-4 w-4"
+                                  src={icon("pencil", "tabler", "outline")}
+                                  inline
+                                />
+                              </div>
+                              <div>
+                                <div>{s.role}</div>
+                              </div>
+                            </div>
+                          ))}
+                      </div>
+                    </div>
+                  </>
+                )}
+              </>
+            ))}
         </div>
       </div>
     </>

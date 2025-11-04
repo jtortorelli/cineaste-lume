@@ -128,3 +128,8 @@ works:
     title: Godzilla vs. Hedorah
     year: 1971
 ---
+Dropped out of Kansai University in 1930 and joined the Japanese Communist Party, serving as chairman of the Saga Prefecture chapter.
+
+A frequent collaborator of Honda Ishirô. His darker and more serious works are often in contrast with contemporary screenwriter Sekizawa Shin'ichi.
+
+Kimura wrote under the pseudonym Mabuchi Kaoru starting in 1965.

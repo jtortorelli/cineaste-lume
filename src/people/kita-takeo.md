@@ -173,3 +173,8 @@ works:
     title: Space Amoeba
     year: 1970
 ---
+Served as the first director of the Japan Film and Television Art Director Association when it was established in 1939.
+
+Served as assistant director for Kubo Kazuo and Aoyanagi Nobuo before falling in with Honda Ishirô. They had a long and lucrative collaboration where Kita worked as an art director.
+
+Ascended to the role of General Production Manager at Toho in 1961, and then Toho Building President and Representative Director in 1962.

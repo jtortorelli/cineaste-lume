@@ -87,3 +87,10 @@ works:
     title: Dogora
     year: 1964
 ---
+In 1925 Kawazu ran away from his adopted parents (at age 17) and joined an acting troupe.
+
+Made his film debut in 1927 for Bantsuma-Universal studios, a joint Japanese-American production company. The studio dissolved the following year and Kawazu bounced around before landing at PCL, the predecessor to Toho, in 1937.
+
+His rise to acting fame in serious dramas coincided with his fellow actor Takada Minoru.
+
+He served in the military for all of 4 months, and then returned to acting.
