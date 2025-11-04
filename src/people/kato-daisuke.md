@@ -113,8 +113,13 @@ After the war he became an actor for Daiei. There he met director Kurosawa Akira
 and appeared in his breakout hit <i>Rashomon</i> (1950). He later followed
 Kurosawa to Toho.
 
-In January 1961 he published his memoir <i>Snow in the South Seas</i>, detailing his wartime experiences in New Guinea. That same year it was adapted as an NHK TV drama and a feature film from Toho, in which Katô played himself.
+In January 1961 he published his memoir <i>Snow in the South Seas</i>, detailing
+his wartime experiences in New Guinea. That same year it was adapted as an NHK
+TV drama and a feature film from Toho, in which Katô played himself.
 
-Continued working into his 60s, unaware he had colon cancer until five months before he succumbed to it in 1975. In an ironic twist, although he played one of the three surviving samurai from Kurosawa's <i>Seven Samurai</i>, he was the first cast member of that group to pass away.
+Continued working into his 60s, unaware he had colon cancer until five months
+before he succumbed to it in 1975. In an ironic twist, although he played one of
+the three surviving samurai from Kurosawa's <i>Seven Samurai</i>, he was the
+first cast member of that group to pass away.
 
 Katô's son Haruyuki married (and later divorced) Kurosawa's daughter Kazuko.

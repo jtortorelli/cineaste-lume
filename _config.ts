@@ -19,15 +19,15 @@ site.use(date());
 site.use(jsx());
 site.use(sheets({
   outputOptions: {
-    blankrows: true
-  }
+    blankrows: true,
+  },
 }));
 
 site.use(
   googleFonts({
     fonts:
       "https://fonts.google.com/share?selection.family=Montserrat:ital,wght@0,100..900;1,100..900|Noto+Serif+JP:wght@200..900|Petrona:ital,wght@0,100..900;1,100..900|Sono:wght@200..800",
-  })
+  }),
 );
 site.use(tailwindcss());
 site.add("style.css"); //Add the entry point
@@ -37,19 +37,21 @@ site.use(inline());
 site.add("/static");
 site.add("/scripts");
 
-site.addEventListener("afterBuild", async(_event) => {
+site.addEventListener("afterBuild", async (_event) => {
   const outDir = "_site";
 
-  for await (const entry of walk(outDir, {
-    includeDirs: false,
-    exts: ["jpg", "gif", "png", "jpeg"]
-  })) {
+  for await (
+    const entry of walk(outDir, {
+      includeDirs: false,
+      exts: ["jpg", "gif", "png", "jpeg"],
+    })
+  ) {
     const path = entry.path;
 
     if (path.includes(".webp")) {
       continue;
     }
-    await Deno.remove(path, {recursive: false});
+    await Deno.remove(path, { recursive: false });
     console.log(`Deleted original: ${path}`);
   }
 });

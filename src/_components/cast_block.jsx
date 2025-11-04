@@ -20,7 +20,11 @@ export default function ({ block, comp }, { icon }) {
           </div>
           <div class="flex flex-col sm:items-center">
             <div class="font-content sm:text-center text-gray-500 text-xs">
-              <span dangerouslySetInnerHTML={{ __html: process_role_name(cast.role) }} />
+              <span
+                dangerouslySetInnerHTML={{
+                  __html: process_role_name(cast.role),
+                }}
+              />
               {cast.character_qualifiers && (
                 <>
                   <br />

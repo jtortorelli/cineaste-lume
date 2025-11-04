@@ -14,7 +14,7 @@ title: Films
       class="absolute inset-y-0 start-0 flex pl-4 items-center ps-3 pointer-events-none text-red-700"
     >
       <img
-        src="{{ "search" |> icon("tabler", "outline")}}"
+        src='{{ "search" |> icon("tabler", "outline")}}'
         class="h-5 w-5"
         inline
       />
@@ -31,7 +31,7 @@ title: Films
     {{ for film of search.pages('cineaste films', 'url') }}
       <div
         class="filterable sm:flex sm:flex-col sm:w-36 grid grid-cols-[101px_auto]"
-        data-terms="{{ film.title }} {{ (film.aliases || []).map(a => a.alias).join(" ") }}"
+        data-terms='{{ film.title }} {{ (film.aliases || []).map(a => a.alias).join(" ") }}'
       >
         <div>
           <a href="{{ film.url }}">

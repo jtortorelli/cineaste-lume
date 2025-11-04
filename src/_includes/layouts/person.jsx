@@ -48,8 +48,9 @@ export default ({
   };
 
   const process_roles = (kaiju_roles, roles) => {
-    const null_safe_kaiju_roles =
-      kaiju_roles && kaiju_roles.length > 0 ? kaiju_roles : [];
+    const null_safe_kaiju_roles = kaiju_roles && kaiju_roles.length > 0
+      ? kaiju_roles
+      : [];
     const null_safe_roles = roles && roles.length > 0 ? roles : [];
     return null_safe_kaiju_roles.concat(null_safe_roles);
   };
@@ -166,17 +167,17 @@ export default ({
           {dod &&
             typeof dod === "string" &&
             dod.toLowerCase() === "unknown" && (
-              <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
-                <div>
-                  <img
-                    class="h-5 w-4 text-gray-500"
-                    src={icon("moon", "tabler", "outline")}
-                    inline
-                  />
-                </div>
-                <div class="font-content text-gray-700">Unknown Date</div>
+            <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
+              <div>
+                <img
+                  class="h-5 w-4 text-gray-500"
+                  src={icon("moon", "tabler", "outline")}
+                  inline
+                />
               </div>
-            )}
+              <div class="font-content text-gray-700">Unknown Date</div>
+            </div>
+          )}
           {aliases &&
             aliases.length > 0 &&
             aliases.map((a) => (
@@ -280,7 +281,7 @@ export default ({
                         src={icon(
                           "award",
                           "tabler",
-                          accolade.status === "won" ? "filled" : "outline"
+                          accolade.status === "won" ? "filled" : "outline",
                         )}
                         inline
                       />
@@ -347,7 +348,7 @@ export default ({
                                 src={icon(
                                   "chair-director",
                                   "tabler",
-                                  "outline"
+                                  "outline",
                                 )}
                                 inline
                               />
@@ -425,7 +426,7 @@ export default ({
                                   src={icon(
                                     "chair-director",
                                     "tabler",
-                                    "outline"
+                                    "outline",
                                   )}
                                   inline
                                 />
@@ -454,7 +455,7 @@ export default ({
                                   src={icon(
                                     "masks-theater",
                                     "tabler",
-                                    "outline"
+                                    "outline",
                                   )}
                                   inline
                                 />
@@ -465,7 +466,8 @@ export default ({
                                     dangerouslySetInnerHTML={{
                                       __html: process_role_name(r.name),
                                     }}
-                                  ></span>
+                                  >
+                                  </span>
                                 </div>
                                 {r.actor_alias && (
                                   <>
@@ -492,7 +494,7 @@ export default ({
                                 </div>
                               </div>
                             </div>
-                          )
+                          ),
                         )}
                       </div>
                     </div>

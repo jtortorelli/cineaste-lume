@@ -52,10 +52,16 @@ works:
     title: Ballad
     year: 2009
 ---
+
 Dropped out of an all-girls' school to pursue acting.
 
-Appeared frequently for directors Naruse Mikio, Mizoguchi Kenji, Kurosawa Akira. In Kurosawa's films she often played the lover or wife of Mifune Toshirô's character.
+Appeared frequently for directors Naruse Mikio, Mizoguchi Kenji, Kurosawa Akira.
+In Kurosawa's films she often played the lover or wife of Mifune Toshirô's
+character.
 
-Appeared in a single sci-fi film, <i>Mothra</i>, in 1961. According to author Stuart Galbraith IV, Kagawa was displeased with sci-fi and declined to discuss it.
+Appeared in a single sci-fi film, <i>Mothra</i>, in 1961. According to author
+Stuart Galbraith IV, Kagawa was displeased with sci-fi and declined to discuss
+it.
 
-Married a reporter in 1963. Retired from acting in 1965 and moved to New York. She returned to Japan in 1968 and resumed acting on stage and television.
+Married a reporter in 1963. Retired from acting in 1965 and moved to New York.
+She returned to Japan in 1968 and resumed acting on stage and television.

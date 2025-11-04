@@ -213,10 +213,24 @@ works:
     title: "Ip Man 4: The Finale"
     year: 2019
 ---
-Famed composer of anime and film music. He credits Burt Bacharach, Deep Purple and Santana as early influences. Kawai dropped out of engineering school to pursue music education, and later dropped out of music school to join a band. The band won first place at a band tournament, but the prize winnings were not enough to live on, so Kawai dropped out of the band and started composing music for TV dramas.
 
-He first met anime director Oshii Mamoru in 1986 and the following year they worked on <i>The Red Spectacles</i>. Kawai produced and performed the entire soundtrack himself out of his home studio. He has scored all of Oshii's subsequent films, including the iconic soundtrack from <i>Ghost in the Shell</i> (1995).
+Famed composer of anime and film music. He credits Burt Bacharach, Deep Purple
+and Santana as early influences. Kawai dropped out of engineering school to
+pursue music education, and later dropped out of music school to join a band.
+The band won first place at a band tournament, but the prize winnings were not
+enough to live on, so Kawai dropped out of the band and started composing music
+for TV dramas.
 
-Kawai has had a lucrative collaboration with horror director Nakata Hideo of <i>Ring</i> fame. He has also scored a number of martial arts films out of Hong Kong, including Donnie Yen's <i>Ip Man</i> series.
+He first met anime director Oshii Mamoru in 1986 and the following year they
+worked on <i>The Red Spectacles</i>. Kawai produced and performed the entire
+soundtrack himself out of his home studio. He has scored all of Oshii's
+subsequent films, including the iconic soundtrack from <i>Ghost in the Shell</i>
+(1995).
 
-Kawai is multitalented and often performs percussion, guitar and keyboards on his own soundtracks. He produced a concert of his film works, "Cinema Symphony," in 2007.
+Kawai has had a lucrative collaboration with horror director Nakata Hideo of
+<i>Ring</i> fame. He has also scored a number of martial arts films out of Hong
+Kong, including Donnie Yen's <i>Ip Man</i> series.
+
+Kawai is multitalented and often performs percussion, guitar and keyboards on
+his own soundtracks. He produced a concert of his film works, "Cinema Symphony,"
+in 2007.

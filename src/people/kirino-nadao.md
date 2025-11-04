@@ -138,6 +138,9 @@ works:
     title: Destroy All Monsters
     year: 1968
 ---
-Frequent supporting actor in salaryman and <i>Crazy Cats</i> comedies as well as sci-fi. Often cast as gangsters or flunkies.
 
-Retired from acting in 1970 as Toho's contract system was giving out, and has not been heard from since.
+Frequent supporting actor in salaryman and <i>Crazy Cats</i> comedies as well as
+sci-fi. Often cast as gangsters or flunkies.
+
+Retired from acting in 1970 as Toho's contract system was giving out, and has
+not been heard from since.

@@ -58,12 +58,18 @@ works:
     title: The Return of Godzilla
     year: 1985
 ---
-His father died while he was in high school, and he later dropped out of university to work for his uncle.
 
-When he turned to acting he signed on with Nikkatsu, in particular because they did not have any stringent requirements for education when recruiting actors, a fact which suited the college dropout just fine.
+His father died while he was in high school, and he later dropped out of
+university to work for his uncle.
 
-His career was interrupted in 1934 when he was drafted into the Imperial Army and sent to China.
+When he turned to acting he signed on with Nikkatsu, in particular because they
+did not have any stringent requirements for education when recruiting actors, a
+fact which suited the college dropout just fine.
 
-Returned to acting after the war and was marketed as a charismatic, handsome leading man for film.
+His career was interrupted in 1934 when he was drafted into the Imperial Army
+and sent to China.
+
+Returned to acting after the war and was marketed as a charismatic, handsome
+leading man for film.
 
 Appeared often in salaryman comedies for Toho, starting in 1956, until 1971.
