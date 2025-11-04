@@ -1,6 +1,8 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/koizumi-hajime/avatar.webp
+dob: 1926-04-08
+dob_resolution: day
 japanese_name: 小泉一
 name: Koizumi Hajime
 profession: Cinematographer
@@ -126,3 +128,8 @@ works:
     title: King Kong Escapes
     year: 1967
 ---
+Graduated from Japanese Film School in 1945 and promptly joined Toho's Cinematography Center.
+
+Served as cinematographer on 17 Honda Ishirô films over a ten year period (1957-1967).
+
+Apparently retired from film in 1967 and moved to television, working for Tsuburaya productions on the <i>Ultra</i> franchise.

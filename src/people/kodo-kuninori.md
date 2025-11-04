@@ -38,6 +38,12 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
+    poster_url: /static/images/films/half-human-1955/posters/poster.webp
+    roles:
+      - name: Village Chief
+    title: Half Human
+    year: 1955
+  - format: film
     poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     roles:
       - name: Nikkan
@@ -62,3 +68,8 @@ works:
     title: The Hidden Fortress
     year: 1958
 ---
+Born before the turn of the century, Kôdô was well advance din years when Japanese film hit its stride, and as such frequently played aged, senior roles.
+
+He notably played village chiefs in three films released in short succession: <i>Seven Samurai</i>, <i>Godzilla</i>, and <i>Half Human</i>.
+
+His name is often misread as Kôdô Kokuten, and he was allegedly addressed as "Kokuten" on set. He was wont to respond to those mispronouncing his name with a forceful "KUNINORI!"

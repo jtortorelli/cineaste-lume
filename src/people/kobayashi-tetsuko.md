@@ -21,3 +21,4 @@ works:
     title: Atragon
     year: 1963
 ---
+Mesmerizing actress who acted only briefly in the 60s and 80s before retiring. Kobayashi died at a relatively early age from lung cancer.
