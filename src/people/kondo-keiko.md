@@ -25,3 +25,6 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
 ---
+Earned a name for herself in the 50s with her enchanting recordings of children's nursery rhymes.
+
+She only appeared in two films: <i>Invisible Man</i> (1954) and <i>Samurai II: Duel at Ichijoji Temple</i> (1955).

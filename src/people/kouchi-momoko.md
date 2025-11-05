@@ -40,3 +40,10 @@ works:
     title: Godzilla vs. Destoroyah
     year: 1995
 ---
+Joined Toho as part of the 6th New Face program, alongside Takarada Akira, Sahara Kenji, and Fujiki Yû.
+
+After appearing in several sci-fi films, she retired from film and focused on stage and television.
+
+She reprised the role of Yamane Emiko from <i>Godzilla</i> (1954) in <i>Godzilla vs. Destoroyah</i> (1995), a gap of 41 years between appearances.
+
+Kouchi was diagnosed with colon cancer during a stage production tour in January 1998. She succumbed to the disease in November of the same year and was given a Catholic funeral.

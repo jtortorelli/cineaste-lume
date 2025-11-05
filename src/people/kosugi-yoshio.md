@@ -124,3 +124,8 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
 ---
+Active in theater and music from an early age. Joined PCL in 1935, balancing his stage acts with his filming schedule.
+
+Played in many works by Honda Ishirô and Kurosawa Akira.
+
+Worked as an instructor in Toho's actor school, tutoring fellow actors Sahara Kenji and Tsuchiya Yoshio.

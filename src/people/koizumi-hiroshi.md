@@ -101,3 +101,12 @@ works:
     title: "Godzilla: Tokyo S.O.S."
     year: 2003
 ---
+Worked as an announcer for NHK before moving to film in 1950.
+
+Accepted to Toho as part of the 3rd New Face program and made his debut in 1952.
+
+Frequently played scientists in the science fiction genre.
+
+Returned to announcing in the 70s, and hosted a quiz show for Fuji TV.
+
+He reprised the role of Dr. Chûjô from <i>Mothra</i> (1961) in <i>Godzilla: Tokyo S.O.S.</i> (2003), a shocking gap of 42 years between appearances!

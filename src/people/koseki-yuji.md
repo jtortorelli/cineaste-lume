@@ -22,3 +22,14 @@ works:
     title: Mothra
     year: 1961
 ---
+Began composing while in college, writing numerous fight songs and marches for his alma maters, Waseda and Keio Universities. He earned the nickname "The Japanese Sousa."
+
+Later influenced by Russian composers Stravinsky and Mussorgsky.
+
+In 1929 he won a competition put on by Chester Music of London with his piece "The Tale of the Bamboo Cutter." Shortly after he received a fan letter from Uchiyama Kinko, and they were married the same year. They remained married until his death in 1989.
+
+Notable works written after WWII include the requiem "The Bells of Nagasaki," and the Olympic March for the 1964 Tokyo Olympics.
+
+At Koseki's funeral, his coffin was draped with the flags of Waseda and Keio Universities, and he was sent off by the fight songs he had composed for them while a student.
+
+In 2009, numerous events were organized to commemorate Koseki's 100th birthday.
