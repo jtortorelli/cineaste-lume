@@ -12,6 +12,13 @@ profession: Actor
 type: person
 works:
   - format: film
+    poster_url: /static/images/films/shishunki-1952/posters/poster.webp
+    roles:
+      - name: Kubo Akira
+        actor_alias: Yamauchi Yasuyoshi
+    title: Shishunki
+    year: 1952
+  - format: film
     poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
     roles:
       - name: Miki Yoshiteru
@@ -100,3 +107,12 @@ works:
     title: "Gamera: Guardian of the Universe"
     year: 1995
 ---
+Kubo began his acting career as a child on stage. He joined Toho in 1952 when he was 16. He debuted in Maruyama Seiji's film <i>Shishunki</i> the same year, under his birth name, Yamauchi Yasuyoshi. He adopted the name of his character from that film, Kubo Akira, as his stage name for the rest of his career.
+
+Appeared in films for both Honda Ishirô and Kurosawa Akira.
+
+Kubo was allegedly in the running for the lead character in <i>Ultraman</i> (1966), but the role ultimately went to Kurobe Susumu.
+
+Retired from film after completing <i>Space Amoeba</i> (1970) and transitioned to television. He played darker and more villainous characters on TV, in stark contrast to his film work.
+
+He made a notable cameo in <i>Gamera: Guardian of the Universe</i> (1995) as a ship's captain in the prologue, his first appearance in the sci-fi genre in 25 years.
