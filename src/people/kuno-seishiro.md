@@ -58,6 +58,12 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
+    poster_url: /static/images/films/age-of-assassins-1967/posters/poster.webp
+    roles:
+      - name: Man on Crutches
+    title: The Age of Assassins
+    year: 1967
+  - format: film
     poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     roles:
       - name: Soldier
@@ -82,3 +88,13 @@ works:
     title: Destroy All Monsters
     year: 1968
 ---
+
+Started at Toho with small bit parts and walk ons, culminating in a substantial
+role in <i>The Age of Assassins</i> (1967).
+
+Was good friends with Kayama Yûzô of <i>Young Guy</i> fame.
+
+Dropped out of film in the 70s after Toho's contract system ended, and retired
+from acting altogether in the early 80s.
+
+In 2010 Kuno was reportedly running a butcher shop in Tokyo.

@@ -312,3 +312,8 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
 ---
+Toho exclusive actor who appeared in no less than 20 sci-fi films, and many other films besides.
+
+Reportedly lived less than 3 minutes away from Toho studios during the height of Toho's output.
+
+Had very few speaking roles. His most substantial speaking parts were as a defense minister in <i>Godzilla</i> (1954) and a newspaper editor in <i>The Human Vapor</i> (1960).
