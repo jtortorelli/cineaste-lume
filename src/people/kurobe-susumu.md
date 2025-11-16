@@ -30,6 +30,13 @@ works:
     slug: adventure-of-kigan-castle-1966
     title: The Adventure of Kigan Castle
     year: 1966
+  - format: tv series
+    title_card_url: /static/images/tv-series/ultraman-1966/title-card.webp
+    roles:
+      - name: Hayata Shin
+        episode_count: 39
+    title: Ultraman
+    year: 1966
   - format: film
     poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
     roles:
@@ -94,4 +101,15 @@ works:
     slug: godzilla-vs-megaguirus-2000
     title: Godzilla vs. Megaguirus
     year: 2000
+  - format: film
+    poster_url: /static/images/films/monster-x-strikes-back-attack-the-g8-summit-2008/posters/poster.webp
+    roles:
+      - name: Staff Officer Kimura
+    title: "Monster X Strikes Back: Attack the G8 Summit"
+    year: 2008
 ---
+Best known as the alter-ego of Ultraman in the inaugural <i>Ultraman</i> television series in 1966. He has reprised the role in numerous Ultra sequels.
+
+Outside of ULtraman, his genre film roles were limited to supporting roles as gangsters or other kind sof henchmen.
+
+Kurobe's daughter, Yoshimoto Takami, is also an actress, and also appeared in a prominent role in the Ultra franchise, specifically as the female lead of <i>Ultraman Tiga</i> (1996).
