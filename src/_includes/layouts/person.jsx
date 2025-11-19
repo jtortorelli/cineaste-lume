@@ -258,15 +258,23 @@ export default ({
           )}
         </div>
       </div>
-      <div class="text-sm font-content text-gray-700 mb-1 pt-2 w-96 mx-auto space-y-2">
+      <div class="
+        text-sm font-content text-gray-700 mb-1 pt-2 mx-auto
+        w-96 sm:w-fit
+        columns-1 sm:columns-2 space-y-2
+           
+        sm:[&:has(>_:only-child)]:columns-1
+        sm:[&:has(>_:only-child)]:w-96
+        sm:[&:has(>_:only-child)]:justify-items-center
+      ">
         {children}
       </div>
       {accolades && accolades.length > 0 && (
         <>
           <comp.named_divider name="Accolades" />
-          <div class="flex flex-col sm:flex-row sm:flex-wrap gap-4 m-auto sm:w-fit w-96">
+          <div class="flex flex-col sm:grid sm:grid-cols-[repeat(auto-fill,minmax(10rem,1fr))] justify-center gap-4 m-auto sm:w-fit w-96 sm:max-w-full">
             {accolades.map((accolade) => (
-              <>
+              <div class="w-40">
                 <div
                   class={`font-content text-xs gap-1 ${
                     accolade.status === "won"
@@ -297,12 +305,14 @@ export default ({
                   <div>
                     <div>{accolade.ceremony}</div>
                     <div>{accolade.category}</div>
-                    <div class="italic">
-                      {accolade.films.map((f) => f.title).join(", ")}
-                    </div>
+                    {accolade.films && accolade.films.length > 0 && (
+                      <div class="italic">
+                        {accolade.films.map((f) => f.title).join(", ")}
+                      </div>
+                    )}
                   </div>
                 </div>
-              </>
+              </div>
             ))}
           </div>
         </>

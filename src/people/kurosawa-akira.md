@@ -1,5 +1,80 @@
 ---
 tags: ["cineaste", "people"]
+accolades:
+  - ceremony: 2nd Mainichi Film Awards
+    category: Best Director
+    status: won
+    films:
+      - title: One Wonderful Sunday
+  - ceremony: 1st Blue Ribbon Awards
+    category: Best Screenplay
+    status: won
+    films:
+      - title: Rashomon
+  - ceremony: 7th Mainichi Film Awards
+    category: Best Screenplay
+    status: won
+    films:
+      - title: Ikiru
+  - ceremony: 18th Mainichi Film Awards
+    category: Best Screenplay
+    status: won
+    films:
+      - title: High and Low
+  - ceremony: 35th Mainichi Film Awards
+    category: Best Director
+    status: won
+    films:
+      - title: Kagemusha
+  - ceremony: 34th BAFTAs
+    category: Best Director
+    status: won
+    films:
+      - title: Kagemusha
+  - ceremony: 40th Mainichi Film Awards
+    category: Best Director
+    status: won
+    films:
+      - title: Ran
+  - ceremony: 58th Oscars
+    category: Best Director
+    status: nominated
+    films:
+      - title: Ran
+  - ceremony: 28th Blue Ribbon Awards
+    category: Best Director
+    status: won
+    films:
+      - title: Ran
+  - ceremony: 62nd Oscars
+    category: Honorary Award
+    status: won
+  - ceremony: 14th Japan Academy Prizes
+    category: Best Director
+    status: nominated
+    films:
+      - title: Dreams
+  - ceremony: 15th Japan Academy Prizes
+    category: Best Director
+    status: nominated
+    films:
+      - title: Rhapsody in August
+  - ceremony: 15th Japan Academy Prizes
+    category: Best Screenplay
+    status: nominated
+    films:
+      - title: Rhapsody in August
+  - ceremony: 53rd Mainichi Film Awards
+    category: Special Award
+    status: won
+  - ceremony: 22nd Japan Academy Prizes
+    category: Association Honor Award
+    status: won
+  - ceremony: 24th Japan Academy Prizes
+    category: Best Screenplay
+    status: won
+    films:
+      - title: After the Rain
 avatar_url: /static/images/people/kurosawa-akira/avatar.webp
 birth_place: Tokyo, Japan
 cause_of_death: Stroke
@@ -21,6 +96,20 @@ works:
     title: Sanshiro Sugata
     year: 1943
   - format: film
+    poster_url: /static/images/films/sanshiro-sugata-part-two-1945/posters/poster.webp
+    staff:
+      - role: Director
+      - role: Screenplay
+    title: "Sanshiro Sugata: Part Two"
+    year: 1945
+  - format: film
+    poster_url: /static/images/films/one-wonderful-sunday-1947/posters/poster.webp
+    staff:
+      - role: Director
+      - role: Screenplay
+    title: One Wonderful Sunday
+    year: 1947
+  - format: film
     poster_url: /static/images/films/snow-trail-1947/posters/poster.webp
     staff:
       - role: Screenplay
@@ -41,6 +130,13 @@ works:
       - role: Screenplay
     title: Rashomon
     year: 1950
+  - format: film
+    poster_url: /static/images/films/ikiru-1952/posters/poster.webp
+    staff:
+      - role: Director
+      - role: Screenplay
+    title: Ikiru
+    year: 1952
   - format: film
     poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
     slug: seven-samurai-1954
@@ -99,6 +195,20 @@ works:
     title: Red Beard
     year: 1965
   - format: film
+    poster_url: /static/images/films/dodeskaden-1970/posters/poster.webp
+    staff:
+      - role: Director
+      - role: Screenplay
+    title: Dodes'ka-den
+    year: 1970
+  - format: film
+    poster_url: /static/images/films/dersu-uzala-1975/posters/poster.webp
+    staff:
+      - role: Director
+      - role: Screenplay
+    title: Dersu Uzala
+    year: 1975
+  - format: film
     poster_url: /static/images/films/kagemusha-1980/posters/poster.webp
     slug: kagemusha-1980
     staff:
@@ -114,6 +224,20 @@ works:
       - role: Screenplay
     title: Ran
     year: 1985
+  - format: film
+    poster_url: /static/images/films/dreams-1990/posters/poster.webp
+    staff:
+      - role: Director
+      - role: Screenplay
+    title: Dreams
+    year: 1990
+  - format: film
+    poster_url: /static/images/films/rhapsody-in-august-1991/posters/poster.webp
+    staff:
+      - role: Director
+      - role: Screenplay
+    title: Rhapsody in August
+    year: 1991
   - format: film
     poster_url: /static/images/films/madadayo-1993/posters/poster.webp
     staff:
