@@ -13,20 +13,6 @@ Deno.env.set("TZ", "Z");
 
 const site = lume({
   src: "./src",
-}, {
-  markdown: {
-    // Optional: Other markdown-it options here (e.g., { html: true })
-    plugins: [
-      // Custom plugin to add class to all <p> tags
-      function paragraphClass(md) {
-        const { renderer } = md;
-        // Override the opening tag to include the Tailwind class
-        renderer.rules.paragraph_open = () => '<p class="inline-block">';
-        // Closing tag remains standard (no changes needed, but override for completeness)
-        renderer.rules.paragraph_close = () => '</p>';
-      },
-    ],
-  },
 });
 
 site.use(date());

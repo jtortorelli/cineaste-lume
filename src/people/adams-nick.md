@@ -20,6 +20,18 @@ spouses:
   - name: Carol Nugent
 type: person
 works:
+  - format: Film
+    poster_url: /static/images/films/picnic-1955/posters/poster.webp
+    roles:
+      - name: Bomber
+    title: Picnic
+    year: 1955
+  - format: Film
+    poster_url: /static/images/films/rebel-without-a-cause-1955/posters/poster.webp
+    roles:
+      - name: Chick
+    title: Rebel Without a Cause
+    year: 1955
   - format: TV Series
     roles:
       - episode_count: 76
@@ -63,10 +75,10 @@ works:
     year: 2012
 ---
 
-Served in the Coast Guard from 1952 through 1955.
+Nick Adams was born to a coal mining family. After his father was injured in a mining accident, the family moved to Jersey City. An athlete in high school, Adams was determined to become an actor and hitchhiked to Hollywood at age 18. He struggled initially, taking odd jobs and serving in the United States Coast Guard during the Korean War.
 
-Acquainted with Jack Palance, Henry Fonda, James Dean, and Elvis Presley.
+Adams began to find success with supporting roles in major films such as *Rebel Without a Cause* (1955) and *Picnic* (1955). He became well-known for his friendships with fellow actors James Dean and Elvis Presley, often using these connections to generate publicity. His big break came with the starring role of Johnny Yuma in the television series *The Rebel* (1959–1961). In 1963, he received an Academy Award nomination for Best Supporting Actor for his performance in *Twilight of Honor*.
 
-Rumored to have had an affair with Mizuno Kumi, his co-star in 3 Japanese films.
+In the mid-1960s, Adams starred in three Japanese films for Toho, all alongside Mizuno Kumi. He played Dr. James Bowen in *Frankenstein Conquers the World* (1965) and Astronaut Glenn in *Invasion of Astro-Monster* (1965, also known as *Monster Zero*). His third collaboration with Mizuno was *The Killing Bottle* (1967), part of the *International Secret Police* series of raucous action films.
 
-The circumstances of his death remain mysterious to this day.
+Adams was married to actress Carol Nugent, with whom he had two children. He died under mysterious circumstances in Beverly Hills on February 7, 1968, at the age of 36. The official cause of death was a drug overdose, but speculation about the events surrounding his death continues.
