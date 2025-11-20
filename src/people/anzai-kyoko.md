@@ -26,11 +26,8 @@ works:
     year: 1959
 ---
 
-Member of the Osaka Shochiku Opera Company from 1950 through 1953.
+Anzai Kyôko began her career in entertainment as a member of the Osaka Shochiku Opera Company, where she performed from 1950 to 1953. Immediately after resigning from the opera company, she transitioned into film.
 
-Entered film immediately after resigning from the opera company.
+She made her film debut in 1953 and moved to Toho Studios in 1956, where she often took on leading roles. Despite a relatively short film career spanning less than a decade, she appeared in over 50 films, including the classic sci-fi film *Battle in Outer Space* (1959).
 
-Appeared in over 50 films in less than 10 years.
-
-Retired from acting completely following her 1961 marriage to actor Mihashi
-Tatsuya.
+Anzai retired from acting completely in 1961 following her marriage to fellow actor Mihashi Tatsuya. They remained married until her death in 2002.

@@ -197,17 +197,10 @@ works:
     year: 1970
 ---
 
-Served as a bomber pilot in WWII.
+Arikawa Sadamasa served as a bomber pilot during World War II. After the war, he briefly joined Toho but left due to labor disputes. He then joined Tsuburaya Eiji's private film effects company while Tsuburaya was blacklisted from the studio system.
 
-Joined Toho briefly and then left over labor disputes.
+When Tsuburaya returned to Toho, Arikawa followed him and became his chief cameraman, working on nearly all of Toho's science fiction films from 1954 to 1965. He was a key figure in developing the visual style of the *Godzilla* series and other *kaiju* films.
 
-Joined Tsuburaya Eiji's private film effects company while Tsuburaya was
-blacklisted.
+In 1967, Arikawa became the second individual to officially bear the title "Director of Special Effects" at Toho with the release of *Son of Godzilla*. He continued in this role for *Destroy All Monsters* (1968) and *Space Amoeba* (1970), often with Tsuburaya supervising.
 
-Returned to Toho with Tsuburaya.
-
-Became the second individual to bear the title "Director of Special Effects" at
-Toho in 1967 with the release of <i>Son of Godzilla</i>.
-
-Departed Toho in 1970, after the death of Tsuburaya and after completing
-<i>Space Amoeba</i>.
+Arikawa departed Toho in 1970 following the death of his mentor, Tsuburaya Eiji.

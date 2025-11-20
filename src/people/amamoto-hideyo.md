@@ -122,6 +122,20 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
+    poster_url: /static/images/films/age-of-assassins-1967/posters/poster.webp
+    roles:
+      - name: Dr. Mizorogi Shôgo
+        uncredited: false
+    title: Age of Assassins
+    year: 1967
+  - format: film
+    poster_url: /static/images/films/kill-1968/posters/poster.webp
+    roles:
+      - name: Shimada Gendayu
+        uncredited: false
+    title: Kill!
+    year: 1968
+  - format: film
     poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
     roles:
       - name: Minami Shinpei
@@ -180,12 +194,12 @@ works:
     year: 2005
 ---
 
-Drafted into the Japanese army at age 19. His wartime experience gave him a
-lifelong disgust with Japanese society in general.
+Drafted into the Japanese army at age 19. His wartime experience gave him a lifelong disgust with Japanese society in general. He became an anarchist and openly denied the legitimacy of the Japanese government and the imperial system.
 
-Fond of Spain and Spanish culture.
+He enrolled in the University of Tokyo's Faculty of Law after the war, aspiring to become a diplomat, but dropped out due to his disillusionment with the political climate. He then turned to acting, joining the Actors' Studio Theatre Company in 1954.
 
-Often cast in roles as older, more grotesque characters, despite being the same
-age as his co-stars.
+Amamoto was frequently cast by director Okamoto Kihachi, appearing in films such as *The Age of Assassins* (1967), *Kill!* (1968), and *Japan's Longest Day* (1967). He was often cast in roles as older, more grotesque characters, despite being the same age as his co-stars.
 
-Frequently cast by director Kihachi Okamoto.
+He is perhaps best known for his role as the villainous Dr. Shinigami in the *Kamen Rider* series.
+
+Fond of Spain and Spanish culture, he visited the country over 20 times and was an admirer of the poet Federico García Lorca.
