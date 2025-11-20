@@ -66,3 +66,10 @@ works:
     title: Godzilla vs. Gigan
     year: 1972
 ---
+Kusakawa was born in Manchuria during the Japanese occupation, and spoke fluent Chinese.
+
+Became an exclusive contract actor for Toho in 1959 and appeared in a variety of films, usually as a villain or a henchman.
+
+Dropped out of acting in 1970 when Toho's contract system dissolved.
+
+According to actor Amamoto Hideyo's memoirs, Kusakawa became a priest after his retirement.

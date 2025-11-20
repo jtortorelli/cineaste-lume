@@ -303,3 +303,6 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
 ---
+A ubiquitous supporting actor who appeared in numerous films exclusively for Toho throughout the 50s and 60s, and even in the 70s after the contract system had dissolved.
+
+He very rarely had speaking roles, his most prominent ones being in <i>Rodan</i> (1956) and <i>Varan the Unbelievable</i> (1958).

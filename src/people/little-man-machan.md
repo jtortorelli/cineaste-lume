@@ -50,4 +50,20 @@ works:
     slug: all-monsters-attack-1969
     title: All Monsters Attack
     year: 1969
+  - format: film
+    poster_url: /static/images/films/pulgasari-1985/posters/poster.webp
+    roles:
+      - name: Infant Pulgasari
+        qualifiers:
+          - Suit Actor
+        uncredited: true
+    title: Pulgasari
+    year: 1985
 ---
+Diminuitive actor, active in theater, both in drama and comedy. Reportedly an accomplished tap dancer.
+
+Most famous for his portrayal of Minilla, the Son of Godzilla, in several films in the late 60s and early 70s. He was 46 when he took on the role initially.
+
+His popularity extended to Taiwan and across Southeast Asia.
+
+He made an uncredited appearance as the infant monster in the North Korean oddity <i>Pulgasari</i> (1985).

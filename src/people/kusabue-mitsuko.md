@@ -28,3 +28,14 @@ works:
     title: Whirlwind
     year: 1964
 ---
+Studied ballet in her elementary school years.
+
+Joined the Shochiku Opera Company in 1950, and made her film debut in a musical for Shochiku in 1953. In 1954 she left Shochiku and signed an exclusive contract with Toho.
+
+Appeared in a number of light-hearted works, from musicals to salaryman comedies, while simultaneously appearing on stage and at musical festivals.
+
+Was briefly married to composer Akutagawa Yasushi from 1960 to 1962.
+
+Kusabue remained active in the music scene even in her old age. In 1999 she received the Purple Ribbon for her contribution to the arts, and in 2005 she received the Order of the Rising Sun, Gold Rays with Rosette (4th class). In 2013 whe received the Kinokuniya Theater Award for her achievements, and in 2014 she received the Kikuta Theater Award.
+
+Kusabue is an avid dog lover and is known for appearing on TV with her black labrador, Mellow.
