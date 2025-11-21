@@ -22,6 +22,18 @@ works:
     title: Ecology of Marriage
     year: 1940
   - format: film
+    poster_url: /static/images/films/floating-clouds-1955/posters/poster.webp
+    staff:
+      - role: Producer
+    title: Floating Clouds
+    year: 1955
+  - format: film
+    poster_url: /static/images/films/flowing-1956/posters/poster.webp
+    staff:
+      - role: Producer
+    title: Flowing
+    year: 1956
+  - format: film
     poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     slug: hidden-fortress-1958
     staff:
@@ -42,26 +54,24 @@ works:
       - role: Producer
     title: The Last War
     year: 1961
+  - format: film
+    poster_url: /static/images/films/sword-of-doom-1966/posters/poster.webp
+    staff:
+      - role: Producer
+    title: The Sword of Doom
+    year: 1966
+  - format: film
+    poster_url: /static/images/films/japans-longest-day-1967/posters/poster.webp
+    staff:
+      - role: Producer
+    title: Japan's Longest Day
+    year: 1967
 ---
 
-Began his career submitting articles to the <i>Kinema Junpo</i> film journal
-under the pseudonym Tsukamoto Yasushi.
+Fujimoto Sanezumi was a legendary producer who, alongside Tanaka Tomoyuki, defined Toho's "Golden Age." Born in Manchuria, he began his career as a film critic under the pseudonym Tsukamoto Yasushi before being invited to join PCL (Toho's predecessor) by Mori Iwao.
 
-Invited to join PCL (later Toho) after graduation by president Mori Iwao.
+While Tanaka specialized in action and science fiction, Fujimoto focused on comedies and literary adaptations. He produced over 200 films, including the popular "Company President" (*Shacho*) and "Young Guy" (*Wakadaisho*) series. He also championed the works of acclaimed directors like Naruse Mikio (*Floating Clouds*, *Flowing*) and Okamoto Kihachi (*The Sword of Doom*, *Japan's Longest Day*).
 
-Transitioned from assistant director to producer while working on Imai Tadashi's
-<i>Ecology of Marriage</i> (1940).
+Fujimoto played a pivotal role in Kurosawa Akira's career, co-producing *The Hidden Fortress* (1958) and later encouraging the director to form his own production company. He served as president of Toho from 1971 to 1974 and produced the inaugural Japan Academy Awards in 1978.
 
-Departed Toho following a labor dispute and founded his own company, Fujimoto
-Productions. Returned to Toho in 1951 as a producer.
-
-Along with fellow producer Tanaka Tomoyuki, produced the vast majority of
-Toho''s films during the Golden Age. Tanaka specialized in "men's" films
-(science fiction and action) and Fujimoto handled comedies and literary
-adaptations. Each man produced over 200 films in their respective careers.
-
-Served as president of Toho from 1971 to 1974, succeeded in the position by
-Tanaka Tomoyuki.
-
-Produced the inaugural Japan Academy Awards ceremony in 1978. After his passing
-the Fujimoto Prize for producers was established in his honor.
+Following his death in 1979, the Fujimoto Prize was established to honor producers who have made significant contributions to the Japanese film industry.
