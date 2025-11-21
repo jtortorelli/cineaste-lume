@@ -39,6 +39,13 @@ works:
     title: Dogora
     year: 1964
   - format: film
+    poster_url: /static/images/films/green-slime-1968/posters/poster.webp
+    roles:
+      - name: Captain Martin
+        uncredited: false
+    title: The Green Slime
+    year: 1968
+  - format: film
     poster_url: /static/images/films/godzilla-vs-megalon-1973/posters/poster.webp
     roles:
       - name: Emperor Antonio
@@ -56,22 +63,10 @@ works:
     year: 1974
 ---
 
-Served with the United States Marines in the Korean War, after which he deployed
-to Yokohama, where he lived for 20 years.
+Robert Dunham was an American actor, writer, and entrepreneur who lived in Japan for over two decades. Born in Maine and raised in Massachusetts, he served as a lieutenant in the United States Marine Corps during the Korean War before being stationed in Yokohama.
 
-Became a valuable asset to Japanese filmmakers as a Westerner who could speak
-fluent Japanese and interact with native-speaking co-stars.
+Dunham distinguished himself from other Western actors in Japan by his fluency in the Japanese language, which allowed him to interact directly with his co-stars and often deliver his own lines without dubbing. He became a regular in Toho's special effects films, most notably playing the diamond investigator Mark Jackson in *Dogora* (1964). The character was so popular that Toho considered a spin-off series, but it never materialized.
 
-His Mark Jackson role in <i>Dogora</i> (1964) was so popular that there were
-talks of a spin-off film focused on the character.
+He is perhaps best remembered by international audiences as Emperor Antonio of Seatopia in *Godzilla vs. Megalon* (1973), where he also did double duty as a motorcycle stuntman. His other credits include *Mothra* (1961), *The Green Slime* (1968), and *ESPY* (1974).
 
-He was pitched for the role of the American scientist in <i>Frankenstein
-Conquers the World</i> (1965) but lost the part to Nick Adams.
-
-Best remembered as Emperor Antonion in <i>Godzilla vs. Megalon</i> (1973),
-featured on <i>Mystery Science Theater 3000</i>.
-
-Retired and returned to the United States in the 70s, living in California,
-Massachussetts, and Florida. He married three times and had four children.
-
-Continued working as a producer until his death in 2001.
+After returning to the United States in 1975, Dunham worked as a freelance writer for publications like *Car and Driver* and founded his own production company, writing and directing the film *Samantha*.
