@@ -23,6 +23,27 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
+    poster_url: /static/images/films/diary-of-a-company-president-peaceful-period-1959/posters/poster.webp
+    roles:
+      - name: Okumura
+        uncredited: false
+    title: "Diary of a Company President: Peaceful Period"
+    year: 1959
+  - format: film
+    roles:
+      - name: Tanuma Kyûtarô
+        uncredited: false
+    title: Sir Galahad in Campus
+    poster_url: /static/images/films/sir-galahad-in-campus-1961/posters/poster.webp
+    year: 1961
+  - format: film
+    roles:
+      - name: Tanuma Kyûtarô
+        uncredited: false
+    title: College Champ
+    poster_url: /static/images/films/college-champ-1962/posters/poster.webp
+    year: 1962
+  - format: film
     poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
     roles:
       - name: Tako
@@ -39,6 +60,12 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
+    poster_url: /static/images/films/operation-crazy-hong-kong-1963/posters/poster.webp
+    roles:
+      - name: Section Chief Nakamura
+    title: Operation Crazy Hong Kong
+    year: 1963
+  - format: film
     poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     roles:
       - name: The Wizard Hermit
@@ -48,17 +75,10 @@ works:
     year: 1966
 ---
 
-Apprenticed under comedic actor Tamura Kunio in 1933
+Arishima Ichirô apprenticed under comedic actor Tamura Kunio in 1933. He toured with various comedy troupes during World War II before shooting to fame with a breakout performance on NHK Radio's *Sunday Entertainment Board* (*Nichiyô Gorakuban*).
 
-Toured with various comedy troupes during WWII before shooting to fame with a
-breakout performance on NHK Radio's Sunday entertainment program.
+He made his film debut in 1947 and joined Toho in 1955, where he became a household name. Often referred to as "The Japanese Chaplin," Arishima starred in several long-running comedy series, including the *Company President* (*Shachô*) series and the *Young Guy* (*Wakadaishô*) series.
 
-Debuted in film in 1947 and joined Toho in 1955.
+Internationally, he is best known for his role as the frantic publicity director Mr. Tako in *King Kong vs. Godzilla* (1962).
 
-Starred in several long running comedy series including <i>Company
-President</i>, <i>Crazy Cats</i>, and <i>Young Guy</i>.
-
-Became a free agent after his Toho contract expired in 1972.
-
-Continued appearing in television and theater until declining health forced him
-to withdraw.
+Arishima became a free agent after his Toho contract expired in 1972. He continued appearing in television and theater until declining health forced him to withdraw.
