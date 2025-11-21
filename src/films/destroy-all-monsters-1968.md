@@ -315,7 +315,7 @@ top_billed_cast:
   - avatar_url: /static/images/films/destroy-all-monsters-1968/cast-avatars/ken-echigo-0.webp
     character_qualifiers:
     name: Echigo Ken
-    role: SY-3 Crew
+    role: SY-3 Pilot Yoshikawa
     slug: echigo-ken
   - avatar_url: /static/images/films/destroy-all-monsters-1968/cast-avatars/minoru-ito-0.webp
     character_qualifiers:

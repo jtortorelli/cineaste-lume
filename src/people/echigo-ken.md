@@ -187,7 +187,7 @@ works:
   - format: film
     poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
     roles:
-      - name: SY-3 Crew
+      - name: SY-3 Pilot Yoshikawa
         uncredited: false
     slug: destroy-all-monsters-1968
     title: Destroy All Monsters
@@ -226,13 +226,10 @@ works:
     year: 1971
 ---
 
-Joined Toho through the second "New Face" program in 1947.
+Echigo Ken joined Toho as part of the second "New Face" program in 1947. He became a reliable supporting actor, appearing in numerous films throughout the 1950s and 1960s, particularly in the science fiction genre.
 
-Appeared frequently in bit parts throughout the 50s and 60s, including numerous
-science fiction films. Retired in 1971.
+While often cast in uncredited bit parts, Echigo had memorable roles in several classic tokusatsu films. He played the harmonica-playing sailor on the *Eiko-maru* in the original *Godzilla* (1954) and had a more prominent role as the SY-3 crew member Yoshikawa in *Destroy All Monsters* (1968). His other credits include *Rodan* (1956), *The Mysterians* (1957), and *Mothra vs. Godzilla* (1964).
 
-Enjoyed clay pigeon shooting and coffee dates with fellow supporting actor
-Iwamoto Hiroshi.
+Echigo retired from acting in 1971. In his later years, he reportedly worked at a coffee shop near Toho studios with fellow actor Iwamoto Koji. He was an avid clay pigeon shooter.
 
-His widow, actress Terasawa Hiroko, confirmed Echigo's death in a 2014
-interview, but specific details are not known.
+His death was confirmed by his widow, actress Terasawa Hiroko, in a 2014 interview, though the exact date remains unknown.

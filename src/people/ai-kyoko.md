@@ -29,7 +29,8 @@ works:
     poster_url: /static/images/films/flying-phantom-ship-1969/posters/poster.webp
     roles:
       - name: Kuroshio's Wife
-        type: voice
+        qualifiers:
+          - voice
     title: Flying Phantom Ship
     year: 1969
 ---
