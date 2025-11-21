@@ -24,21 +24,10 @@ works:
     year: 1959
 ---
 
-Stowed away on a cargo ship to compete in his first sumo match in Amami in 1948
-at age 19.
+Asahiyo Tarô stowed away on a cargo ship to compete in his first sumo match in Amami in 1948 at age 19. He rose to become the 46th Yokozuna in 1959. *The Three Treasures* (1959) was his only film appearance.
 
-Distinctive for his stature, thick eyebrows and chest hair, which were unusual
-for sumo wrestlers.
+He was distinctive for his stature, thick eyebrows, and chest hair, which were unusual for sumo wrestlers. In 1959, he boasted a winning record of 13-2 at an Osaka wrestling championship, breaking a longstanding "jinx" that wrestlers with chest hair could not win tournaments.
 
-Boasted a winning record of 13-2 at an Osaka wrestling championship in 1959,
-breaking a longstanding jinx on wrestlers with chest hair.
+Asahiyo suffered from lumbar separation disease, which affected his later wrestling performance and hastened his retirement in 1962. After retiring, he became the head coach of the Takasago stable, where he mentored future stars like Konishiki.
 
-Suffered from lumbar separation disease, which affected his later wrestling
-performance and hastened his retirement in 1962.
-
-Resumed training in anticipation of his 60th birthday ceremony.
-
-Died suddenly of a cerebral hemorrhage brought on by over drinking and the
-sudden strain of his new training regiment.
-
-A statue in his likeness was erected at his birthplace in 1995.
+He died suddenly of a cerebral hemorrhage in 1988. A statue in his likeness was erected at his birthplace in 1995.
