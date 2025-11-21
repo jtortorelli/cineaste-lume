@@ -109,18 +109,12 @@ works:
     year: 1985
 ---
 
-Aspired to be an actor since childhood and debuted in theater in 1936 at age 19.
+Chiaki Minoru aspired to be an actor since childhood and debuted in theater in 1936 at age 19. He served in the army from 1939 through 1942, stationed at Sakhalin.
 
-Served in the army from 1939 through 1942, stationed at Sakhalin.
+His performance in the play *Dataii* inspired Kurosawa Akira to cast him in *Stray Dog* (1949). Chiaki went on to appear in eleven Kurosawa films, including *Rashomon* (1950), *Seven Samurai* (1954), *Throne of Blood* (1957), *The Hidden Fortress* (1958), and *High and Low* (1963).
 
-His performance in the play "Dataii" inspired Kurosawa Akira to produce <i>The
-Quiet Duel</i> (1949) and to cast Chiaki in his first film role in <i>Stray
-Dog</i> (also 1949). Chiaki went on to appear in several Kurosawa films over the
-next decade.
+In *Seven Samurai*, he played the good-natured samurai Heihachi. Ironically, he outlived all his co-stars from the film, despite being the first casualty on screen. His and Fujiwara Kamatari's peasant characters in *The Hidden Fortress* were cited as direct inspirations for R2-D2 and C-3PO in *Star Wars* (1977).
 
-His and Fujiwara Kamatari's peasant characters in <i>The Hidden Fortress</i>
-(1958) were cited as direct inspirations for R2-D2 and C-3PO in <i>Star Wars</i>
-(1977).
+Outside of his work with Kurosawa, Chiaki played the pilot Kobayashi Kôji in *Godzilla Raids Again* (1955).
 
-Ironically, he outlived all his co-stars from <i>Seven Samurai</i> (1954),
-despite being the first casualty in that film.
+Later in his career, he won the Best Actor award at the Japan Academy Prizes for his performance in *Gray Sunset* (1985), where he played a man suffering from Alzheimer's disease.
