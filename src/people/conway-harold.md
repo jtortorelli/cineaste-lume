@@ -62,6 +62,13 @@ works:
     slug: mothra-vs-godzilla-1964
     title: Mothra vs. Godzilla
     year: 1964
+  - format: tv series
+    title_card_url: /static/images/tv-series/ultraman-1966/title-card.webp
+    roles:
+      - name: William Childers
+        episode_count: 1
+    title: Ultraman
+    year: 1966
   - format: film
     poster_url: /static/images/films/goke-body-snatcher-from-hell-1968/posters/poster.webp
     roles:
@@ -82,12 +89,10 @@ works:
     year: 1968
 ---
 
-Worked as a tax accountant in Japan before appearing in films playing foreign
-speaking parts.
+Harold Conway was an American businessman who worked as a tax accountant in Japan before embarking on an acting career. He became a familiar face in Japanese cinema, particularly in Toho's special effects films, where he often played scientists, diplomats, or military officers.
 
-His delivery of his Japanese lines in <i>The Mysterians</i> (1957) was
-considered impressive for a non-native speaker.
+His delivery of Japanese lines in *The Mysterians* (1957) was considered impressive for a non-native speaker. He returned in a similar role in the spiritual sequel, *Battle in Outer Space* (1959).
 
-Conway appeared in scenes filmed for <i>Mothra vs. Godzilla</i> (1964) expressly
-filmed for English speaking audiences, which weren't shown in the original
-Japanese version.
+Conway appeared in scenes filmed specifically for the American release of *Mothra vs. Godzilla* (1964), known as *Godzilla vs. The Thing*. These scenes, involving American missile cruisers attacking Godzilla, were not included in the original Japanese version.
+
+He continued to act in film and television until the mid-1970s, appearing in series like *Ultraman* and films such as *Genocide* (1968).
