@@ -103,18 +103,10 @@ works:
     year: 2005
 ---
 
-Fujiki was a skilled fencer in college. In 1951 he won the single men's epee
-category of the All Japan Fencer's Championship.
+Fujiki Yû was a versatile actor who became a staple of Toho's "Golden Age" cinema. He was a skilled fencer in his youth, winning the single men's epee category of the All Japan Fencer's Championship in 1951 while attending Doshisha University.
 
-Joined Toho in the 6th "New Face" class, along with Okada Masumi, Takarada
-Akira, Sahara Kenji, and Kouchi Momoko.
+He joined Toho in 1954 as part of the 6th "New Face" class, which also included future stars Takarada Akira, Sahara Kenji, and Okada Masumi. While initially cast in serious roles, Fujiki found his niche in comedy, forming a popular duo with Takashima Tadao. Together, they starred in numerous "salaryman" comedies, a persona they carried over into kaiju films like *King Kong vs. Godzilla* (1962) and *Atragon* (1963).
 
-Became well known for starring with Takashima Tadao in numerous "salaryman"
-comedies. They would appear together in much the same fashion in both <i>King
-Kong vs. Godzilla</i> (1962) and <i>Atragon</i> (1963)
+Fujiki's other notable tokusatsu roles include the egg-loving reporter Nakamura Jirô in *Mothra vs. Godzilla* (1964) and the advertising chief in *Space Amoeba* (1970). He remained with Toho until 1974, after which he transitioned to television roles.
 
-In his later life he developed diabetes and lost sensation in his extremities.
-He and his wife became active in campaigning for diabetes awareness.
-
-His last film role was the Japan Academy Award nominated <i>Year One in the
-North</i> (2005), released a few months after his death.
+In his later years, Fujiki battled diabetes, which led to a loss of sensation in his extremities. He and his wife became active campaigners for diabetes awareness. His final film role was in *Year One in the North* (2005), released shortly before his death.
