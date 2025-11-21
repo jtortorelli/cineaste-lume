@@ -48,22 +48,12 @@ works:
     year: 1961
 ---
 
-Dan's grandfather, Dan Takuma, was assassinated in the League of Blood incident
-in 1932. The incident and its aftermath inspired Dan to become a composer.
+Dan Ikuma was born into a distinguished family; his grandfather was Baron Dan Takuma, who was assassinated in the League of Blood incident in 1932. This tragedy, and its aftermath, inspired Dan to pursue music. His father was businessman Dan Inô.
 
-Son of businessman Dan Inô, president of Prince Motor Company, which later
-became Nissan.
+He trained at the Tokyo School of Music and graduated in 1946. Dan became a prolific composer, creating over 200 film scores, including the music for the *Samurai* trilogy (1954-1956) and *The Last War* (1961).
 
-Trained at Tokyo School of Music and contracted with NHK and later Toho.
+Beyond film, Dan was a celebrated classical composer. His 1952 opera *Yuzuru* (*Twilight Crane*) is considered a masterpiece of modern Japanese opera. He also composed the "Olympic Games Overture" for the 1964 Summer Olympics in Tokyo.
 
-Often collaborated with composers Akutagawa Yasushi and Mayuzumi Toshirô on
-concerts to debut their works.
+Dan often collaborated with fellow composers Akutagawa Yasushi and Mayuzumi Toshirô. In addition to his musical achievements, he was an accomplished essayist, receiving the Yomiuri Prize for Literature in 1968.
 
-Composed the overture for the 1964 Summer Olympics, held in Tokyo.
-
-Suffered from congenital color blindness.
-
-In addition to music, he was an accomplished essayist, and received the Yomiuri
-Prize for Literature in 1968.
-
-Asteroid 17509, discovered in 1992, was named "Ikumadan" in his honor.
+Asteroid 17509 was named "Ikumadan" in his honor.
