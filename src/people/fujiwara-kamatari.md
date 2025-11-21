@@ -12,6 +12,13 @@ profession: Actor
 type: person
 works:
   - format: film
+    poster_url: /static/images/films/ikiru-1952/posters/poster.webp
+    roles:
+      - name: Sub-Section Chief Ôno
+        uncredited: false
+    title: Ikiru
+    year: 1952
+  - format: film
     poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
     roles:
       - name: Manzô
@@ -77,19 +84,10 @@ works:
     year: 1980
 ---
 
-Began his career at age 15 with the Asakusa Opera Company, and continued to
-perform until the Great Kanto Earthquake, after which he transitioned to acting.
+Fujiwara Kamatari was a versatile character actor who became a fixture in the films of Kurosawa Akira. He began his career at age 15 with the Asakusa Opera Company, performing until the Great Kanto Earthquake of 1923 forced the company to disband. He then transitioned to comic theater, joining PCL (Toho's predecessor) in the 1930s where he frequently appeared alongside the popular comedian Enomoto Ken'ichi (aka "Enoken").
 
-Joined PCL and appeared in comedies in the 30s alongside actor Enomoto Ken'ichi.
-Became an exclusive contract actor when PCL became Toho.
+Fujiwara's collaboration with Kurosawa began with *Ikiru* (1952) and spanned over three decades. He is perhaps best known for his role as the bickering peasant Matashichi in *The Hidden Fortress* (1958). His pairing with Chiaki Minoru in this film is widely cited as the inspiration for the droids C-3PO and R2-D2 in George Lucas's *Star Wars* (1977).
 
-His pairing with Chiaki Minoru in Kurosawa's <i>The Hidden Fortress</i> (1958)
-is often cited as an inspiration for R2-D2 and C-3PO in George Lucas' <i>Star
-Wars</i> (1977).
+In *Seven Samurai* (1954), Fujiwara played the memorable role of Manzô, the fearful farmer who forcibly cuts his daughter's hair to disguise her as a boy. Initially, Fujiwara played the character with more humor than Kurosawa intended, leading to on-set disagreements. However, Kurosawa later acknowledged that Fujiwara's interpretation added a necessary layer of humanity to the film.
 
-In early scenes of his peasant farmer character in <i>Seven Samurai</i> (1954),
-Fujiwara played it much more humorously than Kurosawa directed him, leading to
-disagreements. Later Kurosawa reviewed the film and observed Fujiwara's
-transformation into a more serious character as the story progressed. He
-realized that it was more effective because of the actor's decision and offered
-an apology.
+Fujiwara continued to act until his death in 1985, leaving behind a legacy of memorable supporting performances in some of Japanese cinema's greatest works.
