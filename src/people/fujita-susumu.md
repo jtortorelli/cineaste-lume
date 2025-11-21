@@ -26,6 +26,13 @@ works:
     title: "Sanshiro Sugata: Part Two"
     year: 1945
   - format: film
+    poster_url: /static/images/films/men-who-tread-on-the-tigers-tail-1945/posters/poster.webp
+    roles:
+      - name: Togashi
+        uncredited: false
+    title: The Men Who Tread on the Tiger's Tail
+    year: 1945
+  - format: film
     poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     roles:
       - name: General Morita
@@ -99,9 +106,8 @@ works:
     year: 1965
 ---
 
-Had his big break playing the title role in Kurosawa Akira's first film
-<i>Sanshiro Sugata</i> (1943), a role he reprised in <i>Sanshiro Sugata: Part
-Two</i> (1945).
+Fujita Susumu was a powerful actor who rose to fame as the star of Kurosawa Akira's debut film, *Sanshiro Sugata* (1943). His portrayal of the title character established his "tough guy" persona, a stoic and morally upright hero that resonated with wartime audiences. He reprised the role in *Sanshiro Sugata: Part Two* (1945) and continued to collaborate with Kurosawa in films like *The Men Who Tread on the Tiger's Tail* (1945) and *The Hidden Fortress* (1958), where he played the rival General Tadokoro.
 
-Regularly played military officers and other officials in science fiction films
-due to his "tough guy" persona.
+In the post-war era, Fujita became a familiar face in Toho's tokusatsu productions, often cast as high-ranking military officials due to his commanding presence. He played General Morita in *The Mysterians* (1957), the Defense Commander in *Atragon* (1963), and led the JSDF task force in *Mothra vs. Godzilla* (1964).
+
+Fujita appeared in over 180 films throughout his career, transitioning to television roles in his later years. He passed away in 1990 from liver cancer.
