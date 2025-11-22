@@ -23,11 +23,11 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/diary-of-a-company-president-peaceful-period-1959/posters/poster.webp
+    poster_url: /static/images/films/presidents-peaceful-period-1959/posters/poster.webp
     roles:
       - name: Okumura
         uncredited: false
-    title: "Diary of a Company President: Peaceful Period"
+    title: "President's Peaceful Period"
     year: 1959
   - format: film
     roles:

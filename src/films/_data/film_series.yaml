@@ -73,72 +73,72 @@ bloodthirsty:
 company-president:
   title: "Company President"
   entries:
-    - title: "Nest Egg"
+    - title: "Secret Savings President"
       year: 1956
-    - title: "President's Journey"
-      year: 1957
-    - title: "President's School ABC"
-      year: 1957
-    - title: President's Inspection
+    - title: "Secret Savings President: Part II"
+      year: 1956
+    - title: "Enthusiastic President"
+      year: 1956
+    - title: Three Generations of Presidents
       year: 1958
-    - title: President's Garrison Army
+    - title: "Three Generations of Presidents: Part II"
       year: 1958
-    - title: The Peaceful Chronicle of the Company President
+    - title: President’s Peaceful Period
       year: 1959
-    - title: "Sequel: The Peaceful Chronicle of the Company President"
+    - title: "President’s Peaceful Period: Part II"
       year: 1959
-    - title: The Loyal Retainers in Suits
+    - title: Salaryman Chushingura
       year: 1960
-    - title: The Bloody Laugh Chronicle of the President
+    - title: "Salaryman Chushingura: Part II"
       year: 1961
-    - title: The President and the Female Employee
+    - title: President’s Travels
       year: 1961
-    - title: The Endless Workweek President
+    - title: "President’s Travels: Part II"
+      year: 1961
+    - title: Shimizu Port Salaryman
       year: 1962
-    - title: President's Diplomatic Mission
+    - title: "Shimizu Port Salaryman: Part II"
       year: 1962
-    - title: President's Overseas Travelogue
+    - title: "President’s Travel Diary"
+      year: 1962
+    - title: "President’s Travel Diary: Part II"
+      year: 1962
+    - title: "President’s Journey"
       year: 1963
-    - title: "Sequel: President's Overseas Travelogue"
+    - title: "President's Journey: Part II"
       year: 1963
-    - title: President's Idle Travels
+    - title: President’s Trip Abroad
       year: 1963
-    - title: "Sequel: President's Idle Travels"
+    - title: "President’s Trip Abroad: Part II"
       year: 1963
-    - title: The Gentlemen's Chronicle of the President
+    - title: President’s Who’s Who
       year: 1964
-    - title: President's Nighttime Frolics Ledger
+    - title: "President's Who's Who: Part II"
       year: 1964
-    - title: The Worldly Mix Chronicle of the President
+    - title: "President’s Ninja Scroll"
       year: 1965
-    - title: President's Double Profit Method
+    - title: "President’s Ninja Scroll: Part II"
       year: 1965
-    - title: The Deeds Chronicle of the President
+    - title: President’s Record
       year: 1966
-    - title: "Sequel: The Deeds Chronicle of the President"
+    - title: "President’s Record: Part II"
       year: 1966
-    - title: President's Fox Hunt
+    - title: President’s Thousand and One Nights
       year: 1967
-    - title: President's School ABC
+    - title: "President’s Thousand and One Nights: Part II"
       year: 1967
-    - title: The Prosperity Chronicle of the President
+    - title: President’s Success Story
       year: 1968
-    - title: President's Book of the Underworld
+    - title: "President’s Success Story: Part II"
       year: 1968
-    - title: President's School ABC
+    - title: President’s Grade Book
       year: 1969
-    - title: President's Official Funds
+    - title: "President’s Grade Book: Part II"
       year: 1969
-    - title: The President and the Female Staff
+    - title: President’s ABC
       year: 1970
-    - title: President's Wild Ranking Frenzy
+    - title: "President’s ABC: Part II"
       year: 1970
-    - title: The Iron-Masked President
-      year: 1970
-    - title: Don't Bother the President
-      year: 1970
-    - title: President's School ABC
-      year: 1971
 crazy-cats:
   title: Crazy cats
   entries:
