@@ -184,5 +184,6 @@ works:
     year: 1971
 ---
 
-Frequent supporting actor in many Toho science fiction and fantasy films, but
-typically with little to no dialogue.
+Gondô Yukihiko was a prolific supporting actor at Toho, appearing in numerous films throughout the late 1950s and 1960s. He is particularly well-known to fans of the studio's science fiction and fantasy output, having appeared in nearly every major *kaiju* and sci-fi film of the era.
+
+While often cast in minor, non-speaking roles such as soldiers, villagers, or policemen, his frequent presence makes him a recognizable face in Toho's Golden Age cinema. His credits include roles in *The Hidden Fortress* (1958), *Mothra* (1961), *King Kong vs. Godzilla* (1962), and *Destroy All Monsters* (1968).

@@ -34,11 +34,8 @@ works:
     year: 1964
 ---
 
-First worked as a civil servant after graduating from high school. His
-appearance in a local talent contest gained him recognition and helped launch
-his entertainment career.
+Funato Jun was a Toho actor who appeared in several films during the 1960s. He is perhaps best known to international audiences for his role as the Prince of Ming in *The Lost World of Sinbad* (1963). He also appeared in the science fiction film *Dogora* (1964) as Detective Nitta.
 
-An exclusive contract actor for Toho during the 60s.
+Following the decline of the Japanese film industry in the 1970s, Funato transitioned to television, where he found steady work in dramas and *jidaigeki* (period dramas). He was a frequent guest star in popular series such as *Mito Komon* and *Onihei Hankacho*.
 
-When the film industry slumped in the 70s, he moved to television, playing leads
-in daytime dramas and villains in detective shows.
+He was married to actress Iwai Yumi.

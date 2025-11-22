@@ -40,8 +40,8 @@ works:
     roles:
       - name: Tanuma Kyûtarô
         uncredited: false
-    title: College Champ
-    poster_url: /static/images/films/college-champ-1962/posters/poster.webp
+    title: "Japan's No. 1 Young Guy"
+    poster_url: /static/images/films/japans-no-1-young-guy-1962/posters/poster.webp
     year: 1962
   - format: film
     poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp

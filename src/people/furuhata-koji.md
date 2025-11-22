@@ -16,10 +16,8 @@ works:
     year: 1965
 ---
 
-Performed with the Shiki Theater Company until he became deaf and was forced
-into early retirement.
+Furuhata Kôji was a Japanese actor who is best known for his titular role in the 1965 film *Frankenstein Conquers the World*.
 
-Apparently his reputation with the theater company was such that Toho later
-sought him out specifically to play the role of Frankenstein in <i>Frankenstein
-Conquers the World</i> in 1965. It was his only film appearance and he retired
-from public life afterwards.
+He began his career with the prestigious Shiki Theatre Company, where he built a strong reputation as a stage actor. However, he was forced into early retirement from the stage after suffering from hearing loss.
+
+Despite his retirement, producer Tanaka Tomoyuki specifically sought him out for the role of Frankenstein, believing his physical acting skills would be perfect for the character. Furuhata accepted the role, which became his only film appearance. Following the film's release, he retired from public life completely.

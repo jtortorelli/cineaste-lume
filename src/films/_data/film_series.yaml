@@ -70,6 +70,112 @@ bloodthirsty:
     - title: "Evil of Dracula"
       year: 1974
       slug: "evil-of-dracula-1974"
+company-president:
+  title: "Company President"
+  entries:
+    - title: "Nest Egg"
+      year: 1956
+    - title: "President's Journey"
+      year: 1957
+    - title: "President's School ABC"
+      year: 1957
+    - title: President's Inspection
+      year: 1958
+    - title: President's Garrison Army
+      year: 1958
+    - title: The Peaceful Chronicle of the Company President
+      year: 1959
+    - title: "Sequel: The Peaceful Chronicle of the Company President"
+      year: 1959
+    - title: The Loyal Retainers in Suits
+      year: 1960
+    - title: The Bloody Laugh Chronicle of the President
+      year: 1961
+    - title: The President and the Female Employee
+      year: 1961
+    - title: The Endless Workweek President
+      year: 1962
+    - title: President's Diplomatic Mission
+      year: 1962
+    - title: President's Overseas Travelogue
+      year: 1963
+    - title: "Sequel: President's Overseas Travelogue"
+      year: 1963
+    - title: President's Idle Travels
+      year: 1963
+    - title: "Sequel: President's Idle Travels"
+      year: 1963
+    - title: The Gentlemen's Chronicle of the President
+      year: 1964
+    - title: President's Nighttime Frolics Ledger
+      year: 1964
+    - title: The Worldly Mix Chronicle of the President
+      year: 1965
+    - title: President's Double Profit Method
+      year: 1965
+    - title: The Deeds Chronicle of the President
+      year: 1966
+    - title: "Sequel: The Deeds Chronicle of the President"
+      year: 1966
+    - title: President's Fox Hunt
+      year: 1967
+    - title: President's School ABC
+      year: 1967
+    - title: The Prosperity Chronicle of the President
+      year: 1968
+    - title: President's Book of the Underworld
+      year: 1968
+    - title: President's School ABC
+      year: 1969
+    - title: President's Official Funds
+      year: 1969
+    - title: The President and the Female Staff
+      year: 1970
+    - title: President's Wild Ranking Frenzy
+      year: 1970
+    - title: The Iron-Masked President
+      year: 1970
+    - title: Don't Bother the President
+      year: 1970
+    - title: President's School ABC
+      year: 1971
+crazy-cats:
+  title: Crazy cats
+  entries:
+    - title: Irresponsible Big Boss
+      year: 1959
+    - title: The Thong Doctor
+      year: 1960
+    - title: The Stashed-Money Boss
+      year: 1961
+    - title: Salaryman Gonza and Sukeji
+      year: 1962
+    - title: The Casanova in Japan
+      year: 1962
+    - title: Crazy Operation
+      year: 1963
+    - title: Crazy Cats Go to Hong Kong
+      year: 1963
+    - title: The Boss of Flowers
+      year: 1964
+    - title: Irresponsible Chivalrous Knight
+      year: 1964
+    - title: Big Fool Exposed
+      year: 1965
+    - title: Crazy Adventure
+      year: 1965
+    - title: Los Vegas Free-for-All
+      year: 1966
+    - title: Crazy Big Adventure
+      year: 1966
+    - title: Let's Go, Crazy Cats!
+      year: 1967
+    - title: Jackpot in Las Vegas
+      year: 1967
+    - title: Crazy Cats in Mexico
+      year: 1968
+    - title: Crazy Cats' Big Blast
+      year: 1969
 daimajin:
   title: "Daimajin"
   entries:
@@ -258,6 +364,17 @@ godzilla:
       slug: "shin-godzilla-2016"
     - title: "Godzilla Minus One"
       year: 2023
+international-secret-police:
+  - title: Interpol Code 8
+    year: 1963
+  - title: Trap of Suicide Kilometer
+    year: 1964
+  - title: A Keg of Powder
+    year: 1964
+  - title: Key of Keys
+    year: 1965
+  - title: The Killing Bottle
+    year: 1967
 kaiji:
   title: "Kaiji"
   entries:
@@ -413,6 +530,43 @@ yojimbo:
     - title: "Sanjuro"
       year: 1962
       slug: "sanjuro-1962"
+young-guy:
+  title: "Young Guy"
+  entries:
+    - title: "Sir Galahad in Campus"
+      year: 1961
+    - title: "College Champion"
+      year: 1962
+    - title: "Japan's No. 1 Young Guy"
+      year: 1962
+    - title: "Young Guy in Hawaii"
+      year: 1963
+    - title: Young Guy at Sea
+      year: 1964
+    - title: Young Guy's Crossroads
+      year: 1965
+    - title: Campus A-Go-Go
+      year: 1965
+    - title: Young Guy in the Alps
+      year: 1966
+    - title: Let's Go, Young Guy!
+      year: 1967
+    - title: Thunderbolt Young Guy
+      year: 1967
+    - title: One Night in Hawaii with Young Guy
+      year: 1968
+    - title: "Graduation Trip: My Youth's Koshien"
+      year: 1968
+    - title: Freshman Young Guy
+      year: 1969
+    - title: Young Guy in New Zealand
+      year: 1969
+    - title: My Sky! Young Guy
+      year: 1970
+    - title: Tomorrow's Young Guy
+      year: 1970
+    - title: Taming the Wild Horse
+      year: 1971
 zatoichi:
   title: "Zatoichi"
   entries:

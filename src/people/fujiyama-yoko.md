@@ -36,10 +36,8 @@ works:
     year: 1964
 ---
 
-Graduated from Toho's "New Face" class in 1961 and debuted in the first <i>Young
-Guy</i> film opposite Kayama Yûzô
+Fujiyama Yôko was a Toho actress who rose to prominence after graduating from the studio's "New Face" class in 1961. She made her debut in the first installment of the popular *Young Guy* (*Wakadaishô*) series, starring opposite Kayama Yûzô.
 
-Frequently appeared in supporting roles in comedies. She also worked frequently
-with actor Natsuki Yôsuke and played his sister on multiple occasions.
+She became a familiar face in Toho's productions during the 1960s, frequently appearing in comedies and science fiction films. She is well-known to tokusatsu fans for her roles as the heroine Jinguji Makoto in *Atragon* (1963) and Kirino Masayo in *Dogora* (1964). Fujiyama also had a recurring on-screen partnership with actor Natsuki Yôsuke, often cast as his sister in various films.
 
-Married in 1967 and retired from acting.
+After a relatively short career, she retired from acting in 1967 upon her marriage. Fujiyama passed away in 2022 from a subarachnoid hemorrhage.

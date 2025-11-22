@@ -49,26 +49,10 @@ works:
     year: 1967
 ---
 
-Contracted by Toho at age 16 immediately after graduating high school.
+Hama Mie was a prominent Toho actress during the 1960s, known for her comedic timing and international appeal. She was discovered by producer Tanaka Tomoyuki while working as a bus fare conductor and joined the studio in 1959.
 
-Specialized in playing female leads in comedies during the 60s, including the
-<i>Crazy Cats</i> series and, to some extent, <i>King Kong vs. Godzilla</i>
-(1962).
+She quickly became a popular leading lady, often starring in comedies alongside the Crazy Cats, such as *Irresponsible Yukyoden* and *Monsieur Zivaco*. She also appeared in the spy comedy *Kokusai Himitsu Keisatsu: Kagi no Kagi* (1965), which was later re-edited by Woody Allen into *What's Up, Tiger Lily?*.
 
-Achieved international fame for playing Bond girl Kissy Suzuki in <i>You Only
-Live Twice</i> (1967). She was selected from a large pool of Japanese talent to
-appear in the film, along with Wakabayashi Akiko and Tamba Tetsurô. Hama was
-originally cast as the spy Aki, while Wakabayashi played Suzuki. Hama struggled
-to learn her lines in English and director Lewis Gilbert planned to drop her. A
-grief stricken Hama learned of this and became suicidal, at which point Gilbert
-relented and instead had her switch roles with Wakabayashi, since Wakabayashi
-could learn the lines quicker and Suzuki had much less dialogue than Aki.
+Hama achieved international fame as the Bond girl Kissy Suzuki in *You Only Live Twice* (1967). Originally cast as the character Aki, she switched roles with co-star Wakabayashi Akiko due to difficulties with English dialogue. Despite the language barrier, her performance cemented her status as a global icon.
 
-Well known to genre fans for playing Madame Piranha in <i>King Kong Escapes</i>
-(1967), a film which incidentally also possessed some Bond-like qualities.
-
-Left Toho in the 70s and moved to television and radio. Became known as the face
-of Lion Laundry detergent through their TV ads.
-
-Retired from acting in the 90s and devoted her time mainly to environmental
-causes.
+Following her departure from Toho in the 1970s, Hama transitioned to a successful career as a television host and author. She became a vocal advocate for environmental causes, dedicating herself to the preservation of Japan's natural landscapes and traditional culture.

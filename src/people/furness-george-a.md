@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/furness-george-a/avatar.webp
-birth_place: New Jersey, United States
+birth_place: Elizabeth, New Jersey, United States
 dob: 1896-01-01
 dob_resolution: year
 dod: 1985-04-02
@@ -29,14 +29,6 @@ works:
     year: 1962
 ---
 
-Served in the United States Army, retiring with the rank of Major.
+George A. Furness was an American lawyer who played a significant role in post-war Japan. A former Major in the United States Army, he served as a defense counsel during the International Military Tribunal for the Far East (the Tokyo Trials). He is most noted for his defense of former Foreign Minister Shigemitsu Mamoru, who received a relatively light sentence and later returned to politics.
 
-Served as the defense counsel during the post-war Tokyo Trials for politician
-Shigemitsu Mamoru and Admiral Toyoda Soemu. Shigemitsu was targeted by the
-Soviet Union for punishment but received a lighter sentence. Toyoda was the only
-member of the Japanese military to be acquitted of all charges.
-
-Shigemitsu helped Furness setup his own law practice in Japan.
-
-Although not formally trained as an actor, Furness' popularity earned him the
-opportunity to appear on screen in small parts, often as Western dignitaries.
+After the trials, Furness remained in Japan and established a private law practice. Although not a professional actor, his dignified presence and fluency in English made him a go-to choice for roles requiring Western authority figures. He appeared in several Toho science fiction films, most notably as Dr. Svenson in *The Mysterians* (1957) and as a UN representative in *Gorath* (1962).
