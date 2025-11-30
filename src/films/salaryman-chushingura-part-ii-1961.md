@@ -35,7 +35,6 @@ staff:
   - people:
       - name: Tanaka Kazukiyo
     role: Still
-
 top_billed_cast:
   - name: Morishige Hisaya
     role: Ôishi Yoshio
