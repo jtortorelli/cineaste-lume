@@ -63,7 +63,7 @@ top_billed_cast:
   - name: Miki Norihei
     role: Komasa
   - name: Arishima Ichirô
-    role: Miyakoda Kichibê
+    role: Miyakoda Kichibei
   - name: Frankie Sakai
     role: Kyû Rokkan
 ---
