@@ -7,7 +7,7 @@ draft: true
 staff:
   - people:
       - name: Fujimoto Sanezumi
-        name: Tsunoda Ken’ichirô
+      - name: Tsunoda Ken’ichirô
     role: Producer
   - people:
       - name: Kasahara Ryôzô

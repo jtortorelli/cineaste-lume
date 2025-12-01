@@ -28,7 +28,7 @@ staff:
     role: Art
   - people:
       - name: Yanoguchi Fumio
-        name: Shimonaga Hisashi
+      - name: Shimonaga Hisashi
     role: Sound
   - people:
       - name: Koseki Yûji
