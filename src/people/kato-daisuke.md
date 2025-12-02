@@ -29,18 +29,9 @@ works:
     poster_url: /static/images/films/rashomon-1950/posters/poster.webp
     roles:
       - name: The Bailiff
-        uncredited: false
     slug: rashomon-1950
     title: Rashomon
     year: 1950
-  - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
-    roles:
-      - name: Shichirôji
-        uncredited: false
-    slug: seven-samurai-1954
-    title: Seven Samurai
-    year: 1954
   - format: film
     poster_url: /static/images/films/mother-1952/posters/poster.webp
     roles:
@@ -48,10 +39,16 @@ works:
     title: Mother
     year: 1952
   - format: film
+    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
+    roles:
+      - name: Shichirôji
+    slug: seven-samurai-1954
+    title: Seven Samurai
+    year: 1954
+  - format: film
     poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
     roles:
       - name: Gion Tôji
-        uncredited: false
     slug: samurai-i-musashi-miyamoto-1954
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
@@ -59,7 +56,6 @@ works:
     poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
     roles:
       - name: Gion Tôji
-        uncredited: false
     slug: samurai-ii-duel-at-ichijoji-temple-1955
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
@@ -67,15 +63,37 @@ works:
     poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
     roles:
       - name: Gion Tôji
-        uncredited: false
     slug: samurai-iii-duel-at-ganryu-island-1956
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
+    poster_url: /static/images/films/three-generations-of-presidents-1958/posters/poster.webp
+    roles:
+      - name: Ôba Tahei
+    title: Three Generations of Presidents
+    year: 1958
+  - format: film
+    poster_url: /static/images/films/three-generations-of-presidents-part-ii-1958/posters/poster.webp
+    roles:
+      - name: Ôba Tahei
+    title: "Three Generations of Presidents: Part II"
+    year: 1958
+  - format: film
+    poster_url: /static/images/films/presidents-peaceful-period-1959/posters/poster.webp
+    roles:
+      - name: Asahina Takenosuke
+    title: "President’s Peaceful Period"
+    year: 1959
+  - format: film
+    poster_url: /static/images/films/presidents-peaceful-period-part-ii-1959/posters/poster.webp
+    roles:
+      - name: Asahina Takenosuke
+    title: "President’s Peaceful Period: Part II"
+    year: 1959
+  - format: film
     poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     roles:
       - name: Futodama
-        uncredited: false
     slug: three-treasures-1959
     title: The Three Treasures
     year: 1959
@@ -86,10 +104,15 @@ works:
     title: Snow in the South Seas
     year: 1961
   - format: film
+    poster_url: /static/images/films/presidents-travels-1961/posters/poster.webp
+    roles:
+      - name: Kuramochi Zensuke
+    title: "President’s Travels"
+    year: 1961
+  - format: film
     poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
     roles:
       - name: Inokichi
-        uncredited: false
     slug: yojimbo-1961
     title: Yojimbo
     year: 1961
@@ -99,6 +122,126 @@ works:
       - name: Himself
     title: Snow in the South Seas
     year: 1961
+  - format: film
+    poster_url: /static/images/films/presidents-travel-diary-1962/posters/poster.webp
+    roles:
+      - name: Shouji Heizaemon
+    title: "President’s Travel Diary"
+    year: 1962
+  - format: film
+    poster_url: /static/images/films/presidents-travel-diary-part-ii-1962/posters/poster.webp
+    roles:
+      - name: Shouji Heizaemon
+    title: "President’s Travel Diary: Part II"
+    year: 1962
+  - format: film
+    poster_url: /static/images/films/presidents-journey-1963/posters/poster.webp
+    roles:
+      - name: Yamanaka Genkichi
+    title: "President’s Journey"
+    year: 1963
+  - format: film
+    poster_url: /static/images/films/presidents-journey-part-ii-1963/posters/poster.webp
+    roles:
+      - name: Yamanaka Genkichi
+    title: "President’s Journey: Part II"
+    year: 1963
+  - format: film
+    poster_url: /static/images/films/presidents-trip-abroad-1963/posters/poster.webp
+    roles:
+      - name: Ôshima Gentarô
+    title: "President’s Trip Abroad"
+    year: 1963
+  - format: film
+    poster_url: /static/images/films/presidents-trip-abroad-part-ii-1963/posters/poster.webp
+    roles:
+      - name: Ôshima Gentarô
+    title: "President’s Trip Abroad: Part II"
+    year: 1963
+  - format: film
+    poster_url: /static/images/films/presidents-whos-who-1964/posters/poster.webp
+    roles:
+      - name: Tomioka
+    title: "President’s Who’s Who"
+    year: 1964
+  - format: film
+    poster_url: /static/images/films/presidents-whos-who-part-ii-1964/posters/poster.webp
+    roles:
+      - name: Tomioka
+    title: "President’s Who’s Who: Part II"
+    year: 1964
+  - format: film
+    poster_url: /static/images/films/presidents-ninja-scroll-1965/posters/poster.webp
+    roles:
+      - name: Togashi Chûzô
+    title: "President’s Ninja Scroll"
+    year: 1965
+  - format: film
+    poster_url: /static/images/films/presidents-ninja-scroll-part-ii-1965/posters/poster.webp
+    roles:
+      - name: Togashi Chûzô
+    title: "President’s Ninja Scroll: Part II"
+    year: 1965
+  - format: film
+    title: President's Record
+    year: 1966
+    poster_url: /static/images/films/presidents-record-1966/posters/poster.webp
+    roles:
+      - name: Gotô Kanjû
+  - format: film
+    poster_url: /static/images/films/presidents-record-part-ii-1966/posters/poster.webp
+    roles:
+      - name: Gotô Kanjû
+    title: "President’s Record: Part II"
+    year: 1966
+  - format: film
+    poster_url: /static/images/films/presidents-thousand-and-one-nights-1967/posters/poster.webp
+    roles:
+      - name: Kanai Tetsunosuke
+    title: "President’s Thousand and One Nights"
+    year: 1967
+  - format: film
+    poster_url: /static/images/films/presidents-thousand-and-one-nights-part-ii-1967/posters/poster.webp
+    roles:
+      - name: Kanai Tetsunosuke
+    title: "President’s Thousand and One Nights: Part II"
+    year: 1967
+  - format: film
+    poster_url: /static/images/films/presidents-success-story-1968/posters/poster.webp
+    roles:
+      - name: Ariga Tsutomu
+    title: "President’s Success Story"
+    year: 1968
+  - format: film
+    poster_url: /static/images/films/presidents-success-story-part-ii-1968/posters/poster.webp
+    roles:
+      - name: Ariga Tsutomu
+    title: "President’s Success Story: Part II"
+    year: 1968
+  - format: film
+    poster_url: /static/images/films/presidents-grade-book-1969/posters/poster.webp
+    roles:
+      - name: Ishiyama Gôzô
+    title: "President’s Grade Book"
+    year: 1969
+  - format: film
+    poster_url: /static/images/films/presidents-grade-book-part-ii-1969/posters/poster.webp
+    roles:
+      - name: Ishiyama Gôzô
+    title: "President’s Grade Book: Part II"
+    year: 1969
+  - format: film
+    poster_url: /static/images/films/presidents-abc-1970/posters/poster.webp
+    roles:
+      - name: Ishibashi Tetsukichi
+    title: "President’s ABC"
+    year: 1970
+  - format: film
+    poster_url: /static/images/films/presidents-abc-part-ii-1970/posters/poster.webp
+    roles:
+      - name: Ishibashi Tetsukichi
+    title: "President’s ABC: Part II"
+    year: 1970
 ---
 
 Born into a family of entertainers. His father was an assistant director, and
