@@ -42,6 +42,18 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
+    title: Secret Savings President
+    year: 1956
+    poster_url: /static/images/films/secret-savings-president-1956/posters/poster.webp
+    roles:
+      - name: Fukuhara Michiko
+  - format: film
+    title: Secret Savings President Part II
+    year: 1956
+    poster_url: /static/images/films/secret-savings-president-part-ii-1956/posters/poster.webp
+    roles:
+      - name: Fukuhara Michiko
+  - format: film
     poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
     roles:
       - name: Kasuga Fujichiyo
