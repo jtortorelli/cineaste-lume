@@ -15,14 +15,12 @@ works:
     poster_url: /static/images/films/ikiru-1952/posters/poster.webp
     roles:
       - name: Sub-Section Chief Ôno
-        uncredited: false
     title: Ikiru
     year: 1952
   - format: film
     poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
     roles:
       - name: Manzô
-        uncredited: false
     slug: seven-samurai-1954
     title: Seven Samurai
     year: 1954
@@ -30,15 +28,19 @@ works:
     poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
     roles:
       - name: Mari's Grandfather
-        uncredited: false
     slug: invisible-man-1954
     title: Invisible Man
     year: 1954
   - format: film
+    poster_url: /static/images/films/enthusiastic-president-1956/posters/poster.webp
+    roles:
+      - name: Sengoku
+    title: Enthusiastic President
+    year: 1956
+  - format: film
     poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
     roles:
       - name: Matashichi
-        uncredited: false
     slug: hidden-fortress-1958
     title: The Hidden Fortress
     year: 1958
@@ -46,15 +48,19 @@ works:
     poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
     roles:
       - name: Tazaemon
-        uncredited: false
     slug: yojimbo-1961
     title: Yojimbo
     year: 1961
   - format: film
+    title: "President's Travels: Part II"
+    year: 1961
+    poster_url: /static/images/films/presidents-travels-part-ii-1961/posters/poster.webp
+    roles:
+      - name: Unagiya Kondô
+  - format: film
     poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
     roles:
       - name: Takebayashi
-        uncredited: false
     slug: sanjuro-1962
     title: Sanjuro
     year: 1962
@@ -62,7 +68,6 @@ works:
     poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
     roles:
       - name: Hospital Waste Collector
-        uncredited: false
     slug: high-and-low-1963
     title: High and Low
     year: 1963
@@ -70,15 +75,19 @@ works:
     poster_url: /static/images/films/three-outlaw-samurai-1964/posters/poster.webp
     roles:
       - name: Jinbei
-        uncredited: false
     slug: three-outlaw-samurai-1964
     title: Three Outlaw Samurai
     year: 1964
   - format: film
+    title: President's Success Story
+    year: 1968
+    poster_url: /static/images/films/presidents-success-story-1968/posters/poster.webp
+    roles:
+      - name: Nakagawa Reiichi
+  - format: film
     poster_url: /static/images/films/kagemusha-1980/posters/poster.webp
     roles:
       - name: Doctor
-        uncredited: false
     slug: kagemusha-1980
     title: Kagemusha
     year: 1980
