@@ -21,6 +21,20 @@ spouses:
 type: person
 works:
   - format: film
+    poster_url: /static/images/films/secret-savings-president-1956/posters/poster.webp
+    roles:
+      - name: Onoda
+        uncredited: false
+    title: Secret Savings President
+    year: 1956
+  - format: film
+    poster_url: /static/images/films/secret-savings-president-part-ii-1956/posters/poster.webp
+    roles:
+      - name: Onoda
+        uncredited: false
+    title: "Secret Savings President: Part II"
+    year: 1956
+  - format: film
     poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Doctor Harada
