@@ -78,6 +78,7 @@ top_billed_cast:
     name: Tachikawa Hiroshi
     role: Tsuzuki Kunimaru
     slug: tachikawa-hiroshi
+    alias: Tachikawa Yôichi
   - avatar_url: /static/images/films/throne-of-blood-1957/cast-avatars/minoru-chiaki-0.webp
     character_qualifiers:
     name: Chiaki Minoru

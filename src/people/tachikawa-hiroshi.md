@@ -12,13 +12,46 @@ profession: Actor
 type: person
 works:
   - format: film
+    poster_url: /static/images/films/secret-savings-president-1956/posters/poster.webp
+    roles:
+      - name: Okamoto
+        uncredited: false
+        actor_alias: Tachikawa Yôichi
+    title: Secret Savings President
+    year: 1956
+  - format: film
+    poster_url: /static/images/films/secret-savings-president-part-ii-1956/posters/poster.webp
+    roles:
+      - name: Okamoto
+        uncredited: false
+        actor_alias: Tachikawa Yôichi
+    title: "Secret Savings President: Part II"
+    year: 1956
+  - format: film
     poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
     roles:
       - name: Tsuzuki Kunimaru
         uncredited: false
+        actor_alias: Tachikawa Yôichi
     slug: throne-of-blood-1957
     title: Throne of Blood
     year: 1957
+  - format: film
+    poster_url: /static/images/films/three-generations-of-presidents-1958/posters/poster.webp
+    roles:
+      - name: Matsumura Toshio
+        uncredited: false
+        actor_alias: Tachikawa Yôichi
+    title: Three Generations of Presidents
+    year: 1958
+  - format: film
+    poster_url: /static/images/films/three-generations-of-presidents-part-ii-1958/posters/poster.webp
+    roles:
+      - name: Matsumura Toshio
+        uncredited: false
+        actor_alias: Tachikawa Yôichi
+    title: "Three Generations of Presidents: Part II"
+    year: 1958
   - format: film
     poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
     roles:
@@ -26,6 +59,13 @@ works:
         uncredited: false
     slug: yojimbo-1961
     title: Yojimbo
+    year: 1961
+  - format: film
+    poster_url: /static/images/films/presidents-travels-part-ii-1961/posters/poster.webp
+    roles:
+      - name: Nakamura
+        uncredited: false
+    title: "President's Travels: Part II"
     year: 1961
   - format: film
     poster_url: /static/images/films/sanjuro-1962/posters/poster.webp

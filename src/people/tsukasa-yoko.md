@@ -58,7 +58,7 @@ works:
   - format: film
     poster_url: /static/images/films/salaryman-chushingura-part-ii-1961/posters/poster.webp
     roles:
-      - name: Teraoka Keiko
+      - name: Hayano Keiko
     title: "Salaryman Chushingura: Part II"
     year: 1961
   - format: film
@@ -84,7 +84,7 @@ works:
   - format: film
     poster_url: /static/images/films/presidents-whos-who-1964/posters/poster.webp
     roles:
-      - name: Harada Fusayo
+      - name: Ozawa Fusayo
     title: President’s Who’s Who
     year: 1964
   - format: film
@@ -96,13 +96,13 @@ works:
   - format: film
     poster_url: /static/images/films/presidents-ninja-scroll-1965/posters/poster.webp
     roles:
-      - name: Ishikawa Kyôko
+      - name: Kojima Yôko
     title: President’s Ninja Scroll
     year: 1965
   - format: film
     poster_url: /static/images/films/presidents-ninja-scroll-part-ii-1965/posters/poster.webp
     roles:
-      - name: Ishikawa Kyôko
+      - name: Kojima Yôko
     title: "President’s Ninja Scroll: Part II"
     year: 1965
   - format: film
