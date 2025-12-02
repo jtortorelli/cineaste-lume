@@ -43,7 +43,7 @@ top_billed_cast:
   - name: Kobayashi Keiju
     role: Teraoka Heitarô
   - name: Tsukasa Yôko
-    role: Hayano Keiko
+    role: Teraoka Keiko
   - name: Dan Reiko
     role: Ôno Konami
   - name: Nakajima Sonomi

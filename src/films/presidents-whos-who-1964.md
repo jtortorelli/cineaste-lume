@@ -45,7 +45,7 @@ top_billed_cast:
   - name: Katô Daisuke
     role: Tomioka
   - name: Tsukasa Yôko
-    role: Ozawa Fusayo
+    role: Harada Fusayo
   - name: Kusabue Mitsuko
     role: Kyôko
   - name: Ikeuchi Junko
