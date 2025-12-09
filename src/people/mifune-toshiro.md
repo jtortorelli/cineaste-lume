@@ -1,6 +1,8 @@
 ---
-tags: ["cineaste", "people"]
-avatar_url: /static/images/people/mifune-toshiro/avatar.webp
+tags:
+  - cineaste
+  - people
+avatar_url: "/static/images/people/mifune-toshiro/avatar.webp"
 birth_place: Qingdao, China
 cause_of_death: Multiple Organ Failure
 death_place: Tokyo, Japan
@@ -14,7 +16,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/rashomon-1950/posters/poster.webp
+    poster_url: "/static/images/films/rashomon-1950/posters/poster.webp"
     roles:
       - name: Tajômaru
         uncredited: false
@@ -22,7 +24,7 @@ works:
     title: Rashomon
     year: 1950
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
+    poster_url: "/static/images/films/seven-samurai-1954/posters/poster.webp"
     roles:
       - name: Kikuchiyo
         uncredited: false
@@ -30,7 +32,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
+    poster_url: "/static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp"
     roles:
       - name: Miyamoto Musashi
         uncredited: false
@@ -38,7 +40,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
+    poster_url: "/static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp"
     roles:
       - name: Miyamoto Musashi
         uncredited: false
@@ -46,7 +48,7 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
+    poster_url: "/static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp"
     roles:
       - name: Miyamoto Musashi
         uncredited: false
@@ -54,7 +56,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
+    poster_url: "/static/images/films/throne-of-blood-1957/posters/poster.webp"
     roles:
       - name: Washizu Taketoki
         uncredited: false
@@ -62,7 +64,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: "/static/images/films/hidden-fortress-1958/posters/poster.webp"
     roles:
       - name: Makabe Rokurôta
         uncredited: false
@@ -70,7 +72,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: "/static/images/films/three-treasures-1959/posters/poster.webp"
     roles:
       - name: Prince Ôsu
         uncredited: false
@@ -80,7 +82,13 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
+    poster_url: "/static/images/films/salaryman-chushingura-1960/posters/poster.webp"
+    title: Salaryman Chushingura
+    year: 1960
+    roles:
+      - name: Momoi Kazuo
+  - format: film
+    poster_url: "/static/images/films/daredevil-in-the-castle-1961/posters/poster.webp"
     roles:
       - name: Mohei
         uncredited: false
@@ -88,7 +96,13 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
+    poster_url: "/static/images/films/salaryman-chushingura-part-ii-1961/posters/poster.webp"
+    title: "Salaryman Chushingura: Part II"
+    year: 1961
+    roles:
+      - name: Momoi Kazuo
+  - format: film
+    poster_url: "/static/images/films/yojimbo-1961/posters/poster.webp"
     roles:
       - name: Kuwabatake Sanjûrô
         uncredited: false
@@ -96,7 +110,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
+    poster_url: "/static/images/films/sanjuro-1962/posters/poster.webp"
     roles:
       - name: Tsubaki Sanjûrô
         uncredited: false
@@ -104,7 +118,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
+    poster_url: "/static/images/films/high-and-low-1963/posters/poster.webp"
     roles:
       - name: Gondô Kingo
         uncredited: false
@@ -112,7 +126,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
+    poster_url: "/static/images/films/lost-world-of-sinbad-1963/posters/poster.webp"
     roles:
       - name: Sukeza
         uncredited: false
@@ -120,7 +134,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
+    poster_url: "/static/images/films/whirlwind-1964/posters/poster.webp"
     roles:
       - name: Akashi Morishige
         uncredited: false
@@ -128,7 +142,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: "/static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp"
     roles:
       - name: Ôsumi
         uncredited: false
@@ -136,7 +150,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/zatoichi-meets-yojimbo-1970/posters/poster.webp
+    poster_url: "/static/images/films/zatoichi-meets-yojimbo-1970/posters/poster.webp"
     roles:
       - name: Sasa Daisaku
         uncredited: false

@@ -1,6 +1,8 @@
 ---
-tags: ["cineaste", "people"]
-avatar_url: /static/images/people/yanagiya-kingoro/avatar.webp
+tags:
+  - cineaste
+  - people
+avatar_url: "/static/images/people/yanagiya-kingoro/avatar.webp"
 birth_name: Yamashita Keitarô
 birth_place: Tokyo, Japan
 cause_of_death: Stomach Cancer
@@ -15,11 +17,17 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: "/static/images/films/three-treasures-1959/posters/poster.webp"
     roles:
       - name: Omoikane
         uncredited: false
     slug: three-treasures-1959
     title: The Three Treasures
     year: 1959
+  - format: film
+    poster_url: "/static/images/films/presidents-trip-abroad-part-ii-1963/posters/poster.webp"
+    title: "President’s Trip Abroad: Part II"
+    year: 1963
+    roles:
+      - name: Matsumoto
 ---

@@ -144,7 +144,7 @@ series, including Kamacuras, Kumonga, Ebirah, and Hedorah.
 Conceived of the "big pool" set during production of <i>Storm Over the
 Pacific</i> (1960) to accommodate a 1/50th scale set of Pearl Harbor. Rather
 than purchase the additional property required to reach the desired scale, Inoue
-and director Matsubayashi Shue scaled it down further to 1/66th. The big pool
+and director Matsubayashi Shûe scaled it down further to 1/66th. The big pool
 would be used extensively in <i>kaiju eiga</i> until after <i>Godzilla: Final
 Wars</i> (2004) when it was dismantled.
 

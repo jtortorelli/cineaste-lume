@@ -1,6 +1,8 @@
 ---
-tags: ["cineaste", "people"]
-avatar_url: /static/images/people/fujiki-yu/avatar.webp
+tags:
+  - cineaste
+  - people
+avatar_url: "/static/images/people/fujiki-yu/avatar.webp"
 birth_name: Suzuki Yûzô
 birth_place: Tokyo, Japan
 cause_of_death: Pulmonary Embolism
@@ -16,7 +18,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
+    poster_url: "/static/images/films/godzilla-1954/posters/poster.webp"
     roles:
       - name: Eiko<span class="italic">-maru</span> Radio Operator
         uncredited: true
@@ -24,15 +26,15 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
+    poster_url: "/static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp"
     roles:
       - name: Yoshioka Denshichirô
         uncredited: false
     slug: samurai-ii-duel-at-ichijoji-temple-1955
-    title: "Samurai II: Duel at Ichijoji Temple"
+    title: 'Samurai II: Duel at Ichijoji Temple'
     year: 1955
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
+    poster_url: "/static/images/films/throne-of-blood-1957/posters/poster.webp"
     roles:
       - name: Washizu Soldier
         uncredited: false
@@ -40,7 +42,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: "/static/images/films/hidden-fortress-1958/posters/poster.webp"
     roles:
       - name: Yamana Border Guard
         uncredited: false
@@ -48,7 +50,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: "/static/images/films/three-treasures-1959/posters/poster.webp"
     roles:
       - name: Okabi
         uncredited: false
@@ -56,7 +58,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
+    poster_url: "/static/images/films/daredevil-in-the-castle-1961/posters/poster.webp"
     roles:
       - name: Hanawa Danemon
         uncredited: false
@@ -64,7 +66,19 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+    poster_url: "/static/images/films/shimizu-port-salaryman-1962/posters/poster.webp"
+    title: Shimizu Port Salaryman
+    year: 1962
+    roles:
+      - name: Ôiwa
+  - format: film
+    poster_url: "/static/images/films/shimizu-port-salaryman-part-ii-1962/posters/poster.webp"
+    title: 'Shimizu Port Salaryman: Part II'
+    year: 1962
+    roles:
+      - name: Ôiwa
+  - format: film
+    poster_url: "/static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp"
     roles:
       - name: Furue Kinsaburô
         uncredited: false
@@ -72,7 +86,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: "/static/images/films/atragon-1963/posters/poster.webp"
     roles:
       - name: Nishibe Yoshito
         uncredited: false
@@ -80,7 +94,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: "/static/images/films/mothra-vs-godzilla-1964/posters/poster.webp"
     roles:
       - name: Nakamura Jirô
         uncredited: false
@@ -88,7 +102,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
+    poster_url: "/static/images/films/space-amoeba-1970/posters/poster.webp"
     roles:
       - name: Advertising Chief
         uncredited: false
@@ -96,13 +110,12 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: /static/images/films/year-one-in-the-north-2005/posters/poster.webp
+    poster_url: "/static/images/films/year-one-in-the-north-2005/posters/poster.webp"
     roles:
       - name: Nakano Kamejirô
     title: Year One in the North
     year: 2005
 ---
-
 Fujiki Yû was a versatile actor who became a staple of Toho's "Golden Age" cinema. He was a skilled fencer in his youth, winning the single men's epee category of the All Japan Fencer's Championship in 1951 while attending Doshisha University.
 
 He joined Toho in 1954 as part of the 6th "New Face" class, which also included future stars Takarada Akira, Sahara Kenji, and Okada Masumi. While initially cast in serious roles, Fujiki found his niche in comedy, forming a popular duo with Takashima Tadao. Together, they starred in numerous "salaryman" comedies, a persona they carried over into kaiju films like *King Kong vs. Godzilla* (1962) and *Atragon* (1963).

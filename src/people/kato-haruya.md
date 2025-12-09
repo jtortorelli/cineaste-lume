@@ -20,6 +20,18 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
+    poster_url: /static/images/films/three-generations-of-presidents-1958/posters/poster.webp
+    roles:
+      - name: Chauffeur
+    title: Three Generations of Presidents
+    year: 1958
+  - format: film
+    poster_url: /static/images/films/three-generations-of-presidents-part-ii-1958/posters/poster.webp
+    roles:
+      - name: Chauffeur
+    title: "Three Generations of Presidents: Part II"
+    year: 1958
+  - format: film
     poster_url: /static/images/films/h-man-1958/posters/poster.webp
     roles:
       - name: Fisherman

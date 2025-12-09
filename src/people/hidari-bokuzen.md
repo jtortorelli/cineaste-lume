@@ -1,6 +1,8 @@
 ---
-tags: ["cineaste", "people"]
-avatar_url: /static/images/people/hidari-bokuzen/avatar.webp
+tags:
+  - cineaste
+  - people
+avatar_url: "/static/images/people/hidari-bokuzen/avatar.webp"
 birth_name: Mikashima Ichiro
 birth_place: Iruma, Saitama, Japan
 dob: 1894-02-20
@@ -14,7 +16,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
+    poster_url: "/static/images/films/seven-samurai-1954/posters/poster.webp"
     roles:
       - name: Yôhei
         uncredited: false
@@ -22,7 +24,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: "/static/images/films/three-treasures-1959/posters/poster.webp"
     roles:
       - name: Deity
         uncredited: false
@@ -30,7 +32,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: "/static/images/films/human-vapor-1960/posters/poster.webp"
     roles:
       - name: Jiya
         uncredited: false
@@ -38,7 +40,13 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/zatoichis-flashing-sword-1964/posters/poster.webp
+    poster_url: "/static/images/films/presidents-whos-who-part-ii-1964/posters/poster.webp"
+    title: 'President''s Who''s Who: Part II'
+    year: 1964
+    roles:
+      - name: Kuroda
+  - format: film
+    poster_url: "/static/images/films/zatoichis-flashing-sword-1964/posters/poster.webp"
     roles:
       - name: Kyûbei
         uncredited: false
@@ -46,15 +54,20 @@ works:
     title: Zatoichi's Flashing Sword
     year: 1964
   - format: film
-    poster_url: /static/images/films/gamera-the-giant-monster-1965/posters/poster.webp
+    poster_url: "/static/images/films/gamera-the-giant-monster-1965/posters/poster.webp"
     roles:
       - name: Drunk Old Man
         uncredited: false
     slug: gamera-the-giant-monster-1965
     title: Gamera, the Giant Monster
     year: 1965
+  - format: film
+    poster_url: "/static/images/films/presidents-abc-part-ii-1970/posters/poster.webp"
+    title: 'President’s ABC: Part II'
+    year: 1970
+    roles:
+      - name: Kuma Chairman
 ---
-
 Descended from a long line of village priests in Saitama.
 
 Supported himself through high school by working as a milk delivery boy,

@@ -41,6 +41,12 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
+    poster_url: /static/images/films/enthusiastic-president-1956/posters/poster.webp
+    roles:
+      - name: Sengoku Takao
+    title: Enthusiastic President
+    year: 1956
+  - format: film
     poster_url: /static/images/films/rodan-1956/posters/poster.webp
     roles:
       - name: Doctor Kashiwagi

@@ -1,6 +1,8 @@
 ---
-tags: ["cineaste", "people"]
-avatar_url: /static/images/people/koseki-yuji/avatar.webp
+tags:
+  - cineaste
+  - people
+avatar_url: "/static/images/people/koseki-yuji/avatar.webp"
 birth_place: Fukushima, Japan
 cause_of_death: Cerebral Infarction
 dob: 1909-08-11
@@ -15,13 +17,20 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: "/static/images/films/presidents-travels-1961/posters/poster.webp"
+    title: President’s Travels
+    year: 1961
+    staff:
+      - role: Music
+  - format: film
+    poster_url: "/static/images/films/mothra-1961/posters/poster.webp"
     slug: mothra-1961
     staff:
       - role: Music
     title: Mothra
     year: 1961
 ---
+
 Began composing while in college, writing numerous fight songs and marches for his alma maters, Waseda and Keio Universities. He earned the nickname "The Japanese Sousa."
 
 Later influenced by Russian composers Stravinsky and Mussorgsky.
