@@ -535,38 +535,40 @@ young-guy:
   entries:
     - title: "Sir Galahad in Campus"
       year: 1961
-    - title: "College Champion"
+    - title: "Pride of the Campus"
       year: 1962
     - title: "Japan's No. 1 Young Guy"
       year: 1962
     - title: "Young Guy in Hawaii"
       year: 1963
     - title: Young Guy at Sea
-      year: 1964
-    - title: Young Guy's Crossroads
       year: 1965
     - title: Campus A-Go-Go
       year: 1965
-    - title: Young Guy in the Alps
+    - title: It Started in the Alps
+      year: 1966
+    - title: Singing Young Guy
       year: 1966
     - title: Let's Go, Young Guy!
       year: 1967
-    - title: Thunderbolt Young Guy
+    - title: Judo Champion
       year: 1967
-    - title: One Night in Hawaii with Young Guy
-      year: 1968
-    - title: "Graduation Trip: My Youth's Koshien"
+    - title: Go! Go! Young Guy
+      year: 1967
+    - title: "Young Guy in Rio"
       year: 1968
     - title: Freshman Young Guy
       year: 1969
     - title: Young Guy in New Zealand
       year: 1969
-    - title: My Sky! Young Guy
+    - title: Bravo, Young Guy
       year: 1970
-    - title: Tomorrow's Young Guy
+    - title: This is My Sky! Young Guy
       year: 1970
-    - title: Taming the Wild Horse
+    - title: Young Guy vs. Blue Guy
       year: 1971
+    - title: Return of the Champ
+      year: 1981
 zatoichi:
   title: "Zatoichi"
   entries:
