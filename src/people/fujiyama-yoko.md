@@ -32,6 +32,12 @@ works:
     year: 1962
     roles:
       - name: Aoki Taeko
+  - title: Pride of the Campus
+    year: 1962
+    format: film
+    poster_url: "/static/images/films/pride-of-the-campus-1962/posters/poster.webp"
+    roles:
+      - name: Shimakawa Nobuko
   - format: film
     poster_url: "/static/images/films/presidents-travel-diary-1962/posters/poster.webp"
     title: President’s Travel Diary
@@ -44,6 +50,12 @@ works:
     year: 1962
     roles:
       - name: Matsuno Keiko
+  - title: Japan's Number One Young Guy
+    year: 1962
+    format: film
+    poster_url: "/static/images/films/japans-number-one-young-guy-1962/posters/poster.webp"
+    roles:
+      - name: Ôhara Miyuki
   - format: film
     poster_url: "/static/images/films/presidents-journey-1963/posters/poster.webp"
     title: President’s Journey
@@ -90,6 +102,12 @@ works:
     year: 1964
     roles:
       - name: Ikunosuke
+  - title: Young Guy at Sea
+    year: 1965
+    format: film
+    poster_url: "/static/images/films/young-guy-at-sea-1965/posters/poster.webp"
+    roles:
+      - name: Ômachi Eiko
 ---
 Fujiyama Yôko was a Toho actress who rose to prominence after graduating from the studio's "New Face" class in 1961. She made her debut in the first installment of the popular *Young Guy* (*Wakadaishô*) series, starring opposite Kayama Yûzô.
 

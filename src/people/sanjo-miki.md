@@ -21,4 +21,10 @@ works:
     slug: invisible-man-1954
     title: Invisible Man
     year: 1954
+  - title: Young Guy vs. Blue Guy
+    year: 1971
+    format: film
+    poster_url: /static/images/films/young-guy-vs-blue-guy-1971/posters/poster.webp
+    roles:
+      - name: Ôta Harue
 ---

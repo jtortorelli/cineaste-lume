@@ -134,6 +134,12 @@ works:
     slug: king-kong-vs-godzilla-1962
     title: King Kong vs. Godzilla
     year: 1962
+  - title: Young Guy in Hawaii
+    year: 1963
+    format: film
+    poster_url: /static/images/films/young-guy-in-hawaii-1963/posters/poster.webp
+    roles:
+      - name: Professor Toida
   - format: film
     poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:

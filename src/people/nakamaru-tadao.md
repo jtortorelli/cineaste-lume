@@ -69,6 +69,12 @@ works:
     slug: daredevil-in-the-castle-1961
     title: Daredevil in the Castle
     year: 1961
+  - title: Young Guy in Hawaii
+    year: 1963
+    format: film
+    poster_url: /static/images/films/young-guy-in-hawaii-1963/posters/poster.webp
+    roles:
+      - name: Hiraiwa
   - format: film
     poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     roles:

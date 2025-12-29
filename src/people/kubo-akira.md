@@ -90,6 +90,12 @@ works:
     slug: son-of-godzilla-1967
     title: Son of Godzilla
     year: 1967
+  - title: Young Guy in Rio
+    year: 1968
+    format: film
+    poster_url: "/static/images/films/young-guy-in-rio-1968/posters/poster.webp"
+    roles:
+      - name: Uno Ichirô
   - format: film
     poster_url: "/static/images/films/destroy-all-monsters-1968/posters/poster.webp"
     roles:

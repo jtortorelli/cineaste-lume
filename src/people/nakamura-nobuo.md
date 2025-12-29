@@ -87,6 +87,12 @@ works:
     year: 1968
     roles:
       - name: Fujikawa
+  - title: Young Guy in Rio
+    year: 1968
+    format: film
+    poster_url: /static/images/films/young-guy-in-rio-1968/posters/poster.webp
+    roles:
+      - name: Ishiyama Gôzô
   - format: film
     poster_url: "/static/images/films/submersion-of-japan-1973/posters/poster.webp"
     roles:

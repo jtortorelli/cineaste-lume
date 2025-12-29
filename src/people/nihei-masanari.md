@@ -36,6 +36,12 @@ works:
     slug: gorath-1962
     title: Gorath
     year: 1962
+  - title: Young Guy in Hawaii
+    year: 1963
+    format: film
+    poster_url: /static/images/films/young-guy-in-hawaii-1963/posters/poster.webp
+    roles:
+      - name: Eguchi Satoshi
   - format: film
     poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
     roles:

@@ -109,6 +109,12 @@ works:
     slug: frankenstein-conquers-the-world-1965
     title: Frankenstein Conquers the World
     year: 1965
+  - title: Young Guy at Sea
+    year: 1965
+    format: film
+    poster_url: /static/images/films/young-guy-at-sea-1965/posters/poster.webp
+    roles:
+      - name: Kaieda
   - format: film
     poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
     roles:

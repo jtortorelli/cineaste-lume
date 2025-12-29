@@ -45,6 +45,18 @@ works:
     slug: zatoichi-challenged-1967
     title: Zatoichi Challenged
     year: 1967
+  - title: Bravo, Young Guy
+    year: 1970
+    format: film
+    poster_url: /static/images/films/bravo-young-guy-1970/posters/poster.webp
+    roles:
+      - name: Manager Iwasaki
+  - title: Young Guy vs. Blue Guy
+    year: 1971
+    format: film
+    poster_url: /static/images/films/young-guy-vs-blue-guy-1971/posters/poster.webp
+    roles:
+      - name: Ishiyama Gôzô
   - format: film
     poster_url: /static/images/films/magnitude-7-9-1980/posters/poster.webp
     roles:

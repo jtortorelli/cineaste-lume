@@ -9,11 +9,22 @@ name: Maeda Beverly
 profession: Actress
 type: person
 works:
+  - title: Let's Go, Young Guy!
+    year: 1967
+    format: film
+    poster_url: /static/images/films/lets-go-young-guy-1967/posters/poster.webp
+    roles:
+      - name: Etsuko
+  - title: Judo Champion
+    year: 1967
+    format: film
+    poster_url: /static/images/films/judo-champion-1967/posters/poster.webp
+    roles:
+      - name: Arita Yumiko
   - format: film
     poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
     roles:
       - name: Saeko
-        uncredited: false
     slug: son-of-godzilla-1967
     title: Son of Godzilla
     year: 1967

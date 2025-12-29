@@ -11,6 +11,12 @@ name: Kurosawa Toshio
 profession: Actor
 type: person
 works:
+  - title: Campus A-Go-Go
+    year: 1965
+    format: film
+    poster_url: /static/images/films/campus-a-go-go-1965/posters/poster.webp
+    roles:
+      - name: Izawa
   - format: film
     poster_url: "/static/images/films/hit-and-run-1966/posters/poster.webp"
     roles:

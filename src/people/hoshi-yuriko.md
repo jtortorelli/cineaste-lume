@@ -21,6 +21,12 @@ works:
     slug: daredevil-in-the-castle-1961
     title: Daredevil in the Castle
     year: 1961
+  - title: Sir Galahad in Campus
+    year: 1961
+    format: film
+    poster_url: /static/images/films/sir-galahad-in-campus-1961/posters/poster.webp
+    roles:
+      - name: Nakazato Sumiko
   - format: film
     poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
@@ -29,11 +35,28 @@ works:
     slug: last-war-1961
     title: The Last War
     year: 1961
+  - title: Pride of the Campus
+    year: 1962
+    format: film
+    poster_url: /static/images/films/pride-of-the-campus-1962/posters/poster.webp
+    roles:
+      - name: Nakazato Sumiko
+  - title: Japan's Number One Young Guy
+    year: 1962
+    format: film
+    poster_url: /static/images/films/japans-number-one-young-guy-1962/posters/poster.webp
+    roles:
+      - name: Nakazato Sumiko
+  - title: Young Guy in Hawaii
+    year: 1963
+    format: film
+    poster_url: /static/images/films/young-guy-in-hawaii-1963/posters/poster.webp
+    roles:
+      - name: Nakazato Sumiko
   - format: film
     poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
     roles:
       - name: Kozato
-        uncredited: false
     slug: whirlwind-1964
     title: Whirlwind
     year: 1964
@@ -53,6 +76,48 @@ works:
     slug: ghidorah-the-three-headed-monster-1964
     title: Ghidorah, the Three-Headed Monster
     year: 1964
+  - title: Young Guy at Sea
+    year: 1965
+    format: film
+    poster_url: /static/images/films/young-guy-at-sea-1965/posters/poster.webp
+    roles:
+      - name: Ashiya Sumiko
+  - title: Campus A-Go-Go
+    year: 1965
+    format: film
+    poster_url: /static/images/films/campus-a-go-go-1965/posters/poster.webp
+    roles:
+      - name: Hoshiyama Sumiko
+  - title: It Started in the Alps
+    year: 1966
+    format: film
+    poster_url: /static/images/films/it-started-in-the-alps-1966/posters/poster.webp
+    roles:
+      - name: Kishi Sumiko
+  - title: Let's Go, Young Guy!
+    year: 1967
+    format: film
+    poster_url: /static/images/films/lets-go-young-guy-1967/posters/poster.webp
+    roles:
+      - name: Nishina Sumiko
+  - title: Judo Champion
+    year: 1967
+    format: film
+    poster_url: /static/images/films/judo-champion-1967/posters/poster.webp
+    roles:
+      - name: Nishina Sumiko
+  - title: Go! Go! Young Guy
+    year: 1967
+    format: film
+    poster_url: /static/images/films/go-go-young-guy-1967/posters/poster.webp
+    roles:
+      - name: Koshikawa Sumiko
+  - title: Young Guy in Rio
+    year: 1968
+    format: film
+    poster_url: /static/images/films/young-guy-in-rio-1968/posters/poster.webp
+    roles:
+      - name: Koshikawa Sumiko
   - format: film
     poster_url: /static/images/films/godzilla-vs-megaguirus-2000/posters/poster.webp
     roles:

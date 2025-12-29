@@ -80,6 +80,12 @@ works:
     slug: three-outlaw-samurai-1964
     title: Three Outlaw Samurai
     year: 1964
+  - title: Young Guy at Sea
+    year: 1965
+    format: film
+    poster_url: /static/images/films/young-guy-at-sea-1965/posters/poster.webp
+    roles:
+      - name: Sahei
   - format: film
     title: President's Success Story
     year: 1968

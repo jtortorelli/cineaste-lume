@@ -59,6 +59,12 @@ works:
     slug: gorath-1962
     title: Gorath
     year: 1962
+  - title: Young Guy at Sea
+    year: 1965
+    format: film
+    poster_url: /static/images/films/young-guy-at-sea-1965/posters/poster.webp
+    roles:
+      - name: Professor Takeda
   - format: film
     poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
     roles:

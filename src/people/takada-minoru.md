@@ -54,6 +54,12 @@ works:
     slug: ghidorah-the-three-headed-monster-1964
     title: Ghidorah, the Three-Headed Monster
     year: 1964
+  - title: Campus A-Go-Go
+    year: 1965
+    format: film
+    poster_url: /static/images/films/campus-a-go-go-1965/posters/poster.webp
+    roles:
+      - name: Ishiyama Gôtarô
   - format: film
     poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
     roles:

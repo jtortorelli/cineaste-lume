@@ -39,9 +39,21 @@ works:
     slug: human-vapor-1960
     title: The Human Vapor
     year: 1960
+  - title: Pride of the Campus
+    year: 1962
+    format: film
+    poster_url: "/static/images/films/pride-of-the-campus-1962/posters/poster.webp"
+    roles:
+      - name: Ishiwaki Kyôju
+  - title: Young Guy in Hawaii
+    year: 1963
+    format: film
+    poster_url: "/static/images/films/young-guy-in-hawaii-1963/posters/poster.webp"
+    roles:
+      - name: Furuya
   - format: film
     poster_url: "/static/images/films/presidents-whos-who-part-ii-1964/posters/poster.webp"
-    title: 'President''s Who''s Who: Part II'
+    title: "President's Who's Who: Part II"
     year: 1964
     roles:
       - name: Kuroda
@@ -61,13 +73,32 @@ works:
     slug: gamera-the-giant-monster-1965
     title: Gamera, the Giant Monster
     year: 1965
+  - title: Judo Champion
+    year: 1967
+    format: film
+    poster_url: "/static/images/films/judo-champion-1967/posters/poster.webp"
+    roles:
+      - name: Arida Hideo
+  - title: Young Guy in Rio
+    year: 1968
+    format: film
+    poster_url: "/static/images/films/young-guy-in-rio-1968/posters/poster.webp"
+    roles:
+      - name: Uno
   - format: film
     poster_url: "/static/images/films/presidents-abc-part-ii-1970/posters/poster.webp"
-    title: 'President’s ABC: Part II'
+    title: "President’s ABC: Part II"
     year: 1970
     roles:
       - name: Kuma Chairman
+  - title: This is My Sky! Young Guy
+    year: 1970
+    format: film
+    poster_url: "/static/images/films/this-is-my-sky-young-guy-1970/posters/poster.webp"
+    roles:
+      - name: Old Man
 ---
+
 Descended from a long line of village priests in Saitama.
 
 Supported himself through high school by working as a milk delivery boy,

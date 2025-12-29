@@ -113,6 +113,12 @@ works:
     poster_url: "/static/images/films/presidents-travels-part-ii-1961/posters/poster.webp"
     staff:
       - role: Producer
+  - title: Sir Galahad in Campus
+    year: 1961
+    format: film
+    poster_url: "/static/images/films/sir-galahad-in-campus-1961/posters/poster.webp"
+    staff:
+      - role: Producer
   - format: film
     poster_url: "/static/images/films/last-war-1961/posters/poster.webp"
     slug: last-war-1961
@@ -144,6 +150,18 @@ works:
     format: film
     staff:
       - role: Producer
+  - title: Pride of the Campus
+    year: 1962
+    format: film
+    poster_url: "/static/images/films/pride-of-the-campus-1962/posters/poster.webp"
+    staff:
+      - role: Producer
+  - title: Japan's Number One Young Guy
+    year: 1962
+    format: film
+    poster_url: /static/images/films/japans-number-one-young-guy-1962/posters/poster.webp
+    staff:
+      - role: Producer
   - title: President’s Journey
     poster_url: "/static/images/films/presidents-journey-1963/posters/poster.webp"
     year: 1963
@@ -166,6 +184,12 @@ works:
     poster_url: "/static/images/films/presidents-trip-abroad-part-ii-1963/posters/poster.webp"
     year: 1963
     format: film
+    staff:
+      - role: Producer
+  - title: Young Guy in Hawaii
+    year: 1963
+    format: film
+    poster_url: "/static/images/films/young-guy-in-hawaii-1963/posters/poster.webp"
     staff:
       - role: Producer
   - title: President’s Who’s Who
@@ -192,6 +216,18 @@ works:
     format: film
     staff:
       - role: Producer
+  - title: Young Guy at Sea
+    year: 1965
+    format: film
+    poster_url: "/static/images/films/young-guy-at-sea-1965/posters/poster.webp"
+    staff:
+      - role: Producer
+  - title: Campus A-Go-Go
+    year: 1965
+    format: film
+    poster_url: "/static/images/films/campus-a-go-go-1965/posters/poster.webp"
+    staff:
+      - role: Producer
   - title: President’s Record
     poster_url: "/static/images/films/presidents-record-1966/posters/poster.webp"
     year: 1966
@@ -210,6 +246,24 @@ works:
       - role: Producer
     title: The Sword of Doom
     year: 1966
+  - title: It Started in the Alps
+    year: 1966
+    format: film
+    poster_url: "/static/images/films/it-started-in-the-alps-1966/posters/poster.webp"
+    staff:
+      - role: Producer
+  - title: Singing Young Guy
+    year: 1966
+    format: film
+    poster_url: "/static/images/films/singing-young-guy-1966/posters/poster.webp"
+    staff:
+      - role: Producer
+  - title: Let's Go, Young Guy!
+    year: 1967
+    format: film
+    poster_url: "/static/images/films/lets-go-young-guy-1967/posters/poster.webp"
+    staff:
+      - role: Producer
   - title: President’s Thousand and One Nights
     poster_url: "/static/images/films/presidents-thousand-and-one-nights-1967/posters/poster.webp"
     year: 1967
@@ -222,12 +276,24 @@ works:
     format: film
     staff:
       - role: Producer
+  - title: Judo Champion
+    year: 1967
+    format: film
+    poster_url: "/static/images/films/judo-champion-1967/posters/poster.webp"
+    staff:
+      - role: Producer
   - format: film
     poster_url: "/static/images/films/japans-longest-day-1967/posters/poster.webp"
     staff:
       - role: Producer
     title: Japan's Longest Day
     year: 1967
+  - title: Go! Go! Young Guy
+    year: 1967
+    format: film
+    poster_url: "/static/images/films/go-go-young-guy-1967/posters/poster.webp"
+    staff:
+      - role: Producer
   - title: President’s Success Story
     poster_url: "/static/images/films/presidents-success-story-1968/posters/poster.webp"
     year: 1968
@@ -238,6 +304,18 @@ works:
     poster_url: "/static/images/films/presidents-success-story-part-ii-1968/posters/poster.webp"
     year: 1968
     format: film
+    staff:
+      - role: Producer
+  - title: Young Guy in Rio
+    year: 1968
+    format: film
+    poster_url: "/static/images/films/young-guy-in-rio-1968/posters/poster.webp"
+    staff:
+      - role: Producer
+  - title: Freshman Young Guy
+    year: 1969
+    format: film
+    poster_url: "/static/images/films/freshman-young-guy-1969/posters/poster.webp"
     staff:
       - role: Producer
   - title: President’s Grade Book
@@ -252,6 +330,18 @@ works:
     poster_url: "/static/images/films/presidents-grade-book-part-ii-1969/posters/poster.webp"
     staff:
       - role: Producer
+  - title: Young Guy in New Zealand
+    year: 1969
+    format: film
+    poster_url: "/static/images/films/young-guy-in-new-zealand-1969/posters/poster.webp"
+    staff:
+      - role: Producer
+  - title: Bravo, Young Guy
+    year: 1970
+    format: film
+    poster_url: "/static/images/films/bravo-young-guy-1970/posters/poster.webp"
+    staff:
+      - role: Producer
   - title: President’s ABC
     year: 1970
     format: film
@@ -262,6 +352,18 @@ works:
     poster_url: "/static/images/films/presidents-abc-part-ii-1970/posters/poster.webp"
     year: 1970
     format: film
+    staff:
+      - role: Producer
+  - title: This is My Sky! Young Guy
+    year: 1970
+    format: film
+    poster_url: "/static/images/films/this-is-my-sky-young-guy-1970/posters/poster.webp"
+    staff:
+      - role: Producer
+  - title: Young Guy vs. Blue Guy
+    year: 1971
+    format: film
+    poster_url: "/static/images/films/young-guy-vs-blue-guy-1971/posters/poster.webp"
     staff:
       - role: Producer
 ---

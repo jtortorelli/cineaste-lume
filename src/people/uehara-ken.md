@@ -34,6 +34,12 @@ works:
         uncredited: false
     title: "Secret Savings President: Part II"
     year: 1956
+  - title: Sir Galahad in Campus
+    year: 1961
+    format: film
+    poster_url: /static/images/films/sir-galahad-in-campus-1961/posters/poster.webp
+    roles:
+      - name: President Nomura
   - format: film
     poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
@@ -50,6 +56,12 @@ works:
     slug: last-war-1961
     title: The Last War
     year: 1961
+  - title: Pride of the Campus
+    year: 1962
+    format: film
+    poster_url: /static/images/films/pride-of-the-campus-1962/posters/poster.webp
+    roles:
+      - name: Shimakawa Kingorô
   - format: film
     poster_url: /static/images/films/gorath-1962/posters/poster.webp
     roles:
@@ -58,6 +70,18 @@ works:
     slug: gorath-1962
     title: Gorath
     year: 1962
+  - title: Japan's Number One Young Guy
+    year: 1962
+    format: film
+    poster_url: /static/images/films/japans-number-one-young-guy-1962/posters/poster.webp
+    roles:
+      - name: Director Ishiyama
+  - title: Young Guy in Hawaii
+    year: 1963
+    format: film
+    poster_url: /static/images/films/young-guy-in-hawaii-1963/posters/poster.webp
+    roles:
+      - name: Ueda
   - format: film
     poster_url: /static/images/films/atragon-1963/posters/poster.webp
     roles:
@@ -66,4 +90,10 @@ works:
     slug: atragon-1963
     title: Atragon
     year: 1963
+  - title: Campus A-Go-Go
+    year: 1965
+    format: film
+    poster_url: /static/images/films/campus-a-go-go-1965/posters/poster.webp
+    roles:
+      - name: Matsubara
 ---

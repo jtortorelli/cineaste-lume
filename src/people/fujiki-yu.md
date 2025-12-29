@@ -101,6 +101,12 @@ works:
     slug: mothra-vs-godzilla-1964
     title: Mothra vs. Godzilla
     year: 1964
+  - title: Young Guy in Rio
+    year: 1968
+    format: film
+    poster_url: /static/images/films/young-guy-in-rio-1968/posters/poster.webp
+    roles:
+      - name: Director Takemura
   - format: film
     poster_url: "/static/images/films/space-amoeba-1970/posters/poster.webp"
     roles:
@@ -109,6 +115,18 @@ works:
     slug: space-amoeba-1970
     title: Space Amoeba
     year: 1970
+  - title: This is My Sky! Young Guy
+    year: 1970
+    format: film
+    poster_url: /static/images/films/this-is-my-sky-young-guy-1970/posters/poster.webp
+    roles:
+      - name: Tachibana
+  - title: Return of the Champ
+    year: 1981
+    format: film
+    poster_url: /static/images/films/return-of-the-champ-1981/posters/poster.webp
+    roles:
+      - name: Okiyama
   - format: film
     poster_url: "/static/images/films/year-one-in-the-north-2005/posters/poster.webp"
     roles:

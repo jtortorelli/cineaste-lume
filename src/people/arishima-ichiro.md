@@ -1,7 +1,7 @@
 ---
 tags:
-- cineaste
-- people
+  - cineaste
+  - people
 avatar_url: "/static/images/people/arishima-ichiro/avatar.webp"
 birth_name: Ôshima Tadao
 birth_place: Nagoya, Aiichi, Japan
@@ -41,24 +41,30 @@ works:
     slug: three-treasures-1959
     title: The Three Treasures
     year: 1959
-  - format: film
+  - title: Sir Galahad in Campus
+    year: 1961
+    format: film
+    poster_url: "/static/images/films/sir-galahad-in-campus-1961/posters/poster.webp"
     roles:
       - name: Tanuma Kyûtarô
-    title: Sir Galahad in Campus
-    poster_url: "/static/images/films/sir-galahad-in-campus-1961/posters/poster.webp"
-    year: 1961
-  - format: film
-    title: Shimizu Port Salaryman
-    poster_url: "/static/images/films/shimizu-port-salaryman-1962/posters/poster.webp"
+  - title: Shimizu Port Salaryman
     year: 1962
+    format: film
+    poster_url: "/static/images/films/shimizu-port-salaryman-1962/posters/poster.webp"
     roles:
       - name: Miyakoda Kichibei
-  - format: film
+  - title: Pride of the Campus
+    year: 1962
+    format: film
+    poster_url: "/static/images/films/pride-of-the-campus-1962/posters/poster.webp"
     roles:
       - name: Tanuma Kyûtarô
-    title: Japan's No. 1 Young Guy
-    poster_url: "/static/images/films/japans-no-1-young-guy-1962/posters/poster.webp"
+  - title: Japan's Number One Young Guy
     year: 1962
+    format: film
+    poster_url: "/static/images/films/japans-number-one-young-guy-1962/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
   - format: film
     poster_url: "/static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp"
     roles:
@@ -66,12 +72,12 @@ works:
     slug: king-kong-vs-godzilla-1962
     title: King Kong vs. Godzilla
     year: 1962
-  - format: film
-    poster_url: "/static/images/films/operation-crazy-hong-kong-1963/posters/poster.webp"
-    roles:
-      - name: Section Chief Nakamura
-    title: Operation Crazy Hong Kong
+  - title: Young Guy in Hawaii
     year: 1963
+    format: film
+    poster_url: "/static/images/films/young-guy-in-hawaii-1963/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
   - format: film
     poster_url: "/static/images/films/lost-world-of-sinbad-1963/posters/poster.webp"
     roles:
@@ -80,17 +86,96 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
+    poster_url: "/static/images/films/operation-crazy-hong-kong-1963/posters/poster.webp"
+    roles:
+      - name: Section Chief Nakamura
+    title: Operation Crazy Hong Kong
+    year: 1963
+  - title: Young Guy at Sea
+    year: 1965
+    format: film
+    poster_url: "/static/images/films/young-guy-at-sea-1965/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
+  - title: Campus A-Go-Go
+    year: 1965
+    format: film
+    poster_url: "/static/images/films/campus-a-go-go-1965/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
+  - format: film
     poster_url: "/static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp"
     roles:
       - name: The Wizard Hermit
     slug: adventure-of-kigan-castle-1966
     title: The Adventure of Kigan Castle
     year: 1966
+  - title: It Started in the Alps
+    year: 1966
+    format: film
+    poster_url: "/static/images/films/it-started-in-the-alps-1966/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
+  - title: Let's Go, Young Guy!
+    year: 1967
+    format: film
+    poster_url: "/static/images/films/lets-go-young-guy-1967/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
+  - title: Judo Champion
+    year: 1967
+    format: film
+    poster_url: "/static/images/films/judo-champion-1967/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
+  - title: Go! Go! Young Guy
+    year: 1967
+    format: film
+    poster_url: "/static/images/films/go-go-young-guy-1967/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
+  - title: Young Guy in Rio
+    year: 1968
+    format: film
+    poster_url: "/static/images/films/young-guy-in-rio-1968/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
+  - title: Freshman Young Guy
+    year: 1969
+    format: film
+    poster_url: "/static/images/films/freshman-young-guy-1969/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
+  - title: Young Guy in New Zealand
+    year: 1969
+    format: film
+    poster_url: "/static/images/films/young-guy-in-new-zealand-1969/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
+  - title: Bravo, Young Guy
+    year: 1970
+    format: film
+    poster_url: "/static/images/films/bravo-young-guy-1970/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
+  - title: This is My Sky! Young Guy
+    year: 1970
+    format: film
+    poster_url: "/static/images/films/this-is-my-sky-young-guy-1970/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
+  - title: Return of the Champ
+    year: 1981
+    format: film
+    poster_url: "/static/images/films/return-of-the-champ-1981/posters/poster.webp"
+    roles:
+      - name: Tanuma Kyûtarô
 ---
-Arishima Ichirô apprenticed under comedic actor Tamura Kunio in 1933. He toured with various comedy troupes during World War II before shooting to fame with a breakout performance on NHK Radio's *Sunday Entertainment Board* (*Nichiyô Gorakuban*).
 
-He made his film debut in 1947 and joined Toho in 1955, where he became a household name. Often referred to as "The Japanese Chaplin," Arishima starred in several long-running comedy series, including the *Company President* (*Shachô*) series and the *Young Guy* (*Wakadaishô*) series.
+Arishima Ichirô apprenticed under comedic actor Tamura Kunio in 1933. He toured with various comedy troupes during World War II before shooting to fame with a breakout performance on NHK Radio's _Sunday Entertainment Board_ (_Nichiyô Gorakuban_).
 
-Internationally, he is best known for his role as the frantic publicity director Mr. Tako in *King Kong vs. Godzilla* (1962).
+He made his film debut in 1947 and joined Toho in 1955, where he became a household name. Often referred to as "The Japanese Chaplin," Arishima starred in several long-running comedy series, including the _Company President_ (_Shachô_) series and the _Young Guy_ (_Wakadaishô_) series.
+
+Internationally, he is best known for his role as the frantic publicity director Mr. Tako in _King Kong vs. Godzilla_ (1962).
 
 Arishima became a free agent after his Toho contract expired in 1972. He continued appearing in television and theater until declining health forced him to withdraw.

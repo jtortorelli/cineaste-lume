@@ -48,10 +48,10 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/japans-no-1-young-guy-1962/posters/poster.webp
+    poster_url: /static/images/films/japans-number-one-young-guy-1962/posters/poster.webp
     staff:
       - role: Director
-    title: "Japan's No. 1 Young Guy"
+    title: "Japan's Number One Young Guy"
     year: 1962
   - format: film
     poster_url: /static/images/films/young-guy-in-hawaii-1963/posters/poster.webp

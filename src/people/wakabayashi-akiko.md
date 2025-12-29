@@ -49,4 +49,10 @@ works:
     slug: adventure-of-kigan-castle-1966
     title: The Adventure of Kigan Castle
     year: 1966
+  - title: It Started in the Alps
+    year: 1966
+    format: film
+    poster_url: /static/images/films/it-started-in-the-alps-1966/posters/poster.webp
+    roles:
+      - name: Shimizu Tomoko
 ---

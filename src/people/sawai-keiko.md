@@ -19,6 +19,12 @@ works:
     slug: frankenstein-conquers-the-world-1965
     title: Frankenstein Conquers the World
     year: 1965
+  - title: Young Guy at Sea
+    year: 1965
+    format: film
+    poster_url: /static/images/films/young-guy-at-sea-1965/posters/poster.webp
+    roles:
+      - name: Sakai Masae
   - format: film
     poster_url: "/static/images/films/invasion-of-astro-monster-1965/posters/poster.webp"
     roles:

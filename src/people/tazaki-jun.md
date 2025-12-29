@@ -149,4 +149,10 @@ works:
     slug: destroy-all-monsters-1968
     title: Destroy All Monsters
     year: 1968
+  - title: Return of the Champ
+    year: 1981
+    format: film
+    poster_url: /static/images/films/return-of-the-champ-1981/posters/poster.webp
+    roles:
+      - name: Okiyama
 ---

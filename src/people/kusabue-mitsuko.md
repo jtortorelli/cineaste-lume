@@ -113,6 +113,12 @@ works:
     year: 1967
     roles:
       - name: Wakayo
+  - title: Freshman Young Guy
+    year: 1969
+    format: film
+    poster_url: /static/images/films/freshman-young-guy-1969/posters/poster.webp
+    roles:
+      - name: Megumi
   - format: film
     poster_url: "/static/images/films/presidents-grade-book-1969/posters/poster.webp"
     title: President’s Grade Book
