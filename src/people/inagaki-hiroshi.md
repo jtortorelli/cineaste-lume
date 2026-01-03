@@ -4,7 +4,7 @@ aliases:
   - category: alias
     context:
     japanese_name: 梶原金八
-    name: Kahijara Kinpachi
+    name: Kajihara Kinpachi
   - category: alias
     context:
     japanese_name: 東明浩
@@ -47,6 +47,12 @@ works:
       - role: Screenplay
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
+  - title: Rickshaw Man
+    year: 1958
+    format: film
+    poster_url: /static/images/films/rickshaw-man-1958/posters/poster.webp
+    staff:
+      - role: Director
   - format: film
     poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
     slug: three-treasures-1959
@@ -78,17 +84,10 @@ works:
     year: 1964
 ---
 
-Began touring with his father's acting company after age 8 when his mother died.
+Born into a theatrical family, Inagaki appeared on stage from age 8 before joining Nikkatsu as an actor in 1922. However, his true passion lay in directing, a career he embarked on in 1928. He became a pillar of the _jidaigeki_ (period drama) genre, known for blending large-scale spectacle with intimate human drama and child-like wonder.
 
-Joined Nikkatsu at age 17, became a third assistant director at age 21.
+While he frequently collaborated with star Kataoka Chiezô in the pre-war era, he is best known globally for his partnership with Mifune Toshirô. He directed Mifune in over 20 films—more than any other director, including Kurosawa Akira. Their most famous collaboration is the _Samurai Trilogy_ (_Musashi Miyamoto_), epic color films released between 1954 and 1956. The first entry won the Academy Award for Best Foreign Language Film.
 
-Collaborated frequently with actor Kataoka Chiezo in the 20s, 30s and 40s. He
-also directed several features for Kataoka's production company during the same
-time.
+Inagaki's career reached another peak with _Rickshaw Man_ (1958), a remake of his own earlier silent film, which won the Golden Lion at the Venice Film Festival. He also helmed the 1000th film produced by Toho, the mythological epic _The Three Treasures_ (1959).
 
-Filmed a trilogy of <i>Musashi Miyamoto</i> films in the 40s with Kataoka. The
-films are considered lost now, and have since been superseded by Inagaki's
-second trilogy on the same subject starring Mifune Toshirô.
-
-Directed <i>The Three Treasures</i> (1959) to commemorate Toho's 1000th feature
-film.
+He crafted a previous, now lost, trilogy of _Musashi Miyamoto_ films in the 1940s starring Kataoka, which laid the groundwork for his later, more famous adaptation.

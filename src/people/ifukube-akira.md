@@ -12,7 +12,22 @@ japanese_name: 伊福部昭
 name: Ifukube Akira
 profession: Composer
 type: person
+accolades:
+  - category: Best Music
+    ceremony: 16th Japan Academy Prizes
+    status: nominated
+    films:
+      - title: Godzilla vs. Mothra
+  - category: Chairman's Special Award
+    ceremony: 30th Japan Academy Prizes
+    status: won
 works:
+  - title: The Quiet Duel
+    year: 1949
+    format: film
+    poster_url: /static/images/films/quiet-duel-1949/posters/poster.webp
+    staff:
+      - role: Music
   - format: film
     poster_url: /static/images/films/godzilla-1954/posters/poster.webp
     slug: godzilla-1954
@@ -295,34 +310,12 @@ works:
     year: 1995
 ---
 
-Born in Hokkaido and raised in community with the native Ainu populace. Ainu
-music later influenced his own composing style.
+Born in Kushiro, Hokkaido, Ifukube was deeply influenced by his childhood in a mixed Japanese and Ainu community. He grew up listening to traditional Ainu music, the improvisational nature and raw rhythmic power of which would become hallmarks of his own distinct classical style.
 
-Obeyed his father's urging to study forestry, but continued to teach himself
-music in his spare time.
+Though he studied forestry at Hokkaido Imperial University at his father's urging, he taught himself to compose in his spare time. At age 21, his piece _Japanese Rhapsody_ won first prize in a competition organized by Russian composer Alexander Tcherepnin, with whom he briefly studied.
 
-At age 21, his work <i>Japanese Rhapsody</i> won an international young
-composers' contest promoted by Russian composer Alexander Tcherepnin. Ifukube
-received formal musical education from Tcherepnin in 1936.
+During WWII, he was drafted to test the elasticity of wood for aircraft construction using X-rays. He suffered severe radiation poisoning as a result, a bitter irony considering his most famous work, _Godzilla_ (1954), deals with the horror of radiation. He famously created Godzilla's iconic roar by rubbing a resin-coated leather glove over the loosened strings of a double bass.
 
-Drafted into the army and assigned to study the structure of wooden fighter
-planes flown by the Allied forces. His work involved constant exposure to x-rays
-and fell ill from overexposure in 1945. He listened to the Japanese surrender on
-the radio from his sickbed.
+After the war, he turned to film scoring to support himself. While he clashed with director Kurosawa Akira (scoring only _The Quiet Duel_ for him), he formed a legendary creative partnership with director Honda Ishirô and special effects master Tsuburaya Eiji. His menacing brass themes and driving military marches defined the sound of Toho's Golden Age of sci-fi.
 
-After leaving the army he was encouraged by Hayasaka Fumio to pursue film music
-to make a living. He had severe arguments with director Kurosawa Akira and
-Taniguchi Senkichi, but also befriended the blacklisted Tsuburaya Eiji.
-Tsuburaya and Ifukube were reunited on the set of <i>Godzilla</i> (1954), the
-first of many <i>kaiju eiga</i> scored by Ifukube.
-
-Credited with inventing Godzilla's iconic roar.
-
-First retired from film music after <i>Terror of Mechagodzilla</i> (1975).
-During the 80s he revised several of his pre-war concert works to incorporate
-themes from his film works, and wrote a new work, <i>Symphonic Fantasia</i>, to
-celebrate his science fiction and fantasy scores.
-
-He disapproved of the pop arrangement of his music in <i>Godzilla vs.
-Biollante</i> (1989) and came out of retirement to score four more Godzilla
-films in the 90s, retiring again after <i>Godzilla vs. Destoroyah</i> (1995).
+He retired from film scoring after _Terror of Mechagodzilla_ (1975) to focus on concert works and teaching (becoming president of the Tokyo College of Music). However, dissatisfied with the pop-oriented direction of the music in _Godzilla vs. Biollante_ (1989), he returned to the franchise to score four final films in the 1990s, concluding his career with _Godzilla vs. Destoroyah_ (1995).

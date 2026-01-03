@@ -125,32 +125,12 @@ works:
     year: 1987
 ---
 
-Born the 5th of 8 brothers.
+Born the 5th of 8 brothers in Fukuoka. He was drafted into the navy in 1944 but lost his left foot after being struck by enemy aircraft fire later that year. He was released from the hospital in 1945 after the war's end, and despite his disability, he studied relentlessly to pass the entrance exam for Nihon University College of Art, where he studied drafting.
 
-Recruited into the navy in 1944. Later that year he lost his foot when he was
-struck by enemy aircraft fire. Released from army hospital in 1945 after the war
-concluded.
+He found work on the Toho lot designing set pieces, particularly detailed miniatures of navy ships for war films. His skill led to a rapid rise in the studio hierarchy, and he became the head Special Effects Art Director under Tsuburaya Eiji in the 1960s. He was responsible for the design of several unique _kaiju_, including Kamacuras, Kumonga, Ebirah, and Hedorah, as well as the sleek _Super-X_ flying tank from _The Return of Godzilla_ (1984).
 
-Studied relentlessly to pass entrance exam for university. Admitted to Nihon
-University College of Art and studied drafting.
+During the production of _Storm Over the Pacific_ (1960), Inoue conceived of the legendary "Great Pool" (or "Big Pool") to accommodate a 1/50th scale set of Pearl Harbor. Working with director Matsubayashi Shûe, they scaled the set down further to 1/66th to fit the space. This massive water tank became a staple of _kaiju eiga_ for decades, hosting countless water battles until it was finally dismantled after _Godzilla: Final Wars_ (2004).
 
-Found work on the Toho lot designing set pieces, particularly models of navy
-ships for war films.
+Another famous example of his ingenuity came during _Destroy All Monsters_ (1968), where he dug a hole through the studio floor to allow the large-scale model of the SY-3 rocket to realistically "emerge" from its underground silo on the moon set.
 
-Rose to the post of Special Effects Art Director under Tsuburaya Eiji in the
-60s. Responsible for the design of several monsters in the <i>Godzilla</i>
-series, including Kamacuras, Kumonga, Ebirah, and Hedorah.
-
-Conceived of the "big pool" set during production of <i>Storm Over the
-Pacific</i> (1960) to accommodate a 1/50th scale set of Pearl Harbor. Rather
-than purchase the additional property required to reach the desired scale, Inoue
-and director Matsubayashi Shûe scaled it down further to 1/66th. The big pool
-would be used extensively in <i>kaiju eiga</i> until after <i>Godzilla: Final
-Wars</i> (2004) when it was dismantled.
-
-Famously dug a hole through the studio floor to make room for the large scale
-<i>SY-3</i> rocket to disappear into the moon set in <i>Destroy All Monsters</i>
-(1968).
-
-Inoue was the primary subject of the documentary <i>Bringing Godzilla Down to
-Size</i> (2008).
+After leaving Toho in 1971, he founded his own company, Alpha Planning, continuing to work on high-profile special effects productions. He was the primary subject of the documentary _Bringing Godzilla Down to Size_ (2008).

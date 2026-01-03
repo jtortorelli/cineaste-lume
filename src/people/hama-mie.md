@@ -45,6 +45,12 @@ works:
     slug: lost-world-of-sinbad-1963
     title: The Lost World of Sinbad
     year: 1963
+  - title: Key of Keys
+    year: 1965
+    format: film
+    poster_url: "/static/images/films/key-of-keys-1965/posters/poster.webp"
+    roles:
+      - name: Mi Chen
   - format: film
     poster_url: "/static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp"
     roles:
@@ -70,7 +76,7 @@ works:
 ---
 Hama Mie was a prominent Toho actress during the 1960s, known for her comedic timing and international appeal. She was discovered by producer Tanaka Tomoyuki while working as a bus fare conductor and joined the studio in 1959.
 
-She quickly became a popular leading lady, often starring in comedies alongside the Crazy Cats, such as *Irresponsible Yukyoden* and *Monsieur Zivaco*. She also appeared in the spy comedy *Kokusai Himitsu Keisatsu: Kagi no Kagi* (1965), which was later re-edited by Woody Allen into *What's Up, Tiger Lily?*.
+She quickly became a popular leading lady, often starring in comedies alongside the Crazy Cats, such as *Irresponsible Yukyoden* and *Monsieur Zivaco*. She also appeared in the spy comedy *Key of Keys* (1965), which was later re-edited by Woody Allen into *What's Up, Tiger Lily?*.
 
 Hama achieved international fame as the Bond girl Kissy Suzuki in *You Only Live Twice* (1967). Originally cast as the character Aki, she switched roles with co-star Wakabayashi Akiko due to difficulties with English dialogue. Despite the language barrier, her performance cemented her status as a global icon.
 

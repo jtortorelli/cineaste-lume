@@ -139,16 +139,10 @@ works:
     year: 1968
 ---
 
-Graduated from Hosei University in 1947. Managed an electronics store before
-joining Toei as an actor in 1954.
+A graduate of Hosei University, Itô Hisaya initially managed an electronics store before launching his acting career with Toei in 1954. He transferred to Toho in 1957, making his studio debut in _The Mysterians_.
 
-Moved to Toho in 1957 and debuted in <i>The Mysterians</i>.
+Over the next decade, he became a fixture in Toho's science fiction and war films. His clean-cut yet intense features allowed him to play both authoritative figures—like the kidnapped scientist in _Atragon_ (1963) and Major Tada in _Destroy All Monsters_ (1968)—and cold-blooded villains.
 
-Frequently cast as scientists, policemen, or soldiers in the <i>kaiju eiga</i>
-genre.
+His most iconic role is Malmess, the assassination squad leader in _Ghidorah, the Three-Headed Monster_ (1964). Interestingly, the part was originally written for Tsuchiya Yoshio, but Itô made the sunglasses-wearing villain distinctly his own.
 
-Retired from film after Toho released him from contract in 1970 and moved to
-television.
-
-Most well known as Malmess the Assassin in <i>Ghidorah, the Three-Headed
-Monster</i> (1964), a part originally written for actor Tsuchiya Yoshio.
+After Toho's contract actor system was dismantled in 1970, he largely retired from film to focus on television work before eventually leaving the industry entirely. He passed away in 2005.

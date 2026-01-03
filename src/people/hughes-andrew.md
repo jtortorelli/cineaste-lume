@@ -84,9 +84,8 @@ works:
     year: 1984
 ---
 
-Turkish-born business man living and working in Japan during the 60s and 70s.
+A Turkish-born business executive who lived in Tokyo, Hughes became a familiar face in Japanese cinema as the go-to actor for distinguished Westerners. Despite not being fluent in Japanese, he appeared in numerous films for Toho, usually dubbed by voice actors.
 
-Served as an intermediary between the Japanese and Caucasian cast and crew
-members on <i>The Last War</i> (1961), despite not being fluent in Japanese.
+Unlike many other foreign extras of the time who were often cast in minor background roles, Hughes frequently landed significant supporting parts. He was often typecast as high-ranking officials, scientists, or international diplomats given his dignified appearance. His roles included the Australian Prime Minister in _Submersion of Japan_ (1973), Dr. Stevenson in _Destroy All Monsters_ (1968), and even Adolf Hitler in the comedy _Crazy Adventure_ (1965).
 
-Often cast in dignified roles as officials or scientists.
+He also worked behind the scenes, serving as a liaison between Japanese crews and foreign talent, notably on _The Last War_ (1961). He remained active in the Japanese film industry until the mid-1980s before retiring to France.

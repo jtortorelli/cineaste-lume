@@ -3,7 +3,7 @@ tags:
   - cineaste
   - people
 avatar_url: "/static/images/people/hidari-bokuzen/avatar.webp"
-birth_name: Mikashima Ichiro
+birth_name: Mikashima Ichirô
 birth_place: Iruma, Saitama, Japan
 dob: 1894-02-20
 dob_resolution: exact
@@ -23,6 +23,12 @@ works:
     slug: seven-samurai-1954
     title: Seven Samurai
     year: 1954
+  - title: The Lower Depths
+    year: 1957
+    format: film
+    poster_url: "/static/images/films/lower-depths-1957/posters/poster.webp"
+    roles:
+      - name: Kahei
   - format: film
     poster_url: "/static/images/films/three-treasures-1959/posters/poster.webp"
     roles:
@@ -99,22 +105,12 @@ works:
       - name: Old Man
 ---
 
-Descended from a long line of village priests in Saitama.
+Eccentric character actor known for his distinctively slow, muttered delivery and blank, confused expressions. Although he often played senile or drunken old men, he was a teetotaler in real life.
 
-Supported himself through high school by working as a milk delivery boy,
-newspaper delivery boy, and construction worker.
+Born Mikashima Ichirô to a family of Shinto priests, he initially aspired to be an opera singer and dancer, training at the Imperial Theatre in 1914. However, after the disbandment of the opera division and his troupe, he pivoted to acting. A severe case of gangrene in 1935 left him with a permanent disability, contributing to the hunched posture and creeping gait that became his trademarks.
 
-Originally desired to become a dancer, but pivoted to acting when his local
-dancing troupe disbanded. He joined a theater company and toured China in 1926.
+He found fame late in life, particularly through his collaborations with Kurosawa Akira. He appeared in seven Kurosawa films, most memorably as the panicked villager Yohei in _Seven Samurai_ (1954) and as a sharp-tongued pilgrim in _The Lower Depths_ (1957). He was also a favorite of other directors for his ability to steal scenes with his "barkeep" persona—a disoriented, often inebriated figure who offers comic relief.
 
-Developed gangrene in both legs in 1935. He accepted the painful condition
-rather than amputate his legs and risk his acting career. The condition
-contributed to his hunched posture and geriatric performances in later films. He
-required crutches for normal movement.
+In a surprising late-career twist, he became the oldest person to debut on the music charts with his 1970 novelty song "Rojin to Kodomo no Polka" (The Old Man and the Children's Polka). The song, which featured him "singing" in his trademark mumble about serious social issues like student protests and traffic accidents alongside a children's choir, became a massive hit.
 
-He played a drunken old man in the first <i>Gamera</i> film in 1965, which
-featured as an episode on <i>Mystery Science Theater 3000</i> in the 90s. His
-character's impeccably delivered [dubbed] line, "It must have been one of those
-flying saucers I've heard them talk about so much about lately," became a
-recurring joke on
-<i>MST3K</i>.
+Western audiences may recognize him from his role in the first _Gamera_ film (1965), where his line about "flying saucers" became a legendary recurring joke on _Mystery Science Theater 3000_.

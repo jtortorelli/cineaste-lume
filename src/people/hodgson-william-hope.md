@@ -41,22 +41,12 @@ works:
     year: 1963
 ---
 
-Ran away from boarding school to become a sailor. His father eventually granted
-him permission to become a cabin boy. Bullying from his crewmates motivated him
-to undertake a rigorous physcial training regiment. When he returned to England
-he opened a personal training school, but failed to earn a living from it.
+Born in Essex, England, to a large family, Hodgson ran away from boarding school at age 13 to become a sailor. Though he was initially returned home, he eventually gained his father's permission to apprentice in the merchant navy. The harsh conditions and bullying he faced at sea drove him to a rigorous physical training regimen, and he became a renowned bodybuilder.
 
-He began writing by submitting articles to health publications, and then
-branched out into fiction, which was more lucrative. He drew inspiration for his
-stories from his experiences at sea, especially the "Sargasso Sea" in the
-Atlantic.
+During his years at sea, he also developed a keen interest in photography, documenting life aboard ships and natural phenomena like typhoons and sharks. He was awarded a medal by the Royal Humane Society for saving a fellow sailor in shark-infested waters.
 
-His book <i>The House on the Borderland</i> was highly regarded by H.P.
-Lovecraft, creator of the Cthulhu mythos.
+After retiring from the sea, he opened a school of physical culture, but it failed to be profitable. He turned to writing, drawing heavily on his maritime experiences to craft atmospheric horror and weird fiction. His works, including _The Boats of the "Glen Carrig"_ (1907), _The House on the Borderland_ (1908), _The Ghost Pirates_ (1909), and _The Night Land_ (1912), often featured cosmic horror themes and the terrifying unknown of the ocean. He also created the occult detective Thomas Carnacki.
 
-His short story <i>The Voice in the Night</i> was adapted into an episode of
-<i>Suspicion</i> (1958) and the Japanese film <i>Matango</i> (1963).
+Despite never achieving financial stability, his work was highly influential, notably praised by H.P. Lovecraft for its power to evoke "cosmic terror." His short story _The Voice in the Night_ has been adapted multiple times, including for the Japanese film _Matango_ (1963).
 
-Married and moved to Southern France for the lower cost of living. Returned to
-England at the outbreak of World War I and became a lieutenant in the Royal
-Artillery. Killed in battle at Ypres.
+He married in 1913 and moved to the south of France, but returned to England to enlist when World War I broke out. Despite being 40 years old and previously injured, he insisted on returning to the front lines. He was killed by an artillery shell at the Fourth Battle of Ypres in April 1918.

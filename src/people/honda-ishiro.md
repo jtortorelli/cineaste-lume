@@ -18,6 +18,12 @@ spouses:
   - name: Honda Kimi
 type: person
 works:
+  - title: The Blue Pearl
+    year: 1952
+    format: film
+    poster_url: /static/images/films/blue-pearl-1952/posters/poster.webp
+    staff:
+      - role: Director
   - format: film
     poster_url: /static/images/films/eagle-of-the-pacific-1953/posters/poster.webp
     staff:
@@ -224,38 +230,14 @@ works:
     year: 1985
 ---
 
-Member of the first graduating class of Nihon University College of Art Film
-Department in 1931.
+A foundational figure in Japanese cinema, Honda Ishirô is best known as the father of the _kaiju_ genre and the director of the original _Godzilla_ (1954). His films are characterized by a documentary-like realism, humanistic themes, and a deep-seated pacifism born from his own wartime experiences.
 
-Joined PCL in 1933 and studied under Yamamoto Kajirô, alongside Kurosawa Akira
-and Taniguchi Senkichi. Kurosawa and Honda would remain lifelong friends.
+Born in Yamagata Prefecture as the son of a Buddhist priest, he studied film at Nihon University, where he met future legendary director Kurosawa Akira. The two formed a lifelong friendship and professional bond. Honda joined PCL (later Toho) in 1933 and trained under Yamamoto Kajirô, but his career was interrupted by World War II. He was drafted three times, serving tours in China and Manchuria and spending time as a prisoner of war. On his return trip home, he passed through the atomic ruin of Hiroshima—an image that would profoundly influence his work.
 
-Served in the army in Manchuria during WWII. Passed through the ruins of
-Hiroshima on his train ride home after the war ended.
+Honda made his feature directorial debut with _The Blue Pearl_ (1952), but his legacy was cemented with _Godzilla_ (1954). While ostensibly a monster movie, Honda directed it as a somber drama about the terror of nuclear weapons, treating the creature not largely as a spectacle, but as a walking natural disaster. Alongside special effects wizard Tsuburaya Eiji, producer Tanaka Tomoyuki, and composer Ifukube Akira, he forged the template for the Japanese giant monster movie.
 
-Known for his staunch pacificism, anti-nuclear sentiments, and optimism for
-international cooperation that he expressed on screen in works like
-<i>Godzlla</i> (1954), <i>The Mysterians</i> (1957), <i>Battle in Outer
-Space</i> (1959) and <i>Gorath</i> (1962).
+He went on to direct many of the genre's classics, including _Rodan_ (1956), _The Mysterians_ (1957), _Mothra_ (1961), and _King Kong vs. Godzilla_ (1962). Despite the fantastical subject matter, he often centered his stories on scientists and journalists—rational figures working for the common good—and consistently wove in themes of international cooperation and anti-nuclear sentiment.
 
-Favored scientists and journalists for his protragonists and greedy, corrupt
-businessmen for his villains.
+After directing _Terror of Mechagodzilla_ (1975), Honda largely retired from feature filmmaking. However, he returned to the industry in his later years to assist his old friend Kurosawa Akira. He served as a chief assistant and creative consultant on Kurosawa's late masterpieces, including _Kagemusha_ (1980), _Ran_ (1985), and _Dreams_ (1990), where he actually directed the "The Tunnel" segment.
 
-Preferred to act out each scene with his actors in advance.
-
-Insisted on using higher quality, more costly single-camera setups while filming
-<i>Latitude Zero</i> over multi camera setups -- more suited to television --
-demanded by American producers.
-
-Together with Tsuburaya Eiji, Ifukube Akira, and screenwriters Sekizawa
-Shin'ichi and Kimura Takeshi, formed the core creative team behind many of
-Toho's classic science fiction films.
-
-Attempted to move the Godzilla series back towards its more serious roots with
-<i>Terror of Mechagodzilla</i> (1975). It would be his last film as director.
-
-Guillermo del Toro's monster film <i>Pacific Rim</i> (2013) is dedicated to both
-Honda and Ray Harryhausen. Gareth Edwards' <i>Godzilla</i> (2014) features a
-character named "Ishiro Serizawa", played by Ken Watanabe, who is a tribute to
-both Honda and the Serizawa character from <i>Godzilla</i> (1954), originally
-played by Hirata Akihiko.
+His influence on global cinema is immense. Directors like Guillermo del Toro (_Pacific Rim_) and Gareth Edwards (_Godzilla_ 2014) have explicitly cited him as a major inspiration. The character "Ishiro Serizawa" in the 2014 _Godzilla_ film is a direct homage to him.

@@ -31,4 +31,4 @@ works:
 
 George A. Furness was an American lawyer who played a significant role in post-war Japan. A former Major in the United States Army, he served as a defense counsel during the International Military Tribunal for the Far East (the Tokyo Trials). He is most noted for his defense of former Foreign Minister Shigemitsu Mamoru, who received a relatively light sentence and later returned to politics.
 
-After the trials, Furness remained in Japan and established a private law practice. Although not a professional actor, his dignified presence and fluency in English made him a go-to choice for roles requiring Western authority figures. He appeared in several Toho science fiction films, most notably as Dr. Svenson in *The Mysterians* (1957) and as a UN representative in *Gorath* (1962).
+After the trials, Furness remained in Japan and established a private law practice. Although not a professional actor, his dignified presence and fluency in English made him a go-to choice for roles requiring Western authority figures. He notably appeared as Dr. Svenson in *The Mysterians* (1957) and as a UN representative in *Gorath* (1962).

@@ -78,8 +78,8 @@ works:
     year: 1968
 ---
 
-Worked as an announcer with TBS in the 60s and 70s. Often appeared as announcers
-in science fiction films.
+A professional broadcaster who leveraged his real-world skills into a film career, Iketani Saburô was an announcer with TBS (Tokyo Broadcasting System) during the 1960s and 70s.
 
-Published exclusive interviews with actors Sakai Sachio and Tachibana Masaaki
-before the premier of <i>Godzilla vs. King Ghidorah</i> (1991).
+Because of his clear, authoritative voice and professional demeanor, he was frequently typecast as a news reader, radio announcer, or reporter in Toho's science fiction films. He appeared in many of the genre's classics, including the original _Godzilla_ (1954), _Rodan_ (1956), and _Mothra_ (1961), lending a sense of realism to the fantastic events on screen.
+
+Later in life, he remained connected to the genre, publishing exclusive interviews with Toho stalwarts like Sakai Sachio and Tachibana Masaaki prior to the release of _Godzilla vs. King Ghidorah_ (1991). He died of pneumonia in 2002.

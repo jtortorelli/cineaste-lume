@@ -252,21 +252,12 @@ works:
     year: 1984
 ---
 
-He had completed law school and was employed full time before he embraced
-acting.
+An intellectual and distinguished actor, Hirata Akihiko brought a sense of gravity to his roles, making him a perfect fit for the scientists and military officials he frequently portrayed.
 
-Joined Toho as part of the 5th "New Face" class. He met fellow actor Sahara
-Kenji at this time and they remained close friends until Hirata's death.
+Born in Gyeongseong (Seoul) during the Japanese occupation of Korea, he was educated at the prestigious Tokyo University, where he graduated from the Faculty of Law. He briefly worked in the business world at a trading company that would become Mitsubishi Corporation before leaving to pursue acting, joining the Haiyuza theater group in 1947.
 
-Well known for playing the villainous Mr. K on TV's <i>Rainbowman</i>.
+He entered the film industry as part of Toho's 5th "New Face" class in 1953, where he met his lifelong friend Sahara Kenji. He is immortalized in film history for his role as the tormented Dr. Serizawa in the original _Godzilla_ (1954). The eyepatch he wore for the role became iconic; he donned it again for a self-referential role in _Ebirah, Horror of the Deep_ (1966) and even wore it to the press conference announcing _The Return of Godzilla_ (1984). He was slated to star in that film, but his declining health forced him to withdraw, and he passed away from lymphangiectasia shortly before filming began.
 
-Made a cameo appearance in the <i>Star Wolf</i> TV series, later adapted into
-the <i>Fugitive Alien</i> films and featured on <i>Mystery Science Theater
-3000</i>.
+His career at Toho was prolific, appearing in nearly every major _kaiju_ franchise, including _Rodan_ (1956), _The Mysterians_ (1957), _Mothra_ (1961), and _Terror of Mechagodzilla_ (1975). He often played the "monster killer," the scientist who devises the solution to the threat. Beyond special effects films, he worked with Kurosawa Akira in _Sanjuro_ (1962) and commanded the screen as the villainous Mr. K in the cult TV series _Warrior of Love Rainbowman_ (1972).
 
-Known for the trademark eyepatch he wore when he played Dr. Serizawa in the
-original <i>Godzilla</i> (1954). He wore the patch again in <i>Ebirah, Horror of
-the Deep</i> (1966) and once more during the official press conference
-announcing production of <i>The Return of Godzilla</i> (1984). Hirata was
-originally meant to star in that film but failing health forced him to drop out,
-and he was replaced by Natsuki Yôsuke.
+Western fans may also know him from his appearance in the _Star Wolf_ TV series, footage of which was re-edited into the _Fugitive Alien_ films and mocked on _Mystery Science Theater 3000_. He was married to fellow actress Kuga Yoshiko.

@@ -47,49 +47,49 @@ works:
     poster_url: "/static/images/films/brutal-tales-of-chivalry-2-lion-and-peony-1966/posters/poster.webp"
     roles:
       - name: Hatanaka Keigo
-    title: 'Brutal Tales of Chivalry 2: Lion and Peony'
+    title: "Brutal Tales of Chivalry 2: Lion and Peony"
     year: 1966
   - format: film
     poster_url: "/static/images/films/brutal-tales-of-chivalry-3-lone-wolf-1967/posters/poster.webp"
     roles:
       - name: Katsuragi Ryûzô
-    title: 'Brutal Tales of Chivalry 3: Lone Wolf'
+    title: "Brutal Tales of Chivalry 3: Lone Wolf"
     year: 1967
   - format: film
     poster_url: "/static/images/films/brutal-tales-of-chivalry-4-blood-stained-lion-1969/posters/poster.webp"
     roles:
       - name: Kazama Jûkichi
-    title: 'Brutal Tales of Chivalry 4: Blood-Stained Lion'
+    title: "Brutal Tales of Chivalry 4: Blood-Stained Lion"
     year: 1969
   - format: film
     poster_url: "/static/images/films/brutal-tales-of-chivalry-5-lions-code-of-honor-1969/posters/poster.webp"
     roles:
       - name: Kazama Jûkichi
-    title: 'Brutal Tales of Chivalry 5: Lion''s Code of Honor'
+    title: "Brutal Tales of Chivalry 5: Lion's Code of Honor"
     year: 1969
   - format: film
     poster_url: "/static/images/films/brutal-tales-of-chivalry-6-man-slaying-lion-1970/posters/poster.webp"
     roles:
       - name: Kazama Jûkichi
-    title: 'Brutal Tales of Chivalry 6: Man-Slaying Lion'
+    title: "Brutal Tales of Chivalry 6: Man-Slaying Lion"
     year: 1970
   - format: film
     poster_url: "/static/images/films/brutal-tales-of-chivalry-7-hell-is-mans-destiny-1971/posters/poster.webp"
     roles:
       - name: Kazama Jûkichi
-    title: 'Brutal Tales of Chivalry 7: Hell is Man''s Destiny'
+    title: "Brutal Tales of Chivalry 7: Hell is Man's Destiny"
     year: 1971
   - format: film
     poster_url: "/static/images/films/brutal-tales-of-chivalry-8-the-roaring-lion-1971/posters/poster.webp"
     roles:
       - name: Kazama Jûkichi
-    title: 'Brutal Tales of Chivalry 8: The Roaring Lion'
+    title: "Brutal Tales of Chivalry 8: The Roaring Lion"
     year: 1971
   - format: film
     poster_url: "/static/images/films/brutal-tales-of-chivalry-9-tattered-umbrella-1972/posters/poster.webp"
     roles:
       - name: Kazama Jûkichi
-    title: 'Brutal Tales of Chivalry 9: Tattered Umbrella'
+    title: "Brutal Tales of Chivalry 9: Tattered Umbrella"
     year: 1972
   - format: film
     poster_url: "/static/images/films/war-in-space-1977/posters/poster.webp"
@@ -100,22 +100,11 @@ works:
     title: The War in Space
     year: 1977
 ---
-Graduated from film school in 1941. Originally aspired to be a director but
-there were limited career opportunities due to the war effort. Took some small
-acting roles before he was drafted and sent to China.
 
-In 1944 his transport ship sunk and he was adrift for 10 hours before being
-rescued.
+Born in Tokyo, Ikebe Ryô originally aspired to be a screenwriter but made his acting debut in 1941 due to limited opportunities during the war. He was soon drafted into the Imperial Japanese Army and spent nearly five years in China. In 1944, the transport ship he was on was sunk by a torpedo; he survived by clinging to debris in the ocean for ten hours before being rescued.
 
-Persuaded to resume acting after the war by director Ichikawa Kon.
+After the war, he was persuaded to return to acting by director Ichikawa Kon. He quickly established himself as a handsome leading man in the late 40s and 50s, starring in a wide range of genres from romances to war dramas. He is well known to sci-fi fans for his roles as the heroic astronaut Major Katsumiya in _Battle in Outer Space_ (1959) and the dedicated scientist Dr. Tazawa in _Gorath_ (1962).
 
-Established himself in the 40s and 50s, appearing in dramas, romances, and
-gangster films.
+In 1965, he became president of the Japan Actors Guild, where he navigated a major scandal involving actors and _yakuza_ gun-running. That same year, he left Toho to start his own production company, a venture that ultimately failed and left him in debt. However, his career saw a major resurgence when superstar Takakura Ken invited him to co-star in the _Brutal Tales of Chivalry_ (_Showa Zankyo-den_) series at Toei. His stoic, honorable yakuza character became iconic in the genre.
 
-Became president of the Japan Actors Guild in 1965. During his tenure he dealt
-with a gun-running scandal involving actors and <i>yakuza</i>.
-
-Also in 1965 he left Toho and founded his own production company. The company
-floundered and left him saddled with debt. Fellow actor Takakura Ken invited
-Ikebe to co-star with him in the <i>Brutal Tales of Chivalry</i> series, marking
-Ikebe's late career comeback.
+Outside of acting, he was an accomplished essayist and writer, publishing several books including an autobiography. He died of sepsis in 2010 at the age of 92.
