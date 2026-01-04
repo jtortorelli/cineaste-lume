@@ -259,7 +259,7 @@ export default ({
         </div>
       </div>
       <div class="
-        text-sm font-content text-gray-700 mb-1 pt-2 mx-auto
+        text-sm font-content text-justify text-gray-700 mb-1 pt-2 mx-auto
         w-96 sm:w-fit
         columns-1 sm:columns-2 space-y-2
            

@@ -185,13 +185,8 @@ works:
     year: 2024
 ---
 
-Kamiya got his start as an assistant director under Kawakita Kôichi on the
-Heisei Godzilla films, before jumping ship to work with Higuchi Shinji on the
-Heisei Gamera films instead.
+Kamiya Makoto began his career in the special effects world in the late 1980s. He started as an assistant director under Kawakita Kôichi on the Heisei Godzilla series, beginning with *Godzilla vs. Biollante* (1989). He subsequently joined Higuchi Shinji's team as assistant special effects director for the acclaimed Heisei Gamera trilogy (1995–1999).
 
-He assumed the title of Special Effects Director starting with <i>Whiteout</i>
-in 2000. Kamiya has advocated for increased use of CGI over traditional
-hand-made effects, perhaps due to Higuchi's influence.
+Kamiya's big break as a special effects director came with *Whiteout* (2000). He returned to the *Godzilla* franchise as the Director of Special Effects for the hit film *Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack* (2001), hand-picked by director Kaneko Shûsuke. He continued to balance practical effects with the growing field of CGI, serving as SFX Director on major live-action adaptations like *Gantz* (2011), *I Am a Hero* (2016), and *Bleach* (2018).
 
-Has collaborated frequently with director Satô Shinsuke on a string of
-manga-to-film adaptations.
+In addition to his effects work, Kamiya has directed full-length features, most notably the CG-animated films *Resident Evil: Degeneration* (2008) and *Resident Evil: Damnation* (2012). His frequent collaboration with director Satô Shinsuke has led to his involvement as VFX Supervisor on the blockbuster *Kingdom* film series.

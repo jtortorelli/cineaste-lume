@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/ito-jerry/avatar.webp
-birth_name: Gerald Takemichi Itô
+birth_name: Gerald Tamekichi Itô
 birth_place: New York, United States
 cause_of_death: Pneumonia
 death_place: Los Angeles, California, United States
@@ -22,11 +22,16 @@ name: Jerry Itô
 profession: Actor
 type: person
 works:
+  - title: The Manster
+    year: 1959
+    format: film
+    poster_url: /static/images/films/manster-1959/posters/poster.webp
+    roles:
+      - name: Superintendent Aida
   - format: film
     poster_url: /static/images/films/mothra-1961/posters/poster.webp
     roles:
       - name: Clark Nelson
-        uncredited: false
     slug: mothra-1961
     title: Mothra
     year: 1961
@@ -34,7 +39,6 @@ works:
     poster_url: /static/images/films/last-war-1961/posters/poster.webp
     roles:
       - name: Watkins
-        uncredited: false
     slug: last-war-1961
     title: The Last War
     year: 1961
@@ -42,7 +46,6 @@ works:
     poster_url: /static/images/films/message-from-space-1978/posters/poster.webp
     roles:
       - name: Earth Federation Commander
-        uncredited: false
     slug: message-from-space-1978
     title: Message from Space
     year: 1978
@@ -54,9 +57,10 @@ works:
     year: 1995
 ---
 
-Came from a talented show business family. His father was a dancer and
-choreographer, and two of his uncles were actors.
+Jerry Itô was born in New York City to a distinguished show business family. His father was the internationally renowned dancer and choreographer Itô Michio, and his mother was the dancer Hazel Wright. He was also the nephew of actor Senda Koreya and set designer Itô Kisaku.
 
-Appeared in the third series of NHK's educational program <i>Let's Play in
-English</i> from 1995 through 1997. He suffered a cerebral hemorrhage before the
-show finished broadcasting and was replaced by Dennis Falt.
+Itô served in the United States Navy during World War II, taking part in the initial occupation of Japan. After his service, he studied acting at the American Theatre Wing and the Actors Studio in New York, making his Broadway debut in *Teahouse of the August Moon* in 1953. He was later recalled to active duty during the Korean War.
+
+Moving to Japan to reconnect with his family, Itô found success in the entertainment industry as a bilingual television host and film actor. He signed with Toho's stage division but was frequently loaned to other studios to play Western characters. He is best known to genre fans for his role as the villainous Clark Nelson in *Mothra* (1961), as well as appearances in *The Manster* (1959), *The Last War* (1961), and *Message from Space* (1978).
+
+From 1995 to 1997, he appeared as "Grandpa Jerry" in the third series of NHK's educational program *Let's Play in English*. He suffered a cerebral hemorrhage before the show completed its run and was replaced by Dennis Falt. Itô subsequently moved to Los Angeles, California, where he lived until his death from pneumonia in 2007.

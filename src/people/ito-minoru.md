@@ -216,5 +216,8 @@ works:
     year: 1969
 ---
 
-Frequent supporting actor across a number of genres, usually in minor roles. In
-<i>tokusatsu</i> films he appeared most frequently as a reporter.
+Itô Minoru was a prolific character actor who appeared in over 100 films during the Golden Age of Japanese cinema. Born in Chiba Prefecture, he joined Toho's acting troupe in 1952 and made his screen debut in Kurosawa Akira's *Seven Samurai* (1954).
+
+For nearly three decades, Itô was a constant presence in Toho productions, often playing background roles such as reporters, policemen, soldiers, and office workers. He became a familiar face to *tokusatsu* fans for his frequent appearances in kaiju films, including *The Mysterians* (1957), *Mothra* (1961), and *Destroy All Monsters* (1968), where he typically portrayed a reporter covering the monster attacks.
+
+In addition to his film work, Itô had notable guest roles in the Ultra series, appearing in *Ultra Q*, *Ultraman*, and most memorably as a doctor treating the infected station personnel in *Ultraseven*. His acting credits stopped appearing after 1982, and his subsequent activities remain unknown.

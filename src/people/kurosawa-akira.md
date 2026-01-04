@@ -163,6 +163,13 @@ works:
       - role: Screenplay
     title: The Hidden Fortress
     year: 1958
+  - title: The Bad Sleep Well
+    year: 1960
+    format: film
+    poster_url: /static/images/films/bad-sleep-well-1960/posters/poster.webp
+    staff:
+      - role: Director
+      - role: Screenplay
   - format: film
     poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
     slug: yojimbo-1961

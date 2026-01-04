@@ -13,6 +13,11 @@ accolades:
     films:
       - title: Mother
     status: won
+  - category: Best Supporting Actor
+    ceremony: 6th Blue Ribbon Awards
+    films:
+      - title: Bloody Spear at Mount Fuji
+    status: won
 avatar_url: "/static/images/people/kato-daisuke/avatar.webp"
 birth_name: Katô Tokunosuke
 birth_place: Tokyo, Japan
@@ -40,6 +45,12 @@ works:
       - name: Kimura Shôkichi
     title: Mother
     year: 1952
+  - title: Ikiru
+    year: 1952
+    format: film
+    poster_url: "/static/images/films/ikiru-1952/posters/poster.webp"
+    roles:
+      - name: Yakuza
   - format: film
     poster_url: "/static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp"
     roles:
@@ -54,6 +65,12 @@ works:
     slug: seven-samurai-1954
     title: Seven Samurai
     year: 1954
+  - title: Bloody Spear at Mount Fuji
+    year: 1955
+    format: film
+    poster_url: "/static/images/films/bloody-spear-at-mount-fuji-1955/posters/poster.webp"
+    roles:
+      - name: Genta
   - format: film
     poster_url: "/static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp"
     roles:
@@ -276,25 +293,12 @@ works:
     year: 1970
 ---
 
-Born into a family of entertainers. His father was an assistant director, and
-his brother, Sawamura Kunitarô, was a <i>kabuki</i> actor. He played
-<i>kabuki</i> with his brother and then after high school formed an acting trio
-with Kôno Akitake and Ogimasu Ichikawa.
+Katô Daisuke (born Katô Tokunosuke) was one of the most beloved and prolific character actors in Japanese film history. Born into a distinguished theatrical family in Tokyo's Asakusa district, his elder brother was the kabuki actor Sawamura Kunitarô, and his elder sister was the actress Sawamura Sadako. He initially followed in the family tradition, joining the Zenshinza Theatre Company in 1933 and performing under the name Ichikawa Enji.
 
-Joined the military in 1933 and served on the front lines in New Guinea. While
-in New Guinea he performed bits of theater to raise morale for the troops.
+During World War II, Katô was drafted and sent to the front lines in New Guinea. Amidst the harsh conditions, he organized theatrical performances to boost the morale of his fellow soldiers. These experiences became the basis for his 1961 memoir *Snow in the South Seas* (*Minami no shima ni yuki ga furu*), which was subsequently adapted into both a television drama and a film (in which Katô played himself).
 
-After the war he became an actor for Daiei. There he met director Kurosawa Akira
-and appeared in his breakout hit <i>Rashomon</i> (1950). He later followed
-Kurosawa to Toho.
+After the war, Katô joined Daiei Studios and adopted the name Katô Daisuke. He soon caught the eye of director Kurosawa Akira, who cast him as the bailiff in *Rashomon* (1950) and later as the loyal Shichirôji in *Seven Samurai* (1954). He became a regular in Kurosawa's stock company, appearing in films like *Ikiru* (1952) and *Yojimbo* (1961).
 
-In January 1961 he published his memoir <i>Snow in the South Seas</i>, detailing
-his wartime experiences in New Guinea. That same year it was adapted as an NHK
-TV drama and a feature film from Toho, in which Katô played himself.
+Moving to Toho in 1951, Katô found immense popularity in the comedy genre. His cherubic face and warm demeanor made him perfect for the role of the loyal, well-meaning subordinate in the long-running "Company President" (*Shachō*) series, where he starred alongside Morishige Hisaya and Kobayashi Keiju. He won Blue Ribbon Awards for Best Supporting Actor for *Mother* (1952) and *Bloody Spear at Mount Fuji* (1955).
 
-Continued working into his 60s, unaware he had colon cancer until five months
-before he succumbed to it in 1975. In an ironic twist, although he played one of
-the three surviving samurai from Kurosawa's <i>Seven Samurai</i>, he was the
-first cast member of that group to pass away.
-
-Katô's son Haruyuki married (and later divorced) Kurosawa's daughter Kazuko.
+Katô continued acting well into his 60s. He died of colon cancer in 1975, becoming the first of the *Seven Samurai* cast to pass away. His son, Katô Haruyuki, was briefly married to Kurosawa's daughter, Kazuko.
