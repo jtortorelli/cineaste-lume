@@ -76,3 +76,10 @@ works:
     title: The Secret of the Telegian
     year: 1960
 ---
+Debuted as a child actor in 1920, at age 4.
+
+Appeared in films for Koyo Studios, Makino Film Productions, and Kawai Productions. He became a free agent in 1939, before joining Toho in 1941.
+
+After the war, Matsuo transitioned into supporting roles.
+
+One of his last roles was a cameo in Fukuda Jun's _The Secret of the Telegian_ (1960). After that he became a free agent again.

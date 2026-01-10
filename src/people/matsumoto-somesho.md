@@ -55,3 +55,6 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
 ---
+Matsumoto initially took the adoptive surname "Nakamura" before inheriting the name of his mentor in kabuki, Matsumoto Koshirô VII, in 1935. He was reportely well known for his expertise in portraying female characters in kabuki theater.
+
+Began appearing in films starting in 1956. He worked in science fiction and comedy genres, and worked for each of the major studios (Toho, Nikkatsuk, Shochiku, and Toei). He returned to kabuki theater in 1971 at age 68.

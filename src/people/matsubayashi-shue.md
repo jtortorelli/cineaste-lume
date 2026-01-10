@@ -160,3 +160,10 @@ works:
     staff:
       - role: Director
 ---
+Joined Toho in 1942 intending to make films that reflect his Buddhist values.
+
+Commissioned by the Japanese Navy in 1944 and deployed to the South China Sea. During his naval career he grew out his beard and swore never to shave it until Japan won the war. Since Japan lost, he kept the beard. He returned to Toho after the war.
+
+Directed the majority of films in the _Company President_ series of salaryman comedies starring Morishige Hisaya.
+
+Matsubayashi directed at least one film with science fiction overtones, the apocalyptic drama _The Last War_ (1961). The film starred a mix of both Japanese and English speaking actors and was notable for its strong pacifist message.

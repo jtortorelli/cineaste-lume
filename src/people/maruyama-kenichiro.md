@@ -65,3 +65,4 @@ works:
     title: Destroy All Monsters
     year: 1968
 ---
+Actor with boyish features who began appearing in science fiction films and television just before the genre peaked in the late 60s. He has no credits following _Destroy All Monsters_ (1968) and it's believed that he quit acting after Toho's contract system expired.
