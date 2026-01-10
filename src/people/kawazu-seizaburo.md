@@ -74,13 +74,13 @@ works:
     year: 1962
   - format: film
     poster_url: "/static/images/films/shimizu-port-salaryman-part-ii-1962/posters/poster.webp"
-    title: 'Shimizu Port Salaryman: Part II'
+    title: "Shimizu Port Salaryman: Part II"
     year: 1962
     roles:
       - name: Kira Nikichi
   - format: film
     poster_url: "/static/images/films/presidents-travel-diary-part-ii-1962/posters/poster.webp"
-    title: 'President’s Travel Diary: Part II'
+    title: "President’s Travel Diary: Part II"
     year: 1962
     roles:
       - name: President of Tsubakiya Co.
@@ -100,7 +100,7 @@ works:
       - name: Gondô
   - format: film
     poster_url: "/static/images/films/presidents-journey-part-ii-1963/posters/poster.webp"
-    title: 'President''s Journey: Part II'
+    title: "President's Journey: Part II"
     year: 1963
     roles:
       - name: Gondô
@@ -112,7 +112,7 @@ works:
       - name: Mizutani
   - format: film
     poster_url: "/static/images/films/presidents-trip-abroad-part-ii-1963/posters/poster.webp"
-    title: 'President’s Trip Abroad: Part II'
+    title: "President’s Trip Abroad: Part II"
     year: 1963
     roles:
       - name: Mizutani
@@ -132,20 +132,16 @@ works:
       - name: Nakanishi
   - format: film
     poster_url: "/static/images/films/presidents-success-story-part-ii-1968/posters/poster.webp"
-    title: 'President’s Success Story: Part II'
+    title: "President’s Success Story: Part II"
     year: 1968
     roles:
       - name: Ejiro Shôkichi
 ---
-In 1925 Kawazu ran away from his adopted parents (at age 17) and joined an
-acting troupe.
 
-Made his film debut in 1927 for Bantsuma-Universal studios, a joint
-Japanese-American production company. The studio dissolved the following year
-and Kawazu bounced around before landing at PCL, the predecessor to Toho,
-in 1937.
+Born Nakajima Seiichi in Tokyo, Kawazu Seizaburô had a rebellious start, running away from his adopted parents at age 17 to join an acting troupe in 1925. He made his screen debut in 1927 for Bantsuma-Universal, a unique but short-lived joint venture between Japanese star Bando Tsumasaburo and Universal Pictures.
 
-His rise to acting fame in serious dramas coincided with his fellow actor Takada
-Minoru.
+After the studio dissolved, Kawazu worked with various companies before finding a home at PCL (Photo Chemical Laboratories), the predecessor to Toho, in 1937. There, he rose to prominence as a leading man in serious dramas, often mentioned alongside contemporary Takada Minoru. His career was briefly interrupted by a four-month stint in the military during the war.
 
-He served in the military for all of 4 months, and then returned to acting.
+In the post-war era, Kawazu transitioned into a prolific character actor, frequently cast as villains, corrupt officials, or gang bosses. He is perhaps best known to international audiences as the ruthless brothel owner Seibei in Kurosawa Akira's _Yojimbo_ (1961). He also appeared in several special effects films, such as _Mothra_ (1961) and _The Secret of the Telegian_ (1960).
+
+He continued acting until his death from laryngeal cancer in 1983.

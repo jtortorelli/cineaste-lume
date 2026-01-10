@@ -19,6 +19,12 @@ works:
     slug: samurai-ii-duel-at-ichijoji-temple-1955
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
+  - title: The Legend of the White Serpent
+    year: 1956
+    format: film
+    poster_url: /static/images/films/legend-of-the-white-serpent-1956/posters/poster.webp
+    roles:
+      - name: Monk
   - format: film
     poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     roles:
@@ -263,11 +269,19 @@ works:
     slug: conflagration-1975
     title: Conflagration
     year: 1975
+  - title: Samurai of the Sky
+    year: 1976
+    format: film
+    poster_url: /static/images/films/samurai-of-the-sky-1976/posters/poster.webp
+    roles:
+      - name: Interviewer
+      - name: Major of Rabaul Base
 ---
 
-Frequent supporting actor in Toho films, distinguished by relatively youthful
-appearance and thick eyebrows.
+Born in Ota, Shimane Prefecture, Katsube Yoshio began his career as a trainee at the Imperial Theatre while still a university student in 1953. He became a formal member the following year and signed an exclusive contract with Toho in 1955.
 
-He frequently played reporters in special effects films.
+Katsube made his [credited] screen debut in the 1956 film _The Legend of the White Serpent_. Distinguished by his thick eyebrows and youthful appearance, he became a reliable supporting player for the studio, frequently cast as reporters, villagers, or military personnel in Toho's special effects productions.
 
-He reportedly appeared in over 320 films during his career.
+Over the course of two decades, he appeared in a reported 327 films, including many entries in the Godzilla series and other sci-fi classics.
+
+He retired from acting in 1976 after his appearance in _Samurai of the Sky_, returning to his hometown in Shimane to take over the family business. He passed away in 2023.

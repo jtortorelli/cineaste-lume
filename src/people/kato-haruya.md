@@ -11,6 +11,12 @@ name: Katô Haruya
 profession: Actor
 type: person
 works:
+  - title: Portrait of Madame Yuki
+    year: 1950
+    format: film
+    poster_url: /static/images/films/portrait-of-madame-yuki-1950/posters/poster.webp
+    roles:
+      - name: Seitarô
   - format: film
     poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     roles:
@@ -81,15 +87,10 @@ works:
     year: 1965
 ---
 
-Toho-exclusive actor with a perpetually youthful appearance. Regularly played in
-supporting roles and providing comic relief.
+Born in Tokyo's Azabu Ward, Katô Haruya began his acting career early, joining the Tsukiji Little Theater at age eight and later the Gekidan Todo troupe in 1939. After graduating from Kamakura Junior High School, he made his screen debut in the 1950 film _Portrait of Madame Yuki_.
 
-As with other Toho actors of his generation, he made frequent appearances in the
-50s and 60s, and after the contract system ended he retired from film and acted
-in television during the 70s and 80s.
+He joined Toho as a contract player in 1956, where he became a prolific presence, appearing in over 250 films before leaving the studio in 1970. Known for his perpetually youthful, "baby-faced" appearance, Katô often played timid characters or provided comic relief as a _nimaime-han_—a handsome but comical role.
 
-In 2009 he made a rare public appearance at a screening of <i>Godzilla</i> and
-<i>The Mysterians</i> where he gave interviews with suit actor Nakajima Haruo.
+After the studio system declined, he transitioned to television, remaining active until the mid-1990s. In 2009, he made a rare public appearance at a screening of _Godzilla_ and _The Mysterians_, where he was interviewed alongside suit actor Nakajima Haruo.
 
-Katô passed away in either 2015 or 2016, according to a volume from Yosensha's
-<i>Special Effects</i> series.
+According to a volume from Yosensha's _Special Effects_ series, Katô passed away in either 2015 or 2016.

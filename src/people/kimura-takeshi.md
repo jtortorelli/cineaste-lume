@@ -129,10 +129,8 @@ works:
     year: 1971
 ---
 
-Dropped out of Kansai University in 1930 and joined the Japanese Communist
-Party, serving as chairman of the Saga Prefecture chapter.
+Born in Osaka, Kimura Takeshi (real name Mabuchi Kaoru) was a prolific screenwriter whose career was defined by a long and fruitful collaboration with director Honda Ishirô. A former member of the Japanese Communist Party who had been active in the 1930s, Kimura brought a distinct political consciousness and cynical edge to his scripts.
 
-A frequent collaborator of Honda Ishirô. His darker and more serious works are
-often in contrast with contemporary screenwriter Sekizawa Shin'ichi.
+His work is often contrasted with the lighter, more optimistic tone of his contemporary Sekizawa Shin'ichi. Kimura's scripts, such as _The Mysterians_ (1957) and _The Human Vapor_ (1960), frequently featured darker themes and tragic characters. He cited the atmospheric horror film _Matango_ (1963) as his best work.
 
-Kimura wrote under the pseudonym Mabuchi Kaoru starting in 1965.
+Despite his success in the genre, Kimura reportedly had little personal affection for kaiju films, viewing them primarily as work. From 1965 onwards, beginning with _Frankenstein Conquers the World_, he began crediting himself under his real name, Mabuchi Kaoru, which he felt offered him a degree of anonymity.

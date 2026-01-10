@@ -7,6 +7,12 @@ japanese_name: 川井憲次
 name: Kawai Kenji
 profession: Composer
 type: person
+accolades:
+  - category: Best Music in a Feature Production
+    ceremony: 32nd Annie Awards
+    status: nominated
+    films:
+      - title: "Ghost in the Shell 2: Innocence"
 works:
   - format: film
     poster_url: /static/images/films/red-spectacles-1987/posters/poster.webp
@@ -103,6 +109,18 @@ works:
       - role: Music
     title: The Princess Blade
     year: 2001
+  - title: Dark Water
+    year: 2002
+    format: film
+    poster_url: /static/images/films/dark-water-2002/posters/poster.webp
+    staff:
+      - role: Music
+  - title: "Ghost in the Shell 2: Innocence"
+    year: 2004
+    format: film
+    poster_url: /static/images/films/ghost-in-the-shell-2-innocence-2004/posters/poster.webp
+    staff:
+      - role: Music
   - format: TV Series
     title_card_url: /static/images/tv-series/ultraman-nexus-2004/title-cards/title-card.webp
     staff:
@@ -212,25 +230,18 @@ works:
       - role: Music
     title: "Ip Man 4: The Finale"
     year: 2019
+  - title: "Birth of Kitaro: The Mystery of GeGeGe"
+    year: 2023
+    format: film
+    poster_url: /static/images/films/birth-of-kitaro-the-mystery-of-gegege-2023/posters/poster.webp
+    staff:
+      - role: Music
 ---
 
-Famed composer of anime and film music. He credits Burt Bacharach, Deep Purple
-and Santana as early influences. Kawai dropped out of engineering school to
-pursue music education, and later dropped out of music school to join a band.
-The band won first place at a band tournament, but the prize winnings were not
-enough to live on, so Kawai dropped out of the band and started composing music
-for TV dramas.
+Born in Shinagawa, Tokyo, Kawai Kenji originally studied nuclear engineering at Tokai University before dropping out to pursue music at the Shobi Music Academy. He formed the fusion rock band "Muse" and, after the band dissolved, began composing for commercials and television dramas.
 
-He first met anime director Oshii Mamoru in 1986 and the following year they
-worked on <i>The Red Spectacles</i>. Kawai produced and performed the entire
-soundtrack himself out of his home studio. He has scored all of Oshii's
-subsequent films, including the iconic soundtrack from <i>Ghost in the Shell</i>
-(1995).
+His career breakthrough came after meeting director Oshii Mamoru, leading to their first collaboration on _The Red Spectacles_ (1987). Kawai has since scored all of Oshii's major works, including the internationally acclaimed _Ghost in the Shell_ (1995) and its 2004 sequel, for which he received an Annie Award nomination.
 
-Kawai has had a lucrative collaboration with horror director Nakata Hideo of
-<i>Ring</i> fame. He has also scored a number of martial arts films out of Hong
-Kong, including Donnie Yen's <i>Ip Man</i> series.
+Kawai is also known for his long-standing partnership with horror director Nakata Hideo on the _Ring_ franchise and _Dark Water_, as well as his stirring scores for Hong Kong action films like the _Ip Man_ series and _Seven Swords_. His distinctive sound often merges traditional Asian instrumentation with modern electronic elements and percussion, which he frequently performs himself.
 
-Kawai is multitalented and often performs percussion, guitar and keyboards on
-his own soundtracks. He produced a concert of his film works, "Cinema Symphony,"
-in 2007.
+His vast body of work extends to the _Ultraman_ franchise (scoring _Ultraman Nexus_ and _Ultraman Geed_) and recent hits like _The Birth of Kitaro: The Mystery of GeGeGe_ (2023). In 2007, he produced and performed in a concert of his film works titled "Cinema Symphony."
