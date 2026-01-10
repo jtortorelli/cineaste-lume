@@ -141,13 +141,14 @@ works:
     year: 1968
   - format: film
     poster_url: "/static/images/films/presidents-success-story-part-ii-1968/posters/poster.webp"
-    title: 'President’s Success Story: Part II'
+    title: "President’s Success Story: Part II"
     year: 1968
     roles:
       - name: Ejiri Osamu
 ---
-Frequent supporting actor in salaryman and <i>Crazy Cats</i> comedies as well as
-sci-fi. Often cast as gangsters or flunkies.
 
-Retired from acting in 1970 as Toho's contract system was giving out, and has
-not been heard from since.
+Born in Matsuyama, Ehime Prefecture, Kirino Nadao made his screen debut in the 1953 film _A Japanese Tragedy_. He became a fixture at Toho studios, regularly appearing in salaryman comedies (including the _Crazy Cats_ series) and special effects films.
+
+Often cast as gangsters, flunkies, or military personnel, he is perhaps best remembered by sci-fi fans for his role as an astronaut battling gravity in _Battle in Outer Space_ (1959). His other genre credits include _King Kong vs. Godzilla_ (1962), _Dogora_ (1964), and _Destroy All Monsters_ (1968).
+
+Kirino retired from acting in 1970 as the studio's contract system began to collapse. His subsequent activities are unknown.

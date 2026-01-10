@@ -8,6 +8,11 @@ accolades:
     status: won
     films:
       - title: Here is a Spring
+  - category: Best Actor
+    ceremony: 13th Mainichi Film Awards
+    status: won
+    films:
+      - title: The Naked General
 avatar_url: "/static/images/people/kobayashi-keiju/avatar.webp"
 birth_place: Murota, Gunma, Japan
 cause_of_death: Heart Failure
@@ -57,6 +62,12 @@ works:
       - name: Hasegawa Kiyoshi
     title: "Three Generations of Presidents: Part II"
     year: 1958
+  - title: The Naked General
+    year: 1958
+    format: film
+    poster_url: "/static/images/films/naked-general-1958/posters/poster.webp"
+    roles:
+      - name: Yamashita Kiyoshi
   - format: film
     poster_url: "/static/images/films/presidents-peaceful-period-1959/posters/poster.webp"
     roles:
@@ -256,17 +267,10 @@ works:
     year: 1985
 ---
 
-His father died while he was in high school, and he later dropped out of
-university to work for his uncle.
+Born in Gunma Prefecture, Kobayashi Keiju originally dropped out of Nihon University to pursue an acting career, making his film debut at Nikkatsu in 1942. His career was interrupted during World War II when he was drafted into the Imperial Army and sent to China.
 
-When he turned to acting he signed on with Nikkatsu, in particular because they
-did not have any stringent requirements for education when recruiting actors, a
-fact which suited the college dropout just fine.
+After the war, he returned to the screen and moved to Toho in 1956, where he found immense popularity as a salaryman archetype in the long-running "Company President" (_Shachô_) comedy series, often starring alongside Morishige Hisaya.
 
-His career was interrupted in 1934 when he was drafted into the Imperial Army
-and sent to China.
+While famous for comedy, Kobayashi was also a highly respected dramatic actor. He won multiple awards, including Best Actor at the Mainichi Film Concours for his role as Kiyoshi Yamashita in _The Naked General_ (1958). He gave memorable performances as Dr. Tadokoro in the disaster epic _Submersion of Japan_ (1973) and as Prime Minister Mitamura in _The Return of Godzilla_ (1984).
 
-Returned to acting after the war and was marketed as a charismatic, handsome
-leading man for film.
-
-Appeared often in salaryman comedies for Toho, starting in 1956, until 1971.
+He continued working in film and television until his death from heart failure in 2010.

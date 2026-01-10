@@ -68,8 +68,11 @@ works:
     title: The Hidden Fortress
     year: 1958
 ---
-Born before the turn of the century, Kôdô was well advance din years when Japanese film hit its stride, and as such frequently played aged, senior roles.
 
-He notably played village chiefs in three films released in short succession: <i>Seven Samurai</i>, <i>Godzilla</i>, and <i>Half Human</i>.
+Born Tanikawa Saichirô in Hyogo Prefecture, Kôdô Kuninori began his acting career in 1901 on the _shinpa_ stage. Before World War II, he worked at Teikoku Kinema and with Ichikawa Utaemon's productions before officially joining Toho in 1939.
 
-His name is often misread as Kôdô Kokuten, and he was allegedly addressed as "Kokuten" on set. He was wont to respond to those mispronouncing his name with a forceful "KUNINORI!"
+Due to his advanced age by the time Japanese cinema entered its golden age, Kôdô was frequently type-cast in senior roles. He famously played the village elder in three major films released in short succession: the patriarch Gisaku in Kurosawa Akira's _Seven Samurai_ (1954), the Ôdo Island elder in _Godzilla_ (1954), and the village chief in _Half Human_ (1955).
+
+His professional name was often misread as "Kôdô Kokuten," and he was allegedly addressed as "Kokuten" on set by colleagues. He was known to respond to such mispronunciations with a forceful correction: "KUNINORI!"
+
+Kôdô passed away in 1960.

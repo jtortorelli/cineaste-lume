@@ -8,6 +8,12 @@ name: Koizumi Hajime
 profession: Cinematographer
 type: person
 works:
+  - title: The Legend of the White Serpent
+    year: 1956
+    format: film
+    poster_url: /static/images/films/legend-of-the-white-serpent-1956/posters/poster.webp
+    staff:
+      - role: Photography
   - format: film
     poster_url: /static/images/films/mysterians-1957/posters/poster.webp
     slug: mysterians-1957
@@ -113,6 +119,13 @@ works:
       - role: Photography
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    year: 1966
+    format: tv series
+    title_card_url: /static/images/tv-series/ultra-q-1966/title-card.webp
+    staff:
+      - role: SFX Director
+        episode_count: 3
   - format: film
     poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
     slug: war-of-the-gargantuas-1966
@@ -128,8 +141,9 @@ works:
     title: King Kong Escapes
     year: 1967
 ---
-Graduated from Japanese Film School in 1945 and promptly joined Toho's Cinematography Center.
 
-Served as cinematographer on 17 Honda Ishirô films over a ten year period (1957-1967).
+Born in Tokyo, Koizumi Hajime graduated from the Japanese Film School in 1945 and immediately joined Toho's Cinematography Center. After serving as an assistant cameraman for over a decade, he was promoted to cinematographer in 1956, making his debut on the color film _The Legend of the White Serpent_.
 
-Apparently retired from film in 1967 and moved to television, working for Tsuburaya productions on the <i>Ultra</i> franchise.
+Koizumi is best remembered for his prolific and visually distinct collaboration with director Honda Ishirô. Between 1957 and 1967, he served as the director of photography on 17 of Honda's films, helping to define the colorful, widescreen aesthetic of Toho's Golden Age tokusatsu. His credits include genre landmarks such as _The Mysterians_ (1957), _Mothra_ (1961), _King Kong vs. Godzilla_ (1962), and the atmospheric horror film _Matango_ (1963).
+
+Following _King Kong Escapes_ (1967), Koizumi left the film industry to work in television, joining Eiji Tsuburaya's company. He worked as a special effects director on _Ultra Q_ and later as a cinematographer for _Ultraman Ace_ in the early 1970s.
