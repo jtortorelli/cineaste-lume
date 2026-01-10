@@ -31,7 +31,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: tv series
-    title_card_url: /static/images/tv-series/ultraman-1966/title-card.webp
+    title_card_url: /static/images/tv-series/ultraman-1966/title-cards/title-card.webp
     roles:
       - name: Hayata Shin
         episode_count: 39

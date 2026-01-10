@@ -156,7 +156,7 @@ works:
   - format: TV Series
     title: Ultra Q
     year: 1966
-    title_card_url: /static/images/tv-series/ultra-q-1966/title-card.webp
+    title_card_url: /static/images/tv-series/ultra-q-1966/title-cards/title-card.webp
     roles:
       - episode_count: 3
         name: Various Roles
@@ -171,7 +171,7 @@ works:
   - format: TV Series
     title: Ultraman
     year: 1966
-    title_card_url: /static/images/tv-series/ultraman-1966/title-card.webp
+    title_card_url: /static/images/tv-series/ultraman-1966/title-cards/title-card.webp
     roles:
       - episode_count: 2
         name: Various Roles
@@ -194,7 +194,7 @@ works:
   - format: TV Series
     title: Ultraseven
     year: 1967
-    title_card_url: /static/images/tv-series/ultraseven-1967/title-card.webp
+    title_card_url: /static/images/tv-series/ultraseven-1967/title-cards/title-card.webp
     roles:
       - episode_count: 2
         name: Various Roles

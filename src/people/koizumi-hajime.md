@@ -122,7 +122,7 @@ works:
   - title: Ultra Q
     year: 1966
     format: tv series
-    title_card_url: /static/images/tv-series/ultra-q-1966/title-card.webp
+    title_card_url: /static/images/tv-series/ultra-q-1966/title-cards/title-card.webp
     staff:
       - role: SFX Director
         episode_count: 3
@@ -140,6 +140,13 @@ works:
       - role: Photography
     title: King Kong Escapes
     year: 1967
+  - title: Ultraman Ace
+    year: 1972
+    format: tv series
+    title_card_url: /static/images/tv-series/ultraman-ace-1972/title-cards/title-card.webp
+    staff:
+      - role: Photography
+        episode_count: 10
 ---
 
 Born in Tokyo, Koizumi Hajime graduated from the Japanese Film School in 1945 and immediately joined Toho's Cinematography Center. After serving as an assistant cameraman for over a decade, he was promoted to cinematographer in 1956, making his debut on the color film _The Legend of the White Serpent_.

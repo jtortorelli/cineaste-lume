@@ -16,7 +16,7 @@ works:
     title: Come Marry Me
     year: 1966
   - format: TV Series
-    title_card_url: /static/images/tv-series/ultraseven-1967/title-card.webp
+    title_card_url: /static/images/tv-series/ultraseven-1967/title-cards/title-card.webp
     title: Ultraseven
     year: 1967
     roles:
