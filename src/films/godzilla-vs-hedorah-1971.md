@@ -43,9 +43,8 @@ staff:
         slug: tanaka-tomoyuki
     role: Producer
   - people:
-      - alias: Mabuchi Kaoru
-        name: Kimura Takeshi
-        slug: kimura-takeshi
+      - name: Mabuchi Kaoru
+        slug: mabuchi-kaoru
       - name: Banno Yoshimitsu
     role: Screenplay
   - people:

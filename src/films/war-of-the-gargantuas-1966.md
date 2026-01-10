@@ -43,9 +43,8 @@ staff:
       - name: Tsunoda Ken'ichirô
     role: Producer
   - people:
-      - alias: Mabuchi Kaoru
-        name: Kimura Takeshi
-        slug: kimura-takeshi
+      - name: Mabuchi Kaoru
+        slug: mabuchi-kaoru
       - name: Honda Ishirô
         slug: honda-ishiro
     role: Screenplay

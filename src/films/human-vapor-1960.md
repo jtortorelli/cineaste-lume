@@ -18,8 +18,9 @@ staff:
         slug: tanaka-tomoyuki
     role: Producer
   - people:
-      - name: Kimura Takeshi
-        slug: kimura-takeshi
+      - name: Mabuchi Kaoru
+        slug: mabuchi-kaoru
+        alias: Kimura Takeshi
     role: Screenplay
   - people:
       - name: Koizumi Hajime

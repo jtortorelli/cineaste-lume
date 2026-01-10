@@ -25,8 +25,9 @@ staff:
       - name: Yasumi Toshio
     role: Story Coordinator
   - people:
-      - name: Kimura Takeshi
-        slug: kimura-takeshi
+      - name: Mabuchi Kaoru
+        slug: mabuchi-kaoru
+        alias: Kimura Takeshi
       - name: Sekizawa Shin'ichi
         slug: sekizawa-shinichi
     role: Screenplay

@@ -2,17 +2,17 @@
 tags: ["cineaste", "people"]
 aliases:
   - category: alias
-    context: After 1964
-    japanese_name: 馬淵薫
-    name: Mabuchi Kaoru
-avatar_url: /static/images/people/kimura-takeshi/avatar.webp
+    context: Before 1964
+    japanese_name: 木村武
+    name: Kimura Takeshi
+avatar_url: /static/images/people/mabuchi-kaoru/avatar.webp
 birth_place: Osaka, Japan
 dob: 1911-02-04
 dob_resolution: exact
 dod: 1987-05-03
 dod_resolution: exact
-japanese_name: 木村武
-name: Kimura Takeshi
+japanese_name: 馬淵薫
+name: Mabuchi Kaoru
 profession: Screenwriter
 type: person
 works:
@@ -21,6 +21,7 @@ works:
     slug: rodan-1956
     staff:
       - role: Screenplay
+        staff_alias: Kimura Takeshi
     title: Rodan
     year: 1956
   - format: film
@@ -28,6 +29,7 @@ works:
     slug: mysterians-1957
     staff:
       - role: Screenplay
+        staff_alias: Kimura Takeshi
     title: The Mysterians
     year: 1957
   - format: film
@@ -35,6 +37,7 @@ works:
     slug: human-vapor-1960
     staff:
       - role: Screenplay
+        staff_alias: Kimura Takeshi
     title: The Human Vapor
     year: 1960
   - format: film
@@ -42,6 +45,7 @@ works:
     slug: daredevil-in-the-castle-1961
     staff:
       - role: Screenplay
+        staff_alias: Kimura Takeshi
     title: Daredevil in the Castle
     year: 1961
   - format: film
@@ -49,6 +53,7 @@ works:
     slug: last-war-1961
     staff:
       - role: Screenplay
+        staff_alias: Kimura Takeshi
     title: The Last War
     year: 1961
   - format: film
@@ -56,6 +61,7 @@ works:
     slug: gorath-1962
     staff:
       - role: Screenplay
+        staff_alias: Kimura Takeshi
     title: Gorath
     year: 1962
   - format: film
@@ -63,6 +69,7 @@ works:
     slug: matango-1963
     staff:
       - role: Screenplay
+        staff_alias: Kimura Takeshi
     title: Matango
     year: 1963
   - format: film
@@ -70,6 +77,7 @@ works:
     slug: lost-world-of-sinbad-1963
     staff:
       - role: Screenplay
+        staff_alias: Kimura Takeshi
     title: The Lost World of Sinbad
     year: 1963
   - format: film
@@ -77,6 +85,7 @@ works:
     slug: whirlwind-1964
     staff:
       - role: Screenplay
+        staff_alias: Kimura Takeshi
     title: Whirlwind
     year: 1964
   - format: film
@@ -84,7 +93,6 @@ works:
     slug: frankenstein-conquers-the-world-1965
     staff:
       - role: Screenplay
-        staff_alias: Mabuchi Kaoru
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
@@ -92,7 +100,6 @@ works:
     slug: adventure-of-kigan-castle-1966
     staff:
       - role: Screenplay
-        staff_alias: Mabuchi Kaoru
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
@@ -100,7 +107,6 @@ works:
     slug: war-of-the-gargantuas-1966
     staff:
       - role: Screenplay
-        staff_alias: Mabuchi Kaoru
     title: War of the Gargantuas
     year: 1966
   - format: film
@@ -108,7 +114,6 @@ works:
     slug: king-kong-escapes-1967
     staff:
       - role: Screenplay
-        staff_alias: Mabuchi Kaoru
     title: King Kong Escapes
     year: 1967
   - format: film
@@ -116,7 +121,6 @@ works:
     slug: destroy-all-monsters-1968
     staff:
       - role: Screenplay
-        staff_alias: Mabuchi Kaoru
     title: Destroy All Monsters
     year: 1968
   - format: film
@@ -124,13 +128,12 @@ works:
     slug: godzilla-vs-hedorah-1971
     staff:
       - role: Screenplay
-        staff_alias: Mabuchi Kaoru
     title: Godzilla vs. Hedorah
     year: 1971
 ---
 
-Born in Osaka, Kimura Takeshi (real name Mabuchi Kaoru) was a prolific screenwriter whose career was defined by a long and fruitful collaboration with director Honda Ishirô. A former member of the Japanese Communist Party who had been active in the 1930s, Kimura brought a distinct political consciousness and cynical edge to his scripts.
+Born in Osaka, Mabuchi Kaoru was a prolific screenwriter whose career was defined by a long and fruitful collaboration with director Honda Ishirô. A former member of the Japanese Communist Party who had been active in the 1930s, Mabuchi brought a distinct political consciousness and cynical edge to his scripts.
 
-His work is often contrasted with the lighter, more optimistic tone of his contemporary Sekizawa Shin'ichi. Kimura's scripts, such as _The Mysterians_ (1957) and _The Human Vapor_ (1960), frequently featured darker themes and tragic characters. He cited the atmospheric horror film _Matango_ (1963) as his best work.
+His work is often contrasted with the lighter, more optimistic tone of his contemporary Sekizawa Shin'ichi. Mabuchi's scripts, such as _The Mysterians_ (1957) and _The Human Vapor_ (1960), frequently featured darker themes and tragic characters. He cited the atmospheric horror film _Matango_ (1963) as his best work.
 
-Despite his success in the genre, Kimura reportedly had little personal affection for kaiju films, viewing them primarily as work. From 1965 onwards, beginning with _Frankenstein Conquers the World_, he began crediting himself under his real name, Mabuchi Kaoru, which he felt offered him a degree of anonymity.
+Despite his success in the genre, Mabuchi reportedly had little personal affection for kaiju films, viewing them primarily as work. From 1965 onwards, beginning with _Frankenstein Conquers the World_, he abandoned his alias -- Kimura Takeshi -- and instead credited himself under his real name, which he felt offered him a degree of anonymity.

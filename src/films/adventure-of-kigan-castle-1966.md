@@ -26,9 +26,8 @@ staff:
       - name: Nezu Hiroshi
     role: Assistant Producer
   - people:
-      - alias: Mabuchi Kaoru
-        name: Kimura Takeshi
-        slug: kimura-takeshi
+      - name: Mabuchi Kaoru
+        slug: mabuchi-kaoru
     role: Screenplay
   - people:
       - name: Yamada Kazuo
