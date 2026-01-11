@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/adventures-of-zatoichi-1964/posters/poster.webp
+poster_url: /static/images/films/posters/adventures-of-zatoichi-1964.webp
 release_date: 1964-12-30
 runtime: 86
 series:

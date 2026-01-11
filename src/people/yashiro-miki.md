@@ -12,7 +12,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/matango-1963.webp
     roles:
       - name: Sôma Akiko
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: Schoolteacher
         uncredited: false

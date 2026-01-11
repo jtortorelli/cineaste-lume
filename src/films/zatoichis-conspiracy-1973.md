@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichis-conspiracy-1973/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichis-conspiracy-1973.webp
 release_date: 1973-04-21
 runtime: 88
 series:

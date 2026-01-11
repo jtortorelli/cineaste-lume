@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Gangster
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:
       - name: Yakumo
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/human-vapor-1960.webp
     roles:
       - name: Detective Fujita
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Sanada
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
     roles:
       - name: Coast Guard
         uncredited: false

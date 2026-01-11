@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-raids-again-1955.webp
     roles:
       - name: Policeman
         uncredited: true
@@ -22,7 +22,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-iii-duel-at-ganryu-island-1956.webp
     roles:
       - name: Bearer in Procession
         uncredited: true
@@ -30,7 +30,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:
       - name: Soldier
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Akizuki Guard
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Detective Seki
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     roles:
       - name: Sudô
         uncredited: false
@@ -62,7 +62,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/daredevil-in-the-castle-1961.webp
     roles:
       - name: Ujiya Hyôgo
         uncredited: false
@@ -72,11 +72,11 @@ works:
   - title: Young Guy in Hawaii
     year: 1963
     format: film
-    poster_url: /static/images/films/young-guy-in-hawaii-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/young-guy-in-hawaii-1963.webp
     roles:
       - name: Hiraiwa
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/lost-world-of-sinbad-1963.webp
     roles:
       - name: The Chancellor
         uncredited: false
@@ -84,7 +84,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
       - name: Ensai
         uncredited: false
@@ -92,7 +92,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.webp
+    poster_url: /static/images/films/posters/submersion-of-japan-1973.webp
     roles:
       - name: Kunieda
         uncredited: false
@@ -100,7 +100,7 @@ works:
     title: Submersion of Japan
     year: 1973
   - format: film
-    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.webp
+    poster_url: /static/images/films/posters/terror-of-mechagodzilla-1975.webp
     roles:
       - name: Chief Tagawa
         uncredited: false

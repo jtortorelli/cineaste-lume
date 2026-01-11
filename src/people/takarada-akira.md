@@ -16,7 +16,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: "/static/images/films/godzilla-1954/posters/poster.webp"
+    poster_url: "/static/images/films/posters/godzilla-1954.webp"
     roles:
       - name: Ogata Hideto
         uncredited: false
@@ -24,7 +24,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: "/static/images/films/three-treasures-1959/posters/poster.webp"
+    poster_url: "/static/images/films/posters/three-treasures-1959.webp"
     roles:
       - name: Prince Wakatarashi
         uncredited: false
@@ -32,19 +32,19 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: "/static/images/films/salaryman-chushingura-1960/posters/poster.webp"
+    poster_url: "/static/images/films/posters/salaryman-chushingura-1960.webp"
     title: Salaryman Chushingura
     year: 1960
     roles:
       - name: Hayano Kanpei
   - format: film
-    poster_url: "/static/images/films/salaryman-chushingura-part-ii-1961/posters/poster.webp"
+    poster_url: "/static/images/films/posters/salaryman-chushingura-part-ii-1961.webp"
     title: "Salaryman Chushingura: Part II"
     year: 1961
     roles:
       - name: Hayano Kanpei
   - format: film
-    poster_url: "/static/images/films/last-war-1961/posters/poster.webp"
+    poster_url: "/static/images/films/posters/last-war-1961.webp"
     roles:
       - name: Takano
         uncredited: false
@@ -52,13 +52,13 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: "/static/images/films/shimizu-port-salaryman-part-ii-1962/posters/poster.webp"
+    poster_url: "/static/images/films/posters/shimizu-port-salaryman-part-ii-1962.webp"
     title: "Shimizu Port Salaryman: Part II"
     year: 1962
     roles:
       - name: Kanda Chôkichi
   - format: film
-    poster_url: "/static/images/films/mothra-vs-godzilla-1964/posters/poster.webp"
+    poster_url: "/static/images/films/posters/mothra-vs-godzilla-1964.webp"
     roles:
       - name: Sakai Ichirô
         uncredited: false
@@ -66,7 +66,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: "/static/images/films/invasion-of-astro-monster-1965/posters/poster.webp"
+    poster_url: "/static/images/films/posters/invasion-of-astro-monster-1965.webp"
     roles:
       - name: Astronaut Fuji Kazuo
         uncredited: false
@@ -74,7 +74,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: "/static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp"
+    poster_url: "/static/images/films/posters/ebirah-horror-of-the-deep-1966.webp"
     roles:
       - name: Yoshimura
         uncredited: false
@@ -82,7 +82,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: "/static/images/films/king-kong-escapes-1967/posters/poster.webp"
+    poster_url: "/static/images/films/posters/king-kong-escapes-1967.webp"
     roles:
       - name: Lieutenant Nomura Jirô
         uncredited: false
@@ -90,7 +90,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: "/static/images/films/latitude-zero-1969/posters/poster.webp"
+    poster_url: "/static/images/films/posters/latitude-zero-1969.webp"
     roles:
       - name: Tashiro Ken
         uncredited: false
@@ -100,7 +100,7 @@ works:
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: "/static/images/films/godzilla-vs-mothra-1992/posters/poster.webp"
+    poster_url: "/static/images/films/posters/godzilla-vs-mothra-1992.webp"
     roles:
       - name: Minamino Jôji
         uncredited: false
@@ -108,7 +108,7 @@ works:
     title: Godzilla vs. Mothra
     year: 1992
   - format: film
-    poster_url: "/static/images/films/godzilla-final-wars-2004/posters/poster.webp"
+    poster_url: "/static/images/films/posters/godzilla-final-wars-2004.webp"
     roles:
       - name: Secretary General Daigo Naotarô
         uncredited: false

@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 宇宙からのメッセージ
-poster_url: /static/images/films/message-from-space-1978/posters/poster.webp
+poster_url: /static/images/films/posters/message-from-space-1978.webp
 release_date: 1978-04-29
 runtime: 105
 staff:

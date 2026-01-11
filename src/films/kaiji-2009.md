@@ -10,7 +10,7 @@ original_works:
     format: manga
     slug: kaiji
     title: Kaiji
-poster_url: /static/images/films/kaiji-2009/posters/poster.webp
+poster_url: /static/images/films/posters/kaiji-2009.webp
 release_date: 2009-10-10
 runtime: 129
 series:

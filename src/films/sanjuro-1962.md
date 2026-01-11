@@ -7,7 +7,7 @@ original_works:
     format: screenplay
     slug: everyday-peace
     title: Everyday Peace
-poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
+poster_url: /static/images/films/posters/sanjuro-1962.webp
 release_date: 1962-01-01
 runtime: 96
 series:

@@ -17,7 +17,7 @@ kaiju:
       - people:
           - name: Itô Makoto
         type: Suit Actor
-poster_url: /static/images/films/godzilla-2000-millennium-1999/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-2000-millennium-1999.webp
 release_date: 1999-12-11
 runtime: 108
 series:

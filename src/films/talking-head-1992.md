@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: トーキング・ヘッド
-poster_url: /static/images/films/talking-head-1992/posters/poster.webp
+poster_url: /static/images/films/posters/talking-head-1992.webp
 release_date: 1992-10-10
 runtime: 105
 staff:

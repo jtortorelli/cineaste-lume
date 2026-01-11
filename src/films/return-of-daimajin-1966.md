@@ -11,7 +11,7 @@ kaiju:
       - people:
           - name: Hashimoto Chikara
         type: Suit Actor
-poster_url: /static/images/films/return-of-daimajin-1966/posters/poster.webp
+poster_url: /static/images/films/posters/return-of-daimajin-1966.webp
 release_date: 1966-08-13
 runtime: 79
 series:

@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 世界大戦争
-poster_url: /static/images/films/last-war-1961/posters/poster.webp
+poster_url: /static/images/films/posters/last-war-1961.webp
 release_date: 1961-10-08
 runtime: 110
 staff:

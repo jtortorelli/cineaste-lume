@@ -16,7 +16,7 @@ kaiju:
           - name: Sekita Hiroshi
             slug: sekita-hiroshi
         type: Suit Actor
-poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
+poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
 release_date: 1966-07-31
 runtime: 88
 series:

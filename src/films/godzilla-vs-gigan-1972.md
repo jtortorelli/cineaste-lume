@@ -31,7 +31,7 @@ kaiju:
           - alias: Nakayama Kengo
             name: Satsuma Kenpachirô
         type: Suit Actor
-poster_url: /static/images/films/godzilla-vs-gigan-1972/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-vs-gigan-1972.webp
 release_date: 1972-03-12
 runtime: 89
 series:

@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/seven-samurai-1954.webp
     roles:
       - name: Samurai
         uncredited: true
@@ -20,7 +20,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-1954.webp
     roles:
       - name: Countermeasures Staff
         uncredited: true
@@ -28,7 +28,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/invisible-man-1954.webp
     roles:
       - name: Advertising Company Clerk
         uncredited: true
@@ -38,7 +38,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:
       - name: Pilot
         uncredited: true
@@ -46,7 +46,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Yamana River Guard
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Police Executive
         uncredited: true
@@ -64,7 +64,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:
       - name: Utte Villager
         uncredited: true
@@ -72,7 +72,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:
       - name: UN Official
         uncredited: true
@@ -80,7 +80,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     roles:
       - name: Nightclub Waiter
         uncredited: true
@@ -88,7 +88,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/human-vapor-1960.webp
     roles:
       - name: Bank Official
         uncredited: true
@@ -96,7 +96,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Audience Member
         uncredited: false
@@ -106,7 +106,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     roles:
       - name: Official
         uncredited: true
@@ -114,7 +114,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
     roles:
       - name: Scientist
         uncredited: true
@@ -122,7 +122,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/high-and-low-1963.webp
     roles:
       - name: Man at Crime Scene
         uncredited: true
@@ -130,7 +130,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/matango-1963.webp
     roles:
       - name: Official
         uncredited: false
@@ -138,7 +138,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: Military Officer
         uncredited: true
@@ -146,7 +146,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: Reporter
         uncredited: true
@@ -154,7 +154,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     roles:
       - name: Coal Plant Witness
         uncredited: true
@@ -162,7 +162,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: Serginan on Plane
         uncredited: true
@@ -174,7 +174,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/frankenstein-conquers-the-world-1965.webp
     roles:
       - name: Reporter
         uncredited: true
@@ -182,7 +182,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/invasion-of-astro-monster-1965.webp
     roles:
       - name: Scientist
         uncredited: true
@@ -190,7 +190,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-escapes-1967.webp
     roles:
       - name: Military Officer
         uncredited: true
@@ -198,7 +198,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: UNSC Personnel
         uncredited: true
@@ -207,8 +207,16 @@ works:
     year: 1968
 ---
 
-A prolific Toho contract player, Hinata Kazuo was a fixture in the studio's special effects productions of the 1950s and 60s. He was frequently typecast in "observer" roles, often appearing in the background as a reporter, military officer, or scientist reacting to the monster of the week.
+A prolific Toho contract player, Hinata Kazuo was a fixture in the studio's
+special effects productions of the 1950s and 60s. He was frequently typecast in
+"observer" roles, often appearing in the background as a reporter, military
+officer, or scientist reacting to the monster of the week.
 
-His acting career ended in 1971 with the dismantling of Toho's exclusive actor system. Unlike many contemporaries who sought work elsewhere, he reportedly served as a union leader during the negotiations, advocating for retirement allowances for the dismissed actors. He retired from the industry following these events, and his subsequent activities are unknown.
+His acting career ended in 1971 with the dismantling of Toho's exclusive actor
+system. Unlike many contemporaries who sought work elsewhere, he reportedly
+served as a union leader during the negotiations, advocating for retirement
+allowances for the dismissed actors. He retired from the industry following
+these events, and his subsequent activities are unknown.
 
-According to Japanese Wikipedia, his hobbies included swimming and oil painting, and his blood type was A.
+According to Japanese Wikipedia, his hobbies included swimming and oil painting,
+and his blood type was A.

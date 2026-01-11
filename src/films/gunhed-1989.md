@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: ガンヘッド
-poster_url: /static/images/films/gunhed-1989/posters/poster.webp
+poster_url: /static/images/films/posters/gunhed-1989.webp
 release_date: 1989-07-22
 runtime: 100
 staff:

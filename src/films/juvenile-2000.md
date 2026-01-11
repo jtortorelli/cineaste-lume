@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: ジュブナイル
-poster_url: /static/images/films/juvenile-2000/posters/poster.webp
+poster_url: /static/images/films/posters/juvenile-2000.webp
 release_date: 2000-07-15
 runtime: 105
 staff:

@@ -7,7 +7,7 @@ original_works:
     format: serialized novel
     slug: daredevil-in-the-castle
     title:
-poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
+poster_url: /static/images/films/posters/daredevil-in-the-castle-1961.webp
 release_date: 1961-01-03
 runtime: 95
 series:

@@ -6,7 +6,7 @@ original_works:
     format: anime
     slug: science-ninja-team-gatchaman
     title: Science Ninja Team Gatchaman
-poster_url: /static/images/films/gatchaman-2013/posters/poster.webp
+poster_url: /static/images/films/posters/gatchaman-2013.webp
 release_date: 2013-08-24
 runtime: 113
 staff:

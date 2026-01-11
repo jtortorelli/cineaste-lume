@@ -7,7 +7,7 @@ original_works:
     format: novel series
     slug: onmyoji
     title: Onmyoji
-poster_url: /static/images/films/onmyoji-2001/posters/poster.webp
+poster_url: /static/images/films/posters/onmyoji-2001.webp
 release_date: 2001-10-06
 runtime: 116
 staff:

@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: to-the-ends-of-the-earth-and-sea
     title: "To the Ends of the Earth and Sea: A Novel of Genghis Khan"
-poster_url: /static/images/films/genghis-khan-to-the-ends-of-the-earth-and-sea-2007/posters/poster.webp
+poster_url: /static/images/films/posters/genghis-khan-to-the-ends-of-the-earth-and-sea-2007.webp
 release_date: 2007-03-03
 runtime: 136
 staff:

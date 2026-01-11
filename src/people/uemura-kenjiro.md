@@ -13,7 +13,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/invisible-man-1954.webp
     roles:
       - name: Ken
         uncredited: false
@@ -21,7 +21,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/zatoichi-and-the-chest-of-gold-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/zatoichi-and-the-chest-of-gold-1964.webp
     roles:
       - name: Matsui
         uncredited: false

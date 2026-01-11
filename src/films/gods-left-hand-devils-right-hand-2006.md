@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: gods-left-hand-devils-right-hand
     title: "God's Left Hand, Devil's Right Hand"
-poster_url: /static/images/films/gods-left-hand-devils-right-hand-2006/posters/poster.webp
+poster_url: /static/images/films/posters/gods-left-hand-devils-right-hand-2006.webp
 release_date: 2006-07-22
 runtime: 95
 staff:

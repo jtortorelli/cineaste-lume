@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichi-and-the-chest-of-gold-1964/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichi-and-the-chest-of-gold-1964.webp
 release_date: 1964-03-14
 runtime: 83
 series:

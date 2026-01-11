@@ -6,7 +6,7 @@ original_works:
     studios:
       - name: Tatsunoko Production Co., Ltd.
     title: Casshern
-poster_url: /static/images/films/casshern-2004/posters/poster.webp
+poster_url: /static/images/films/posters/casshern-2004.webp
 release_date: 2004-04-24
 runtime: 141
 staff:

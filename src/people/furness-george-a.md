@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:
       - name: Doctor Svenson
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: UN Ambassador
         uncredited: false
@@ -29,6 +29,14 @@ works:
     year: 1962
 ---
 
-George A. Furness was an American lawyer who played a significant role in post-war Japan. A former Major in the United States Army, he served as a defense counsel during the International Military Tribunal for the Far East (the Tokyo Trials). He is most noted for his defense of former Foreign Minister Shigemitsu Mamoru, who received a relatively light sentence and later returned to politics.
+George A. Furness was an American lawyer who played a significant role in
+post-war Japan. A former Major in the United States Army, he served as a defense
+counsel during the International Military Tribunal for the Far East (the Tokyo
+Trials). He is most noted for his defense of former Foreign Minister Shigemitsu
+Mamoru, who received a relatively light sentence and later returned to politics.
 
-After the trials, Furness remained in Japan and established a private law practice. Although not a professional actor, his dignified presence and fluency in English made him a go-to choice for roles requiring Western authority figures. He notably appeared as Dr. Svenson in *The Mysterians* (1957) and as a UN representative in *Gorath* (1962).
+After the trials, Furness remained in Japan and established a private law
+practice. Although not a professional actor, his dignified presence and fluency
+in English made him a go-to choice for roles requiring Western authority
+figures. He notably appeared as Dr. Svenson in _The Mysterians_ (1957) and as a
+UN representative in _Gorath_ (1962).

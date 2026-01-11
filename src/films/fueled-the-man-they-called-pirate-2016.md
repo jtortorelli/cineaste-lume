@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: man-they-called-pirate
     title: The Man They Called Pirate
-poster_url: /static/images/films/fueled-the-man-they-called-pirate-2016/posters/poster.webp
+poster_url: /static/images/films/posters/fueled-the-man-they-called-pirate-2016.webp
 release_date: 2016-12-10
 runtime: 145
 staff:

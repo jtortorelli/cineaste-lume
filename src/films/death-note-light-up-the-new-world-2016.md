@@ -8,7 +8,7 @@ original_works:
     format: manga
     slug: death-note
     title: Death Note
-poster_url: /static/images/films/death-note-light-up-the-new-world-2016/posters/poster.webp
+poster_url: /static/images/films/posters/death-note-light-up-the-new-world-2016.webp
 release_date: 2016-10-29
 runtime: 135
 series:

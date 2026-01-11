@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: azumi
     title: Azumi
-poster_url: /static/images/films/azumi-2-death-or-love-2005/posters/poster.webp
+poster_url: /static/images/films/posters/azumi-2-death-or-love-2005.webp
 release_date: 2005-03-12
 runtime: 112
 series:

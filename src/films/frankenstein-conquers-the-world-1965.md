@@ -12,7 +12,7 @@ kaiju:
           - name: Nakajima Haruo
             slug: nakajima-haruo
         type: Suit Actor
-poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
+poster_url: /static/images/films/posters/frankenstein-conquers-the-world-1965.webp
 release_date: 1965-08-08
 runtime: 94
 series:

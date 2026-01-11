@@ -9,7 +9,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Spaceship Crew
         uncredited: false
@@ -17,7 +17,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/high-and-low-1963.webp
     roles:
       - name: Dining Car Waiter
         uncredited: true
@@ -25,7 +25,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: Cargo Ship Crew
         uncredited: true
@@ -33,7 +33,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: Islander
         uncredited: true
@@ -41,7 +41,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/ebirah-horror-of-the-deep-1966.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -49,7 +49,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
     roles:
       - name: Ozawa
         uncredited: false
@@ -57,7 +57,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: Moon Base Personnel
         uncredited: false
@@ -65,4 +65,8 @@ works:
     title: Destroy All Monsters
     year: 1968
 ---
-Actor with boyish features who began appearing in science fiction films and television just before the genre peaked in the late 60s. He has no credits following _Destroy All Monsters_ (1968) and it's believed that he quit acting after Toho's contract system expired.
+
+Actor with boyish features who began appearing in science fiction films and
+television just before the genre peaked in the late 60s. He has no credits
+following _Destroy All Monsters_ (1968) and it's believed that he quit acting
+after Toho's contract system expired.

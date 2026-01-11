@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 風の谷のナウシカ
-poster_url: /static/images/films/nausicaa-of-the-valley-of-the-wind-1984/posters/poster.webp
+poster_url: /static/images/films/posters/nausicaa-of-the-valley-of-the-wind-1984.webp
 release_date: 1984-03-11
 runtime: 116
 staff:

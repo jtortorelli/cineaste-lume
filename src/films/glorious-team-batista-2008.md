@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: glorious-team-batista
     title: The Glorious Team Batista
-poster_url: /static/images/films/glorious-team-batista-2008/posters/poster.webp
+poster_url: /static/images/films/posters/glorious-team-batista-2008.webp
 release_date: 2008-02-09
 runtime: 118
 series:

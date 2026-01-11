@@ -7,7 +7,7 @@ original_works:
     format: screenplay
     slug: 13-assassins
     title:
-poster_url: /static/images/films/13-assassins-2010/posters/poster.webp
+poster_url: /static/images/films/posters/13-assassins-2010.webp
 release_date: 2010-09-25
 runtime: 141
 staff:

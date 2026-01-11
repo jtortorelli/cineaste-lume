@@ -13,7 +13,7 @@ profession: Suit Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/lost-world-of-sinbad-1963.webp
     roles:
       - name: Dwarf Servant
         uncredited: true
@@ -21,7 +21,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
     roles:
       - name: Minilla
         qualifiers:
@@ -31,7 +31,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: Minilla
         qualifiers:
@@ -41,7 +41,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
+    poster_url: /static/images/films/posters/all-monsters-attack-1969.webp
     roles:
       - name: Minilla
         qualifiers:
@@ -51,7 +51,7 @@ works:
     title: All Monsters Attack
     year: 1969
   - format: film
-    poster_url: /static/images/films/pulgasari-1985/posters/poster.webp
+    poster_url: /static/images/films/posters/pulgasari-1985.webp
     roles:
       - name: Infant Pulgasari
         qualifiers:
@@ -60,10 +60,14 @@ works:
     title: Pulgasari
     year: 1985
 ---
-Diminuitive actor, active in theater, both in drama and comedy. Reportedly an accomplished tap dancer.
 
-Most famous for his portrayal of Minilla, the Son of Godzilla, in several films in the late 60s and early 70s. He was 46 when he took on the role initially.
+Diminuitive actor, active in theater, both in drama and comedy. Reportedly an
+accomplished tap dancer.
+
+Most famous for his portrayal of Minilla, the Son of Godzilla, in several films
+in the late 60s and early 70s. He was 46 when he took on the role initially.
 
 His popularity extended to Taiwan and across Southeast Asia.
 
-He made an uncredited appearance as the infant monster in the North Korean oddity <i>Pulgasari</i> (1985).
+He made an uncredited appearance as the infant monster in the North Korean
+oddity <i>Pulgasari</i> (1985).

@@ -8,7 +8,7 @@ original_works:
     format: manga
     slug: lady-snowblood
     title: Lady Snowblood
-poster_url: /static/images/films/princess-blade-2001/posters/poster.webp
+poster_url: /static/images/films/posters/princess-blade-2001.webp
 release_date: 2001-12-15
 runtime: 93
 staff:

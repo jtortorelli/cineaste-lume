@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 隠し砦の三悪人 THE LAST PRINCESS
-poster_url: /static/images/films/hidden-fortress-the-last-princess-2008/posters/poster.webp
+poster_url: /static/images/films/posters/hidden-fortress-the-last-princess-2008.webp
 release_date: 2008-05-10
 runtime: 118
 staff:

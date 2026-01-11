@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     roles:
       - name: Ebara
         uncredited: false

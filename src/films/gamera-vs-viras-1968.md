@@ -18,7 +18,7 @@ kaiju:
           - name: Wakayama Genzô
         type: Voice
       - type: Suit Actor
-poster_url: /static/images/films/gamera-vs-viras-1968/posters/poster.webp
+poster_url: /static/images/films/posters/gamera-vs-viras-1968.webp
 release_date: 1968-03-20
 runtime: 72
 series:

@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/yojimbo-1961.webp
     roles:
       - name: Seibei Underling
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     roles:
       - name: Helicopter Crew
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
       - name: Palace Guard
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-escapes-1967.webp
     roles:
       - name: Who Henchman
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: Special Police
         uncredited: false
@@ -58,7 +58,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/godzilla-vs-gigan-1972/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-gigan-1972.webp
     roles:
       - name: Policeman
         uncredited: false
@@ -66,10 +66,14 @@ works:
     title: Godzilla vs. Gigan
     year: 1972
 ---
-Kusakawa was born in Manchuria during the Japanese occupation, and spoke fluent Chinese.
 
-Became an exclusive contract actor for Toho in 1959 and appeared in a variety of films, usually as a villain or a henchman.
+Kusakawa was born in Manchuria during the Japanese occupation, and spoke fluent
+Chinese.
+
+Became an exclusive contract actor for Toho in 1959 and appeared in a variety of
+films, usually as a villain or a henchman.
 
 Dropped out of acting in 1970 when Toho's contract system dissolved.
 
-According to actor Amamoto Hideyo's memoirs, Kusakawa became a priest after his retirement.
+According to actor Amamoto Hideyo's memoirs, Kusakawa became a priest after his
+retirement.

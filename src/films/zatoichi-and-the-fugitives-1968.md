@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichi-and-the-fugitives-1968/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichi-and-the-fugitives-1968.webp
 release_date: 1968-08-10
 runtime: 82
 series:

@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 吸血鬼ゴケミドロ
-poster_url: /static/images/films/goke-body-snatcher-from-hell-1968/posters/poster.webp
+poster_url: /static/images/films/posters/goke-body-snatcher-from-hell-1968.webp
 release_date: 1968-08-14
 runtime: 84
 staff:

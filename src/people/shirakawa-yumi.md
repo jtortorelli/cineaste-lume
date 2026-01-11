@@ -18,7 +18,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/rodan-1956.webp
     roles:
       - name: Kiyo
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:
       - name: Shiraishi Etsuko
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Arai Chikako
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     roles:
       - name: Chûjô Akiko
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     roles:
       - name: Ebara Sanae
         uncredited: false
@@ -58,7 +58,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Sonoda Tomoko
         uncredited: false
@@ -66,7 +66,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
       - name: The Queen
         uncredited: false

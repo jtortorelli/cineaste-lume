@@ -14,7 +14,7 @@ kaiju:
       - people:
           - name: Katô Hisashi
         type: Suit Actor
-poster_url: /static/images/films/daigoro-vs-goliath-1972/posters/poster.webp
+poster_url: /static/images/films/posters/daigoro-vs-goliath-1972.webp
 release_date: 1972-12-17
 runtime: 85
 staff:

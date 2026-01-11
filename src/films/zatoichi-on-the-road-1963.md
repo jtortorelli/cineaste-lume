@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichi-on-the-road-1963/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichi-on-the-road-1963.webp
 release_date: 1963-11-30
 runtime: 88
 series:

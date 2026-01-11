@@ -13,7 +13,7 @@ profession: Producer
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-escapes-1967.webp
     slug: king-kong-escapes-1967
     staff:
       - role: Technical Adviser

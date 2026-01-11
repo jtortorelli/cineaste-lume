@@ -17,7 +17,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-i-musashi-miyamoto-1954.webp
     roles:
       - name: Yoshioka Seijûrô
         uncredited: false
@@ -25,7 +25,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-1954.webp
     roles:
       - name: Doctor Serizawa Daisuke
         uncredited: false
@@ -33,7 +33,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-ii-duel-at-ichijoji-temple-1955.webp
     roles:
       - name: Yoshioka Seijûrô
         uncredited: false
@@ -41,13 +41,13 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: /static/images/films/enthusiastic-president-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/enthusiastic-president-1956.webp
     roles:
       - name: Sengoku Takao
     title: Enthusiastic President
     year: 1956
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/rodan-1956.webp
     roles:
       - name: Doctor Kashiwagi
         uncredited: false
@@ -55,7 +55,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:
       - name: Doctor Shiraishi Ryôichi
         uncredited: false
@@ -63,7 +63,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/varan-the-unbelievable-1958.webp
     roles:
       - name: Doctor Fujimura
         uncredited: false
@@ -71,7 +71,7 @@ works:
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Detective Tominaga
         uncredited: false
@@ -79,7 +79,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:
       - name: Takehiko
         uncredited: false
@@ -87,7 +87,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     roles:
       - name: Detective Kobayashi
         uncredited: false
@@ -95,7 +95,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/daredevil-in-the-castle-1961.webp
     roles:
       - name: Susukida Kanesuke
         uncredited: false
@@ -103,7 +103,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Doctor
         uncredited: false
@@ -111,7 +111,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/sanjuro-1962.webp
     roles:
       - name: Terada Bunji
         uncredited: false
@@ -119,7 +119,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Captain Endô
         uncredited: false
@@ -127,7 +127,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
     roles:
       - name: Minister Shigezawa
         uncredited: false
@@ -137,11 +137,11 @@ works:
   - title: Young Guy in Hawaii
     year: 1963
     format: film
-    poster_url: /static/images/films/young-guy-in-hawaii-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/young-guy-in-hawaii-1963.webp
     roles:
       - name: Professor Toida
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: Mû Agent No. 23
         uncredited: false
@@ -149,7 +149,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/whirlwind-1964.webp
     roles:
       - name: Soga Matazaemon
         uncredited: false
@@ -157,7 +157,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: Chief Okita
         uncredited: false
@@ -165,7 +165,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
       - name: The Chamberlain
         uncredited: false
@@ -173,7 +173,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/ebirah-horror-of-the-deep-1966.webp
     roles:
       - name: Captain Yamato
         uncredited: false
@@ -181,7 +181,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
     roles:
       - name: Fujisaki
         uncredited: false
@@ -189,7 +189,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
+    poster_url: /static/images/films/posters/latitude-zero-1969.webp
     roles:
       - name: Doctor Sugata
         uncredited: false
@@ -204,7 +204,7 @@ works:
     title_card_url: /static/images/tv-series/warrior-of-love-rainbowman-1972/title-cards/Ai%20no%20Senshi%20Reinbooman.webp
     year: 1972
   - format: film
-    poster_url: /static/images/films/godzilla-vs-mechagodzilla-1974/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-mechagodzilla-1974.webp
     roles:
       - name: Doctor Miyajima Hideto
         uncredited: false
@@ -212,7 +212,7 @@ works:
     title: Godzilla vs. Mechagodzilla
     year: 1974
   - format: film
-    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.webp
+    poster_url: /static/images/films/posters/prophecies-of-nostradamus-1974.webp
     roles:
       - name: Environmental Scientist
         uncredited: false
@@ -220,7 +220,7 @@ works:
     title: Prophecies of Nostradamus
     year: 1974
   - format: film
-    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.webp
+    poster_url: /static/images/films/posters/terror-of-mechagodzilla-1975.webp
     roles:
       - name: Doctor Mafune Shinzô
         uncredited: false
@@ -228,7 +228,7 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
   - format: film
-    poster_url: /static/images/films/war-in-space-1977/posters/poster.webp
+    poster_url: /static/images/films/posters/war-in-space-1977.webp
     roles:
       - name: Defense Force Commander Ôishi
         uncredited: false
@@ -243,7 +243,7 @@ works:
     title_card_url: /static/images/tv-series/star-wolf-1978/title-cards/Star%20Wolf%20OP.webp
     year: 1978
   - format: film
-    poster_url: /static/images/films/sayonara-jupiter-1984/posters/poster.webp
+    poster_url: /static/images/films/posters/sayonara-jupiter-1984.webp
     roles:
       - name: Doctor Inoue
         uncredited: false
@@ -252,12 +252,32 @@ works:
     year: 1984
 ---
 
-An intellectual and distinguished actor, Hirata Akihiko brought a sense of gravity to his roles, making him a perfect fit for the scientists and military officials he frequently portrayed.
+An intellectual and distinguished actor, Hirata Akihiko brought a sense of
+gravity to his roles, making him a perfect fit for the scientists and military
+officials he frequently portrayed.
 
-Born in Gyeongseong (Seoul) during the Japanese occupation of Korea, he was educated at the prestigious Tokyo University, where he graduated from the Faculty of Law. He briefly worked in the business world at a trading company that would become Mitsubishi Corporation before leaving to pursue acting, joining the Haiyuza theater group in 1947.
+Born in Gyeongseong (Seoul) during the Japanese occupation of Korea, he was
+educated at the prestigious Tokyo University, where he graduated from the
+Faculty of Law. He briefly worked in the business world at a trading company
+that would become Mitsubishi Corporation before leaving to pursue acting,
+joining the Haiyuza theater group in 1947.
 
-He entered the film industry as part of Toho's 5th "New Face" class in 1953, where he met his lifelong friend Sahara Kenji. He is immortalized in film history for his role as the tormented Dr. Serizawa in the original _Godzilla_ (1954). The eyepatch he wore for the role became iconic; he donned it again for a self-referential role in _Ebirah, Horror of the Deep_ (1966) and even wore it to the press conference announcing _The Return of Godzilla_ (1984). He was slated to star in that film, but his declining health forced him to withdraw, and he passed away from lymphangiectasia shortly before filming began.
+He entered the film industry as part of Toho's 5th "New Face" class in 1953,
+where he met his lifelong friend Sahara Kenji. He is immortalized in film
+history for his role as the tormented Dr. Serizawa in the original _Godzilla_
+(1954). The eyepatch he wore for the role became iconic; he donned it again for
+a self-referential role in _Ebirah, Horror of the Deep_ (1966) and even wore it
+to the press conference announcing _The Return of Godzilla_ (1984). He was
+slated to star in that film, but his declining health forced him to withdraw,
+and he passed away from lymphangiectasia shortly before filming began.
 
-His career at Toho was prolific, appearing in nearly every major _kaiju_ franchise, including _Rodan_ (1956), _The Mysterians_ (1957), _Mothra_ (1961), and _Terror of Mechagodzilla_ (1975). He often played the "monster killer," the scientist who devises the solution to the threat. Beyond special effects films, he worked with Kurosawa Akira in _Sanjuro_ (1962) and commanded the screen as the villainous Mr. K in the cult TV series _Warrior of Love Rainbowman_ (1972).
+His career at Toho was prolific, appearing in nearly every major _kaiju_
+franchise, including _Rodan_ (1956), _The Mysterians_ (1957), _Mothra_ (1961),
+and _Terror of Mechagodzilla_ (1975). He often played the "monster killer," the
+scientist who devises the solution to the threat. Beyond special effects films,
+he worked with Kurosawa Akira in _Sanjuro_ (1962) and commanded the screen as
+the villainous Mr. K in the cult TV series _Warrior of Love Rainbowman_ (1972).
 
-Western fans may also know him from his appearance in the _Star Wolf_ TV series, footage of which was re-edited into the _Fugitive Alien_ films and mocked on _Mystery Science Theater 3000_. He was married to fellow actress Kuga Yoshiko.
+Western fans may also know him from his appearance in the _Star Wolf_ TV series,
+footage of which was re-edited into the _Fugitive Alien_ films and mocked on
+_Mystery Science Theater 3000_. He was married to fellow actress Kuga Yoshiko.

@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     roles:
       - name: Truck Driver
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/ebirah-horror-of-the-deep-1966.webp
     roles:
       - name: Ichino
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
     roles:
       - name: Pilot
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: Ogata
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
+    poster_url: /static/images/films/posters/all-monsters-attack-1969.webp
     roles:
       - name: Detective
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: All Monsters Attack
     year: 1969
   - format: film
-    poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
+    poster_url: /static/images/films/posters/space-amoeba-1970.webp
     roles:
       - name: Yokoyama
         uncredited: false

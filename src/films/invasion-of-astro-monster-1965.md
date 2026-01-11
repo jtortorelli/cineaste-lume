@@ -28,7 +28,7 @@ kaiju:
           - name: Hirose Shôichi
             slug: hirose-shoichi
         type: Suit Actor
-poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
+poster_url: /static/images/films/posters/invasion-of-astro-monster-1965.webp
 release_date: 1965-12-19
 runtime: 94
 series:

@@ -19,7 +19,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-raids-again-1955.webp
     roles:
       - name: Yamaji Hidemi
         uncredited: false

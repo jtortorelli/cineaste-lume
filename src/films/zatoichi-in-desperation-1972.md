@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichi-in-desperation-1972/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichi-in-desperation-1972.webp
 release_date: 1972-09-02
 runtime: 95
 series:

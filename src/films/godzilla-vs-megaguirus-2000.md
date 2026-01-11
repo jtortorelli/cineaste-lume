@@ -13,7 +13,7 @@ kaiju:
     portrayals:
       - type: Puppet
       - type: CGI
-poster_url: /static/images/films/godzilla-vs-megaguirus-2000/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-vs-megaguirus-2000.webp
 release_date: 2000-12-16
 runtime: 105
 series:

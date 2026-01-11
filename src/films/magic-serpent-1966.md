@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 怪竜大決戦
-poster_url: /static/images/films/magic-serpent-1966/posters/poster.webp
+poster_url: /static/images/films/posters/magic-serpent-1966.webp
 release_date: 1966-12-21
 runtime: 94
 staff:

@@ -31,7 +31,7 @@ kaiju:
       - people:
           - name: Kusumi Kinichi
         type: Suit Actor
-poster_url: /static/images/films/godzilla-vs-mechagodzilla-1974/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-vs-mechagodzilla-1974.webp
 release_date: 1974-03-21
 runtime: 84
 series:

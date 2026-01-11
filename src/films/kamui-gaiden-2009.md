@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: kamui-gaiden
     title: Kamui Gaiden
-poster_url: /static/images/films/kamui-gaiden-2009/posters/poster.webp
+poster_url: /static/images/films/posters/kamui-gaiden-2009.webp
 release_date: 2009-09-19
 runtime: 120
 staff:

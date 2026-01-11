@@ -17,7 +17,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:
       - name: Dancing Goddess
         uncredited: false
@@ -25,7 +25,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     roles:
       - name: Tamura Yoshi
         uncredited: false

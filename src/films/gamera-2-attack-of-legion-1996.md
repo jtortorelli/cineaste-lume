@@ -28,7 +28,7 @@ kaiju:
           - name: Tamura Kôichi
           - name: Yoshida Mizuho
         type: Suit Actor
-poster_url: /static/images/films/gamera-2-attack-of-legion-1996/posters/poster.webp
+poster_url: /static/images/films/posters/gamera-2-attack-of-legion-1996.webp
 release_date: 1996-07-13
 runtime: 99
 series:

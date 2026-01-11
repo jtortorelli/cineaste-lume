@@ -10,7 +10,7 @@ original_works:
     format: short story
     slug: run-meros
     title: Run, Meros
-poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
 release_date: 1966-04-28
 runtime: 100
 staff:

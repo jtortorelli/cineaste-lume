@@ -18,7 +18,7 @@ kaiju:
           - name: Hirose Shôichi
             slug: hirose-shoichi
         type: Suit Actor
-poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
 release_date: 1962-08-11
 runtime: 97
 series:

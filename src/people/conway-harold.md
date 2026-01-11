@@ -13,7 +13,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:
       - name: Doctor DeGracia
         uncredited: false
@@ -21,7 +21,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:
       - name: Doctor Immelman
         uncredited: false
@@ -29,7 +29,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Rolisican Ambassador
         uncredited: false
@@ -37,7 +37,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     roles:
       - name: Federation Missile Commander
         uncredited: false
@@ -45,7 +45,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
     roles:
       - name: Scientist
         uncredited: false
@@ -53,7 +53,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: Military Advisor
         qualifiers:
@@ -70,7 +70,7 @@ works:
     title: Ultraman
     year: 1966
   - format: film
-    poster_url: /static/images/films/goke-body-snatcher-from-hell-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/goke-body-snatcher-from-hell-1968.webp
     roles:
       - name: UK Ambassador
         qualifiers:
@@ -80,7 +80,7 @@ works:
     title: Goke, Body Snatcher from Hell
     year: 1968
   - format: film
-    poster_url: /static/images/films/genocide-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/genocide-1968.webp
     roles:
       - name: USAF Officer
         uncredited: false
@@ -89,10 +89,19 @@ works:
     year: 1968
 ---
 
-Harold Conway was an American businessman who worked as a tax accountant in Japan before embarking on an acting career. He became a familiar face in Japanese cinema, particularly in Toho's special effects films, where he often played scientists, diplomats, or military officers.
+Harold Conway was an American businessman who worked as a tax accountant in
+Japan before embarking on an acting career. He became a familiar face in
+Japanese cinema, particularly in Toho's special effects films, where he often
+played scientists, diplomats, or military officers.
 
-His delivery of Japanese lines in *The Mysterians* (1957) was considered impressive for a non-native speaker. He returned in a similar role in the spiritual sequel, *Battle in Outer Space* (1959).
+His delivery of Japanese lines in _The Mysterians_ (1957) was considered
+impressive for a non-native speaker. He returned in a similar role in the
+spiritual sequel, _Battle in Outer Space_ (1959).
 
-Conway appeared in scenes filmed specifically for the American release of *Mothra vs. Godzilla* (1964), known as *Godzilla vs. The Thing*. These scenes, involving American missile cruisers attacking Godzilla, were not included in the original Japanese version.
+Conway appeared in scenes filmed specifically for the American release of
+_Mothra vs. Godzilla_ (1964), known as _Godzilla vs. The Thing_. These scenes,
+involving American missile cruisers attacking Godzilla, were not included in the
+original Japanese version.
 
-He continued to act in film and television until the mid-1970s, appearing in series like *Ultraman* and films such as *Genocide* (1968).
+He continued to act in film and television until the mid-1970s, appearing in
+series like _Ultraman_ and films such as _Genocide_ (1968).

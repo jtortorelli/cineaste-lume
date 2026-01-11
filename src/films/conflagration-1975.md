@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: criticality-of-explosion
     title: The Criticality of Explosion
-poster_url: /static/images/films/conflagration-1975/posters/poster.webp
+poster_url: /static/images/films/posters/conflagration-1975.webp
 release_date: 1975-07-12
 runtime: 100
 staff:

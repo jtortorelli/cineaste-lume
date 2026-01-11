@@ -7,7 +7,7 @@ original_works:
     format: serialized novel
     slug: musashi-miyamoto
     title: Musashi Miyamoto
-poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
+poster_url: /static/images/films/posters/samurai-iii-duel-at-ganryu-island-1956.webp
 release_date: 1956-01-03
 runtime: 104
 series:

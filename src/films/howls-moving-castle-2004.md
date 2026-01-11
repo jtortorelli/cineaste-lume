@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: howls-moving-castle
     title: Howl's Moving Castle
-poster_url: /static/images/films/howls-moving-castle-2004/posters/poster.webp
+poster_url: /static/images/films/posters/howls-moving-castle-2004.webp
 release_date: 2004-11-20
 runtime: 119
 staff:

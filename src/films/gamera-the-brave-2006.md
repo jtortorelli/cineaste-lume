@@ -14,7 +14,7 @@ kaiju:
       - people:
           - name: Yoshida Mizuho
         type: Suit Actor
-poster_url: /static/images/films/gamera-the-brave-2006/posters/poster.webp
+poster_url: /static/images/films/posters/gamera-the-brave-2006.webp
 release_date: 2006-04-29
 runtime: 96
 series:

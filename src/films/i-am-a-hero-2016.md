@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: i-am-a-hero
     title: I Am A Hero
-poster_url: /static/images/films/i-am-a-hero-2016/posters/poster.webp
+poster_url: /static/images/films/posters/i-am-a-hero-2016.webp
 release_date: 2016-04-23
 runtime: 127
 staff:

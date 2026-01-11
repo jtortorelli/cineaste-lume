@@ -13,7 +13,7 @@ profession: Announcer
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-1954.webp
     roles:
       - name: Announcer
         uncredited: false
@@ -21,7 +21,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/rodan-1956.webp
     roles:
       - name: News Reader
         uncredited: true
@@ -29,7 +29,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:
       - name: Newsreader
         uncredited: true
@@ -37,7 +37,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Announcer
         uncredited: true
@@ -45,7 +45,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     roles:
       - name: TV Announcer
         uncredited: true
@@ -53,7 +53,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: TV Announcer
         uncredited: true
@@ -61,7 +61,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/invasion-of-astro-monster-1965.webp
     roles:
       - name: Radio Announcer
         uncredited: true
@@ -69,7 +69,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: Radio Announcer
         uncredited: false
@@ -78,8 +78,17 @@ works:
     year: 1968
 ---
 
-A professional broadcaster who leveraged his real-world skills into a film career, Iketani Saburô was an announcer with TBS (Tokyo Broadcasting System) during the 1960s and 70s.
+A professional broadcaster who leveraged his real-world skills into a film
+career, Iketani Saburô was an announcer with TBS (Tokyo Broadcasting System)
+during the 1960s and 70s.
 
-Because of his clear, authoritative voice and professional demeanor, he was frequently typecast as a news reader, radio announcer, or reporter in Toho's science fiction films. He appeared in many of the genre's classics, including the original _Godzilla_ (1954), _Rodan_ (1956), and _Mothra_ (1961), lending a sense of realism to the fantastic events on screen.
+Because of his clear, authoritative voice and professional demeanor, he was
+frequently typecast as a news reader, radio announcer, or reporter in Toho's
+science fiction films. He appeared in many of the genre's classics, including
+the original _Godzilla_ (1954), _Rodan_ (1956), and _Mothra_ (1961), lending a
+sense of realism to the fantastic events on screen.
 
-Later in life, he remained connected to the genre, publishing exclusive interviews with Toho stalwarts like Sakai Sachio and Tachibana Masaaki prior to the release of _Godzilla vs. King Ghidorah_ (1991). He died of pneumonia in 2002.
+Later in life, he remained connected to the genre, publishing exclusive
+interviews with Toho stalwarts like Sakai Sachio and Tachibana Masaaki prior to
+the release of _Godzilla vs. King Ghidorah_ (1991). He died of pneumonia
+in 2002.

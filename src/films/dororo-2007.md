@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: dororo
     title: Dororo
-poster_url: /static/images/films/dororo-2007/posters/poster.webp
+poster_url: /static/images/films/posters/dororo-2007.webp
 release_date: 2007-01-27
 runtime: 138
 staff:

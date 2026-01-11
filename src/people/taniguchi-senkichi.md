@@ -19,14 +19,14 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/lost-world-of-sinbad-1963.webp
     slug: lost-world-of-sinbad-1963
     staff:
       - role: Director
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     slug: adventure-of-kigan-castle-1966
     staff:
       - role: Director

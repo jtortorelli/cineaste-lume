@@ -15,7 +15,7 @@ kaiju:
     name: Barugon
     portrayals:
       - type: Suit Actor
-poster_url: /static/images/films/gamera-vs-barugon-1966/posters/poster.webp
+poster_url: /static/images/films/posters/gamera-vs-barugon-1966.webp
 release_date: 1966-04-17
 runtime: 101
 series:

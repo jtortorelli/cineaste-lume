@@ -15,7 +15,7 @@ original_works:
     format: novel
     slug: crossfire
     title: Crossfire
-poster_url: /static/images/films/crossfire-2000/posters/poster.webp
+poster_url: /static/images/films/posters/crossfire-2000.webp
 release_date: 2000-06-10
 runtime: 115
 staff:

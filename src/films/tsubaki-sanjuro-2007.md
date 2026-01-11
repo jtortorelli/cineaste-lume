@@ -7,7 +7,7 @@ original_works:
     format: screenplay
     slug: everyday-peace
     title: Everyday Peace
-poster_url: /static/images/films/tsubaki-sanjuro-2007/posters/poster.webp
+poster_url: /static/images/films/posters/tsubaki-sanjuro-2007.webp
 release_date: 2007-12-01
 runtime: 119
 staff:

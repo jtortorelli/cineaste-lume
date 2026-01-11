@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 三匹の侍
-poster_url: /static/images/films/three-outlaw-samurai-1964/posters/poster.webp
+poster_url: /static/images/films/posters/three-outlaw-samurai-1964.webp
 release_date: 1964-05-13
 runtime: 94
 staff:

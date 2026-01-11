@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: リターナー
-poster_url: /static/images/films/returner-2002/posters/poster.webp
+poster_url: /static/images/films/posters/returner-2002.webp
 release_date: 2002-08-31
 runtime: 116
 staff:

@@ -17,7 +17,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/lost-world-of-sinbad-1963.webp
     roles:
       - name: The Prince of Ming
         uncredited: false
@@ -25,7 +25,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     roles:
       - name: Detective Nitta
         uncredited: false
@@ -34,8 +34,14 @@ works:
     year: 1964
 ---
 
-Funato Jun was a Toho actor who appeared in several films during the 1960s. He is perhaps best known to international audiences for his role as the Prince of Ming in *The Lost World of Sinbad* (1963). He also appeared in the science fiction film *Dogora* (1964) as Detective Nitta.
+Funato Jun was a Toho actor who appeared in several films during the 1960s. He
+is perhaps best known to international audiences for his role as the Prince of
+Ming in _The Lost World of Sinbad_ (1963). He also appeared in the science
+fiction film _Dogora_ (1964) as Detective Nitta.
 
-Following the decline of the Japanese film industry in the 1970s, Funato transitioned to television, where he found steady work in dramas and *jidaigeki* (period dramas). He was a frequent guest star in popular series such as *Mito Komon* and *Onihei Hankacho*.
+Following the decline of the Japanese film industry in the 1970s, Funato
+transitioned to television, where he found steady work in dramas and _jidaigeki_
+(period dramas). He was a frequent guest star in popular series such as _Mito
+Komon_ and _Onihei Hankacho_.
 
 He was married to actress Iwai Yumi.

@@ -18,7 +18,7 @@ original_works:
     format: unpublished novel
     slug: earth-defense-force
     title: Earth Defense Force
-poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+poster_url: /static/images/films/posters/mysterians-1957.webp
 release_date: 1957-12-28
 runtime: 88
 staff:

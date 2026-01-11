@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-i-musashi-miyamoto-1954.webp
     roles:
       - name: Ikeda Terumasa
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Detective Miyashita
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Minister Kinami
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/zatoichi-challenged-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/zatoichi-challenged-1967.webp
     roles:
       - name: Torikoshi
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: Zatoichi Challenged
     year: 1967
   - format: film
-    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.webp
+    poster_url: /static/images/films/posters/return-of-godzilla-1984.webp
     roles:
       - name: Minister Kanzaki
         uncredited: false

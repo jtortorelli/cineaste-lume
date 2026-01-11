@@ -31,7 +31,7 @@ kaiju:
     name: Anguirus
     portrayals:
       - type: Suit Actor
-poster_url: /static/images/films/godzilla-vs-megalon-1973/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-vs-megalon-1973.webp
 release_date: 1973-03-17
 runtime: 82
 series:

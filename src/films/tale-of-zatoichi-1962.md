@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/tale-of-zatoichi-1962/posters/poster.webp
+poster_url: /static/images/films/posters/tale-of-zatoichi-1962.webp
 release_date: 1962-04-18
 runtime: 96
 series:

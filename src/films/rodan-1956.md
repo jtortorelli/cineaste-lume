@@ -18,7 +18,7 @@ kaiju:
           - name: Tezuka Katsumi
             slug: tezuka-katsumi
         type: Suit Actor
-poster_url: /static/images/films/rodan-1956/posters/poster.webp
+poster_url: /static/images/films/posters/rodan-1956.webp
 release_date: 1956-12-26
 runtime: 82
 staff:

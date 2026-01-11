@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 魔女の宅急便
-poster_url: /static/images/films/kikis-delivery-service-1989/posters/poster.webp
+poster_url: /static/images/films/posters/kikis-delivery-service-1989.webp
 release_date: 1989-07-29
 runtime: 102
 staff:

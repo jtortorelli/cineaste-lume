@@ -18,7 +18,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:
       - name: Deity
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     roles:
       - name: Bodyguard
         uncredited: false
@@ -34,7 +34,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/daredevil-in-the-castle-1961.webp
     roles:
       - name: Portuguese Interpretor
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/yojimbo-1961.webp
     roles:
       - name: Seibei Underling
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Barfly
         uncredited: false
@@ -58,7 +58,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/matango-1963.webp
     roles:
       - name: Mushroom Man
         uncredited: false
@@ -66,7 +66,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/lost-world-of-sinbad-1963.webp
     roles:
       - name: Granny
         uncredited: false
@@ -74,7 +74,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: Mû High Priest
         uncredited: false
@@ -82,7 +82,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     roles:
       - name: Gangster
         uncredited: false
@@ -90,7 +90,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: Salno's Manservant
         uncredited: false
@@ -98,7 +98,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
       - name: Granny the Witch
         uncredited: false
@@ -106,7 +106,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/ebirah-horror-of-the-deep-1966.webp
     roles:
       - name: Red Bamboo Officer
         uncredited: false
@@ -114,7 +114,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-escapes-1967.webp
     roles:
       - name: Dr. Who
         uncredited: false
@@ -122,21 +122,21 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/age-of-assassins-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/age-of-assassins-1967.webp
     roles:
       - name: Dr. Mizorogi Shôgo
         uncredited: false
     title: Age of Assassins
     year: 1967
   - format: film
-    poster_url: /static/images/films/kill-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/kill-1968.webp
     roles:
       - name: Shimada Gendayu
         uncredited: false
     title: Kill!
     year: 1968
   - format: film
-    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
+    poster_url: /static/images/films/posters/all-monsters-attack-1969.webp
     roles:
       - name: Minami Shinpei
         uncredited: false
@@ -151,7 +151,7 @@ works:
     title_card_url: /static/images/tv-series/kamen-rider-1971/title-cards/E9B5Y4uUYAMJsaS.webp
     year: 1973
   - format: film
-    poster_url: /static/images/films/message-from-space-1978/posters/poster.webp
+    poster_url: /static/images/films/posters/message-from-space-1978.webp
     roles:
       - name: Elder Dark
         uncredited: false
@@ -159,7 +159,7 @@ works:
     title: Message from Space
     year: 1978
   - format: film
-    poster_url: /static/images/films/red-spectacles-1987/posters/poster.webp
+    poster_url: /static/images/films/posters/red-spectacles-1987.webp
     roles:
       - name: Moongaze Ginji
         uncredited: false
@@ -167,7 +167,7 @@ works:
     title: The Red Spectacles
     year: 1987
   - format: film
-    poster_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/posters/poster.webp
+    poster_url: /static/images/films/posters/eko-eko-azarak-ii-birth-of-the-wizard-1996.webp
     roles:
       - name: Elder
         uncredited: false
@@ -175,7 +175,7 @@ works:
     title: "Eko Eko Azarak II: Birth of the Wizard"
     year: 1996
   - format: film
-    poster_url: /static/images/films/godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001.webp
     roles:
       - name: Isayama Yoshitoshi
         uncredited: false
@@ -183,7 +183,7 @@ works:
     title: "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack"
     year: 2001
   - format: film
-    poster_url: /static/images/films/kamen-rider-the-first-2005/posters/poster.webp
+    poster_url: /static/images/films/posters/kamen-rider-the-first-2005.webp
     roles:
       - name: Shocker Chief
         qualifiers:
@@ -194,12 +194,22 @@ works:
     year: 2005
 ---
 
-Drafted into the Japanese army at age 19. His wartime experience gave him a lifelong disgust with Japanese society in general. He became an anarchist and openly denied the legitimacy of the Japanese government and the imperial system.
+Drafted into the Japanese army at age 19. His wartime experience gave him a
+lifelong disgust with Japanese society in general. He became an anarchist and
+openly denied the legitimacy of the Japanese government and the imperial system.
 
-He enrolled in the University of Tokyo's Faculty of Law after the war, aspiring to become a diplomat, but dropped out due to his disillusionment with the political climate. He then turned to acting, joining the Actors' Studio Theatre Company in 1954.
+He enrolled in the University of Tokyo's Faculty of Law after the war, aspiring
+to become a diplomat, but dropped out due to his disillusionment with the
+political climate. He then turned to acting, joining the Actors' Studio Theatre
+Company in 1954.
 
-Amamoto was frequently cast by director Okamoto Kihachi, appearing in films such as *The Age of Assassins* (1967), *Kill!* (1968), and *Japan's Longest Day* (1967). He was often cast in roles as older, more grotesque characters, despite being the same age as his co-stars.
+Amamoto was frequently cast by director Okamoto Kihachi, appearing in films such
+as _The Age of Assassins_ (1967), _Kill!_ (1968), and _Japan's Longest Day_
+(1967). He was often cast in roles as older, more grotesque characters, despite
+being the same age as his co-stars.
 
-He is perhaps best known for his role as the villainous Dr. Shinigami in the *Kamen Rider* series.
+He is perhaps best known for his role as the villainous Dr. Shinigami in the
+_Kamen Rider_ series.
 
-Fond of Spain and Spanish culture, he visited the country over 20 times and was an admirer of the poet Federico García Lorca.
+Fond of Spain and Spanish culture, he visited the country over 20 times and was
+an admirer of the poet Federico García Lorca.

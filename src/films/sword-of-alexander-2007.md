@@ -7,7 +7,7 @@ original_works:
     format: serialized novel
     slug: sword-of-the-emperor
     title: The Sword of the Emperor
-poster_url: /static/images/films/sword-of-alexander-2007/posters/poster.webp
+poster_url: /static/images/films/posters/sword-of-alexander-2007.webp
 release_date: 2007-04-07
 runtime: 110
 staff:

@@ -12,7 +12,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: "/static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp"
+    poster_url: "/static/images/films/posters/frankenstein-conquers-the-world-1965.webp"
     roles:
       - name: Kazuko
         uncredited: false
@@ -22,11 +22,11 @@ works:
   - title: Young Guy at Sea
     year: 1965
     format: film
-    poster_url: /static/images/films/young-guy-at-sea-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/young-guy-at-sea-1965.webp
     roles:
       - name: Sakai Masae
   - format: film
-    poster_url: "/static/images/films/invasion-of-astro-monster-1965/posters/poster.webp"
+    poster_url: "/static/images/films/posters/invasion-of-astro-monster-1965.webp"
     roles:
       - name: Fuji Haruno
         uncredited: false
@@ -34,31 +34,31 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: "/static/images/films/presidents-record-part-ii-1966/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-record-part-ii-1966.webp"
     title: "President’s Record: Part II"
     year: 1966
     roles:
       - name: Hanadai
   - format: film
-    poster_url: "/static/images/films/presidents-success-story-1968/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-success-story-1968.webp"
     title: President’s Success Story
     year: 1968
     roles:
       - name: Kohana
   - format: film
-    poster_url: "/static/images/films/presidents-success-story-part-ii-1968/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-success-story-part-ii-1968.webp"
     title: "President’s Success Story: Part II"
     year: 1968
     roles:
       - name: Kohana
   - format: film
-    poster_url: "/static/images/films/presidents-grade-book-1969/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-grade-book-1969.webp"
     title: President’s Grade Book
     year: 1969
     roles:
       - name: Hanamaru
   - format: film
-    poster_url: "/static/images/films/presidents-grade-book-part-ii-1969/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-grade-book-part-ii-1969.webp"
     title: "President’s Grade Book: Part II"
     year: 1969
     roles:

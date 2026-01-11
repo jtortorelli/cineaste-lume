@@ -18,13 +18,13 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: "/static/images/films/salaryman-chushingura-1960/posters/poster.webp"
+    poster_url: "/static/images/films/posters/salaryman-chushingura-1960.webp"
     title: Salaryman Chushingura
     year: 1960
     roles:
       - name: Ôno Sadogorô
   - format: film
-    poster_url: "/static/images/films/human-vapor-1960/posters/poster.webp"
+    poster_url: "/static/images/films/posters/human-vapor-1960.webp"
     roles:
       - name: Detective Okamoto Kenji
         uncredited: false
@@ -32,19 +32,19 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: "/static/images/films/salaryman-chushingura-part-ii-1961/posters/poster.webp"
+    poster_url: "/static/images/films/posters/salaryman-chushingura-part-ii-1961.webp"
     title: "Salaryman Chushingura: Part II"
     year: 1961
     roles:
       - name: Ôno Sadagorô
   - format: film
-    poster_url: "/static/images/films/presidents-travels-1961/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-travels-1961.webp"
     title: President’s Travels
     year: 1961
     roles:
       - name: Honda
   - format: film
-    poster_url: "/static/images/films/high-and-low-1963/posters/poster.webp"
+    poster_url: "/static/images/films/posters/high-and-low-1963.webp"
     roles:
       - name: Kawanishi
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: "/static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp"
+    poster_url: "/static/images/films/posters/adventure-of-kigan-castle-1966.webp"
     roles:
       - name: The King
         uncredited: false
@@ -60,7 +60,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: "/static/images/films/casshern-2004/posters/poster.webp"
+    poster_url: "/static/images/films/posters/casshern-2004.webp"
     roles:
       - name: Doctor Furoi
         uncredited: false

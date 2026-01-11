@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/seven-samurai-1954.webp
     roles:
       - name: Gosaku
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-1954.webp
     roles:
       - name: Mayor Inada
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/invisible-man-1954.webp
     roles:
       - name: Security Guard
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-raids-again-1955.webp
     roles:
       - name: Military Officer
         uncredited: true
@@ -46,7 +46,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-ii-duel-at-ichijoji-temple-1955.webp
     roles:
       - name: Yoshioka Samurai
         uncredited: true
@@ -54,7 +54,7 @@ works:
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/rodan-1956.webp
     roles:
       - name: Miner
         uncredited: false
@@ -62,7 +62,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:
       - name: Military Officer
         uncredited: true
@@ -70,7 +70,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/varan-the-unbelievable-1958.webp
     roles:
       - name: Truck Driver
         uncredited: true
@@ -78,7 +78,7 @@ works:
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Yamana Peasant
         uncredited: true
@@ -86,7 +86,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Policeman
         uncredited: true
@@ -94,7 +94,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:
       - name: UN Official
         uncredited: true
@@ -102,7 +102,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/human-vapor-1960.webp
     roles:
       - name: Jail Officer
         uncredited: false
@@ -110,7 +110,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/daredevil-in-the-castle-1961.webp
     roles:
       - name: Court Samurai
         uncredited: true
@@ -118,7 +118,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Doctor
         uncredited: true
@@ -126,7 +126,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/sanjuro-1962.webp
     roles:
       - name: Samurai Reading Notice
         uncredited: true
@@ -134,7 +134,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Minister
         uncredited: true
@@ -142,7 +142,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/lost-world-of-sinbad-1963.webp
     roles:
       - name: Villager
         uncredited: true
@@ -150,7 +150,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: Mihara Tourist
         uncredited: true
@@ -158,7 +158,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: Passerby
         uncredited: true
@@ -168,7 +168,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: Serginan Official
         uncredited: true
@@ -176,7 +176,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/frankenstein-conquers-the-world-1965.webp
     roles:
       - name: Scientist
         uncredited: true
@@ -184,7 +184,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/invasion-of-astro-monster-1965.webp
     roles:
       - name: PM
         uncredited: true
@@ -192,7 +192,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
       - name: Pesil Villager
         uncredited: true
@@ -200,7 +200,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: Reporter
         uncredited: true
@@ -208,7 +208,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.webp
+    poster_url: /static/images/films/posters/prophecies-of-nostradamus-1974.webp
     roles:
       - name: PM
         uncredited: true
@@ -216,7 +216,7 @@ works:
     title: Prophecies of Nostradamus
     year: 1974
   - format: film
-    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.webp
+    poster_url: /static/images/films/posters/terror-of-mechagodzilla-1975.webp
     roles:
       - name: Skeptical Scientist
         qualifiers:

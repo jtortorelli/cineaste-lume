@@ -16,7 +16,7 @@ profession: Author
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     slug: atragon-1963
     title: Atragon
     year: 1963

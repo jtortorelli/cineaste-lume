@@ -22,7 +22,7 @@ kaiju:
     name: Kamoebas
     portrayals:
       - type: Puppet
-poster_url: /static/images/films/godzilla-tokyo-sos-2003/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-tokyo-sos-2003.webp
 release_date: 2003-12-13
 runtime: 91
 series:

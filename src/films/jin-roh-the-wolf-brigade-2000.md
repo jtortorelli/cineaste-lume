@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: kerberos-panzer-cop
     title: Kerberos Panzer Cop
-poster_url: /static/images/films/jin-roh-the-wolf-brigade-2000/posters/poster.webp
+poster_url: /static/images/films/posters/jin-roh-the-wolf-brigade-2000.webp
 release_date: 2000-06-03
 runtime: 98
 series:

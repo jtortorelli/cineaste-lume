@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: strange-ronin
     title: Strange Ronin
-poster_url: /static/images/films/hara-kiri-death-of-a-samurai-2011/posters/poster.webp
+poster_url: /static/images/films/posters/hara-kiri-death-of-a-samurai-2011.webp
 release_date: 2011-10-15
 runtime: 126
 staff:

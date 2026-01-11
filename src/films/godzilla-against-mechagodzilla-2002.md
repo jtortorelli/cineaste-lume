@@ -14,7 +14,7 @@ kaiju:
       - people:
           - name: Ishigaki Hirofumi
         type: Suit Actor
-poster_url: /static/images/films/godzilla-against-mechagodzilla-2002/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-against-mechagodzilla-2002.webp
 release_date: 2002-12-14
 runtime: 88
 series:

@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: ホッタラケの島 〜遥と魔法の鏡〜
-poster_url: /static/images/films/oblivion-island-haruka-and-the-magic-mirror-2009/posters/poster.webp
+poster_url: /static/images/films/posters/oblivion-island-haruka-and-the-magic-mirror-2009.webp
 release_date: 2009-08-22
 runtime: 93
 staff:

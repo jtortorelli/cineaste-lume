@@ -15,7 +15,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/invisible-man-1954.webp
     roles:
       - name: Yajima
         uncredited: false
@@ -23,7 +23,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:
       - name: Defense Commander
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     roles:
       - name: Missile Defense Commander
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: Military Officer
         uncredited: false
@@ -47,7 +47,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: Defense Minister
         uncredited: false
@@ -57,11 +57,11 @@ works:
   - title: Campus A-Go-Go
     year: 1965
     format: film
-    poster_url: /static/images/films/campus-a-go-go-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/campus-a-go-go-1965.webp
     roles:
       - name: Ishiyama Gôtarô
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
       - name: Buddhist Priest
         uncredited: false

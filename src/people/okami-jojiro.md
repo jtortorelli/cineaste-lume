@@ -12,26 +12,26 @@ profession: Author
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     slug: mysterians-1957
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     slug: battle-in-outer-space-1959
     staff:
       - role: Story
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     slug: gorath-1962
     staff:
       - role: Story
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     slug: dogora-1964
     title: Dogora
     year: 1964

@@ -9,7 +9,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/human-vapor-1960.webp
     roles:
       - name: Kôno Kyôko
         uncredited: false
@@ -17,7 +17,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Secretary
         uncredited: false

@@ -19,28 +19,28 @@ profession: Composer
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-i-musashi-miyamoto-1954.webp
     slug: samurai-i-musashi-miyamoto-1954
     staff:
       - role: Music
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-ii-duel-at-ichijoji-temple-1955.webp
     slug: samurai-ii-duel-at-ichijoji-temple-1955
     staff:
       - role: Music
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-iii-duel-at-ganryu-island-1956.webp
     slug: samurai-iii-duel-at-ganryu-island-1956
     staff:
       - role: Music
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     slug: last-war-1961
     staff:
       - role: Music
@@ -48,12 +48,21 @@ works:
     year: 1961
 ---
 
-Dan Ikuma was born into a distinguished family; his grandfather was Baron Dan Takuma, who was assassinated in the League of Blood incident in 1932. This tragedy, and its aftermath, inspired Dan to pursue music. His father was businessman Dan Inô.
+Dan Ikuma was born into a distinguished family; his grandfather was Baron Dan
+Takuma, who was assassinated in the League of Blood incident in 1932. This
+tragedy, and its aftermath, inspired Dan to pursue music. His father was
+businessman Dan Inô.
 
-He trained at the Tokyo School of Music and graduated in 1946. Dan became a prolific composer, creating over 200 film scores, including the music for the *Samurai* trilogy (1954-1956) and *The Last War* (1961).
+He trained at the Tokyo School of Music and graduated in 1946. Dan became a
+prolific composer, creating over 200 film scores, including the music for the
+_Samurai_ trilogy (1954-1956) and _The Last War_ (1961).
 
-Beyond film, Dan was a celebrated classical composer. His 1952 opera *Yuzuru* (*Twilight Crane*) is considered a masterpiece of modern Japanese opera. He also composed the "Olympic Games Overture" for the 1964 Summer Olympics in Tokyo.
+Beyond film, Dan was a celebrated classical composer. His 1952 opera _Yuzuru_
+(_Twilight Crane_) is considered a masterpiece of modern Japanese opera. He also
+composed the "Olympic Games Overture" for the 1964 Summer Olympics in Tokyo.
 
-Dan often collaborated with fellow composers Akutagawa Yasushi and Mayuzumi Toshirô. In addition to his musical achievements, he was an accomplished essayist, receiving the Yomiuri Prize for Literature in 1968.
+Dan often collaborated with fellow composers Akutagawa Yasushi and Mayuzumi
+Toshirô. In addition to his musical achievements, he was an accomplished
+essayist, receiving the Yomiuri Prize for Literature in 1968.
 
 Asteroid 17509 was named "Ikumadan" in his honor.

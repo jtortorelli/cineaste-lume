@@ -23,7 +23,7 @@ kaiju:
           - name: Sekita Hiroshi
             slug: sekita-hiroshi
         type: Suit Actor
-poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
+poster_url: /static/images/films/posters/king-kong-escapes-1967.webp
 release_date: 1967-07-22
 runtime: 104
 staff:

@@ -11,7 +11,7 @@ original_works:
     format: short story
     slug: voice-in-the-night
     title: A Voice in the Night
-poster_url: /static/images/films/matango-1963/posters/poster.webp
+poster_url: /static/images/films/posters/matango-1963.webp
 release_date: 1963-08-11
 runtime: 89
 staff:

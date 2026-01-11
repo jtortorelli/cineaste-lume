@@ -23,7 +23,7 @@ kaiju:
     name: Mothra
     portrayals:
       - type: Puppet
-poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
+poster_url: /static/images/films/posters/ebirah-horror-of-the-deep-1966.webp
 release_date: 1966-12-17
 runtime: 87
 series:

@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 風立ちぬ
-poster_url: /static/images/films/wind-rises-2013/posters/poster.webp
+poster_url: /static/images/films/posters/wind-rises-2013.webp
 release_date: 2013-07-20
 runtime: 126
 staff:

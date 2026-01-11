@@ -31,7 +31,7 @@ kaiju:
     name: Barugon
     portrayals:
       - type: Stock Footage
-poster_url: /static/images/films/gamera-super-monster-1980/posters/poster.webp
+poster_url: /static/images/films/posters/gamera-super-monster-1980.webp
 release_date: 1980-03-20
 runtime: 109
 series:

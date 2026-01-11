@@ -20,7 +20,7 @@ kaiju:
       - people:
           - name: Hurricane Ryû
         type: Suit Actor
-poster_url: /static/images/films/godzilla-vs-destoroyah-1995/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-vs-destoroyah-1995.webp
 release_date: 1995-12-09
 runtime: 103
 series:

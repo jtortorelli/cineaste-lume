@@ -17,7 +17,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/seven-samurai-1954.webp
     roles:
       - name: Samurai
         uncredited: true
@@ -25,7 +25,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/invisible-man-1954.webp
     roles:
       - actor_alias: Tsuchiya Hirotoshi
         name: MP
@@ -34,7 +34,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-raids-again-1955.webp
     roles:
       - actor_alias: Tsuchiya Hirotoshi
         name: Fishery Chief
@@ -43,7 +43,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/throne-of-blood-1957.webp
     roles:
       - name: Warlord
         uncredited: false
@@ -51,7 +51,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Yamana Samurai
         uncredited: true
@@ -59,7 +59,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Police Executive
         uncredited: false
@@ -67,7 +67,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:
       - name: Yamato Soldier
         uncredited: false
@@ -75,7 +75,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     roles:
       - name: Police Official
         uncredited: false
@@ -83,7 +83,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/daredevil-in-the-castle-1961.webp
     roles:
       - name: Hotta Tosho
         uncredited: false
@@ -91,7 +91,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     roles:
       - name: Minister
         uncredited: false
@@ -99,7 +99,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
     roles:
       - name: Evacuee
         uncredited: false
@@ -107,7 +107,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: <span class="italic">Gôtengô</span> Crew
         uncredited: false
@@ -115,7 +115,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: Fisherman
         uncredited: false
@@ -123,7 +123,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     roles:
       - name: Coal Miner
         uncredited: false
@@ -131,7 +131,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
       - name: Merchant
         uncredited: false
@@ -139,7 +139,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
       - name: Military Officer
         uncredited: false

@@ -10,7 +10,7 @@ original_works:
     format: novel
     slug: fiend-with-twenty-faces
     title: The Fiend with Twenty Faces
-poster_url: /static/images/films/k-20-legend-of-the-mask-2008/posters/poster.webp
+poster_url: /static/images/films/posters/k-20-legend-of-the-mask-2008.webp
 release_date: 2008-12-20
 runtime: 137
 staff:

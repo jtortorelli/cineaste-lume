@@ -20,7 +20,7 @@ kaiju:
       - people:
           - name: Fukuda Wataru
         type: Suit Actor
-poster_url: /static/images/films/godzilla-vs-king-ghidorah-1991/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-vs-king-ghidorah-1991.webp
 release_date: 1991-12-14
 runtime: 103
 series:

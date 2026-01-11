@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Nelson's Henchman
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     roles:
       - name: Gangster
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/invasion-of-astro-monster-1965.webp
     roles:
       - name: X<span class="italic">-seijin</span>
         uncredited: true

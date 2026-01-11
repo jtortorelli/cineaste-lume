@@ -25,7 +25,7 @@ kaiju:
     name: Battra (Adult)
     portrayals:
       - type: Puppet
-poster_url: /static/images/films/godzilla-vs-mothra-1992/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-vs-mothra-1992.webp
 release_date: 1992-12-12
 runtime: 102
 series:

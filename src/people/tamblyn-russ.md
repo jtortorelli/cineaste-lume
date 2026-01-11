@@ -11,7 +11,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
       - name: Doctor Paul Stewart
         uncredited: false

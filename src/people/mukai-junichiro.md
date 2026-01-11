@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-i-musashi-miyamoto-1954.webp
     roles:
       - name: Ruffian
         uncredited: true
@@ -18,7 +18,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-1954.webp
     roles:
       - name: Reporter
         uncredited: true
@@ -26,7 +26,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/invisible-man-1954.webp
     roles:
       - name: Bus Passenger
         uncredited: true
@@ -36,7 +36,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-iii-duel-at-ganryu-island-1956.webp
     roles:
       - name: Gambler
         uncredited: true
@@ -44,7 +44,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/rodan-1956.webp
     roles:
       - name: Air Force Officer
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:
       - name: Pilot
         uncredited: true
@@ -60,7 +60,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/varan-the-unbelievable-1958.webp
     roles:
       - name: Soldier
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Yamana Prisoner Guard
         uncredited: true
@@ -76,7 +76,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -84,7 +84,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:
       - name: Moroto
         uncredited: false
@@ -92,7 +92,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:
       - name: Policeman
         uncredited: true
@@ -100,7 +100,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     roles:
       - name: Police Official
         uncredited: false
@@ -108,7 +108,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/daredevil-in-the-castle-1961.webp
     roles:
       - name: Kumoi
         uncredited: false
@@ -116,7 +116,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/yojimbo-1961.webp
     roles:
       - name: Seibei Underling
         uncredited: false
@@ -124,7 +124,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/sanjuro-1962.webp
     roles:
       - name: Samurai Reading Notice
         uncredited: true
@@ -132,7 +132,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Security Guard
         uncredited: false
@@ -140,7 +140,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/lost-world-of-sinbad-1963.webp
     roles:
       - name: Jail Keeper
         uncredited: false
@@ -148,7 +148,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/whirlwind-1964.webp
     roles:
       - name: Kurahashi
         uncredited: false
@@ -156,7 +156,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: MP
         uncredited: false
@@ -164,7 +164,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/frankenstein-conquers-the-world-1965.webp
     roles:
       - name: Village Policeman
         uncredited: false

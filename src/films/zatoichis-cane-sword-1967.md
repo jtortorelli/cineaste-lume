@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichis-cane-sword-1967/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichis-cane-sword-1967.webp
 release_date: 1967-01-03
 runtime: 93
 series:

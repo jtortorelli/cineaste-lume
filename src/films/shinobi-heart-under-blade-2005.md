@@ -7,7 +7,7 @@ original_works:
     format: serialized novel
     slug: koga-ninja-scroll
     title: Kōga Ninja Scroll
-poster_url: /static/images/films/shinobi-heart-under-blade-2005/posters/poster.webp
+poster_url: /static/images/films/posters/shinobi-heart-under-blade-2005.webp
 release_date: 2005-09-17
 runtime: 101
 staff:

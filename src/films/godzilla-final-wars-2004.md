@@ -81,7 +81,7 @@ kaiju:
           - name: Nakagawa Motokuni
           - name: Ogura Toshihiro
         type: Suit Actor
-poster_url: /static/images/films/godzilla-final-wars-2004/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-final-wars-2004.webp
 release_date: 2004-12-04
 runtime: 125
 series:

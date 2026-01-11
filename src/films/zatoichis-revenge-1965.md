@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichis-revenge-1965/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichis-revenge-1965.webp
 release_date: 1965-04-03
 runtime: 84
 series:

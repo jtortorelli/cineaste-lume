@@ -29,21 +29,21 @@ profession: Musical Act
 type: group
 works:
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: The Shobijin
     slug: mothra-1961
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: The Shobijin
     slug: mothra-vs-godzilla-1964
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: The Shobijin
     slug: ghidorah-the-three-headed-monster-1964

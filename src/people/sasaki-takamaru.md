@@ -20,7 +20,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-iii-duel-at-ganryu-island-1956.webp
     roles:
       - name: Iwama Kakubei
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/throne-of-blood-1957.webp
     roles:
       - name: Tsuzuki Kuniharu
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     roles:
       - name: Doctor Niki
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/human-vapor-1960.webp
     roles:
       - name: Police Executive
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Prime Minister Seki
         uncredited: false
@@ -62,11 +62,11 @@ works:
   - title: Young Guy at Sea
     year: 1965
     format: film
-    poster_url: /static/images/films/young-guy-at-sea-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/young-guy-at-sea-1965.webp
     roles:
       - name: Professor Takeda
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/invasion-of-astro-monster-1965.webp
     roles:
       - name: Prime Minister
         uncredited: false
@@ -74,7 +74,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/zatoichi-meets-the-one-armed-swordsman-1971/posters/poster.webp
+    poster_url: /static/images/films/posters/zatoichi-meets-the-one-armed-swordsman-1971.webp
     roles:
       - name: Monk
         uncredited: false

@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 電送人間
-poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
+poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
 release_date: 1960-04-10
 runtime: 85
 staff:

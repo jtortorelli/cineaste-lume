@@ -8,7 +8,7 @@ original_works:
     format: manga
     slug: death-note
     title: Death Note
-poster_url: /static/images/films/l-change-the-world-2008/posters/poster.webp
+poster_url: /static/images/films/posters/l-change-the-world-2008.webp
 release_date: 2008-02-09
 runtime: 129
 series:

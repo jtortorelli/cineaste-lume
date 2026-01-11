@@ -16,11 +16,11 @@ works:
   - title: Ikiru
     year: 1952
     format: film
-    poster_url: /static/images/films/ikiru-1952/posters/poster.webp
+    poster_url: /static/images/films/posters/ikiru-1952.webp
     roles:
       - name: Receptionist
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/seven-samurai-1954.webp
     roles:
       - name: Peasant
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-iii-duel-at-ganryu-island-1956.webp
     roles:
       - name: Bearer in Procession
         uncredited: true
@@ -36,7 +36,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Yamana Peasant
         uncredited: true
@@ -44,7 +44,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Fisherman
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:
       - name: Train Conductor
         uncredited: false
@@ -60,7 +60,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Dam Worker
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/sanjuro-1962.webp
     roles:
       - name: Kikui Samurai
         uncredited: true
@@ -76,7 +76,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: Islander
         uncredited: true
@@ -84,7 +84,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -92,7 +92,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: Mt. Aso Tourist
         uncredited: true
@@ -100,7 +100,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/frankenstein-conquers-the-world-1965.webp
     roles:
       - name: Village Policeman
         uncredited: true
@@ -108,7 +108,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -116,7 +116,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-escapes-1967.webp
     roles:
       - name: Who Henchman
         uncredited: true
@@ -124,7 +124,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: Mt. Fuji Soldier
         uncredited: true
@@ -136,7 +136,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
+    poster_url: /static/images/films/posters/latitude-zero-1969.webp
     roles:
       - name: Observer
         uncredited: true
@@ -144,7 +144,7 @@ works:
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
+    poster_url: /static/images/films/posters/space-amoeba-1970.webp
     roles:
       - name: Islander
         uncredited: false
@@ -152,7 +152,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: /static/images/films/lake-of-dracula-1971/posters/poster.webp
+    poster_url: /static/images/films/posters/lake-of-dracula-1971.webp
     roles:
       - name: Coffee Shop Patron
         uncredited: true
@@ -160,7 +160,7 @@ works:
     title: Lake of Dracula
     year: 1971
   - format: film
-    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-hedorah-1971.webp
     roles:
       - name: Construction Worker
         uncredited: true
@@ -168,7 +168,7 @@ works:
     title: Godzilla vs. Hedorah
     year: 1971
   - format: film
-    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.webp
+    poster_url: /static/images/films/posters/prophecies-of-nostradamus-1974.webp
     roles:
       - name: Burned Man
         uncredited: false
@@ -176,7 +176,7 @@ works:
     title: Prophecies of Nostradamus
     year: 1974
   - format: film
-    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.webp
+    poster_url: /static/images/films/posters/terror-of-mechagodzilla-1975.webp
     roles:
       - name: Submarine Crew
         uncredited: false
@@ -184,7 +184,7 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
   - format: film
-    poster_url: /static/images/films/conflagration-1975/posters/poster.webp
+    poster_url: /static/images/films/posters/conflagration-1975.webp
     roles:
       - name: Misuga HQ Staff
         uncredited: false
@@ -192,7 +192,7 @@ works:
     title: Conflagration
     year: 1975
   - format: film
-    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.webp
+    poster_url: /static/images/films/posters/return-of-godzilla-1984.webp
     roles:
       - name: Ship's Radio Operator
         uncredited: false
@@ -200,7 +200,7 @@ works:
     title: The Return of Godzilla
     year: 1984
   - format: film
-    poster_url: /static/images/films/godzilla-vs-megaguirus-2000/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-megaguirus-2000.webp
     roles:
       - name: Janitor
         uncredited: false
@@ -210,15 +210,26 @@ works:
   - title: Our Memories on the Beach
     year: 2019
     format: film
-    poster_url: /static/images/films/our-memories-on-the-beach-2019/posters/poster.webp
+    poster_url: /static/images/films/posters/our-memories-on-the-beach-2019.webp
     roles:
       - name: Haneda Kazuo
 ---
 
-Born in Kamakura, Kanagawa Prefecture, Katô Shigeo was a prolific character actor who joined Toho in the early 1950s, making his screen debut in Kurosawa Akira's _Ikiru_ (1952).
+Born in Kamakura, Kanagawa Prefecture, Katô Shigeo was a prolific character
+actor who joined Toho in the early 1950s, making his screen debut in Kurosawa
+Akira's _Ikiru_ (1952).
 
-His unassuming "everyman" appearance made him a favorite for roles as villagers, farmers, policemen, and laborers. He was often referred to as a "location man" for his ability to blend naturally into any scene. He appeared in numerous classics, including _Seven Samurai_ (1954) and the original _Godzilla_ (1954), and hundreds more, often uncredited.
+His unassuming "everyman" appearance made him a favorite for roles as villagers,
+farmers, policemen, and laborers. He was often referred to as a "location man"
+for his ability to blend naturally into any scene. He appeared in numerous
+classics, including _Seven Samurai_ (1954) and the original _Godzilla_ (1954),
+and hundreds more, often uncredited.
 
-Following the collapse of the studio contract system in 1972, Katô effectively retired from full-time acting and became a professional fisherman in his hometown of Kamakura. However, he maintained a relationship with the industry, making cameo appearances in later Godzilla films like _The Return of Godzilla_ (1984) and _Godzilla vs. Megaguirus_ (2000).
+Following the collapse of the studio contract system in 1972, Katô effectively
+retired from full-time acting and became a professional fisherman in his
+hometown of Kamakura. However, he maintained a relationship with the industry,
+making cameo appearances in later Godzilla films like _The Return of Godzilla_
+(1984) and _Godzilla vs. Megaguirus_ (2000).
 
-He returned to the screen one last time in the independent film _Our Memories on the Beach_ (2019) before passing away in 2020 at the age of 94.
+He returned to the screen one last time in the independent film _Our Memories on
+the Beach_ (2019) before passing away in 2020 at the age of 94.

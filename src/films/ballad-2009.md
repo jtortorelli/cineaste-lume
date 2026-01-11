@@ -8,7 +8,7 @@ original_works:
     format: screenplay
     slug: crayon-shin-chan-fierceness-that-invites-storm-the-battle-of-the-warring-states
     title: "Crayon Shin-chan: Fierceness That Invites Storm! The Battle of the Warring States"
-poster_url: /static/images/films/ballad-2009/posters/poster.webp
+poster_url: /static/images/films/posters/ballad-2009.webp
 release_date: 2009-09-05
 runtime: 132
 staff:

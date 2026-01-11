@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: ケルベロス-地獄の番犬
-poster_url: /static/images/films/stray-dog-kerberos-panzer-cops-1991/posters/poster.webp
+poster_url: /static/images/films/posters/stray-dog-kerberos-panzer-cops-1991.webp
 release_date: 1991-03-23
 runtime: 99
 series:

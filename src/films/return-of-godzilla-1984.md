@@ -11,7 +11,7 @@ kaiju:
       - people:
           - name: Satsuma Kenpachirô
         type: Suit Actor
-poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.webp
+poster_url: /static/images/films/posters/return-of-godzilla-1984.webp
 release_date: 1985-12-15
 runtime: 103
 series:

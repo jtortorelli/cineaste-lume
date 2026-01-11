@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichi-goes-to-the-fire-festival-1970/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichi-goes-to-the-fire-festival-1970.webp
 release_date: 1970-08-12
 runtime: 96
 series:

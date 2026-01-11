@@ -25,25 +25,25 @@ works:
   - title: The Manster
     year: 1959
     format: film
-    poster_url: /static/images/films/manster-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/manster-1959.webp
     roles:
       - name: Superintendent Aida
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Clark Nelson
     slug: mothra-1961
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     roles:
       - name: Watkins
     slug: last-war-1961
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/message-from-space-1978/posters/poster.webp
+    poster_url: /static/images/films/posters/message-from-space-1978.webp
     roles:
       - name: Earth Federation Commander
     slug: message-from-space-1978
@@ -57,10 +57,26 @@ works:
     year: 1995
 ---
 
-Jerry Itô was born in New York City to a distinguished show business family. His father was the internationally renowned dancer and choreographer Itô Michio, and his mother was the dancer Hazel Wright. He was also the nephew of actor Senda Koreya and set designer Itô Kisaku.
+Jerry Itô was born in New York City to a distinguished show business family. His
+father was the internationally renowned dancer and choreographer Itô Michio, and
+his mother was the dancer Hazel Wright. He was also the nephew of actor Senda
+Koreya and set designer Itô Kisaku.
 
-Itô served in the United States Navy during World War II, taking part in the initial occupation of Japan. After his service, he studied acting at the American Theatre Wing and the Actors Studio in New York, making his Broadway debut in *Teahouse of the August Moon* in 1953. He was later recalled to active duty during the Korean War.
+Itô served in the United States Navy during World War II, taking part in the
+initial occupation of Japan. After his service, he studied acting at the
+American Theatre Wing and the Actors Studio in New York, making his Broadway
+debut in _Teahouse of the August Moon_ in 1953. He was later recalled to active
+duty during the Korean War.
 
-Moving to Japan to reconnect with his family, Itô found success in the entertainment industry as a bilingual television host and film actor. He signed with Toho's stage division but was frequently loaned to other studios to play Western characters. He is best known to genre fans for his role as the villainous Clark Nelson in *Mothra* (1961), as well as appearances in *The Manster* (1959), *The Last War* (1961), and *Message from Space* (1978).
+Moving to Japan to reconnect with his family, Itô found success in the
+entertainment industry as a bilingual television host and film actor. He signed
+with Toho's stage division but was frequently loaned to other studios to play
+Western characters. He is best known to genre fans for his role as the
+villainous Clark Nelson in _Mothra_ (1961), as well as appearances in _The
+Manster_ (1959), _The Last War_ (1961), and _Message from Space_ (1978).
 
-From 1995 to 1997, he appeared as "Grandpa Jerry" in the third series of NHK's educational program *Let's Play in English*. He suffered a cerebral hemorrhage before the show completed its run and was replaced by Dennis Falt. Itô subsequently moved to Los Angeles, California, where he lived until his death from pneumonia in 2007.
+From 1995 to 1997, he appeared as "Grandpa Jerry" in the third series of NHK's
+educational program _Let's Play in English_. He suffered a cerebral hemorrhage
+before the show completed its run and was replaced by Dennis Falt. Itô
+subsequently moved to Los Angeles, California, where he lived until his death
+from pneumonia in 2007.

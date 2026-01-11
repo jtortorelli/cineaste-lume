@@ -12,7 +12,7 @@ original_works:
     format: manga
     slug: 21st-century-boys
     title: 21st Century Boys
-poster_url: /static/images/films/20th-century-boys-3-redemption-2009/posters/poster.webp
+poster_url: /static/images/films/posters/20th-century-boys-3-redemption-2009.webp
 release_date: 2009-08-29
 runtime: 155
 series:

@@ -11,7 +11,7 @@ original_works:
     format: manga
     slug: rescue-wings
     title: Rescue Wings
-poster_url: /static/images/films/rescue-wings-2008/posters/poster.webp
+poster_url: /static/images/films/posters/rescue-wings-2008.webp
 release_date: 2008-12-13
 runtime: 108
 staff:

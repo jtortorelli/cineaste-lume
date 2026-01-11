@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: battle-royale
     title: Battle Royale
-poster_url: /static/images/films/battle-royale-2000/posters/poster.webp
+poster_url: /static/images/films/posters/battle-royale-2000.webp
 release_date: 2000-12-16
 runtime: 114
 series:

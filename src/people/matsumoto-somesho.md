@@ -15,7 +15,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/human-vapor-1960.webp
     roles:
       - name: Kasuga's Instructor
         uncredited: false
@@ -23,7 +23,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Minister
         uncredited: true
@@ -31,7 +31,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
     roles:
       - name: Doctor Ônuki
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: UFO Club President
         uncredited: false
@@ -47,7 +47,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/invasion-of-astro-monster-1965.webp
     roles:
       - name: Priest
         uncredited: false
@@ -55,6 +55,11 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
 ---
-Matsumoto initially took the adoptive surname "Nakamura" before inheriting the name of his mentor in kabuki, Matsumoto Koshirô VII, in 1935. He was reportely well known for his expertise in portraying female characters in kabuki theater.
 
-Began appearing in films starting in 1956. He worked in science fiction and comedy genres, and worked for each of the major studios (Toho, Nikkatsuk, Shochiku, and Toei). He returned to kabuki theater in 1971 at age 68.
+Matsumoto initially took the adoptive surname "Nakamura" before inheriting the
+name of his mentor in kabuki, Matsumoto Koshirô VII, in 1935. He was reportely
+well known for his expertise in portraying female characters in kabuki theater.
+
+Began appearing in films starting in 1956. He worked in science fiction and
+comedy genres, and worked for each of the major studios (Toho, Nikkatsuk,
+Shochiku, and Toei). He returned to kabuki theater in 1971 at age 68.

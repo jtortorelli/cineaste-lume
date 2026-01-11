@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: library-wars
     title: Library Wars
-poster_url: /static/images/films/library-wars-2013/posters/poster.webp
+poster_url: /static/images/films/posters/library-wars-2013.webp
 release_date: 2013-04-27
 runtime: 128
 series:

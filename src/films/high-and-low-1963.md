@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: kings-ransom
     title: King's Ransom
-poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
+poster_url: /static/images/films/posters/high-and-low-1963.webp
 release_date: 1963-03-01
 runtime: 143
 staff:

@@ -19,7 +19,7 @@ original_works:
     format: original story
     slug: mothra
     title:
-poster_url: /static/images/films/mothra-1961/posters/poster.webp
+poster_url: /static/images/films/posters/mothra-1961.webp
 release_date: 1961-07-30
 runtime: 101
 staff:

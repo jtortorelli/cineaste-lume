@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: parasyte
     title: Parasyte
-poster_url: /static/images/films/parasyte-part-1-2014/posters/poster.webp
+poster_url: /static/images/films/posters/parasyte-part-1-2014.webp
 release_date: 2014-11-29
 runtime: 109
 series:

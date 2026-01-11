@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: new-legend-of-the-eight-samurai
     title: New Legend of the Eight Samurai
-poster_url: /static/images/films/legend-of-the-eight-samurai-1983/posters/poster.webp
+poster_url: /static/images/films/posters/legend-of-the-eight-samurai-1983.webp
 release_date: 1983-12-10
 runtime: 136
 staff:

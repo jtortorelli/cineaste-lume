@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-1954.webp
     roles:
       - name: Pleasure Cruise Passenger
         uncredited: true
@@ -22,7 +22,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/rodan-1956.webp
     roles:
       - name: Kawamura Shigeru
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:
       - name: Doctor Atsumi Jôji
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Doctor Masada
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Helicopter Pilot
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Lieutenant Saiki
         uncredited: false
@@ -62,7 +62,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
     roles:
       - name: Fujita Kazuo
         uncredited: false
@@ -70,7 +70,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/matango-1963.webp
     roles:
       - name: Koyama Senzô
         uncredited: false
@@ -78,7 +78,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: Un'no
         uncredited: false
@@ -86,7 +86,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: Torahata
         uncredited: false
@@ -94,7 +94,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: Editor
         uncredited: false
@@ -102,7 +102,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/frankenstein-conquers-the-world-1965.webp
     roles:
       - name: Policeman
         uncredited: false
@@ -112,11 +112,11 @@ works:
   - title: Young Guy at Sea
     year: 1965
     format: film
-    poster_url: /static/images/films/young-guy-at-sea-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/young-guy-at-sea-1965.webp
     roles:
       - name: Kaieda
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
       - name: Doctor Majida Yûzô
         uncredited: false
@@ -124,7 +124,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
     roles:
       - name: Morio
         uncredited: false
@@ -132,7 +132,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: Moon Base Commander Nishikawa
         uncredited: false
@@ -140,7 +140,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
+    poster_url: /static/images/films/posters/all-monsters-attack-1969.webp
     roles:
       - name: Mitsuki Ken'ichi
         uncredited: false
@@ -148,7 +148,7 @@ works:
     title: All Monsters Attack
     year: 1969
   - format: film
-    poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
+    poster_url: /static/images/films/posters/space-amoeba-1970.webp
     roles:
       - name: Obata Makoto
         uncredited: false
@@ -156,7 +156,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: /static/images/films/godzilla-vs-mechagodzilla-1974/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-mechagodzilla-1974.webp
     roles:
       - name: Cruise Ship Captain
         uncredited: false
@@ -164,7 +164,7 @@ works:
     title: Godzilla vs. Mechagodzilla
     year: 1974
   - format: film
-    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.webp
+    poster_url: /static/images/films/posters/terror-of-mechagodzilla-1975.webp
     roles:
       - name: Defense Commander
         uncredited: false
@@ -172,7 +172,7 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
   - format: film
-    poster_url: /static/images/films/conflagration-1975/posters/poster.webp
+    poster_url: /static/images/films/posters/conflagration-1975.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -180,7 +180,7 @@ works:
     title: Conflagration
     year: 1975
   - format: film
-    poster_url: /static/images/films/godzilla-vs-king-ghidorah-1991/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-king-ghidorah-1991.webp
     roles:
       - name: Defense Secretary
         uncredited: false
@@ -188,7 +188,7 @@ works:
     title: Godzilla vs. King Ghidorah
     year: 1991
   - format: film
-    poster_url: /static/images/films/godzilla-vs-mechagodzilla-ii-1993/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-mechagodzilla-ii-1993.webp
     roles:
       - name: Secretary Segawa Takayuki
         uncredited: false
@@ -196,7 +196,7 @@ works:
     title: Godzilla vs. Mechagodzilla II
     year: 1993
   - format: film
-    poster_url: /static/images/films/godzilla-vs-spacegodzilla-1994/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-spacegodzilla-1994.webp
     roles:
       - name: Secretary Segawa Takayuki
         uncredited: false
@@ -204,7 +204,7 @@ works:
     title: Godzilla vs. SpaceGodzilla
     year: 1994
   - format: film
-    poster_url: /static/images/films/godzilla-final-wars-2004/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-final-wars-2004.webp
     roles:
       - name: Jingûchi Hachirô
         uncredited: false

@@ -23,7 +23,7 @@ kaiju:
       - people:
           - name: Nikamoto Tatsumi
         type: Suit Actor
-poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.webp
+poster_url: /static/images/films/posters/terror-of-mechagodzilla-1975.webp
 release_date: 1975-03-15
 runtime: 83
 series:

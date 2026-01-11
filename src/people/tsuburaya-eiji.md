@@ -23,7 +23,7 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-1954.webp
     slug: godzilla-1954
     staff:
       - role: Special Technology
@@ -31,7 +31,7 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/invisible-man-1954.webp
     slug: invisible-man-1954
     staff:
       - role: Photography
@@ -39,7 +39,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-raids-again-1955.webp
     slug: godzilla-raids-again-1955
     staff:
       - role: SFX Director
@@ -47,7 +47,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: /static/images/films/rodan-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/rodan-1956.webp
     slug: rodan-1956
     staff:
       - role: SFX Director
@@ -55,7 +55,7 @@ works:
     title: Rodan
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     slug: mysterians-1957
     staff:
       - role: SFX Director
@@ -63,189 +63,189 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/varan-the-unbelievable-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/varan-the-unbelievable-1958.webp
     slug: varan-the-unbelievable-1958
     staff:
       - role: SFX Director
     title: Varan the Unbelievable
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     slug: h-man-1958
     staff:
       - role: SFX Director
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/three-treasures-1959.webp
     slug: three-treasures-1959
     staff:
       - role: SFX Director
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     slug: battle-in-outer-space-1959
     staff:
       - role: SFX Director
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     slug: secret-of-the-telegian-1960
     staff:
       - role: SFX Director
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/human-vapor-1960.webp
     slug: human-vapor-1960
     staff:
       - role: SFX Director
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/daredevil-in-the-castle-1961.webp
     slug: daredevil-in-the-castle-1961
     staff:
       - role: SFX Director
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     slug: mothra-1961
     staff:
       - role: SFX Director
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     slug: last-war-1961
     staff:
       - role: SFX Director
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     slug: gorath-1962
     staff:
       - role: SFX Director
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
     slug: king-kong-vs-godzilla-1962
     staff:
       - role: SFX Director
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/matango-1963.webp
     slug: matango-1963
     staff:
       - role: SFX Director
     title: Matango
     year: 1963
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/lost-world-of-sinbad-1963.webp
     slug: lost-world-of-sinbad-1963
     staff:
       - role: SFX Director
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     slug: atragon-1963
     staff:
       - role: SFX Director
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/whirlwind-1964.webp
     slug: whirlwind-1964
     staff:
       - role: SFX Director
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     slug: mothra-vs-godzilla-1964
     staff:
       - role: SFX Director
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     slug: dogora-1964
     staff:
       - role: SFX Director
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     slug: ghidorah-the-three-headed-monster-1964
     staff:
       - role: SFX Director
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/frankenstein-conquers-the-world-1965.webp
     slug: frankenstein-conquers-the-world-1965
     staff:
       - role: SFX Director
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/invasion-of-astro-monster-1965.webp
     slug: invasion-of-astro-monster-1965
     staff:
       - role: SFX Director
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     slug: war-of-the-gargantuas-1966
     staff:
       - role: SFX Director
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/ebirah-horror-of-the-deep-1966.webp
     slug: ebirah-horror-of-the-deep-1966
     staff:
       - role: SFX Director
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-escapes-1967.webp
     slug: king-kong-escapes-1967
     staff:
       - role: SFX Director
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
     slug: son-of-godzilla-1967
     staff:
       - role: SFX Supervisor
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     slug: destroy-all-monsters-1968
     staff:
       - role: SFX Supervisor
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
+    poster_url: /static/images/films/posters/latitude-zero-1969.webp
     slug: latitude-zero-1969
     staff:
       - role: SFX Director
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
+    poster_url: /static/images/films/posters/all-monsters-attack-1969.webp
     slug: all-monsters-attack-1969
     staff:
       - role: SFX Supervisor

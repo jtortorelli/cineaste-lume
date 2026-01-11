@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: ASSAULT GIRLS
-poster_url: /static/images/films/assault-girls-2009/posters/poster.webp
+poster_url: /static/images/films/posters/assault-girls-2009.webp
 release_date: 2009-12-19
 runtime: 70
 staff:

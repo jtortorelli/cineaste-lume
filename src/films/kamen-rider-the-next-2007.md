@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 仮面ライダー THE NEXT
-poster_url: /static/images/films/kamen-rider-the-next-2007/posters/poster.webp
+poster_url: /static/images/films/posters/kamen-rider-the-next-2007.webp
 release_date: 2007-10-27
 runtime: 113
 series:

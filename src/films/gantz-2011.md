@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: gantz
     title: Gantz
-poster_url: /static/images/films/gantz-2011/posters/poster.webp
+poster_url: /static/images/films/posters/gantz-2011.webp
 release_date: 2011-01-29
 runtime: 130
 series:

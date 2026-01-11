@@ -26,7 +26,7 @@ kaiju:
       - people:
           - name: Little Frankie
         type: Suit Actor
-poster_url: /static/images/films/godzilla-vs-spacegodzilla-1994/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-vs-spacegodzilla-1994.webp
 release_date: 1994-12-10
 runtime: 108
 series:

@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichi-meets-the-one-armed-swordsman-1971/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichi-meets-the-one-armed-swordsman-1971.webp
 release_date: 1971-01-13
 runtime: 94
 series:

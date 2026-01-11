@@ -7,7 +7,7 @@ original_works:
     format: serialized novel
     slug: musashi-miyamoto
     title: Musashi Miyamoto
-poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
+poster_url: /static/images/films/posters/samurai-i-musashi-miyamoto-1954.webp
 release_date: 1954-09-26
 runtime: 94
 series:

@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: ゼイラム
-poster_url: /static/images/films/zeiram-1991/posters/poster.webp
+poster_url: /static/images/films/posters/zeiram-1991.webp
 release_date: 1991-12-21
 runtime: 97
 series:

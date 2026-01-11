@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/human-vapor-1960.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Coast Guard
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     roles:
       - name: Sailor
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/sanjuro-1962.webp
     roles:
       - name: Kikui Samurai
         uncredited: true
@@ -44,7 +44,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Spaceship Crew
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/high-and-low-1963.webp
     roles:
       - name: Toll Booth Worker
         uncredited: true
@@ -60,7 +60,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: Radar Officer
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: Kumayama's Henchman
         uncredited: false
@@ -76,7 +76,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     roles:
       - name: Satellite Personnel
         uncredited: false
@@ -84,7 +84,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
       - name: Air Traffic Controller
         uncredited: false
@@ -92,7 +92,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/ebirah-horror-of-the-deep-1966.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -100,7 +100,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
     roles:
       - name: Pilot
         uncredited: false
@@ -108,7 +108,7 @@ works:
     title: Son of Godzilla
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: SY-3 Crew
         uncredited: false
@@ -116,7 +116,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
+    poster_url: /static/images/films/posters/space-amoeba-1970.webp
     roles:
       - name: Sakura
         uncredited: false
@@ -124,7 +124,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: /static/images/films/lake-of-dracula-1971/posters/poster.webp
+    poster_url: /static/images/films/posters/lake-of-dracula-1971.webp
     roles:
       - name: Fisherman
         uncredited: false
@@ -132,7 +132,7 @@ works:
     title: Lake of Dracula
     year: 1971
   - format: film
-    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-hedorah-1971.webp
     roles:
       - name: Policeman
         uncredited: false
@@ -140,7 +140,7 @@ works:
     title: Godzilla vs. Hedorah
     year: 1971
   - format: film
-    poster_url: /static/images/films/godzilla-vs-gigan-1972/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-gigan-1972.webp
     roles:
       - name: Alien Henchman
         uncredited: false

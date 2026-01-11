@@ -13,7 +13,7 @@ original_works:
     format: novel
     slug: undersea-warship
     title: Undersea Warship
-poster_url: /static/images/films/atragon-1963/posters/poster.webp
+poster_url: /static/images/films/posters/atragon-1963.webp
 release_date: 1963-12-22
 runtime: 94
 staff:

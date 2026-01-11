@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: lorelei-at-the-end-of-the-war
     title: Lorelei at the End of the War
-poster_url: /static/images/films/lorelei-the-witch-of-the-pacific-ocean-2005/posters/poster.webp
+poster_url: /static/images/films/posters/lorelei-the-witch-of-the-pacific-ocean-2005.webp
 release_date: 2005-03-05
 runtime: 128
 staff:

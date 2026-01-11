@@ -22,7 +22,7 @@ kaiju:
           - name: Ôsumi Ken'ya
           - name: Konishi Katsuyuki
         type: Voice
-poster_url: /static/images/films/ultraman-the-next-2004/posters/poster.webp
+poster_url: /static/images/films/posters/ultraman-the-next-2004.webp
 release_date: 2004-12-18
 runtime: 97
 staff:

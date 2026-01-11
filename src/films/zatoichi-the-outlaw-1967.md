@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichi-the-outlaw-1967/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichi-the-outlaw-1967.webp
 release_date: 1967-08-12
 runtime: 96
 series:

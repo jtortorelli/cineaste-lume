@@ -10,7 +10,7 @@ original_works:
     format: novel
     slug: spiral
     title: Spiral
-poster_url: /static/images/films/spiral-1998/posters/poster.webp
+poster_url: /static/images/films/posters/spiral-1998.webp
 release_date: 1998-01-31
 runtime: 97
 series:

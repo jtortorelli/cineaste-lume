@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/fight-zatoichi-fight-1964/posters/poster.webp
+poster_url: /static/images/films/posters/fight-zatoichi-fight-1964.webp
 release_date: 1964-10-17
 runtime: 87
 series:

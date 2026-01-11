@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 宇宙大戦争
-poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
 release_date: 1959-12-26
 runtime: 91
 staff:

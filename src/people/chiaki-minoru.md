@@ -38,13 +38,13 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/stray-dog-1949/posters/poster.webp
+    poster_url: /static/images/films/posters/stray-dog-1949.webp
     roles:
       - name: Dance Director
     title: Stray Dog
     year: 1949
   - format: film
-    poster_url: /static/images/films/rashomon-1950/posters/poster.webp
+    poster_url: /static/images/films/posters/rashomon-1950.webp
     roles:
       - name: The Priest
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: Rashomon
     year: 1950
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/seven-samurai-1954.webp
     roles:
       - name: Hayashida Heihachi
         uncredited: false
@@ -60,7 +60,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-raids-again-1955.webp
     roles:
       - name: Kobayashi Kôji
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-iii-duel-at-ganryu-island-1956.webp
     roles:
       - name: Sasuke
         uncredited: false
@@ -76,7 +76,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/throne-of-blood-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/throne-of-blood-1957.webp
     roles:
       - name: Miki Yoshiaki
         uncredited: false
@@ -84,7 +84,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Taihei
         uncredited: false
@@ -92,7 +92,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/high-and-low-1963.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -100,7 +100,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/gray-sunset-1985/posters/poster.webp
+    poster_url: /static/images/films/posters/gray-sunset-1985.webp
     roles:
       - name: Takano Fuyukichi
         uncredited: false
@@ -109,12 +109,23 @@ works:
     year: 1985
 ---
 
-Chiaki Minoru aspired to be an actor since childhood and debuted in theater in 1936 at age 19. He served in the army from 1939 through 1942, stationed at Sakhalin.
+Chiaki Minoru aspired to be an actor since childhood and debuted in theater in
+1936 at age 19. He served in the army from 1939 through 1942, stationed at
+Sakhalin.
 
-His performance in the play *Dataii* inspired Kurosawa Akira to cast him in *Stray Dog* (1949). Chiaki went on to appear in eleven Kurosawa films, including *Rashomon* (1950), *Seven Samurai* (1954), *Throne of Blood* (1957), *The Hidden Fortress* (1958), and *High and Low* (1963).
+His performance in the play _Dataii_ inspired Kurosawa Akira to cast him in
+_Stray Dog_ (1949). Chiaki went on to appear in eleven Kurosawa films, including
+_Rashomon_ (1950), _Seven Samurai_ (1954), _Throne of Blood_ (1957), _The Hidden
+Fortress_ (1958), and _High and Low_ (1963).
 
-In *Seven Samurai*, he played the good-natured samurai Heihachi. Ironically, he outlived all his co-stars from the film, despite being the first casualty on screen. His and Fujiwara Kamatari's peasant characters in *The Hidden Fortress* were cited as direct inspirations for R2-D2 and C-3PO in *Star Wars* (1977).
+In _Seven Samurai_, he played the good-natured samurai Heihachi. Ironically, he
+outlived all his co-stars from the film, despite being the first casualty on
+screen. His and Fujiwara Kamatari's peasant characters in _The Hidden Fortress_
+were cited as direct inspirations for R2-D2 and C-3PO in _Star Wars_ (1977).
 
-Outside of his work with Kurosawa, Chiaki played the pilot Kobayashi Kôji in *Godzilla Raids Again* (1955).
+Outside of his work with Kurosawa, Chiaki played the pilot Kobayashi Kôji in
+_Godzilla Raids Again_ (1955).
 
-Later in his career, he won the Best Actor award at the Japan Academy Prizes for his performance in *Gray Sunset* (1985), where he played a man suffering from Alzheimer's disease.
+Later in his career, he won the Best Actor award at the Japan Academy Prizes for
+his performance in _Gray Sunset_ (1985), where he played a man suffering from
+Alzheimer's disease.

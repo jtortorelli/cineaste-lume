@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 宇宙大怪獣ギララ
-poster_url: /static/images/films/x-from-outer-space-1967/posters/poster.webp
+poster_url: /static/images/films/posters/x-from-outer-space-1967.webp
 release_date: 1967-03-25
 runtime: 88
 staff:

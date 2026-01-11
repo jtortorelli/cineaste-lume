@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: sunset-on-third-street
     title: Sunset on Third Street
-poster_url: /static/images/films/always-sunset-on-third-street-2005/posters/poster.webp
+poster_url: /static/images/films/posters/always-sunset-on-third-street-2005.webp
 release_date: 2005-11-05
 runtime: 133
 series:

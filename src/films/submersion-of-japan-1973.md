@@ -10,7 +10,7 @@ original_works:
     format: novel
     slug: sinking-of-japan
     title: The Sinking of Japan
-poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.webp
+poster_url: /static/images/films/posters/submersion-of-japan-1973.webp
 release_date: 1973-12-29
 runtime: 140
 staff:

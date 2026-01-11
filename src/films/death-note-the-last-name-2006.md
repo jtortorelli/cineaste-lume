@@ -8,7 +8,7 @@ original_works:
     format: manga
     slug: death-note
     title: Death Note
-poster_url: /static/images/films/death-note-the-last-name-2006/posters/poster.webp
+poster_url: /static/images/films/posters/death-note-the-last-name-2006.webp
 release_date: 2006-11-03
 runtime: 140
 series:

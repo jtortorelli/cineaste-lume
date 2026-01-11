@@ -19,7 +19,7 @@ kaiju:
           - alias: Nakayama Kengo
             name: Satsuma Kenpachirô
         type: Suit Actor
-poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-vs-hedorah-1971.webp
 release_date: 1971-07-24
 runtime: 85
 series:

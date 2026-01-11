@@ -12,7 +12,7 @@ original_works:
     format: novel
     slug: sengoku-self-defense-force-1549
     title: Sengoku Self Defense Force 1549
-poster_url: /static/images/films/samurai-commando-mission-1549-2005/posters/poster.webp
+poster_url: /static/images/films/posters/samurai-commando-mission-1549-2005.webp
 release_date: 2005-06-11
 runtime: 120
 staff:

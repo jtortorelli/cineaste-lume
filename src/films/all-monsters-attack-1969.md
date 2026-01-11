@@ -52,7 +52,7 @@ kaiju:
     name: Kumonga
     portrayals:
       - type: Stock Footage
-poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
+poster_url: /static/images/films/posters/all-monsters-attack-1969.webp
 release_date: 1969-12-20
 runtime: 70
 series:

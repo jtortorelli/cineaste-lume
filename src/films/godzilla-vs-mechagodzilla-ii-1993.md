@@ -24,7 +24,7 @@ kaiju:
       - people:
           - name: Hurricane Ryû
         type: Suit Actor
-poster_url: /static/images/films/godzilla-vs-mechagodzilla-ii-1993/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-vs-mechagodzilla-ii-1993.webp
 release_date: 1993-12-11
 runtime: 108
 series:

@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichi-at-large-1972/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichi-at-large-1972.webp
 release_date: 1972-01-15
 runtime: 90
 series:

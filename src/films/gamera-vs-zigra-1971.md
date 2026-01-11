@@ -11,7 +11,7 @@ kaiju:
     portrayals:
       - type: Voice
       - type: Suit Actor
-poster_url: /static/images/films/gamera-vs-zigra-1971/posters/poster.webp
+poster_url: /static/images/films/posters/gamera-vs-zigra-1971.webp
 release_date: 1971-07-17
 runtime: 88
 series:

@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: parasite-eve
     title: Parasite Eve
-poster_url: /static/images/films/parasite-eve-1997/posters/poster.webp
+poster_url: /static/images/films/posters/parasite-eve-1997.webp
 release_date: 1997-02-01
 runtime: 120
 staff:

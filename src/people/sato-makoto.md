@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Man at Fire Festival
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Uchida
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/lost-world-of-sinbad-1963.webp
     roles:
       - name: The Black Pirate
         uncredited: false
@@ -38,7 +38,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/whirlwind-1964.webp
     roles:
       - name: Kusanagi Shûri
         uncredited: false
@@ -46,7 +46,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
       - name: Gorjaka
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/samaritan-zatoichi-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/samaritan-zatoichi-1968.webp
     roles:
       - name: Kashiwazaki Yasaburô
         uncredited: false
@@ -62,7 +62,7 @@ works:
     title: Samaritan Zatoichi
     year: 1968
   - format: film
-    poster_url: /static/images/films/message-from-space-1978/posters/poster.webp
+    poster_url: /static/images/films/posters/message-from-space-1978.webp
     roles:
       - name: Urocco
         uncredited: false
@@ -70,7 +70,7 @@ works:
     title: Message from Space
     year: 1978
   - format: film
-    poster_url: /static/images/films/princess-mononoke-1997/posters/poster.webp
+    poster_url: /static/images/films/posters/princess-mononoke-1997.webp
     roles:
       - name: Nago
         qualifiers:

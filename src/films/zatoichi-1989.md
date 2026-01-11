@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichi-1989/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichi-1989.webp
 release_date: 1989-02-04
 runtime: 116
 series:

@@ -7,7 +7,7 @@ original_works:
     format: serialized novel
     slug: disappearance-of-the-capital
     title: The Disappearance of the Capital
-poster_url: /static/images/films/tokyo-blackout-1987/posters/poster.webp
+poster_url: /static/images/films/posters/tokyo-blackout-1987.webp
 release_date: 1987-01-17
 runtime: 120
 staff:

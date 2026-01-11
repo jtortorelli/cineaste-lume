@@ -7,7 +7,7 @@ original_works:
     format: novel series
     slug: one-missed-call
     title: One Missed Call
-poster_url: /static/images/films/one-missed-call-2-2005/posters/poster.webp
+poster_url: /static/images/films/posters/one-missed-call-2-2005.webp
 release_date: 2005-02-05
 runtime: 106
 series:

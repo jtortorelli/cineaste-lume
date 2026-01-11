@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: eko-eko-azarak
     title: Eko Eko Azarak
-poster_url: /static/images/films/eko-eko-azarak-ii-birth-of-the-wizard-1996/posters/poster.webp
+poster_url: /static/images/films/posters/eko-eko-azarak-ii-birth-of-the-wizard-1996.webp
 release_date: 1996-04-10
 runtime: 83
 series:

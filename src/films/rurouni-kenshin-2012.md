@@ -10,7 +10,7 @@ original_works:
     format: manga
     slug: rurouni-kenshin
     title: "Rurouni Kenshin: Meiji Swordsman Romantic Story"
-poster_url: /static/images/films/rurouni-kenshin-2012/posters/poster.webp
+poster_url: /static/images/films/posters/rurouni-kenshin-2012.webp
 release_date: 2012-08-25
 runtime: 134
 series:

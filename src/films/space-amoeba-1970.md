@@ -26,7 +26,7 @@ kaiju:
           - name: Nakamura Haruyoshi
             slug: nakamura-haruyoshi
         type: Suit Actor
-poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
+poster_url: /static/images/films/posters/space-amoeba-1970.webp
 release_date: 1970-08-01
 runtime: 84
 staff:

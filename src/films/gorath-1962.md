@@ -11,7 +11,7 @@ kaiju:
           - name: Nakajima Haruo
             slug: nakajima-haruo
         type: Suit Actor
-poster_url: /static/images/films/gorath-1962/posters/poster.webp
+poster_url: /static/images/films/posters/gorath-1962.webp
 release_date: 1962-03-21
 runtime: 88
 staff:

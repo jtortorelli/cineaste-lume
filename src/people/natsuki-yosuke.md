@@ -17,7 +17,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: "/static/images/films/h-man-1958/posters/poster.webp"
+    poster_url: "/static/images/films/posters/h-man-1958.webp"
     roles:
       - name: Bystander
         uncredited: false
@@ -25,13 +25,13 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: "/static/images/films/salaryman-chushingura-1960/posters/poster.webp"
+    poster_url: "/static/images/films/posters/salaryman-chushingura-1960.webp"
     title: Salaryman Chushingura
     year: 1960
     roles:
       - name: Ôishi Riki
   - format: film
-    poster_url: "/static/images/films/daredevil-in-the-castle-1961/posters/poster.webp"
+    poster_url: "/static/images/films/posters/daredevil-in-the-castle-1961.webp"
     roles:
       - name: Kimura Nagato
         uncredited: false
@@ -39,13 +39,13 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: "/static/images/films/salaryman-chushingura-part-ii-1961/posters/poster.webp"
+    poster_url: "/static/images/films/posters/salaryman-chushingura-part-ii-1961.webp"
     title: "Salaryman Chushingura: Part II"
     year: 1961
     roles:
       - name: Ôishi Riki
   - format: film
-    poster_url: "/static/images/films/yojimbo-1961/posters/poster.webp"
+    poster_url: "/static/images/films/posters/yojimbo-1961.webp"
     roles:
       - name: Farmer's Son
         uncredited: false
@@ -53,19 +53,19 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: "/static/images/films/shimizu-port-salaryman-1962/posters/poster.webp"
+    poster_url: "/static/images/films/posters/shimizu-port-salaryman-1962.webp"
     title: Shimizu Port Salaryman
     year: 1962
     roles:
       - name: Oiwake Shingo
   - format: film
-    poster_url: "/static/images/films/shimizu-port-salaryman-part-ii-1962/posters/poster.webp"
+    poster_url: "/static/images/films/posters/shimizu-port-salaryman-part-ii-1962.webp"
     title: "Shimizu Port Salaryman: Part II"
     year: 1962
     roles:
       - name: Oiwake Shingo
   - format: film
-    poster_url: "/static/images/films/dogora-1964/posters/poster.webp"
+    poster_url: "/static/images/films/posters/dogora-1964.webp"
     roles:
       - name: Detective Komai
         uncredited: false
@@ -73,7 +73,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: "/static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp"
+    poster_url: "/static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp"
     roles:
       - name: Detective Shindô Keiji
         uncredited: false
@@ -81,7 +81,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: "/static/images/films/whirlwind-1964/posters/poster.webp"
+    poster_url: "/static/images/films/posters/whirlwind-1964.webp"
     roles:
       - name: Okuno Kyûnosuke
         uncredited: false
@@ -89,7 +89,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: "/static/images/films/return-of-godzilla-1984/posters/poster.webp"
+    poster_url: "/static/images/films/posters/return-of-godzilla-1984.webp"
     roles:
       - name: Doctor Hayashida Shin
         uncredited: false

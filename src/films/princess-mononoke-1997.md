@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: もののけ姫
-poster_url: /static/images/films/princess-mononoke-1997/posters/poster.webp
+poster_url: /static/images/films/posters/princess-mononoke-1997.webp
 release_date: 1997-07-12
 runtime: 133
 staff:

@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: アヴァロン
-poster_url: /static/images/films/avalon-2001/posters/poster.webp
+poster_url: /static/images/films/posters/avalon-2001.webp
 release_date: 2001-01-20
 runtime: 106
 staff:

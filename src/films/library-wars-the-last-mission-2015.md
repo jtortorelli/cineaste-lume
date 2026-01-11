@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: library-wars
     title: Library Wars
-poster_url: /static/images/films/library-wars-the-last-mission-2015/posters/poster.webp
+poster_url: /static/images/films/posters/library-wars-the-last-mission-2015.webp
 release_date: 2015-10-10
 runtime: 120
 series:

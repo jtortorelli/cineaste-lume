@@ -29,7 +29,7 @@ kaiju:
           - name: Utsumi Susumu
             slug: utsumi-susumu
         type: Suit Actor
-poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
+poster_url: /static/images/films/posters/latitude-zero-1969.webp
 release_date: 1969-07-26
 runtime: 105
 staff:

@@ -14,14 +14,14 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: "/static/images/films/shishunki-1952/posters/poster.webp"
+    poster_url: "/static/images/films/posters/shishunki-1952.webp"
     roles:
       - name: Kubo Akira
         actor_alias: Yamauchi Yasuyoshi
     title: Shishunki
     year: 1952
   - format: film
-    poster_url: "/static/images/films/throne-of-blood-1957/posters/poster.webp"
+    poster_url: "/static/images/films/posters/throne-of-blood-1957.webp"
     roles:
       - name: Miki Yoshiteru
         uncredited: false
@@ -29,13 +29,13 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: "/static/images/films/presidents-peaceful-period-1959/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-peaceful-period-1959.webp"
     title: President’s Peaceful Period
     year: 1959
     roles:
       - name: Nakamura
   - format: film
-    poster_url: "/static/images/films/three-treasures-1959/posters/poster.webp"
+    poster_url: "/static/images/films/posters/three-treasures-1959.webp"
     roles:
       - name: Prince Ioki
         uncredited: false
@@ -43,7 +43,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: "/static/images/films/gorath-1962/posters/poster.webp"
+    poster_url: "/static/images/films/posters/gorath-1962.webp"
     roles:
       - name: Astronaut Kanai Tatsumaro
         uncredited: false
@@ -51,7 +51,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: "/static/images/films/sanjuro-1962/posters/poster.webp"
+    poster_url: "/static/images/films/posters/sanjuro-1962.webp"
     roles:
       - name: Morishima Hayato
         uncredited: false
@@ -59,7 +59,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: "/static/images/films/matango-1963/posters/poster.webp"
+    poster_url: "/static/images/films/posters/matango-1963.webp"
     roles:
       - name: Murai Kenji
         uncredited: false
@@ -67,7 +67,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: "/static/images/films/whirlwind-1964/posters/poster.webp"
+    poster_url: "/static/images/films/posters/whirlwind-1964.webp"
     roles:
       - name: Daijirô
         uncredited: false
@@ -75,7 +75,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: "/static/images/films/invasion-of-astro-monster-1965/posters/poster.webp"
+    poster_url: "/static/images/films/posters/invasion-of-astro-monster-1965.webp"
     roles:
       - name: Torii Tetsuo
         uncredited: false
@@ -83,7 +83,7 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
   - format: film
-    poster_url: "/static/images/films/son-of-godzilla-1967/posters/poster.webp"
+    poster_url: "/static/images/films/posters/son-of-godzilla-1967.webp"
     roles:
       - name: Maki Gorô
         uncredited: false
@@ -93,11 +93,11 @@ works:
   - title: Young Guy in Rio
     year: 1968
     format: film
-    poster_url: "/static/images/films/young-guy-in-rio-1968/posters/poster.webp"
+    poster_url: "/static/images/films/posters/young-guy-in-rio-1968.webp"
     roles:
       - name: Uno Ichirô
   - format: film
-    poster_url: "/static/images/films/destroy-all-monsters-1968/posters/poster.webp"
+    poster_url: "/static/images/films/posters/destroy-all-monsters-1968.webp"
     roles:
       - name: Yamabe Katsuo
         uncredited: false
@@ -105,7 +105,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: "/static/images/films/space-amoeba-1970/posters/poster.webp"
+    poster_url: "/static/images/films/posters/space-amoeba-1970.webp"
     roles:
       - name: Kudô Tarô
         uncredited: false
@@ -113,7 +113,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: "/static/images/films/gamera-guardian-of-the-universe-1995/posters/poster.webp"
+    poster_url: "/static/images/films/posters/gamera-guardian-of-the-universe-1995.webp"
     roles:
       - name: Captain of Kairyu<span class="italic">-maru</span>
         uncredited: false
@@ -123,13 +123,29 @@ works:
   - title: The Great Buddha Arrival
     year: 2019
     format: film
-    poster_url: "/static/images/films/great-buddha-arrival-2019/posters/poster.webp"
+    poster_url: "/static/images/films/posters/great-buddha-arrival-2019.webp"
     roles:
       - name: Prime Minister Mashiro
 ---
 
-Originally performing under his birth name Yamauchi Yasuyoshi, Kubo Akira began his career as a child actor on stage before joining any studio. He signed with Toho in 1952 at the age of 16 and made his screen debut that same year in Maruyama Seiji's coming-of-age drama _Shishunki_ ("Adolescence"). In a move that would define his public persona, he adopted the name of his character from that film—Kubo Akira—as his permanent stage name.
+Originally performing under his birth name Yamauchi Yasuyoshi, Kubo Akira began
+his career as a child actor on stage before joining any studio. He signed with
+Toho in 1952 at the age of 16 and made his screen debut that same year in
+Maruyama Seiji's coming-of-age drama _Shishunki_ ("Adolescence"). In a move that
+would define his public persona, he adopted the name of his character from that
+film—Kubo Akira—as his permanent stage name.
 
-Kubo became a versatile player for the studio, appearing in prestigious Kurosawa Akira films like _Throne of Blood_ (1957) and _Sanjuro_ (1962). However, he is most beloved by genre fans for his energetic performances in Toho's science fiction output. He played the inventor Torii Tetsuo in _Invasion of Astro-Monster_ (1965), the reporter Maki Goro in _Son of Godzilla_ (1967), and the heroic Captain Yamabe in the kaiju extravaganza _Destroy All Monsters_ (1968). Interestingly, he was reportedly a top contender for the lead role of Hayata in _Ultraman_ (1966) before the part went to Kurobe Susumu.
+Kubo became a versatile player for the studio, appearing in prestigious Kurosawa
+Akira films like _Throne of Blood_ (1957) and _Sanjuro_ (1962). However, he is
+most beloved by genre fans for his energetic performances in Toho's science
+fiction output. He played the inventor Torii Tetsuo in _Invasion of
+Astro-Monster_ (1965), the reporter Maki Goro in _Son of Godzilla_ (1967), and
+the heroic Captain Yamabe in the kaiju extravaganza _Destroy All Monsters_
+(1968). Interestingly, he was reportedly a top contender for the lead role of
+Hayata in _Ultraman_ (1966) before the part went to Kurobe Susumu.
 
-Following _Space Amoeba_ (1970), Kubo transitioned largely to television, where he frequently played villains—a stark contrast to his heroic film roles. He made a celebrated return to the genre with a cameo as the captain of the Kairyu-_maru_ in _Gamera: Guardian of the Universe_ (1995) and later appeared in the independent production _The Great Buddha Arrival_.
+Following _Space Amoeba_ (1970), Kubo transitioned largely to television, where
+he frequently played villains—a stark contrast to his heroic film roles. He made
+a celebrated return to the genre with a cameo as the captain of the
+Kairyu-_maru_ in _Gamera: Guardian of the Universe_ (1995) and later appeared in
+the independent production _The Great Buddha Arrival_.

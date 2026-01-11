@@ -18,7 +18,7 @@ kaiju:
     name: Mothra
     portrayals:
       - type: Puppet
-poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
 release_date: 1964-04-29
 runtime: 89
 series:

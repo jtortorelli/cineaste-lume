@@ -28,7 +28,7 @@ kaiju:
     name: Kumonga
     portrayals:
       - type: Puppet
-poster_url: /static/images/films/son-of-godzilla-1967/posters/poster.webp
+poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
 release_date: 1967-12-16
 runtime: 86
 series:

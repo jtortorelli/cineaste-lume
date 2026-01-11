@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: himitsu-top-secret
     title: "Himitsu: Top Secret"
-poster_url: /static/images/films/top-secret-murder-in-mind-2016/posters/poster.webp
+poster_url: /static/images/films/posters/top-secret-murder-in-mind-2016.webp
 release_date: 2016-08-06
 runtime: 148
 staff:

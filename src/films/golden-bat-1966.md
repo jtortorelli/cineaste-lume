@@ -7,7 +7,7 @@ original_works:
     format: picture story
     slug: golden-bat
     title:
-poster_url: /static/images/films/golden-bat-1966/posters/poster.webp
+poster_url: /static/images/films/posters/golden-bat-1966.webp
 release_date: 1966-12-21
 runtime: 73
 staff:

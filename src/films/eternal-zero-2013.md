@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: eternal-zero
     title: The Eternal Zero
-poster_url: /static/images/films/eternal-zero-2013/posters/poster.webp
+poster_url: /static/images/films/posters/eternal-zero-2013.webp
 release_date: 2013-12-21
 runtime: 144
 staff:

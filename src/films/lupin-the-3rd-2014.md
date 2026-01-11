@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: lupin-iii
     title: Lupin III
-poster_url: /static/images/films/lupin-the-3rd-2014/posters/poster.webp
+poster_url: /static/images/films/posters/lupin-the-3rd-2014.webp
 release_date: 2014-08-30
 runtime: 133
 staff:

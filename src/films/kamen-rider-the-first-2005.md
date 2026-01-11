@@ -4,7 +4,7 @@ aliases:
   - alias: "Masked Rider: The First"
     context: American Home Video
 japanese_title: 仮面ライダー THE FIRST
-poster_url: /static/images/films/kamen-rider-the-first-2005/posters/poster.webp
+poster_url: /static/images/films/posters/kamen-rider-the-first-2005.webp
 release_date: 2005-11-05
 runtime: 90
 series:

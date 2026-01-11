@@ -16,7 +16,7 @@ original_works:
     format: screenplay
     slug: space-mons
     title: Space Mons
-poster_url: /static/images/films/dogora-1964/posters/poster.webp
+poster_url: /static/images/films/posters/dogora-1964.webp
 release_date: 1964-08-11
 runtime: 81
 staff:

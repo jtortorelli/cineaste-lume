@@ -21,7 +21,7 @@ kaiju:
     name: Hyper Gyaos
     portrayals:
       - type: CGI
-poster_url: /static/images/films/gamera-3-revenge-of-iris-1999/posters/poster.webp
+poster_url: /static/images/films/posters/gamera-3-revenge-of-iris-1999.webp
 release_date: 1999-03-06
 runtime: 108
 series:

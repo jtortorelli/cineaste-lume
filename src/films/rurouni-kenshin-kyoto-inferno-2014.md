@@ -10,7 +10,7 @@ original_works:
     format: manga
     slug: rurouni-kenshin
     title: "Rurouni Kenshin: Meiji Swordsman Romantic Story"
-poster_url: /static/images/films/rurouni-kenshin-kyoto-inferno-2014/posters/poster.webp
+poster_url: /static/images/films/posters/rurouni-kenshin-kyoto-inferno-2014.webp
 release_date: 2014-08-01
 runtime: 139
 series:

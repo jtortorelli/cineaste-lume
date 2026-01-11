@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 惑星大戦争
-poster_url: /static/images/films/war-in-space-1977/posters/poster.webp
+poster_url: /static/images/films/posters/war-in-space-1977.webp
 release_date: 1977-12-17
 runtime: 91
 staff:

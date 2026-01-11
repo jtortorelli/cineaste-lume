@@ -7,7 +7,7 @@ original_works:
     format: anime
     slug: space-battleship-yamato
     title: Space Battleship Yamato
-poster_url: /static/images/films/space-battleship-yamato-2010/posters/poster.webp
+poster_url: /static/images/films/posters/space-battleship-yamato-2010.webp
 release_date: 2010-12-01
 runtime: 138
 staff:

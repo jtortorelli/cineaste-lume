@@ -7,7 +7,7 @@ original_works:
     format: serialized novel
     slug: musashi-miyamoto
     title: Musashi Miyamoto
-poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
+poster_url: /static/images/films/posters/samurai-ii-duel-at-ichijoji-temple-1955.webp
 release_date: 1955-07-12
 runtime: 103
 series:

@@ -62,7 +62,7 @@ kaiju:
     name: Varan
     portrayals:
       - type: Suit Actor
-poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
 release_date: 1968-08-01
 runtime: 89
 series:

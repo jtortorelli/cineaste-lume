@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 機動警察パトレイバー the Movie
-poster_url: /static/images/films/patlabor-the-movie-1989/posters/poster.webp
+poster_url: /static/images/films/posters/patlabor-the-movie-1989.webp
 release_date: 1989-07-15
 runtime: 100
 series:

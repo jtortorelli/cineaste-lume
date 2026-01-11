@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: lupin-iii
     title: Lupin III
-poster_url: /static/images/films/lupin-iii-the-castle-of-cagliostro-1979/posters/poster.webp
+poster_url: /static/images/films/posters/lupin-iii-the-castle-of-cagliostro-1979.webp
 release_date: 1979-12-15
 runtime: 100
 staff:

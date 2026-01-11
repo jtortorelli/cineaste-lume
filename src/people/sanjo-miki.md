@@ -14,7 +14,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/invisible-man-1954.webp
     roles:
       - name: Michiyo
         uncredited: false
@@ -24,7 +24,7 @@ works:
   - title: Young Guy vs. Blue Guy
     year: 1971
     format: film
-    poster_url: /static/images/films/young-guy-vs-blue-guy-1971/posters/poster.webp
+    poster_url: /static/images/films/posters/young-guy-vs-blue-guy-1971.webp
     roles:
       - name: Ôta Harue
 ---

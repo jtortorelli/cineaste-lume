@@ -8,7 +8,7 @@ kaiju:
       - people:
           - name: Hashimoto Chikara
         type: Suit Actor
-poster_url: /static/images/films/daimajin-1966/posters/poster.webp
+poster_url: /static/images/films/posters/daimajin-1966.webp
 release_date: 1966-04-17
 runtime: 84
 series:

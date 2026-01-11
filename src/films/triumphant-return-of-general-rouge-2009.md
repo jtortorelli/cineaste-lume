@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: triumphant-return-of-general-rouge
     title: The Triumphant Return of General Rouge
-poster_url: /static/images/films/triumphant-return-of-general-rouge-2009/posters/poster.webp
+poster_url: /static/images/films/posters/triumphant-return-of-general-rouge-2009.webp
 release_date: 2009-03-07
 runtime: 123
 series:

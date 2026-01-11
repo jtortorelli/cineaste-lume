@@ -19,7 +19,7 @@ kaiju:
     name: Space Gyaos
     portrayals:
       - type: Suit Actor
-poster_url: /static/images/films/gamera-vs-guiron-1969/posters/poster.webp
+poster_url: /static/images/films/posters/gamera-vs-guiron-1969.webp
 release_date: 1969-03-21
 runtime: 82
 series:

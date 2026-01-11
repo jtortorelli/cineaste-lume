@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: GOEMON
-poster_url: /static/images/films/goemon-2009/posters/poster.webp
+poster_url: /static/images/films/posters/goemon-2009.webp
 release_date: 2009-05-01
 runtime: 128
 staff:

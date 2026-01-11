@@ -10,7 +10,7 @@ profession: Actress
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/come-marry-me-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/come-marry-me-1966.webp
     roles:
       - name: Hisako
     title: Come Marry Me
@@ -23,7 +23,7 @@ works:
       - name: Android Girl 01
         episode_count: 1
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: Manabe Kyôko
         uncredited: false
@@ -31,7 +31,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
+    poster_url: /static/images/films/posters/space-amoeba-1970.webp
     roles:
       - name: Saki
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: /static/images/films/vampire-doll-1970/posters/poster.webp
+    poster_url: /static/images/films/posters/vampire-doll-1970.webp
     roles:
       - name: Nonomura Yûko
         uncredited: false
@@ -49,13 +49,23 @@ works:
   - title: The Great Buddha Arrival
     year: 2019
     format: film
-    poster_url: /static/images/films/great-buddha-arrival-2019/posters/poster.webp
+    poster_url: /static/images/films/posters/great-buddha-arrival-2019.webp
     roles:
       - name: Murata Yûko
 ---
 
-Born in Tokyo, Kobayashi Yukiko initially rejected numerous offers to join Toho in order to pursue her education. However, after failing her university entrance exams, she relented and auditioned for the studio. She made her screen debut in Honda Ishirô's non-kaiju film _Come Marry Me_ (1966).
+Born in Tokyo, Kobayashi Yukiko initially rejected numerous offers to join Toho
+in order to pursue her education. However, after failing her university entrance
+exams, she relented and auditioned for the studio. She made her screen debut in
+Honda Ishirô's non-kaiju film _Come Marry Me_ (1966).
 
-Kobayashi is best known to genre fans for her role as Manabe Kyôko in the kaiju classic _Destroy All Monsters_ (1968) and as the title character in the atmospheric horror film _The Vampire Doll_ (1970), the first entry in Toho's "Bloodthirsty Trilogy." She also appeared in _Space Amoeba_ (1970) and played Android Zero One in _Ultraseven_.
+Kobayashi is best known to genre fans for her role as Manabe Kyôko in the kaiju
+classic _Destroy All Monsters_ (1968) and as the title character in the
+atmospheric horror film _The Vampire Doll_ (1970), the first entry in Toho's
+"Bloodthirsty Trilogy." She also appeared in _Space Amoeba_ (1970) and played
+Android Zero One in _Ultraseven_.
 
-She retired from acting in 1974 due to illness but remained a beloved figure among fans. She made a surprise return to the screen in the 2019 film _The Great Buddha Arrival_ and appeared in the KaijuCast documentary _Hail to the King: 60 Years of Destruction_ (2015).
+She retired from acting in 1974 due to illness but remained a beloved figure
+among fans. She made a surprise return to the screen in the 2019 film _The Great
+Buddha Arrival_ and appeared in the KaijuCast documentary _Hail to the King: 60
+Years of Destruction_ (2015).

@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichis-flashing-sword-1964/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichis-flashing-sword-1964.webp
 release_date: 1964-07-11
 runtime: 82
 series:

@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: assassination-classroom
     title: Assassination Classroom
-poster_url: /static/images/films/assassination-classroom-2015/posters/poster.webp
+poster_url: /static/images/films/posters/assassination-classroom-2015.webp
 release_date: 2015-03-21
 runtime: 110
 series:

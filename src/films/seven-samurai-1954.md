@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 七人の侍
-poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
+poster_url: /static/images/films/posters/seven-samurai-1954.webp
 release_date: 1954-04-26
 runtime: 207
 staff:

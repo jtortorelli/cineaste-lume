@@ -14,7 +14,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: "/static/images/films/secret-savings-president-1956/posters/poster.webp"
+    poster_url: "/static/images/films/posters/secret-savings-president-1956.webp"
     roles:
       - name: Okamoto
         uncredited: false
@@ -22,7 +22,7 @@ works:
     title: Secret Savings President
     year: 1956
   - format: film
-    poster_url: "/static/images/films/secret-savings-president-part-ii-1956/posters/poster.webp"
+    poster_url: "/static/images/films/posters/secret-savings-president-part-ii-1956.webp"
     roles:
       - name: Okamoto
         uncredited: false
@@ -30,7 +30,7 @@ works:
     title: "Secret Savings President: Part II"
     year: 1956
   - format: film
-    poster_url: "/static/images/films/throne-of-blood-1957/posters/poster.webp"
+    poster_url: "/static/images/films/posters/throne-of-blood-1957.webp"
     roles:
       - name: Tsuzuki Kunimaru
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: "/static/images/films/three-generations-of-presidents-1958/posters/poster.webp"
+    poster_url: "/static/images/films/posters/three-generations-of-presidents-1958.webp"
     roles:
       - name: Matsumura Toshio
         uncredited: false
@@ -47,7 +47,7 @@ works:
     title: Three Generations of Presidents
     year: 1958
   - format: film
-    poster_url: "/static/images/films/three-generations-of-presidents-part-ii-1958/posters/poster.webp"
+    poster_url: "/static/images/films/posters/three-generations-of-presidents-part-ii-1958.webp"
     roles:
       - name: Matsumura Toshio
         uncredited: false
@@ -55,14 +55,14 @@ works:
     title: "Three Generations of Presidents: Part II"
     year: 1958
   - format: film
-    poster_url: "/static/images/films/presidents-travels-part-ii-1961/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-travels-part-ii-1961.webp"
     roles:
       - name: Nakamura
         uncredited: false
     title: "President's Travels: Part II"
     year: 1961
   - format: film
-    poster_url: "/static/images/films/yojimbo-1961/posters/poster.webp"
+    poster_url: "/static/images/films/posters/yojimbo-1961.webp"
     roles:
       - name: Yoichirô
         uncredited: false
@@ -70,7 +70,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: "/static/images/films/sanjuro-1962/posters/poster.webp"
+    poster_url: "/static/images/films/posters/sanjuro-1962.webp"
     roles:
       - name: Kawahara Susumu
         uncredited: false
@@ -78,7 +78,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: "/static/images/films/gorath-1962/posters/poster.webp"
+    poster_url: "/static/images/films/posters/gorath-1962.webp"
     roles:
       - name: Astronaut Wakabayashi
         uncredited: false
@@ -86,7 +86,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: "/static/images/films/matango-1963/posters/poster.webp"
+    poster_url: "/static/images/films/posters/matango-1963.webp"
     roles:
       - name: Yoshida Etsurô
         uncredited: false

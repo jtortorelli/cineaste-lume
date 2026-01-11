@@ -15,7 +15,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
       - name: Doctor Paul Stewart
         qualifiers:
@@ -25,7 +25,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/godzilla-vs-mechagodzilla-1974/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-mechagodzilla-1974.webp
     roles:
       - name: Commander Kuronuma
         uncredited: false
@@ -33,7 +33,7 @@ works:
     title: Godzilla vs. Mechagodzilla
     year: 1974
   - format: film
-    poster_url: /static/images/films/espy-1974/posters/poster.webp
+    poster_url: /static/images/films/posters/espy-1974.webp
     roles:
       - name: Teraoka
         uncredited: false
@@ -41,7 +41,7 @@ works:
     title: ESPY
     year: 1974
   - format: film
-    poster_url: /static/images/films/terror-of-mechagodzilla-1975/posters/poster.webp
+    poster_url: /static/images/films/posters/terror-of-mechagodzilla-1975.webp
     roles:
       - name: Commander Mugal
         uncredited: false
@@ -49,7 +49,7 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
   - format: film
-    poster_url: /static/images/films/war-in-space-1977/posters/poster.webp
+    poster_url: /static/images/films/posters/war-in-space-1977.webp
     roles:
       - name: Commander Hell
         uncredited: false

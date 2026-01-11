@@ -15,7 +15,7 @@ kaiju:
     name: Jiger
     portrayals:
       - type: Suit Actor
-poster_url: /static/images/films/gamera-vs-jiger-1970/posters/poster.webp
+poster_url: /static/images/films/posters/gamera-vs-jiger-1970.webp
 release_date: 1970-03-21
 runtime: 83
 series:

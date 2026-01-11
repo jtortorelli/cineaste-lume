@@ -18,7 +18,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: "/static/images/films/godzilla-1954/posters/poster.webp"
+    poster_url: "/static/images/films/posters/godzilla-1954.webp"
     roles:
       - name: Eiko<span class="italic">-maru</span> Radio Operator
         uncredited: true
@@ -26,15 +26,15 @@ works:
     title: Godzilla
     year: 1954
   - format: film
-    poster_url: "/static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp"
+    poster_url: "/static/images/films/posters/samurai-ii-duel-at-ichijoji-temple-1955.webp"
     roles:
       - name: Yoshioka Denshichirô
         uncredited: false
     slug: samurai-ii-duel-at-ichijoji-temple-1955
-    title: 'Samurai II: Duel at Ichijoji Temple'
+    title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
   - format: film
-    poster_url: "/static/images/films/throne-of-blood-1957/posters/poster.webp"
+    poster_url: "/static/images/films/posters/throne-of-blood-1957.webp"
     roles:
       - name: Washizu Soldier
         uncredited: false
@@ -42,7 +42,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: "/static/images/films/hidden-fortress-1958/posters/poster.webp"
+    poster_url: "/static/images/films/posters/hidden-fortress-1958.webp"
     roles:
       - name: Yamana Border Guard
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: "/static/images/films/three-treasures-1959/posters/poster.webp"
+    poster_url: "/static/images/films/posters/three-treasures-1959.webp"
     roles:
       - name: Okabi
         uncredited: false
@@ -58,7 +58,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: "/static/images/films/daredevil-in-the-castle-1961/posters/poster.webp"
+    poster_url: "/static/images/films/posters/daredevil-in-the-castle-1961.webp"
     roles:
       - name: Hanawa Danemon
         uncredited: false
@@ -66,19 +66,19 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: "/static/images/films/shimizu-port-salaryman-1962/posters/poster.webp"
+    poster_url: "/static/images/films/posters/shimizu-port-salaryman-1962.webp"
     title: Shimizu Port Salaryman
     year: 1962
     roles:
       - name: Ôiwa
   - format: film
-    poster_url: "/static/images/films/shimizu-port-salaryman-part-ii-1962/posters/poster.webp"
-    title: 'Shimizu Port Salaryman: Part II'
+    poster_url: "/static/images/films/posters/shimizu-port-salaryman-part-ii-1962.webp"
+    title: "Shimizu Port Salaryman: Part II"
     year: 1962
     roles:
       - name: Ôiwa
   - format: film
-    poster_url: "/static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp"
+    poster_url: "/static/images/films/posters/king-kong-vs-godzilla-1962.webp"
     roles:
       - name: Furue Kinsaburô
         uncredited: false
@@ -86,7 +86,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: "/static/images/films/atragon-1963/posters/poster.webp"
+    poster_url: "/static/images/films/posters/atragon-1963.webp"
     roles:
       - name: Nishibe Yoshito
         uncredited: false
@@ -94,7 +94,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: "/static/images/films/mothra-vs-godzilla-1964/posters/poster.webp"
+    poster_url: "/static/images/films/posters/mothra-vs-godzilla-1964.webp"
     roles:
       - name: Nakamura Jirô
         uncredited: false
@@ -104,11 +104,11 @@ works:
   - title: Young Guy in Rio
     year: 1968
     format: film
-    poster_url: /static/images/films/young-guy-in-rio-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/young-guy-in-rio-1968.webp
     roles:
       - name: Director Takemura
   - format: film
-    poster_url: "/static/images/films/space-amoeba-1970/posters/poster.webp"
+    poster_url: "/static/images/films/posters/space-amoeba-1970.webp"
     roles:
       - name: Advertising Chief
         uncredited: false
@@ -118,26 +118,41 @@ works:
   - title: This is My Sky! Young Guy
     year: 1970
     format: film
-    poster_url: /static/images/films/this-is-my-sky-young-guy-1970/posters/poster.webp
+    poster_url: /static/images/films/posters/this-is-my-sky-young-guy-1970.webp
     roles:
       - name: Tachibana
   - title: Return of the Champ
     year: 1981
     format: film
-    poster_url: /static/images/films/return-of-the-champ-1981/posters/poster.webp
+    poster_url: /static/images/films/posters/return-of-the-champ-1981.webp
     roles:
       - name: Okiyama
   - format: film
-    poster_url: "/static/images/films/year-one-in-the-north-2005/posters/poster.webp"
+    poster_url: "/static/images/films/posters/year-one-in-the-north-2005.webp"
     roles:
       - name: Nakano Kamejirô
     title: Year One in the North
     year: 2005
 ---
-Fujiki Yû was a versatile actor who became a staple of Toho's "Golden Age" cinema. He was a skilled fencer in his youth, winning the single men's epee category of the All Japan Fencer's Championship in 1951 while attending Doshisha University.
 
-He joined Toho in 1954 as part of the 6th "New Face" class, which also included future stars Takarada Akira, Sahara Kenji, and Okada Masumi. While initially cast in serious roles, Fujiki found his niche in comedy, forming a popular duo with Takashima Tadao. Together, they starred in numerous "salaryman" comedies, a persona they carried over into kaiju films like *King Kong vs. Godzilla* (1962) and *Atragon* (1963).
+Fujiki Yû was a versatile actor who became a staple of Toho's "Golden Age"
+cinema. He was a skilled fencer in his youth, winning the single men's epee
+category of the All Japan Fencer's Championship in 1951 while attending Doshisha
+University.
 
-Fujiki's other notable tokusatsu roles include the egg-loving reporter Nakamura Jirô in *Mothra vs. Godzilla* (1964) and the advertising chief in *Space Amoeba* (1970). He remained with Toho until 1974, after which he transitioned to television roles.
+He joined Toho in 1954 as part of the 6th "New Face" class, which also included
+future stars Takarada Akira, Sahara Kenji, and Okada Masumi. While initially
+cast in serious roles, Fujiki found his niche in comedy, forming a popular duo
+with Takashima Tadao. Together, they starred in numerous "salaryman" comedies, a
+persona they carried over into kaiju films like _King Kong vs. Godzilla_ (1962)
+and _Atragon_ (1963).
 
-In his later years, Fujiki battled diabetes, which led to a loss of sensation in his extremities. He and his wife became active campaigners for diabetes awareness. His final film role was in *Year One in the North* (2005), released shortly before his death.
+Fujiki's other notable tokusatsu roles include the egg-loving reporter Nakamura
+Jirô in _Mothra vs. Godzilla_ (1964) and the advertising chief in _Space Amoeba_
+(1970). He remained with Toho until 1974, after which he transitioned to
+television roles.
+
+In his later years, Fujiki battled diabetes, which led to a loss of sensation in
+his extremities. He and his wife became active campaigners for diabetes
+awareness. His final film role was in _Year One in the North_ (2005), released
+shortly before his death.

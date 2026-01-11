@@ -16,14 +16,14 @@ profession: Composer
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/human-vapor-1960.webp
     slug: human-vapor-1960
     staff:
       - role: Music
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/all-monsters-attack-1969/posters/poster.webp
+    poster_url: /static/images/films/posters/all-monsters-attack-1969.webp
     slug: all-monsters-attack-1969
     staff:
       - role: Music

@@ -17,7 +17,7 @@ kaiju:
     name: Gyaos
     portrayals:
       - type: Suit Actor
-poster_url: /static/images/films/gamera-vs-gyaos-1967/posters/poster.webp
+poster_url: /static/images/films/posters/gamera-vs-gyaos-1967.webp
 release_date: 1967-03-15
 runtime: 87
 series:

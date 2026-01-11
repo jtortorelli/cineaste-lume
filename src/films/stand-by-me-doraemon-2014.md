@@ -7,7 +7,7 @@ original_works:
     format: manga
     slug: doraemon
     title: Doraemon
-poster_url: /static/images/films/stand-by-me-doraemon-2014/posters/poster.webp
+poster_url: /static/images/films/posters/stand-by-me-doraemon-2014.webp
 release_date: 2014-08-08
 runtime: 95
 staff:

@@ -13,7 +13,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:
       - name: UN Official
         uncredited: true
@@ -21,13 +21,13 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/crazy-adventure-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/crazy-adventure-1965.webp
     roles:
       - name: Adolf Hitler
     title: Crazy Adventure
     year: 1965
   - format: film
-    poster_url: /static/images/films/golden-bat-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/golden-bat-1966.webp
     roles:
       - name: Doctor Pearl
         uncredited: false
@@ -35,7 +35,7 @@ works:
     title: The Golden Bat
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-escapes-1967.webp
     roles:
       - name: UN Reporter
         uncredited: true
@@ -43,7 +43,7 @@ works:
     title: King Kong Escapes
     year: 1967
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: Doctor Stevenson
         uncredited: false
@@ -51,7 +51,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
+    poster_url: /static/images/films/posters/latitude-zero-1969.webp
     roles:
       - name: Sir Maurice Pauli
         uncredited: true
@@ -59,7 +59,7 @@ works:
     title: Latitude Zero
     year: 1969
   - format: film
-    poster_url: /static/images/films/submersion-of-japan-1973/posters/poster.webp
+    poster_url: /static/images/films/posters/submersion-of-japan-1973.webp
     roles:
       - name: Australian Prime Minister
         uncredited: false
@@ -67,7 +67,7 @@ works:
     title: Submersion of Japan
     year: 1973
   - format: film
-    poster_url: /static/images/films/espy-1974/posters/poster.webp
+    poster_url: /static/images/films/posters/espy-1974.webp
     roles:
       - name: ESPY Chief
         uncredited: false
@@ -75,7 +75,7 @@ works:
     title: ESPY
     year: 1974
   - format: film
-    poster_url: /static/images/films/sayonara-jupiter-1984/posters/poster.webp
+    poster_url: /static/images/films/posters/sayonara-jupiter-1984.webp
     roles:
       - name: Senator Shadillic
         uncredited: false
@@ -84,8 +84,18 @@ works:
     year: 1984
 ---
 
-A Turkish-born business executive who lived in Tokyo, Hughes became a familiar face in Japanese cinema as the go-to actor for distinguished Westerners. Despite not being fluent in Japanese, he appeared in numerous films for Toho, usually dubbed by voice actors.
+A Turkish-born business executive who lived in Tokyo, Hughes became a familiar
+face in Japanese cinema as the go-to actor for distinguished Westerners. Despite
+not being fluent in Japanese, he appeared in numerous films for Toho, usually
+dubbed by voice actors.
 
-Unlike many other foreign extras of the time who were often cast in minor background roles, Hughes frequently landed significant supporting parts. He was often typecast as high-ranking officials, scientists, or international diplomats given his dignified appearance. His roles included the Australian Prime Minister in _Submersion of Japan_ (1973), Dr. Stevenson in _Destroy All Monsters_ (1968), and even Adolf Hitler in the comedy _Crazy Adventure_ (1965).
+Unlike many other foreign extras of the time who were often cast in minor
+background roles, Hughes frequently landed significant supporting parts. He was
+often typecast as high-ranking officials, scientists, or international diplomats
+given his dignified appearance. His roles included the Australian Prime Minister
+in _Submersion of Japan_ (1973), Dr. Stevenson in _Destroy All Monsters_ (1968),
+and even Adolf Hitler in the comedy _Crazy Adventure_ (1965).
 
-He also worked behind the scenes, serving as a liaison between Japanese crews and foreign talent, notably on _The Last War_ (1961). He remained active in the Japanese film industry until the mid-1980s before retiring to France.
+He also worked behind the scenes, serving as a liaison between Japanese crews
+and foreign talent, notably on _The Last War_ (1961). He remained active in the
+Japanese film industry until the mid-1980s before retiring to France.

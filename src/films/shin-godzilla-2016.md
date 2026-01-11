@@ -11,7 +11,7 @@ kaiju:
       - people:
           - name: Nomura Mansai
         type: Motion Capture
-poster_url: /static/images/films/shin-godzilla-2016/posters/poster.webp
+poster_url: /static/images/films/posters/shin-godzilla-2016.webp
 release_date: 2016-07-29
 runtime: 119
 series:

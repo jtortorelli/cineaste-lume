@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichi-challenged-1967/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichi-challenged-1967.webp
 release_date: 1967-12-30
 runtime: 87
 series:

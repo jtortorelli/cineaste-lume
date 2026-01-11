@@ -16,7 +16,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: "/static/images/films/throne-of-blood-1957/posters/poster.webp"
+    poster_url: "/static/images/films/posters/throne-of-blood-1957.webp"
     roles:
       - name: Phantom Warrior
         uncredited: false
@@ -24,7 +24,7 @@ works:
     title: Throne of Blood
     year: 1957
   - format: film
-    poster_url: "/static/images/films/last-war-1961/posters/poster.webp"
+    poster_url: "/static/images/films/posters/last-war-1961.webp"
     roles:
       - name: Cabinet Secretary
         uncredited: false
@@ -32,7 +32,7 @@ works:
     title: The Last War
     year: 1961
   - format: film
-    poster_url: "/static/images/films/high-and-low-1963/posters/poster.webp"
+    poster_url: "/static/images/films/posters/high-and-low-1963.webp"
     roles:
       - name: Ishimaru
         uncredited: false
@@ -40,13 +40,13 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: "/static/images/films/presidents-whos-who-part-ii-1964/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-whos-who-part-ii-1964.webp"
     title: "President's Who's Who: Part II"
     year: 1964
     roles:
       - name: Ôkouchi
   - format: film
-    poster_url: "/static/images/films/dogora-1964/posters/poster.webp"
+    poster_url: "/static/images/films/posters/dogora-1964.webp"
     roles:
       - name: Doctor Munakata
         uncredited: false
@@ -54,7 +54,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: "/static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp"
+    poster_url: "/static/images/films/posters/frankenstein-conquers-the-world-1965.webp"
     roles:
       - name: Skeptical Museum Curator
         uncredited: false
@@ -62,13 +62,13 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: "/static/images/films/presidents-record-part-ii-1966/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-record-part-ii-1966.webp"
     title: "President’s Record: Part II"
     year: 1966
     roles:
       - name: Tomioka
   - format: film
-    poster_url: "/static/images/films/war-of-the-gargantuas-1966/posters/poster.webp"
+    poster_url: "/static/images/films/posters/war-of-the-gargantuas-1966.webp"
     roles:
       - name: Doctor Kida
         uncredited: false
@@ -76,13 +76,13 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: "/static/images/films/presidents-success-story-1968/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-success-story-1968.webp"
     title: President’s Success Story
     year: 1968
     roles:
       - name: Fujikawa
   - format: film
-    poster_url: "/static/images/films/presidents-success-story-part-ii-1968/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-success-story-part-ii-1968.webp"
     title: "President’s Success Story: Part II"
     year: 1968
     roles:
@@ -90,11 +90,11 @@ works:
   - title: Young Guy in Rio
     year: 1968
     format: film
-    poster_url: /static/images/films/young-guy-in-rio-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/young-guy-in-rio-1968.webp
     roles:
       - name: Ishiyama Gôzô
   - format: film
-    poster_url: "/static/images/films/submersion-of-japan-1973/posters/poster.webp"
+    poster_url: "/static/images/films/posters/submersion-of-japan-1973.webp"
     roles:
       - name: Envoy Nozaki
         uncredited: false

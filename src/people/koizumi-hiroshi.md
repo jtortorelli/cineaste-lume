@@ -13,7 +13,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/godzilla-raids-again-1955/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-raids-again-1955.webp
     roles:
       - name: Tsukioka Shôichi
         uncredited: false
@@ -21,7 +21,7 @@ works:
     title: Godzilla Raids Again
     year: 1955
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Doctor Chûjô Shin'ichi
         uncredited: false
@@ -29,7 +29,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/matango-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/matango-1963.webp
     roles:
       - name: Sakuta Naoyuki
         uncredited: false
@@ -37,7 +37,7 @@ works:
     title: Matango
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: Detective Itô
         uncredited: false
@@ -45,7 +45,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: Doctor Miura
         uncredited: false
@@ -53,7 +53,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     roles:
       - name: Doctor Kirino
         uncredited: false
@@ -61,7 +61,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: Doctor Murai
         uncredited: false
@@ -69,7 +69,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/godzilla-vs-mechagodzilla-1974/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-mechagodzilla-1974.webp
     roles:
       - name: Doctor Wagura
         uncredited: false
@@ -77,7 +77,7 @@ works:
     title: Godzilla vs. Mechagodzilla
     year: 1974
   - format: film
-    poster_url: /static/images/films/prophecies-of-nostradamus-1974/posters/poster.webp
+    poster_url: /static/images/films/posters/prophecies-of-nostradamus-1974.webp
     roles:
       - name: Environmental Scientist
         uncredited: false
@@ -85,7 +85,7 @@ works:
     title: Prophecies of Nostradamus
     year: 1974
   - format: film
-    poster_url: /static/images/films/return-of-godzilla-1984/posters/poster.webp
+    poster_url: /static/images/films/posters/return-of-godzilla-1984.webp
     roles:
       - name: Doctor Minami
         uncredited: false
@@ -93,7 +93,7 @@ works:
     title: The Return of Godzilla
     year: 1985
   - format: film
-    poster_url: /static/images/films/godzilla-tokyo-sos-2003/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-tokyo-sos-2003.webp
     roles:
       - name: Chûjô Shin'ichi
         uncredited: false
@@ -102,10 +102,20 @@ works:
     year: 2003
 ---
 
-Born in Kamakura, Kanagawa Prefecture, Koizumi Hiroshi graduated from Keio University with a degree in economics in 1948. He initially worked as an announcer for NHK before transitioning to acting, joining Toho as part of their 3rd "New Face" class.
+Born in Kamakura, Kanagawa Prefecture, Koizumi Hiroshi graduated from Keio
+University with a degree in economics in 1948. He initially worked as an
+announcer for NHK before transitioning to acting, joining Toho as part of their
+3rd "New Face" class.
 
-Debuting in 1952, Koizumi became a staple of Toho's golden age, particularly in the tokusatsu genre where his intellectual demeanor often saw him cast as scientists or academics. His credits include _Mothra_ (1961), _Matango_ (1963), _Atragon_ (1963), and _Ghidorah, the Three-Headed Monster_ (1964). He also played the heroic pilot Tsukioka in _Godzilla Raids Again_ (1955).
+Debuting in 1952, Koizumi became a staple of Toho's golden age, particularly in
+the tokusatsu genre where his intellectual demeanor often saw him cast as
+scientists or academics. His credits include _Mothra_ (1961), _Matango_ (1963),
+_Atragon_ (1963), and _Ghidorah, the Three-Headed Monster_ (1964). He also
+played the heroic pilot Tsukioka in _Godzilla Raids Again_ (1955).
 
-In the 1970s, he returned to his roots in broadcasting, becoming the host of the popular _Quiz Grand Prix_ on Fuji TV. He made a memorable return to the Godzilla franchise in _Godzilla: Tokyo S.O.S._ (2003), reprising his role as Dr. Chûjô Shin'ichi from _Mothra_—a span of 42 years between appearances.
+In the 1970s, he returned to his roots in broadcasting, becoming the host of the
+popular _Quiz Grand Prix_ on Fuji TV. He made a memorable return to the Godzilla
+franchise in _Godzilla: Tokyo S.O.S._ (2003), reprising his role as Dr. Chûjô
+Shin'ichi from _Mothra_—a span of 42 years between appearances.
 
 Koizumi passed away from pneumonia in 2015.

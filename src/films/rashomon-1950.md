@@ -13,7 +13,7 @@ original_works:
     format: short story
     slug: rashomon
     title: Rashomon
-poster_url: /static/images/films/rashomon-1950/posters/poster.webp
+poster_url: /static/images/films/posters/rashomon-1950.webp
 release_date: 1950-08-26
 runtime: 88
 staff:

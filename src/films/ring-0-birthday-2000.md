@@ -10,7 +10,7 @@ original_works:
     format: short story
     slug: lemon-heart
     title: Lemon Heart
-poster_url: /static/images/films/ring-0-birthday-2000/posters/poster.webp
+poster_url: /static/images/films/posters/ring-0-birthday-2000.webp
 release_date: 2000-01-22
 runtime: 99
 series:

@@ -12,7 +12,7 @@ kaiju:
       - people:
           - name: Yoshida Mizuho
         type: Suit Actor
-poster_url: /static/images/films/rebirth-of-mothra-ii-1997/posters/poster.webp
+poster_url: /static/images/films/posters/rebirth-of-mothra-ii-1997.webp
 release_date: 1997-12-13
 runtime: 100
 series:

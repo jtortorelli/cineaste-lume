@@ -7,7 +7,7 @@ original_works:
     format: novel series
     slug: sky-crawlers
     title: The Sky Crawlers
-poster_url: /static/images/films/sky-crawlers-2008/posters/poster.webp
+poster_url: /static/images/films/posters/sky-crawlers-2008.webp
 release_date: 2008-08-02
 runtime: 122
 staff:

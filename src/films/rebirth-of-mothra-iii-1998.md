@@ -12,7 +12,7 @@ kaiju:
       - people:
           - name: Kitagawa Tsutomu
         type: Suit Actor
-poster_url: /static/images/films/rebirth-of-mothra-iii-1998/posters/poster.webp
+poster_url: /static/images/films/posters/rebirth-of-mothra-iii-1998.webp
 release_date: 1998-12-12
 runtime: 100
 series:

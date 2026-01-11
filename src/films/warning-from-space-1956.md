@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 宇宙人東京に現わる
-poster_url: /static/images/films/warning-from-space-1956/posters/poster.webp
+poster_url: /static/images/films/posters/warning-from-space-1956.webp
 release_date: 1956-01-29
 runtime: 82
 staff:

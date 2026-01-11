@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichi-meets-yojimbo-1970/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichi-meets-yojimbo-1970.webp
 release_date: 1970-01-15
 runtime: 115
 series:

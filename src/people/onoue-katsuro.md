@@ -10,56 +10,56 @@ profession: VFX Director
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/gamera-3-revenge-of-iris-1999/posters/poster.webp
+    poster_url: /static/images/films/posters/gamera-3-revenge-of-iris-1999.webp
     slug: gamera-3-revenge-of-iris-1999
     staff:
       - role: Physical FX
     title: "Gamera 3: Revenge of Iris"
     year: 1999
   - format: film
-    poster_url: /static/images/films/godzilla-2000-millennium-1999/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-2000-millennium-1999.webp
     slug: godzilla-2000-millennium-1999
     staff:
       - role: Physical FX Assistant
     title: "Godzilla 2000: Millennium"
     year: 1999
   - format: film
-    poster_url: /static/images/films/sakuya-slayer-of-demons-2000/posters/poster.webp
+    poster_url: /static/images/films/posters/sakuya-slayer-of-demons-2000.webp
     slug: sakuya-slayer-of-demons-2000
     staff:
       - role: SFX Supervisor
     title: "Sakuya: Slayer of Demons"
     year: 2000
   - format: film
-    poster_url: /static/images/films/godzilla-vs-megaguirus-2000/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-megaguirus-2000.webp
     slug: godzilla-vs-megaguirus-2000
     staff:
       - role: Physical FX Assistant
     title: Godzilla vs. Megaguirus
     year: 2000
   - format: film
-    poster_url: /static/images/films/onmyoji-2001/posters/poster.webp
+    poster_url: /static/images/films/posters/onmyoji-2001.webp
     slug: onmyoji-2001
     staff:
       - role: SFX Director
     title: Onmyoji
     year: 2001
   - format: film
-    poster_url: /static/images/films/returner-2002/posters/poster.webp
+    poster_url: /static/images/films/posters/returner-2002.webp
     slug: returner-2002
     staff:
       - role: SFX Director
     title: Returner
     year: 2002
   - format: film
-    poster_url: /static/images/films/onmyoji-ii-2003/posters/poster.webp
+    poster_url: /static/images/films/posters/onmyoji-ii-2003.webp
     slug: onmyoji-ii-2003
     staff:
       - role: SFX Director
     title: Onmyoji II
     year: 2003
   - format: film
-    poster_url: /static/images/films/lorelei-the-witch-of-the-pacific-ocean-2005/posters/poster.webp
+    poster_url: /static/images/films/posters/lorelei-the-witch-of-the-pacific-ocean-2005.webp
     slug: lorelei-the-witch-of-the-pacific-ocean-2005
     staff:
       - role: Assistant Director
@@ -67,14 +67,14 @@ works:
     title: "Lorelei: The Witch of the Pacific Ocean"
     year: 2005
   - format: film
-    poster_url: /static/images/films/samurai-commando-mission-1549-2005/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-commando-mission-1549-2005.webp
     slug: samurai-commando-mission-1549-2005
     staff:
       - role: SFX Director
     title: "Samurai Commando: Mission 1549"
     year: 2005
   - format: film
-    poster_url: /static/images/films/sinking-of-japan-2006/posters/poster.webp
+    poster_url: /static/images/films/posters/sinking-of-japan-2006.webp
     slug: sinking-of-japan-2006
     staff:
       - role: SFX Supervisor
@@ -82,28 +82,28 @@ works:
     title: The Sinking of Japan
     year: 2006
   - format: film
-    poster_url: /static/images/films/hidden-fortress-the-last-princess-2008/posters/poster.webp
+    poster_url: /static/images/films/posters/hidden-fortress-the-last-princess-2008.webp
     slug: hidden-fortress-the-last-princess-2008
     staff:
       - role: 2nd Unit Director
     title: "Hidden Fortress: The Last Princess"
     year: 2008
   - format: film
-    poster_url: /static/images/films/attack-on-titan-2015/posters/poster.webp
+    poster_url: /static/images/films/posters/attack-on-titan-2015.webp
     slug: attack-on-titan-2015
     staff:
       - role: SFX Director
     title: Attack on Titan
     year: 2015
   - format: film
-    poster_url: /static/images/films/attack-on-titan-end-of-the-world-2015/posters/poster.webp
+    poster_url: /static/images/films/posters/attack-on-titan-end-of-the-world-2015.webp
     slug: attack-on-titan-end-of-the-world-2015
     staff:
       - role: SFX Director
     title: "Attack on Titan: End of the World"
     year: 2015
   - format: film
-    poster_url: /static/images/films/shin-godzilla-2016/posters/poster.webp
+    poster_url: /static/images/films/posters/shin-godzilla-2016.webp
     slug: shin-godzilla-2016
     staff:
       - role: Associate Director

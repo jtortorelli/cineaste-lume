@@ -7,7 +7,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Yamana Soldier
         uncredited: true
@@ -15,7 +15,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/h-man-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
       - name: Policeman
         uncredited: true
@@ -23,7 +23,7 @@ works:
     title: The H-Man
     year: 1959
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:
       - name: Yamato Villager
         uncredited: true
@@ -31,7 +31,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:
       - name: Space Station Crew
         uncredited: false
@@ -39,7 +39,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     roles:
       - name: Island Policeman
         uncredited: true
@@ -47,7 +47,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/human-vapor-1960.webp
     roles:
       - name: Detective Hotta
         uncredited: false
@@ -55,7 +55,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/yojimbo-1961.webp
     roles:
       - name: Ushitora Underling
         uncredited: true
@@ -63,7 +63,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Dam Worker
         uncredited: true
@@ -71,7 +71,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/sanjuro-1962.webp
     roles:
       - name: Kikui Samurai
         uncredited: true
@@ -79,7 +79,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Spaceship Crew
         uncredited: false
@@ -87,7 +87,7 @@ works:
     title: Gorath
     year: 1962
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
     roles:
       - name: Helicopter Pilot
         uncredited: true
@@ -95,7 +95,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/high-and-low-1963.webp
     roles:
       - name: Train Crew
         uncredited: true
@@ -103,7 +103,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: Mihara Tourist
         uncredited: false
@@ -111,7 +111,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/whirlwind-1964.webp
     roles:
       - name: Toyotomi Loyalist
         uncredited: true
@@ -119,7 +119,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: Kumayama's Henchman
         uncredited: false
@@ -127,7 +127,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     roles:
       - name: Train Attendant
         uncredited: true
@@ -135,7 +135,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/frankenstein-conquers-the-world-1965.webp
     roles:
       - name: TV Cameraman
         uncredited: true
@@ -143,7 +143,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
       - name: Palace Guard
         uncredited: true
@@ -151,7 +151,7 @@ works:
     title: The Adventure of Kigan Castle
     year: 1966
   - format: film
-    poster_url: /static/images/films/ebirah-horror-of-the-deep-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/ebirah-horror-of-the-deep-1966.webp
     roles:
       - name: Red Bamboo Soldier
         uncredited: true
@@ -159,7 +159,7 @@ works:
     title: Ebirah, Horror of the Deep
     year: 1966
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: Soldier
         uncredited: false
@@ -167,7 +167,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/space-amoeba-1970/posters/poster.webp
+    poster_url: /static/images/films/posters/space-amoeba-1970.webp
     roles:
       - name: Islander
         uncredited: false
@@ -175,7 +175,7 @@ works:
     title: Space Amoeba
     year: 1970
   - format: film
-    poster_url: /static/images/films/godzilla-vs-hedorah-1971/posters/poster.webp
+    poster_url: /static/images/films/posters/godzilla-vs-hedorah-1971.webp
     roles:
       - name: Helicopter Pilot
         uncredited: false
@@ -184,6 +184,12 @@ works:
     year: 1971
 ---
 
-Gondô Yukihiko was a prolific supporting actor at Toho, appearing in numerous films throughout the late 1950s and 1960s. He is particularly well-known to fans of the studio's science fiction and fantasy output, having appeared in nearly every major *kaiju* and sci-fi film of the era.
+Gondô Yukihiko was a prolific supporting actor at Toho, appearing in numerous
+films throughout the late 1950s and 1960s. He is particularly well-known to fans
+of the studio's science fiction and fantasy output, having appeared in nearly
+every major _kaiju_ and sci-fi film of the era.
 
-While often cast in minor, non-speaking roles such as soldiers, villagers, or policemen, his frequent presence makes him a recognizable face in Toho's Golden Age cinema. His credits include roles in *The Hidden Fortress* (1958), *Mothra* (1961), *King Kong vs. Godzilla* (1962), and *Destroy All Monsters* (1968).
+While often cast in minor, non-speaking roles such as soldiers, villagers, or
+policemen, his frequent presence makes him a recognizable face in Toho's Golden
+Age cinema. His credits include roles in _The Hidden Fortress_ (1958), _Mothra_
+(1961), _King Kong vs. Godzilla_ (1962), and _Destroy All Monsters_ (1968).

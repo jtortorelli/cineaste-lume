@@ -20,7 +20,7 @@ original_works:
         slug: kayama-shigeru
     format: serial
     title: Monster Godzilla
-poster_url: /static/images/films/godzilla-1954/posters/poster.webp
+poster_url: /static/images/films/posters/godzilla-1954.webp
 release_date: 1954-11-03
 runtime: 97
 series:

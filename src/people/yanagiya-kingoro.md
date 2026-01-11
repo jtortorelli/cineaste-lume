@@ -17,7 +17,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: "/static/images/films/three-treasures-1959/posters/poster.webp"
+    poster_url: "/static/images/films/posters/three-treasures-1959.webp"
     roles:
       - name: Omoikane
         uncredited: false
@@ -25,7 +25,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: "/static/images/films/presidents-trip-abroad-part-ii-1963/posters/poster.webp"
+    poster_url: "/static/images/films/posters/presidents-trip-abroad-part-ii-1963.webp"
     title: "President’s Trip Abroad: Part II"
     year: 1963
     roles:

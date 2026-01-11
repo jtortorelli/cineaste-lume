@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 影武者
-poster_url: /static/images/films/kagemusha-1980/posters/poster.webp
+poster_url: /static/images/films/posters/kagemusha-1980.webp
 release_date: 1980-04-26
 runtime: 179
 staff:

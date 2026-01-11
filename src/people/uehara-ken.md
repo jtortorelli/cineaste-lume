@@ -21,14 +21,14 @@ spouses:
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/secret-savings-president-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-savings-president-1956.webp
     roles:
       - name: Onoda
         uncredited: false
     title: Secret Savings President
     year: 1956
   - format: film
-    poster_url: /static/images/films/secret-savings-president-part-ii-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-savings-president-part-ii-1956.webp
     roles:
       - name: Onoda
         uncredited: false
@@ -37,11 +37,11 @@ works:
   - title: Sir Galahad in Campus
     year: 1961
     format: film
-    poster_url: /static/images/films/sir-galahad-in-campus-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/sir-galahad-in-campus-1961.webp
     roles:
       - name: President Nomura
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Doctor Harada
         uncredited: false
@@ -49,7 +49,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/last-war-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/last-war-1961.webp
     roles:
       - name: Minister
         uncredited: false
@@ -59,11 +59,11 @@ works:
   - title: Pride of the Campus
     year: 1962
     format: film
-    poster_url: /static/images/films/pride-of-the-campus-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/pride-of-the-campus-1962.webp
     roles:
       - name: Shimakawa Kingorô
   - format: film
-    poster_url: /static/images/films/gorath-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/gorath-1962.webp
     roles:
       - name: Doctor Kôno
         uncredited: false
@@ -73,17 +73,17 @@ works:
   - title: Japan's Number One Young Guy
     year: 1962
     format: film
-    poster_url: /static/images/films/japans-number-one-young-guy-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/japans-number-one-young-guy-1962.webp
     roles:
       - name: Director Ishiyama
   - title: Young Guy in Hawaii
     year: 1963
     format: film
-    poster_url: /static/images/films/young-guy-in-hawaii-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/young-guy-in-hawaii-1963.webp
     roles:
       - name: Ueda
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: Admiral Kusumi
         uncredited: false
@@ -93,7 +93,7 @@ works:
   - title: Campus A-Go-Go
     year: 1965
     format: film
-    poster_url: /static/images/films/campus-a-go-go-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/campus-a-go-go-1965.webp
     roles:
       - name: Matsubara
 ---

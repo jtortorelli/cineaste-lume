@@ -12,7 +12,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/seven-samurai-1954.webp
     roles:
       - name: Mosuke
         uncredited: false
@@ -20,7 +20,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-i-musashi-miyamoto-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-i-musashi-miyamoto-1954.webp
     roles:
       - name: Aoki Tanzaemon
         uncredited: false
@@ -28,7 +28,7 @@ works:
     title: "Samurai I: Musashi Miyamoto"
     year: 1954
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:
       - name: Officer Sugimoto
         uncredited: false
@@ -36,7 +36,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Akizuki Soldier
         uncredited: false
@@ -44,7 +44,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/three-treasures-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:
       - name: Inaba
         uncredited: false
@@ -52,7 +52,7 @@ works:
     title: The Three Treasures
     year: 1959
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/human-vapor-1960.webp
     roles:
       - name: Detective Inao
         uncredited: false
@@ -60,7 +60,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/daredevil-in-the-castle-1961.webp
     roles:
       - name: Morimoto Gidayû
         uncredited: false
@@ -68,7 +68,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Ship's Captain
         uncredited: false
@@ -76,7 +76,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/king-kong-vs-godzilla-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
     roles:
       - name: Faro Island Chief
         uncredited: false
@@ -84,7 +84,7 @@ works:
     title: King Kong vs. Godzilla
     year: 1962
   - format: film
-    poster_url: /static/images/films/lost-world-of-sinbad-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/lost-world-of-sinbad-1963.webp
     roles:
       - name: Ming Advisor
         uncredited: false
@@ -92,7 +92,7 @@ works:
     title: The Lost World of Sinbad
     year: 1963
   - format: film
-    poster_url: /static/images/films/whirlwind-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/whirlwind-1964.webp
     roles:
       - name: Nonomura Iyo
         uncredited: false
@@ -100,7 +100,7 @@ works:
     title: Whirlwind
     year: 1964
   - format: film
-    poster_url: /static/images/films/mothra-vs-godzilla-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-vs-godzilla-1964.webp
     roles:
       - name: Infant Island Chief
         uncredited: false
@@ -108,7 +108,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: Infant Island Chieftan
         uncredited: false
@@ -116,7 +116,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/frankenstein-conquers-the-world-1965.webp
     roles:
       - name: Soldier
         uncredited: false
@@ -125,8 +125,17 @@ works:
     year: 1965
 ---
 
-A fixture of the Japanese screen for decades, Kosugi Yoshio began his career in the _shingeki_ theater before joining P.C.L. (the predecessor to Toho) in 1935. Balancing his stage commitments with a busy filming schedule, he became a reliable character actor known for his earthy, robust presence.
+A fixture of the Japanese screen for decades, Kosugi Yoshio began his career in
+the _shingeki_ theater before joining P.C.L. (the predecessor to Toho) in 1935.
+Balancing his stage commitments with a busy filming schedule, he became a
+reliable character actor known for his earthy, robust presence.
 
-International audiences recognize him best as Mosuke, one of the farmers seeking protection, in Kurosawa Akira's masterpiece _Seven Samurai_ (1954). However, he was also a staple of Honda Ishirô's special effects films, playing captains, chiefs, and military men in _Mothra_ (1961), _King Kong vs. Godzilla_ (1962), and _Mothra vs. Godzilla_ (1964).
+International audiences recognize him best as Mosuke, one of the farmers seeking
+protection, in Kurosawa Akira's masterpiece _Seven Samurai_ (1954). However, he
+was also a staple of Honda Ishirô's special effects films, playing captains,
+chiefs, and military men in _Mothra_ (1961), _King Kong vs. Godzilla_ (1962),
+and _Mothra vs. Godzilla_ (1964).
 
-Beyond his acting credits, Kosugi served as an instructor at Toho's acting school, where he mentored future stars like Sahara Kenji and Tsuchiya Yoshio. He passed away in 1968.
+Beyond his acting credits, Kosugi served as an instructor at Toho's acting
+school, where he mentored future stars like Sahara Kenji and Tsuchiya Yoshio. He
+passed away in 1968.

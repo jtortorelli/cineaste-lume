@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: ゼイラム2
-poster_url: /static/images/films/zeiram-2-1994/posters/poster.webp
+poster_url: /static/images/films/posters/zeiram-2-1994.webp
 release_date: 1994-12-17
 runtime: 100
 series:

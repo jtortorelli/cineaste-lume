@@ -33,7 +33,7 @@ kaiju:
           - name: Hirose Shôichi
             slug: hirose-shoichi
         type: Suit Actor
-poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
 release_date: 1964-12-20
 runtime: 93
 series:

@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichi-and-the-chess-expert-1965/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichi-and-the-chess-expert-1965.webp
 release_date: 1965-12-24
 runtime: 87
 series:

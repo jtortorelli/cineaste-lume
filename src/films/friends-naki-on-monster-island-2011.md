@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: <ruby>friends<rt>フレンズ</rt></ruby> もののけ島のナキ
-poster_url: /static/images/films/friends-naki-on-monster-island-2011/posters/poster.webp
+poster_url: /static/images/films/posters/friends-naki-on-monster-island-2011.webp
 release_date: 2011-12-17
 runtime: 87
 staff:

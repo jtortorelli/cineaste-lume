@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 蟲師
-poster_url: /static/images/films/mushi-shi-2007/posters/poster.webp
+poster_url: /static/images/films/posters/mushi-shi-2007.webp
 release_date: 2007-03-24
 runtime: 131
 staff:

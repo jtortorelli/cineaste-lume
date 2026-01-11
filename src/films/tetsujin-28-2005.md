@@ -24,7 +24,7 @@ original_works:
     format: manga
     slug: tetsujin-28
     title: Tetsujin-28
-poster_url: /static/images/films/tetsujin-28-2005/posters/poster.webp
+poster_url: /static/images/films/posters/tetsujin-28-2005.webp
 release_date: 2005-03-19
 runtime: 114
 staff:

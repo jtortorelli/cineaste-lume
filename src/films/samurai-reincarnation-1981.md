@@ -7,7 +7,7 @@ original_works:
     format: novel
     slug: makai-tensho
     title: Makai Tenshō
-poster_url: /static/images/films/samurai-reincarnation-1981/posters/poster.webp
+poster_url: /static/images/films/posters/samurai-reincarnation-1981.webp
 release_date: 1981-06-06
 runtime: 122
 staff:

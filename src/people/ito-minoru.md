@@ -10,7 +10,7 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/seven-samurai-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/seven-samurai-1954.webp
     roles:
       - name: Bandit
         uncredited: false
@@ -18,7 +18,7 @@ works:
     title: Seven Samurai
     year: 1954
   - format: film
-    poster_url: /static/images/films/invisible-man-1954/posters/poster.webp
+    poster_url: /static/images/films/posters/invisible-man-1954.webp
     roles:
       - name: Driver
         uncredited: false
@@ -26,7 +26,7 @@ works:
     title: Invisible Man
     year: 1954
   - format: film
-    poster_url: /static/images/films/samurai-iii-duel-at-ganryu-island-1956/posters/poster.webp
+    poster_url: /static/images/films/posters/samurai-iii-duel-at-ganryu-island-1956.webp
     roles:
       - name: Spectator
         uncredited: true
@@ -34,7 +34,7 @@ works:
     title: "Samurai III: Duel at Ganryu Island"
     year: 1956
   - format: film
-    poster_url: /static/images/films/mysterians-1957/posters/poster.webp
+    poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:
       - name: Reporter
         uncredited: true
@@ -42,7 +42,7 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
-    poster_url: /static/images/films/hidden-fortress-1958/posters/poster.webp
+    poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Yamana Cavalry
         uncredited: false
@@ -50,7 +50,7 @@ works:
     title: The Hidden Fortress
     year: 1958
   - format: film
-    poster_url: /static/images/films/battle-in-outer-space-1959/posters/poster.webp
+    poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:
       - name: Speaker
         uncredited: true
@@ -58,7 +58,7 @@ works:
     title: Battle in Outer Space
     year: 1959
   - format: film
-    poster_url: /static/images/films/secret-of-the-telegian-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     roles:
       - name: Thriller Show Employee
         uncredited: true
@@ -66,7 +66,7 @@ works:
     title: The Secret of the Telegian
     year: 1960
   - format: film
-    poster_url: /static/images/films/human-vapor-1960/posters/poster.webp
+    poster_url: /static/images/films/posters/human-vapor-1960.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -74,7 +74,7 @@ works:
     title: The Human Vapor
     year: 1960
   - format: film
-    poster_url: /static/images/films/daredevil-in-the-castle-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/daredevil-in-the-castle-1961.webp
     roles:
       - name: Warrior Priest
         uncredited: true
@@ -82,7 +82,7 @@ works:
     title: Daredevil in the Castle
     year: 1961
   - format: film
-    poster_url: /static/images/films/yojimbo-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/yojimbo-1961.webp
     roles:
       - name: Ushitora Underling
         uncredited: true
@@ -90,7 +90,7 @@ works:
     title: Yojimbo
     year: 1961
   - format: film
-    poster_url: /static/images/films/mothra-1961/posters/poster.webp
+    poster_url: /static/images/films/posters/mothra-1961.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -98,7 +98,7 @@ works:
     title: Mothra
     year: 1961
   - format: film
-    poster_url: /static/images/films/sanjuro-1962/posters/poster.webp
+    poster_url: /static/images/films/posters/sanjuro-1962.webp
     roles:
       - name: Kikui Samurai
         uncredited: false
@@ -106,7 +106,7 @@ works:
     title: Sanjuro
     year: 1962
   - format: film
-    poster_url: /static/images/films/high-and-low-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/high-and-low-1963.webp
     roles:
       - name: Detective
         uncredited: false
@@ -114,7 +114,7 @@ works:
     title: High and Low
     year: 1963
   - format: film
-    poster_url: /static/images/films/atragon-1963/posters/poster.webp
+    poster_url: /static/images/films/posters/atragon-1963.webp
     roles:
       - name: <span class="italic">Gôtengô</span> Crew
         uncredited: true
@@ -122,7 +122,7 @@ works:
     title: Atragon
     year: 1963
   - format: film
-    poster_url: /static/images/films/dogora-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/dogora-1964.webp
     roles:
       - name: Soldier
         uncredited: true
@@ -130,7 +130,7 @@ works:
     title: Dogora
     year: 1964
   - format: film
-    poster_url: /static/images/films/ghidorah-the-three-headed-monster-1964/posters/poster.webp
+    poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
     roles:
       - name: Reporter
         uncredited: true
@@ -138,7 +138,7 @@ works:
     title: Ghidorah, the Three-Headed Monster
     year: 1964
   - format: film
-    poster_url: /static/images/films/frankenstein-conquers-the-world-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/frankenstein-conquers-the-world-1965.webp
     roles:
       - name: Scientist
         uncredited: true
@@ -146,7 +146,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - format: film
-    poster_url: /static/images/films/invasion-of-astro-monster-1965/posters/poster.webp
+    poster_url: /static/images/films/posters/invasion-of-astro-monster-1965.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -161,7 +161,7 @@ works:
       - episode_count: 3
         name: Various Roles
   - format: film
-    poster_url: /static/images/films/adventure-of-kigan-castle-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
       - name: Palace Guard
         uncredited: true
@@ -176,7 +176,7 @@ works:
       - episode_count: 2
         name: Various Roles
   - format: film
-    poster_url: /static/images/films/war-of-the-gargantuas-1966/posters/poster.webp
+    poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
       - name: Reporter
         uncredited: false
@@ -184,7 +184,7 @@ works:
     title: War of the Gargantuas
     year: 1966
   - format: film
-    poster_url: /static/images/films/king-kong-escapes-1967/posters/poster.webp
+    poster_url: /static/images/films/posters/king-kong-escapes-1967.webp
     roles:
       - name: Who Henchman
         uncredited: true
@@ -199,7 +199,7 @@ works:
       - episode_count: 2
         name: Various Roles
   - format: film
-    poster_url: /static/images/films/destroy-all-monsters-1968/posters/poster.webp
+    poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
       - name: Possessed Monsterland Personnel
         uncredited: false
@@ -207,7 +207,7 @@ works:
     title: Destroy All Monsters
     year: 1968
   - format: film
-    poster_url: /static/images/films/latitude-zero-1969/posters/poster.webp
+    poster_url: /static/images/films/posters/latitude-zero-1969.webp
     roles:
       - name: Research Ship Captain
         uncredited: true
@@ -216,8 +216,19 @@ works:
     year: 1969
 ---
 
-Itô Minoru was a prolific character actor who appeared in over 100 films during the Golden Age of Japanese cinema. Born in Chiba Prefecture, he joined Toho's acting troupe in 1952 and made his screen debut in Kurosawa Akira's *Seven Samurai* (1954).
+Itô Minoru was a prolific character actor who appeared in over 100 films during
+the Golden Age of Japanese cinema. Born in Chiba Prefecture, he joined Toho's
+acting troupe in 1952 and made his screen debut in Kurosawa Akira's _Seven
+Samurai_ (1954).
 
-For nearly three decades, Itô was a constant presence in Toho productions, often playing background roles such as reporters, policemen, soldiers, and office workers. He became a familiar face to *tokusatsu* fans for his frequent appearances in kaiju films, including *The Mysterians* (1957), *Mothra* (1961), and *Destroy All Monsters* (1968), where he typically portrayed a reporter covering the monster attacks.
+For nearly three decades, Itô was a constant presence in Toho productions, often
+playing background roles such as reporters, policemen, soldiers, and office
+workers. He became a familiar face to _tokusatsu_ fans for his frequent
+appearances in kaiju films, including _The Mysterians_ (1957), _Mothra_ (1961),
+and _Destroy All Monsters_ (1968), where he typically portrayed a reporter
+covering the monster attacks.
 
-In addition to his film work, Itô had notable guest roles in the Ultra series, appearing in *Ultra Q*, *Ultraman*, and most memorably as a doctor treating the infected station personnel in *Ultraseven*. His acting credits stopped appearing after 1982, and his subsequent activities remain unknown.
+In addition to his film work, Itô had notable guest roles in the Ultra series,
+appearing in _Ultra Q_, _Ultraman_, and most memorably as a doctor treating the
+infected station personnel in _Ultraseven_. His acting credits stopped appearing
+after 1982, and his subsequent activities remain unknown.

@@ -8,7 +8,7 @@ original_works:
     format: short story
     slug: zatoichi
     title:
-poster_url: /static/images/films/zatoichis-pilgrimage-1966/posters/poster.webp
+poster_url: /static/images/films/posters/zatoichis-pilgrimage-1966.webp
 release_date: 1966-08-13
 runtime: 82
 series:

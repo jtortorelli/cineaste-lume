@@ -1,7 +1,7 @@
 ---
 tags: ["cineaste", "films"]
 japanese_title: 紅の豚
-poster_url: /static/images/films/porco-rosso-1992/posters/poster.webp
+poster_url: /static/images/films/posters/porco-rosso-1992.webp
 release_date: 1992-07-18
 runtime: 93
 staff:
