@@ -199,14 +199,14 @@ works:
       - episode_count: 5
         role: Director
     title: Return of Ultraman
-    title_card_url: /static/images/tv-series/return-of-ultraman-1971/title-cards/Return%20of%20Ultraman%20Title%20Card.webp
+    title_card_url: /static/images/tv-series/title-cards/return-of-ultraman-1971.webp
     year: 1971
   - format: tv series
     staff:
       - episode_count: 2
         role: Director
     title: Mirrorman
-    title_card_url: /static/images/tv-series/mirrorman-1971/title-cards/Mirrorman%20Title%20Card.webp
+    title_card_url: /static/images/tv-series/title-cards/mirrorman-1971.webp
     year: 1971
   - format: film
     poster_url: /static/images/films/posters/terror-of-mechagodzilla-1975.webp

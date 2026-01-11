@@ -39,7 +39,7 @@ works:
     staff:
       - role: Creator
     title: The Rebel
-    title_card_url: /static/images/tv-series/rebel-1959/title-cards/s-l1200.webp
+    title_card_url: /static/images/tv-series/title-cards/rebel-1959.webp
     year: 1959
   - format: Film
     poster_url: /static/images/films/posters/twilight-of-honor-1963.webp

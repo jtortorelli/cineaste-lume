@@ -201,7 +201,7 @@ works:
       - episode_count: 49
         name: Mr. K
     title: Warrior of Love Rainbowman
-    title_card_url: /static/images/tv-series/warrior-of-love-rainbowman-1972/title-cards/Ai%20no%20Senshi%20Reinbooman.webp
+    title_card_url: /static/images/tv-series/title-cards/warrior-of-love-rainbowman-1972.webp
     year: 1972
   - format: film
     poster_url: /static/images/films/posters/godzilla-vs-mechagodzilla-1974.webp
@@ -240,7 +240,7 @@ works:
       - episode_count: 3
         name: Director Ashida
     title: Star Wolf
-    title_card_url: /static/images/tv-series/star-wolf-1978/title-cards/Star%20Wolf%20OP.webp
+    title_card_url: /static/images/tv-series/title-cards/star-wolf-1978.webp
     year: 1978
   - format: film
     poster_url: /static/images/films/posters/sayonara-jupiter-1984.webp

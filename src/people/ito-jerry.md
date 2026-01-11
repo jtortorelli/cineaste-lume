@@ -53,7 +53,7 @@ works:
     roles:
       - name: Grandpa Jerry
     title: "Let's Play in English 3: Planet Paradise"
-    title_card_url: /static/images/tv-series/lets-play-in-english-1995/title-cards/Screenshot%202025-08-18%20at%209.30.15%20PM.webp
+    title_card_url: /static/images/tv-series/title-cards/lets-play-in-english-1995.webp
     year: 1995
 ---
 

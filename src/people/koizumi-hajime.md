@@ -122,7 +122,7 @@ works:
   - title: Ultra Q
     year: 1966
     format: tv series
-    title_card_url: /static/images/tv-series/ultra-q-1966/title-cards/title-card.webp
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
     staff:
       - role: SFX Director
         episode_count: 3
@@ -143,7 +143,7 @@ works:
   - title: Ultraman Ace
     year: 1972
     format: tv series
-    title_card_url: /static/images/tv-series/ultraman-ace-1972/title-cards/title-card.webp
+    title_card_url: /static/images/tv-series/title-cards/ultraman-ace-1972.webp
     staff:
       - role: Photography
         episode_count: 10

@@ -63,7 +63,7 @@ works:
     title: Mothra vs. Godzilla
     year: 1964
   - format: tv series
-    title_card_url: /static/images/tv-series/ultraman-1966/title-cards/title-card.webp
+    title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
     roles:
       - name: William Childers
         episode_count: 1

@@ -30,7 +30,7 @@ works:
       - episode_count: 1
         role: Original Work
     title: Suspicion
-    title_card_url: /static/images/tv-series/suspicion-1957/title-cards/title-card.webp
+    title_card_url: /static/images/tv-series/title-cards/suspicion-1957.webp
     year: 1957
   - format: film
     poster_url: /static/images/films/posters/matango-1963.webp

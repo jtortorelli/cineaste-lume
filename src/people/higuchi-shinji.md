@@ -48,7 +48,7 @@ works:
       - role: Storyboard Artist
       - role: Screenplay
     title: Neon Genesis Evangelion
-    title_card_url: /static/images/tv-series/neon-genesis-evangelion-1995/title-cards/Neon_Genesis_Evangelion_Title_Card.webp
+    title_card_url: /static/images/tv-series/title-cards/neon-genesis-evangelion-1995.webp
     year: 1995
   - format: film
     poster_url: /static/images/films/posters/gamera-2-attack-of-legion-1996.webp

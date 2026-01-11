@@ -22,13 +22,13 @@ works:
     title: The Red Spectacles
     year: 1987
   - format: TV Series
-    title_card_url: /static/images/tv-series/irresponsible-captain-tylor-1989/title-cards/title-card.webp
+    title_card_url: /static/images/tv-series/title-cards/irresponsible-captain-tylor-1989.webp
     staff:
       - role: Music
     title: The Irresponsible Captain Tylor
     year: 1989
   - format: TV Series
-    title_card_url: /static/images/tv-series/ranma-1-2-1989/title-cards/title-card.webp
+    title_card_url: /static/images/tv-series/title-cards/ranma-1-2-1989.webp
     staff:
       - role: Music
     title: "Ranma 1/2"
@@ -41,7 +41,7 @@ works:
     title: "Patlabor: The Movie"
     year: 1989
   - format: TV Series
-    title_card_url: /static/images/tv-series/patlabor-the-tv-series-1989/title-cards/title-card.webp
+    title_card_url: /static/images/tv-series/title-cards/patlabor-the-tv-series-1989.webp
     staff:
       - role: Music
     title: "Patlabor: The TV Series"
@@ -122,7 +122,7 @@ works:
     staff:
       - role: Music
   - format: TV Series
-    title_card_url: /static/images/tv-series/ultraman-nexus-2004/title-cards/title-card.webp
+    title_card_url: /static/images/tv-series/title-cards/ultraman-nexus-2004.webp
     staff:
       - role: Music
     title: Ultraman Nexus
@@ -134,7 +134,7 @@ works:
     title: Seven Swords
     year: 2005
   - format: TV Series
-    title_card_url: /static/images/tv-series/fate-stay-night-2006/title-cards/title-card.webp
+    title_card_url: /static/images/tv-series/title-cards/fate-stay-night-2006.webp
     staff:
       - role: Music
     title: "Fate/Stay Night"
@@ -154,7 +154,7 @@ works:
     title: "Death Note: The Last Name"
     year: 2006
   - format: TV Series
-    title_card_url: /static/images/tv-series/mobile-suit-gundam-00-2007/title-cards/title-card.webp
+    title_card_url: /static/images/tv-series/title-cards/mobile-suit-gundam-00-2007.webp
     staff:
       - role: Music
     title: Mobile Suit Gundam 00
@@ -180,7 +180,7 @@ works:
     title: The Sky Crawlers
     year: 2008
   - format: TV Series
-    title_card_url: /static/images/tv-series/eden-of-the-east-2009/title-cards/title-card.webp
+    title_card_url: /static/images/tv-series/title-cards/eden-of-the-east-2009.webp
     staff:
       - role: Music
     title: Eden of the East
@@ -219,7 +219,7 @@ works:
     title: Ip Man 3
     year: 2015
   - format: TV Series
-    title_card_url: /static/images/tv-series/ultraman-geed-2017/title-cards/title-card.webp
+    title_card_url: /static/images/tv-series/title-cards/ultraman-geed-2017.webp
     staff:
       - role: Music
     title: Ultraman Geed
