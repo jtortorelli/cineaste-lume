@@ -124,8 +124,9 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
 ---
-Active in theater and music from an early age. Joined PCL in 1935, balancing his stage acts with his filming schedule.
 
-Played in many works by Honda Ishirô and Kurosawa Akira.
+A fixture of the Japanese screen for decades, Kosugi Yoshio began his career in the _shingeki_ theater before joining P.C.L. (the predecessor to Toho) in 1935. Balancing his stage commitments with a busy filming schedule, he became a reliable character actor known for his earthy, robust presence.
 
-Worked as an instructor in Toho's actor school, tutoring fellow actors Sahara Kenji and Tsuchiya Yoshio.
+International audiences recognize him best as Mosuke, one of the farmers seeking protection, in Kurosawa Akira's masterpiece _Seven Samurai_ (1954). However, he was also a staple of Honda Ishirô's special effects films, playing captains, chiefs, and military men in _Mothra_ (1961), _King Kong vs. Godzilla_ (1962), and _Mothra vs. Godzilla_ (1964).
+
+Beyond his acting credits, Kosugi served as an instructor at Toho's acting school, where he mentored future stars like Sahara Kenji and Tsuchiya Yoshio. He passed away in 1968.

@@ -88,12 +88,8 @@ works:
     year: 1974
 ---
 
-No relation to director Kurosawa Akira.
+No relation to the legendary director Kurosawa Akira, Kurosawa Toshio carved out his own unique niche in the Japanese entertainment industry. He entered Toho as a fresh face in the studio's 4th "New Face" competition in 1964, having dropped out of high school to pursue acting.
 
-Dropped out of high school and joined Toho in the 4th New Face Class of 1964. He made his acting debut that same year in the film _Hibari Chiemi Izumi Sanninyoreba_.
+He quickly made an impression with his intensity, most famously as the fanatical Major Hatanaka Kenji in the war epic _Japan's Longest Day_ (1967), portraying the officer's refusal to accept surrender with chilling conviction. After leaving Toho in 1971 to freelance, he became a cult figure for his role as the reporter Ashio Ryûrei in _Lady Snowblood_ (1973), a film that would later inspire Quentin Tarantino.
 
-He landed his first leading role in 1966 with the film _Hit and Run_. During his time at Toho, he appeared in several notable films including _The Adventure of Kigan Castle_ (1966) and _Japan's Longest Day_ (1967). He left the studio system to become a freelance actor in 1971.
-
-Kurosawa found success in both film and television. He is well known for his role as Ashio Ryûrei in the cult classic _Lady Snowblood_ (1973) and appeared in the _Hissatsu_ series on television. He also had a successful singing career, releasing the hit song "Tokiniwa Shôfu no Yôni" in 1978.
-
-Kurosawa was diagnosed with colon cancer in 1992. He published his memoirs, detailing his personal experiences with cancer, in 2008.
+A multi-talented performer, Kurosawa also enjoyed success as a singer, releasing the hit song "Tokiniwa Shôfu no Yôni" in 1978. In 2008, he published a memoir detailing his battle with colon cancer, which he was diagnosed with in 1992.

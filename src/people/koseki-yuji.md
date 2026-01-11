@@ -16,6 +16,12 @@ spouses:
   - name: Uchiyama Kinko
 type: person
 works:
+  - title: The Bells of Nagasaki
+    year: 1950
+    format: film
+    poster_url: "/static/images/films/bells-of-nagasaki-1950/posters/poster.webp"
+    staff:
+      - role: Music
   - format: film
     poster_url: "/static/images/films/presidents-travels-1961/posters/poster.webp"
     title: President’s Travels
@@ -31,14 +37,8 @@ works:
     year: 1961
 ---
 
-Began composing while in college, writing numerous fight songs and marches for his alma maters, Waseda and Keio Universities. He earned the nickname "The Japanese Sousa."
+Born in Fukushima, Koseki Yûji showed early musical promise, winning a 1929 competition by Chester Music of London for his piece "The Tale of the Bamboo Cutter." This achievement led to a fan letter from Uchiyama Kinko; the two married later that year and remained together until Koseki's death.
 
-Later influenced by Russian composers Stravinsky and Mussorgsky.
+Known as "The Japanese Sousa," Koseki was a prolific composer who wrote over 5,000 songs, including numerous fight songs for Waseda and Keio Universities and the official march for the 1964 Tokyo Olympics. For Toho, he composed the score for _The Bells of Nagasaki_ (1950) and the comedy _President's Travels_ (1961), but he is undoubtedly best known to film fans for his work on _Mothra_ (1961). His score for the film, including the iconic "Mothra's Song" sung by The Peanuts, became a genre staple.
 
-In 1929 he won a competition put on by Chester Music of London with his piece "The Tale of the Bamboo Cutter." Shortly after he received a fan letter from Uchiyama Kinko, and they were married the same year. They remained married until his death in 1989.
-
-Notable works written after WWII include the requiem "The Bells of Nagasaki," and the Olympic March for the 1964 Tokyo Olympics.
-
-At Koseki's funeral, his coffin was draped with the flags of Waseda and Keio Universities, and he was sent off by the fight songs he had composed for them while a student.
-
-In 2009, numerous events were organized to commemorate Koseki's 100th birthday.
+At his funeral in 1989, his coffin was draped with the flags of the universities whose anthems he had composed. In 2023, he was posthumously inducted into the Japanese Baseball Hall of Fame for his contributions to the sport's musical culture.

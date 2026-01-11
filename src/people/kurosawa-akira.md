@@ -273,20 +273,9 @@ works:
     title: "Hidden Fortress: The Last Princess"
     year: 2008
 ---
-Grew up on foreign films during the pre-war years. Kurosawa was particularly influenced by John Ford westerns.
 
-Found early success in school as an artist. This talent proved invaluable as a director, particularly in his later color films.
+Regarded by many as one of the greatest filmmakers in cinema history, Kurosawa Akira originally aspired to be a painter—a talent that would later define the striking visual composition of his films. He entered the film industry in 1936 at P.C.L. (later Toho), where he forged a lifelong friendship with fellow assistant director and future _Godzilla_ helmer Honda Ishirô.
 
-Joined PCL (later Toho) in 1936 and became an assistant director under Yamamoto Kanjirô. He worked with fellow assistant directors Honda Ishirô and Taniguchi Senkichi. Honda and Kurosawa remained lifelong friends until Honda's death in 1993.
+Kurosawa's "Golden Age" in the 1950s and 60s produced a string of masterpieces that revolutionized world cinema, including _Rashomon_ (1950), _Ikiru_ (1952), _Seven Samurai_ (1954), and _Yojimbo_ (1961). Many of these classics starred his muse, Mifune Toshirô, though their legendary collaboration ended acrimoniously after _Red Beard_ (1965).
 
-He walked in on auditions for new actors and cast the deciding vote to accept an unknown Mifune Toshirô. Kurosawa scripted Mifune's first film <i>Snow Trail</i> (1947), and they would go on to collaborate on 16 of Kurosawa's own films, from <i>Drunken Angel</i> (1948) until <i>Red Beard</i> (1965). Their relationship soured during <i>Red Beard</i>'s production; the protracted shooting schedule prevented Mifune from appearing in other films for his own fledgling production company.
-
-Kurosawa's film <i>Rashomon</i> (1950), while not a critical success in Japan, was "discovered" by Giuliana Stramigioli, Italian ambassador to Japan, and selected for exhibition at the Venice Film Festival. Japanese studios were not interested in such events due to the cost of printing for the exhibition, so Stramigioli bore the costs herself. <i>Rashomon</i>'s success stunned the Japanese studios and catapulted Kurosawa to international fame.
-
-Kurosawa was a master storyteller and his works have influenced other major works worldwide. <i>Rashomon</i> (1950) plot device, known as the "Rashomon effect," influenced a whole host of films, including Jet Li's <i>Hero</i> (2002). <i>Seven Samurai</i> inspired a number of high profile remakes and reinterpretations, such as <i>The Magnificent Seven</i> (1960) and <i>A Bug's Life</i> (1998). <i>Yojimbo</i> (1961) famously inspired Sergio Leone's <i>A Fistful of Dollars</i> (1964), who failed to secure permission to adapt Kurosawa's screenplay. Leone settled with Toho and granted the studio exclusive distribution rights in Japan, where the film was retitled <i>The Return of Yojimbo</i>. <i>The Hidden Fortress</i> (1958) has been cited by George Lucas as an inspiration for <i>Star Wars</i> (1977). Lucas would later co-produce Kurosawa's <i>Kagemusha</i> (1980) with Francis Ford Coppola.
-
-Kurosawa's career took a turn for the worse in the mid 60s and early 70s. His perfectionism caused several film productions to run over schedule and budget, a contributing factor to his breakup with Mifune. His conflict with studios came to a head when he was fired from <i>Tora! Tora! Tora!</i> (1970) and replaced by Masuda Toshio and Fukasaku Kinji.
-
-He had a late career rennaissance with films like <i>Kagemusha</i> (1980) and <i>Ran</i> (1985), and his later works were just as highly acclaimed as his earlier works.
-
-Kurosawa suffered a stroke and died while working on the screenplay for <i>After the Rain</i>, which was completed and released posthumously in 2000.
+The late 60s and 70s were a dark period for the director, marked by the commercial failure of _Dodes'ka-den_ (1970) and a suicide attempt. However, he staged a magnificent comeback with the Soviet-backed _Dersu Uzala_ (1975) and a pair of Shakespearean epics, _Kagemusha_ (1980) and _Ran_ (1985), which were produced with the assistance of admirers George Lucas and Francis Ford Coppola. His old friend Honda Ishirô returned to his side as a creative consultant and second-unit director for these final triumphs.

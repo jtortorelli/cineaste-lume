@@ -19,12 +19,15 @@ works:
   - format: film
     poster_url: /static/images/films/samurai-ii-duel-at-ichijoji-temple-1955/posters/poster.webp
     roles:
-      - name: Hagerin Wataru
+      - name: Wataru
         uncredited: false
     slug: samurai-ii-duel-at-ichijoji-temple-1955
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
 ---
-Earned a name for herself in the 50s with her enchanting recordings of children's nursery rhymes.
 
-She only appeared in two films: <i>Invisible Man</i> (1954) and <i>Samurai II: Duel at Ichijoji Temple</i> (1955).
+Born in Kyoto, Kondô Keiko began her career as a child prodigy, studying under composer Yamamoto Masayuki from the age of seven. She made her debut in 1951 with the hit song "Pig Pig Trumpet" and became a sensation as a singer of children's nursery rhymes (_doyo_), eventually signing an exclusive contract with King Records in 1954.
+
+Though primarily a singer, Kondô made two notable film appearances in the mid-1950s: as Mari in the special effects film _Invisible Man_ (1954), and as the young attendant Wataru in legendary director Inagaki Hiroshi's _Samurai II: Duel at Ichijoji Temple_ (1955).
+
+In 1961, she attempted to transition from children's songs to popular music (_kayokyoku_), but eventually retired from the entertainment industry in 1965.

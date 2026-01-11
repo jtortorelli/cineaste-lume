@@ -312,8 +312,7 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
 ---
-Toho exclusive actor who appeared in no less than 20 sci-fi films, and many other films besides.
 
-Reportedly lived less than 3 minutes away from Toho studios during the height of Toho's output.
+A dedicated fixture of Toho Studios for decades, Kumagai Takuzô was an exclusive player who reportedly lived within a three-minute walk of the studio lot during its peak years. This proximity and his reliability led to him appearing in countless films, including over 20 science fiction productions.
 
-Had very few speaking roles. His most substantial speaking parts were as a defense minister in <i>Godzilla</i> (1954) and a newspaper editor in <i>The Human Vapor</i> (1960).
+Though often relegated to background parts or non-speaking roles, he had memorable turns as Gisaku's son in Kurosawa Akira's _Seven Samurai_ (1954), a defense minister in the original _Godzilla_ (1954), and a newspaper executive in _The Human Vapor_ (1960). His career spanned the breadth of Toho's Golden Age, from the chanbara classics of the 50s to the special effects extravaganzas of the 70s.

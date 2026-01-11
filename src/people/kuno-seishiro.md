@@ -89,12 +89,8 @@ works:
     year: 1968
 ---
 
-Started at Toho with small bit parts and walk ons, culminating in a substantial
-role in <i>The Age of Assassins</i> (1967).
+Beginning his tenure at Toho with uncredited walk-ons and bit parts, Kuno Seishirô gradually worked his way up the studio ranks. He eventually secured more substantial parts, most notably in 1967 when he played the assassin on crutches in the action-comedy _The Age of Assassins_ and the scientist Tashiro in the kaiju film _Son of Godzilla_.
 
-Was good friends with Kayama Yûzô of <i>Young Guy</i> fame.
+He was known to be close friends with Toho superstar Kayama Yûzô, famous for the _Young Guy_ series.
 
-Dropped out of film in the 70s after Toho's contract system ended, and retired
-from acting altogether in the early 80s.
-
-In 2010 Kuno was reportedly running a butcher shop in Tokyo.
+Like many contract players, Kuno left the industry as the studio system collapsed in the 1970s, retiring from acting altogether by the early 1980s. In 2010, he was reportedly running a butcher shop in Tokyo.

@@ -107,9 +107,16 @@ works:
       - name: Staff Officer Kimura
     title: "Monster X Strikes Back: Attack the G8 Summit"
     year: 2008
+  - title: Superior 8 Ultra Brothers
+    year: 2008
+    format: film
+    poster_url: /static/images/films/superior-8-ultra-brothers-2008/posters/poster.webp
+    roles:
+      - name: Hayata Shin
 ---
-Best known as the alter-ego of Ultraman in the inaugural <i>Ultraman</i> television series in 1966. He has reprised the role in numerous Ultra sequels.
 
-Outside of ULtraman, his genre film roles were limited to supporting roles as gangsters or other kind sof henchmen.
+Known to millions as the human face of a hero, Kurobe Susumu is immortalized in pop culture history as Hayata Shin, the Science Patrol member who transforms into the titular giant in the original _Ultraman_ (1966). He has reprised this role in numerous sequels and spin-offs over the decades.
 
-Kurobe's daughter, Yoshimoto Takami, is also an actress, and also appeared in a prominent role in the Ultra franchise, specifically as the female lead of <i>Ultraman Tiga</i> (1996).
+In a stark contrast to his television persona, Kurobe's film career at Toho often saw him cast as villains, assassins, and henchmen. He played a cold-blooded assassin in _Ghidorah, the Three-Headed Monster_ (1964) and a henchman for the evil Dr. Who in _King Kong Escapes_ (1967).
+
+His legacy in the franchise extends to the next generation; his daughter, Yoshimoto Takami, starred as the female lead Yanase Rena in _Ultraman Tiga_ (1996). Father and daughter notably shared the screen in the 2008 film _Great Decisive Battle! The Super 8 Ultra Brothers_.

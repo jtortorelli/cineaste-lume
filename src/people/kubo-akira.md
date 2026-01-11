@@ -120,14 +120,16 @@ works:
     slug: gamera-guardian-of-the-universe-1995
     title: "Gamera: Guardian of the Universe"
     year: 1995
+  - title: The Great Buddha Arrival
+    year: 2019
+    format: film
+    poster_url: "/static/images/films/great-buddha-arrival-2019/posters/poster.webp"
+    roles:
+      - name: Prime Minister Mashiro
 ---
 
-Kubo began his acting career as a child on stage. He joined Toho in 1952 when he was 16. He debuted in Maruyama Seiji's film <i>Shishunki</i> the same year, under his birth name, Yamauchi Yasuyoshi. He adopted the name of his character from that film, Kubo Akira, as his stage name for the rest of his career.
+Originally performing under his birth name Yamauchi Yasuyoshi, Kubo Akira began his career as a child actor on stage before joining any studio. He signed with Toho in 1952 at the age of 16 and made his screen debut that same year in Maruyama Seiji's coming-of-age drama _Shishunki_ ("Adolescence"). In a move that would define his public persona, he adopted the name of his character from that film—Kubo Akira—as his permanent stage name.
 
-Appeared in films for both Honda Ishirô and Kurosawa Akira.
+Kubo became a versatile player for the studio, appearing in prestigious Kurosawa Akira films like _Throne of Blood_ (1957) and _Sanjuro_ (1962). However, he is most beloved by genre fans for his energetic performances in Toho's science fiction output. He played the inventor Torii Tetsuo in _Invasion of Astro-Monster_ (1965), the reporter Maki Goro in _Son of Godzilla_ (1967), and the heroic Captain Yamabe in the kaiju extravaganza _Destroy All Monsters_ (1968). Interestingly, he was reportedly a top contender for the lead role of Hayata in _Ultraman_ (1966) before the part went to Kurobe Susumu.
 
-Kubo was allegedly in the running for the lead character in <i>Ultraman</i> (1966), but the role ultimately went to Kurobe Susumu.
-
-Retired from film after completing <i>Space Amoeba</i> (1970) and transitioned to television. He played darker and more villainous characters on TV, in stark contrast to his film work.
-
-He made a notable cameo in <i>Gamera: Guardian of the Universe</i> (1995) as a ship's captain in the prologue, his first appearance in the sci-fi genre in 25 years.
+Following _Space Amoeba_ (1970), Kubo transitioned largely to television, where he frequently played villains—a stark contrast to his heroic film roles. He made a celebrated return to the genre with a cameo as the captain of the Kairyu-_maru_ in _Gamera: Guardian of the Universe_ (1995) and later appeared in the independent production _The Great Buddha Arrival_.
