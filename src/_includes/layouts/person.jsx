@@ -69,9 +69,6 @@ export default ({
         <h1 class="font-display tracking-wider uppercase text-2xl text-gray-700 p-4">
           {name}
         </h1>
-      </div>
-      <comp.named_divider name="Overview" />
-      <div class="flex flex-col justify-center lg:grid lg:grid-flow-col lg:auto-cols-auto lg:gap-4 lg:items-center lg:justify-center lg:max-w-2xl m-auto mb-1">
         <div class="pb-4 lg:shrink-0 h-full w-fit m-auto">
           <img
             class="rounded-lg drop-shadow-lg"
@@ -80,35 +77,36 @@ export default ({
             width="200px"
           />
         </div>
-        <div class="text-sm m-auto space-y-3 h-full">
-          {japanese_name && (
-            <div class="flex lg:break-inside-avoid-column gap-1 items-center">
-              <div>
-                <img
-                  class="h-4 w-4 text-gray-500"
-                  src={icon("language", "tabler", "outline")}
-                  inline
-                />
-              </div>
-              <div class="font-japanese text-gray-700">{japanese_name}</div>
+      </div>
+      <comp.named_divider name="Bio" />
+      <div class="text-sm grid gap-6 sm:grid-cols-[repeat(auto-fit,minmax(110px,140px))] mb-4 mx-auto items-start justify-center">
+        {japanese_name && (
+          <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
+            <div>
+              <img
+                class="h-4 w-4 text-gray-500"
+                src={icon("language", "tabler", "outline")}
+                inline
+              />
             </div>
-          )}
-          {dob && (
-            <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
-              <div>
-                <img
-                  class="h-5 w-4 text-gray-500"
-                  src={icon("sun-high", "tabler", "outline")}
-                  inline
-                />
-              </div>
-              <div class="space-y-1">
-                <div class="font-content text-gray-700">
-                  {display_date(dob, dob_resolution)}{" "}
-                  <span id="age-span"></span>
-                  {!dod && (
-                    <script>
-                      {`
+            <div class="font-japanese text-gray-700">{japanese_name}</div>
+          </div>
+        )}
+        {dob && (
+          <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
+            <div>
+              <img
+                class="h-5 w-4 text-gray-500"
+                src={icon("sun-high", "tabler", "outline")}
+                inline
+              />
+            </div>
+            <div class="space-y-1">
+              <div class="font-content text-gray-700">
+                {display_date(dob, dob_resolution)} <span id="age-span"></span>
+                {!dod && (
+                  <script>
+                    {`
                             const dob = new Date("${dob}");
                             const ageDifMs = Date.now() - dob.getTime();
                             const ageDate = new Date(ageDifMs); // miliseconds from epoch
@@ -116,147 +114,146 @@ export default ({
                             const ageSpan = document.getElementById("age-span");
                             ageSpan.textContent = "(" + age + ")";
                         `}
-                    </script>
-                  )}
-                </div>
-
-                {birth_name && (
-                  <div class="font-content text-gray-500 text-xs">
-                    {birth_name}
-                  </div>
-                )}
-                {japanese_birth_name && (
-                  <div class="font-content text-gray-500 text-xs">
-                    {japanese_birth_name}
-                  </div>
-                )}
-                {birth_place && (
-                  <div class="font-content text-gray-500 text-xs">
-                    {birth_place}
-                  </div>
+                  </script>
                 )}
               </div>
+
+              {birth_name && (
+                <div class="font-content text-gray-500 text-xs">
+                  {birth_name}
+                </div>
+              )}
+              {japanese_birth_name && (
+                <div class="font-content text-gray-500 text-xs">
+                  {japanese_birth_name}
+                </div>
+              )}
+              {birth_place && (
+                <div class="font-content text-gray-500 text-xs">
+                  {birth_place}
+                </div>
+              )}
             </div>
-          )}
-          {dod && typeof dod !== "string" && (
+          </div>
+        )}
+        {dod && typeof dod !== "string" && (
+          <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
+            <div>
+              <img
+                class="h-5 w-4 text-gray-500"
+                src={icon("moon", "tabler", "outline")}
+                inline
+              />
+            </div>
+            <div class="space-y-1">
+              <div class="font-content text-gray-700">
+                {display_date(dod, dod_resolution)} ({lifespan(dob, dod)})
+              </div>
+              {death_place && (
+                <div class="font-content text-gray-500 text-xs">
+                  {death_place}
+                </div>
+              )}
+              {cause_of_death && (
+                <div class="font-content text-gray-500 text-xs">
+                  {cause_of_death}
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+        {dod &&
+          typeof dod === "string" &&
+          dod.toLowerCase() === "unknown" && (
+          <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
+            <div>
+              <img
+                class="h-5 w-4 text-gray-500"
+                src={icon("moon", "tabler", "outline")}
+                inline
+              />
+            </div>
+            <div class="font-content text-gray-700">Unknown Date</div>
+          </div>
+        )}
+        {aliases &&
+          aliases.length > 0 &&
+          aliases.map((a) => (
             <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
               <div>
                 <img
                   class="h-5 w-4 text-gray-500"
-                  src={icon("moon", "tabler", "outline")}
+                  src={icon("at", "tabler", "outline")}
                   inline
                 />
               </div>
-              <div class="space-y-1">
-                <div class="font-content text-gray-700">
-                  {display_date(dod, dod_resolution)} ({lifespan(dob, dod)})
-                </div>
-                {death_place && (
-                  <div class="font-content text-gray-500 text-xs">
-                    {death_place}
-                  </div>
-                )}
-                {cause_of_death && (
-                  <div class="font-content text-gray-500 text-xs">
-                    {cause_of_death}
-                  </div>
-                )}
-              </div>
-            </div>
-          )}
-          {dod &&
-            typeof dod === "string" &&
-            dod.toLowerCase() === "unknown" && (
-            <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
               <div>
-                <img
-                  class="h-5 w-4 text-gray-500"
-                  src={icon("moon", "tabler", "outline")}
-                  inline
-                />
-              </div>
-              <div class="font-content text-gray-700">Unknown Date</div>
-            </div>
-          )}
-          {aliases &&
-            aliases.length > 0 &&
-            aliases.map((a) => (
-              <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
-                <div>
-                  <img
-                    class="h-5 w-4 text-gray-500"
-                    src={icon("at", "tabler", "outline")}
-                    inline
-                  />
-                </div>
-                <div>
-                  <div class="font-content text-gray-700">{a.name}</div>
+                <div class="font-content text-gray-700">{a.name}</div>
 
-                  {a.japanese_name && (
-                    <div class="font-content text-gray-500 text-xs">
-                      {a.japanese_name}
-                    </div>
-                  )}
-                  {a.context && (
-                    <div class="font-content text-gray-500 text-xs">
-                      {a.context}
-                    </div>
-                  )}
-                  {a.category == "mistranslation" && (
-                    <div class="font-content text-gray-500 text-xs">
-                      Mistranslation
-                    </div>
-                  )}
-                </div>
-              </div>
-            ))}
-
-          {spouses &&
-            spouses.length > 0 &&
-            spouses.map((spouse) => (
-              <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
-                <div>
-                  <img
-                    class="h-5 w-5 text-gray-500"
-                    src={icon("chart-circles", "tabler", "outline")}
-                    inline
-                  />
-                </div>
-                <div>
-                  <div class="font-content text-gray-700">
-                    <comp.person_showcase_link slug={spouse.slug}>
-                      {spouse.name}
-                    </comp.person_showcase_link>
+                {a.japanese_name && (
+                  <div class="font-content text-gray-500 text-xs">
+                    {a.japanese_name}
                   </div>
-                </div>
+                )}
+                {a.context && (
+                  <div class="font-content text-gray-500 text-xs">
+                    {a.context}
+                  </div>
+                )}
+                {a.category == "mistranslation" && (
+                  <div class="font-content text-gray-500 text-xs">
+                    Mistranslation
+                  </div>
+                )}
               </div>
-            ))}
-          {family && family.length > 0 && (
+            </div>
+          ))}
+
+        {spouses &&
+          spouses.length > 0 &&
+          spouses.map((spouse) => (
             <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
               <div>
                 <img
                   class="h-5 w-5 text-gray-500"
-                  src={icon("users-group", "tabler", "outline")}
+                  src={icon("chart-circles", "tabler", "outline")}
                   inline
                 />
               </div>
               <div>
-                {family.map((family) => (
-                  <>
-                    <div class="font-content text-gray-700">
-                      <comp.person_showcase_link slug={family.slug}>
-                        {family.name}
-                      </comp.person_showcase_link>
-                    </div>
-                    <div class="font-content text-gray-500 text-xs capitalize">
-                      {family.relationship}
-                    </div>
-                  </>
-                ))}
+                <div class="font-content text-gray-700">
+                  <comp.person_showcase_link slug={spouse.slug}>
+                    {spouse.name}
+                  </comp.person_showcase_link>
+                </div>
               </div>
             </div>
-          )}
-        </div>
+          ))}
+        {family && family.length > 0 && (
+          <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
+            <div>
+              <img
+                class="h-5 w-5 text-gray-500"
+                src={icon("users-group", "tabler", "outline")}
+                inline
+              />
+            </div>
+            <div>
+              {family.map((family) => (
+                <>
+                  <div class="font-content text-gray-700">
+                    <comp.person_showcase_link slug={family.slug}>
+                      {family.name}
+                    </comp.person_showcase_link>
+                  </div>
+                  <div class="font-content text-gray-500 text-xs capitalize">
+                    {family.relationship}
+                  </div>
+                </>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
       <div class="
         text-sm font-content text-justify text-gray-700 mb-1 pt-2 mx-auto
