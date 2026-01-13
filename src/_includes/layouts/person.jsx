@@ -269,9 +269,9 @@ export default ({
       {accolades && accolades.length > 0 && (
         <>
           <comp.named_divider name="Accolades" />
-          <div class="flex flex-col sm:grid sm:grid-cols-[repeat(auto-fill,minmax(10rem,1fr))] justify-center gap-4 m-auto sm:w-fit w-96 sm:max-w-full">
+          <div class="grid gap-6 sm:grid-cols-[repeat(auto-fit,minmax(110px,150px))] justify-center mx-auto">
             {accolades.map((accolade) => (
-              <div class="w-40">
+              <div class="">
                 <div
                   class={`font-content text-xs gap-1 ${
                     accolade.status === "won"
