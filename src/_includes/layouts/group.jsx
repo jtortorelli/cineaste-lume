@@ -358,15 +358,11 @@ export default (
                             <div class="flex">
                               {r.qualifiers &&
                                 r.qualifiers.map((q) => (
-                                  <comp.qualifier_icon qualifier={q} />
+                                  <comp.qualifier_badge>
+                                    {q}
+                                  </comp.qualifier_badge>
                                 ))}
-                              {r.uncredited && (
-                                <img
-                                  class="text-red-700 h-4 w-4"
-                                  src={icon("id-off", "tabler", "outline")}
-                                  inline
-                                />
-                              )}
+                              {r.uncredited && <comp.uncredited_badge />}
                             </div>
                           </div>
                         </div>

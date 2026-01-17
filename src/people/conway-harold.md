@@ -57,7 +57,7 @@ works:
     roles:
       - name: Military Advisor
         qualifiers:
-          - American Version
+          - Int'l
         uncredited: true
     slug: mothra-vs-godzilla-1964
     title: Mothra vs. Godzilla

@@ -256,7 +256,7 @@ export default ({
         )}
       </div>
       <div class="
-        text-sm font-content text-justify text-gray-700 mb-1 pt-2 mx-auto
+        text-sm font-content text-justify text-gray-700 pb-1 pt-2 mx-auto
         w-96 sm:w-fit
         columns-1 sm:columns-2 space-y-2
            
@@ -314,6 +314,7 @@ export default ({
           </div>
         </>
       )}
+
       <comp.named_divider name="Selected Works" />
       <div class="full-filmography">
         <div class="flex flex-col sm:flex-row sm:flex-wrap gap-4 m-auto sm:w-fit w-96">
@@ -326,7 +327,7 @@ export default ({
                     <div class="shrink-0">
                       <img
                         class="rounded-lg drop-shadow-lg"
-                        width={101}
+                        width={75}
                         src={entry.title_card_url}
                       />
                     </div>
@@ -401,9 +402,8 @@ export default ({
                     <div class="flex flex-row w-60 items-start gap-3">
                       <div class="shrink-0">
                         <img
-                          class="rounded-lg drop-shadow-lg min-h-[150px] max-h-[150px]"
-                          height={150}
-                          width={101}
+                          class="rounded-lg drop-shadow-lg"
+                          width={75}
                           src={entry["poster_url"]}
                         />
                       </div>
@@ -489,15 +489,11 @@ export default ({
                                 <div class="flex">
                                   {r.qualifiers &&
                                     r.qualifiers.map((q) => (
-                                      <comp.qualifier_icon qualifier={q} />
+                                      <comp.qualifier_badge>
+                                        {q}
+                                      </comp.qualifier_badge>
                                     ))}
-                                  {r.uncredited && (
-                                    <img
-                                      class="text-red-700 h-4 w-4"
-                                      src={icon("id-off", "tabler", "outline")}
-                                      inline
-                                    />
-                                  )}
+                                  {r.uncredited && <comp.uncredited_badge />}
                                 </div>
                               </div>
                             </div>
@@ -512,9 +508,8 @@ export default ({
                     <div class="flex flex-row w-60 items-start gap-3">
                       <div class="shrink-0">
                         <img
-                          class="rounded-lg drop-shadow-lg min-h-[125px]"
-                          height={125}
-                          width={101}
+                          class="rounded-lg drop-shadow-lg"
+                          width={75}
                           src={entry["cover_url"]}
                         />
                       </div>

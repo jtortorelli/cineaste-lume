@@ -6,31 +6,31 @@ kaiju:
     name: Gamera
     portrayals:
       - type: Puppet
-      - type: Stock Footage
+      - type: Archival
   - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/00964.webp
     name: Gyaos
     portrayals:
-      - type: Stock Footage
+      - type: Archival
   - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/01193.webp
     name: Zigra
     portrayals:
-      - type: Stock Footage
+      - type: Archival
   - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/01454.webp
     name: Viras
     portrayals:
-      - type: Stock Footage
+      - type: Archival
   - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/01730.webp
     name: Jiger
     portrayals:
-      - type: Stock Footage
+      - type: Archival
   - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/02138.webp
     name: Guiron
     portrayals:
-      - type: Stock Footage
+      - type: Archival
   - avatar_url: /static/images/films/gamera-super-monster-1980/kaiju-avatars/02425.webp
     name: Barugon
     portrayals:
-      - type: Stock Footage
+      - type: Archival
 poster_url: /static/images/films/posters/gamera-super-monster-1980.webp
 release_date: 1980-03-20
 runtime: 109

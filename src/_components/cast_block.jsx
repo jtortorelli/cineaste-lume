@@ -53,18 +53,14 @@ export default function ({ block, comp }, { icon }) {
                 {cast.alias}
               </div>
             )}
-            <div class="font-detail text-xs text-gray-500 uppercase">
-              {cast.qualifiers && (
-                <comp.qualifier_icon qualifier={cast.qualifiers} />
-              )}
-              {cast.uncredited && (
-                <img
-                  class="inline h-4 w-4 text-red-700"
-                  src={icon("id-off", "tabler", "outline")}
-                  inline
-                />
-              )}
-            </div>
+
+            {cast.qualifiers && (
+              <comp.qualifier_badge>
+                {cast.qualifiers}
+              </comp.qualifier_badge>
+            )}
+
+            {cast.uncredited && <comp.uncredited_badge />}
             {cast.secondary &&
               cast.secondary.map((secondary) => (
                 <div class="font-content text-sm sm:text-center text-gray-700">
@@ -87,17 +83,13 @@ export default function ({ block, comp }, { icon }) {
                       {secondary.alias}
                     </div>
                   )}
-                  <div class="font-detail text-xs text-gray-500 uppercase">
-                    {secondary.qualifiers && (
-                      <comp.qualifier_icon qualifier={secondary.qualifiers} />
-                    )}
-                    {secondary.uncredited && (
-                      <img
-                        class="inline h-4 w-4 text-red-700"
-                        src={icon("id-off", "tabler", "outline")}
-                      />
-                    )}
-                  </div>
+                  {secondary.qualifiers && (
+                    <comp.qualifier_badge>
+                      {secondary.qualifiers}
+                    </comp.qualifier_badge>
+                  )}
+
+                  {secondary.uncredited && <comp.uncredited_badge />}
                 </div>
               ))}
           </div>

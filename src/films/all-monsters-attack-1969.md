@@ -31,27 +31,27 @@ kaiju:
   - avatar_url: /static/images/films/all-monsters-attack-1969/kaiju-avatars/kamacuras.webp
     name: Kamacuras
     portrayals:
-      - type: Stock Footage
+      - type: Archival
   - avatar_url: /static/images/films/all-monsters-attack-1969/kaiju-avatars/gorosaurus.webp
     name: Gorosaurus
     portrayals:
-      - type: Stock Footage
+      - type: Archival
   - avatar_url: /static/images/films/all-monsters-attack-1969/kaiju-avatars/manda.webp
     name: Manda
     portrayals:
-      - type: Stock Footage
+      - type: Archival
   - avatar_url: /static/images/films/all-monsters-attack-1969/kaiju-avatars/anguirus.webp
     name: Anguirus
     portrayals:
-      - type: Stock Footage
+      - type: Archival
   - avatar_url: /static/images/films/all-monsters-attack-1969/kaiju-avatars/ebirah.webp
     name: Ebirah
     portrayals:
-      - type: Stock Footage
+      - type: Archival
   - avatar_url: /static/images/films/all-monsters-attack-1969/kaiju-avatars/kumonga.webp
     name: Kumonga
     portrayals:
-      - type: Stock Footage
+      - type: Archival
 poster_url: /static/images/films/posters/all-monsters-attack-1969.webp
 release_date: 1969-12-20
 runtime: 70

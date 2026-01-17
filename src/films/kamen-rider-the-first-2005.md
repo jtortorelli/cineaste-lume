@@ -134,7 +134,7 @@ top_billed_cast:
   - avatar_url: /static/images/films/kamen-rider-the-first-2005/cast-avatars/hideyo-amamoto-0.webp
     character_qualifiers:
     name: Amamoto Hideyo
-    qualifiers: Stock Footage
+    qualifiers: Archival
     role: Shocker Chief
     secondary:
       - name: Maruyama Eiji

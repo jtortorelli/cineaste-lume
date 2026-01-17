@@ -1,0 +1,7 @@
+export default function () {
+  return (
+    <div class="badge badge-xs bg-red-100 text-red-700 uppercase font-detail">
+      Uncredited
+    </div>
+  );
+}

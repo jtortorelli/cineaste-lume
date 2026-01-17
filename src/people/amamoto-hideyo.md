@@ -187,7 +187,7 @@ works:
     roles:
       - name: Shocker Chief
         qualifiers:
-          - Stock Footage
+          - Archival
         uncredited: false
     slug: kamen-rider-the-first-2005
     title: "Kamen Rider: The First"

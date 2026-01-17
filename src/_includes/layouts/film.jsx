@@ -433,15 +433,15 @@ export default ({
                               {person.alias}
                             </div>
                           )}
-                          <div class="font-detail text-xs text-gray-500 uppercase">
-                            <comp.qualifier_icon qualifier={portrayal.type} />
-                          </div>
+                          <comp.qualifier_badge>
+                            {portrayal.type}
+                          </comp.qualifier_badge>
                         </div>
                       ))
                       : (
-                        <div class="font-detail text-xs text-gray-500 uppercase">
-                          <comp.qualifier_icon qualifier={portrayal.type} />
-                        </div>
+                        <comp.qualifier_badge>
+                          {portrayal.type}
+                        </comp.qualifier_badge>
                       )}
                   </>
                 ))}

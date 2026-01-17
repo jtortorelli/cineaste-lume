@@ -84,7 +84,7 @@ studios:
 supporting_cast:
   - avatar_url: /static/images/films/mothra-vs-godzilla-1964/cast-avatars/harold-s-conway-0.webp
     name: Harold Conway
-    qualifiers: American Version
+    qualifiers: Int'l
     role: Military Advisor
     slug: conway-harold
     uncredited: true
@@ -179,7 +179,7 @@ supporting_cast:
     uncredited: true
   - avatar_url: /static/images/films/mothra-vs-godzilla-1964/cast-avatars/osman-yusef-0.webp
     name: Osman Yusuf
-    qualifiers: American Version
+    qualifiers: Int'l
     role: Reporter
     slug: yusuf-osman
     uncredited: true
