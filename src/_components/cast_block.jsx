@@ -9,7 +9,7 @@ export default function ({ block, comp }, { icon }) {
   }
 
   return (
-    <div class="flex flex-col sm:flex-row sm:flex-wrap gap-4 sm:w-fit w-96 m-auto">
+    <div class="flex flex-col sm:flex-row sm:flex-wrap gap-4 sm:w-fit w-96 m-auto justify-center">
       {block.map((cast) => (
         <div class="flex flex-row sm:flex-col sm:w-32 items-center gap-3">
           <div class="shrink-0">
@@ -55,9 +55,7 @@ export default function ({ block, comp }, { icon }) {
             )}
 
             {cast.qualifiers && (
-              <comp.qualifier_badge>
-                {cast.qualifiers}
-              </comp.qualifier_badge>
+              <comp.qualifier_badge>{cast.qualifiers}</comp.qualifier_badge>
             )}
 
             {cast.uncredited && <comp.uncredited_badge />}
@@ -68,9 +66,11 @@ export default function ({ block, comp }, { icon }) {
                     {secondary.name}
                     {secondary.disambig_chars && (
                       <span class="text-xs">
-                        (<span class="font-japanese">
+                        (
+                        <span class="font-japanese">
                           {secondary.disambig_chars}
-                        </span>)
+                        </span>
+                        )
                       </span>
                     )}
                   </comp.person_showcase_link>

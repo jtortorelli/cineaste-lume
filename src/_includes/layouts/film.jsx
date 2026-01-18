@@ -394,7 +394,7 @@ export default (
     {kaiju && kaiju.length > 0 && (
       <>
         <comp.named_divider name="kaiju, etc." />
-        <div class="flex flex-col sm:flex-row sm:flex-wrap sm:w-fit w-96 m-auto gap-4">
+        <div class="flex flex-col sm:flex-row sm:flex-wrap sm:w-fit w-96 m-auto gap-4 justify-center">
           {kaiju.map((kaiju) => (
             <div class="flex flex-row sm:flex-col sm:w-32 items-center gap-3">
               <div class="shrink-0">
