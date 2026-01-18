@@ -1,25 +1,28 @@
 export const layout = "layouts/layout.vto";
-export default ({
-  title,
-  poster_url,
-  release_date,
-  runtime,
-  japanese_title,
-  transliteration,
-  aliases,
-  series,
-  staff,
-  translation,
-  top_billed_cast,
-  supporting_cast,
-  kaiju,
-  original_works,
-  studios,
-  comp,
-  film_series,
-  credits,
-  basename,
-}, { date, icon }) => (
+export default (
+  {
+    title,
+    poster_url,
+    release_date,
+    runtime,
+    japanese_title,
+    transliteration,
+    aliases,
+    series,
+    staff,
+    translation,
+    top_billed_cast,
+    supporting_cast,
+    kaiju,
+    original_works,
+    studios,
+    comp,
+    film_series,
+    credits,
+    basename,
+  },
+  { date, icon },
+) => (
   <>
     <div class="text-center w-fit m-auto">
       <h1 class="font-display tracking-wider uppercase p-2 text-2xl text-gray-700">
@@ -47,9 +50,7 @@ export default ({
               inline
             />
           </div>
-          <div>
-            {date(new Date(release_date), "d MMM yyyy")}
-          </div>
+          <div>{date(new Date(release_date), "d MMM yyyy")}</div>
         </div>
         <div class="text-gray-700 font-content flex items-center gap-1">
           <div>
@@ -73,8 +74,7 @@ export default ({
             <div
               class="font-japanese tracking-wide text-gray-700"
               dangerouslySetInnerHTML={{ __html: japanese_title }}
-            >
-            </div>
+            ></div>
             <div class="font-content italic text-xs text-gray-500">
               {transliteration}
             </div>
@@ -85,7 +85,8 @@ export default ({
             )}
           </div>
         </div>
-        {original_works && original_works.length > 0 &&
+        {original_works &&
+          original_works.length > 0 &&
           original_works.map((work) => (
             <div class="flex lg:break-inside-avoid-column gap-1 items-baseline">
               <div>
@@ -102,7 +103,8 @@ export default ({
                 <div class="uppercase font-detail text-xs text-gray-500">
                   {work.format} by
                 </div>
-                {work.authors && work.authors.length > 0 &&
+                {work.authors &&
+                  work.authors.length > 0 &&
                   work.authors.map((a) => (
                     <div class="font-content text-gray-700">
                       <comp.person_showcase_link slug={a.slug}>
@@ -110,11 +112,10 @@ export default ({
                       </comp.person_showcase_link>
                     </div>
                   ))}
-                {work.studios && work.studios.length > 0 &&
+                {work.studios &&
+                  work.studios.length > 0 &&
                   work.studios.map((s) => (
-                    <div class="font-content text-gray-700">
-                      {s.name}
-                    </div>
+                    <div class="font-content text-gray-700">{s.name}</div>
                   ))}
               </div>
             </div>
@@ -159,7 +160,8 @@ export default ({
                   <i>{series.title}</i> Series No. {series.entry_number}
                   {film_series[series.slug] && (
                     <>
-                      &nbsp;<button onclick="series_modal.showModal()">
+                      &nbsp;
+                      <button onclick="series_modal.showModal()">
                         <img
                           class="inline h-5 w-5 text-red-700 hover:cursor-pointer"
                           src={icon("layers-subtract", "tabler", "outline")}
@@ -182,31 +184,25 @@ export default ({
                           />
                           <div class="text-gray-700 font-content text-sm">
                             <ol class="list-decimal list-outside gap-2">
-                              {film_series[series.slug].entries.map((
-                                series_entry,
-                              ) => (
-                                <li class="ml-8 my-1">
-                                  {series_entry.slug
-                                    ? (
+                              {film_series[series.slug].entries.map(
+                                (series_entry) => (
+                                  <li class="ml-8 my-1">
+                                    {series_entry.slug ? (
                                       <comp.film_showcase_link
                                         slug={series_entry.slug}
                                       >
-                                        <i>
-                                          {series_entry.title}
-                                        </i>{" "}
-                                        ({series_entry.year})
+                                        <i>{series_entry.title}</i> (
+                                        {series_entry.year})
                                       </comp.film_showcase_link>
-                                    )
-                                    : (
+                                    ) : (
                                       <>
-                                        <i>
-                                          {series_entry.title}
-                                        </i>{" "}
-                                        ({series_entry.year})
+                                        <i>{series_entry.title}</i> (
+                                        {series_entry.year})
                                       </>
                                     )}
-                                </li>
-                              ))}
+                                  </li>
+                                ),
+                              )}
                             </ol>
                           </div>
                         </div>
@@ -234,10 +230,9 @@ export default ({
                   <comp.film_showcase_link slug={series.previous_entry.slug}>
                     <span class="italic text-wrap">
                       {series.previous_entry.title}
-                    </span>&nbsp;
-                    <span class="text-sm">
-                      ({series.previous_entry.year})
                     </span>
+                    &nbsp;
+                    <span class="text-sm">({series.previous_entry.year})</span>
                   </comp.film_showcase_link>
                 </div>
               </div>
@@ -259,7 +254,8 @@ export default ({
                   <comp.film_showcase_link slug={series.next_entry.slug}>
                     <span class="italic text-wrap">
                       {series.next_entry.title}
-                    </span>&nbsp;
+                    </span>
+                    &nbsp;
                     <span class="text-sm">({series.next_entry.year})</span>
                   </comp.film_showcase_link>
                 </div>
@@ -278,12 +274,13 @@ export default ({
           </div>
           <div>
             <div class="font-content text-gray-700">
-              {studios.map((studio) => (
-                <>
-                  {studio}
-                  <br />
-                </>
-              ))}
+              {studios &&
+                studios.map((studio) => (
+                  <>
+                    {studio}
+                    <br />
+                  </>
+                ))}
             </div>
           </div>
         </div>
@@ -294,30 +291,26 @@ export default ({
       {staff.map((staff) => (
         <div class="lg:text-center text-left lg:break-inside-avoid-column pb-1">
           <div class="">
-            <span class="font-content text-xs text-gray-500">
-              {staff.role}
-            </span>
+            <span class="font-content text-xs text-gray-500">{staff.role}</span>
           </div>
           <div class="">
             {staff.people.map((person) => (
               <div class="text-gray-700 text-sm font-content">
                 <comp.person_showcase_link slug={person.slug}>
-                  {person.disambig_chars
-                    ? (
-                      <>
-                        {person.name}
-                        <span class="text-xs">
-                          (<span class="font-japanese">
-                            {person.disambig_chars}
-                          </span>)
+                  {person.disambig_chars ? (
+                    <>
+                      {person.name}
+                      <span class="text-xs">
+                        (
+                        <span class="font-japanese">
+                          {person.disambig_chars}
                         </span>
-                      </>
-                    )
-                    : (
-                      <>
-                        {person.name}
-                      </>
-                    )}
+                        )
+                      </span>
+                    </>
+                  ) : (
+                    <>{person.name}</>
+                  )}
                 </comp.person_showcase_link>
 
                 <br />
@@ -362,26 +355,26 @@ export default ({
             </form>
             <comp.named_divider name="Credits" />
             <div class="grid grid-cols-2 gap-2 text-gray-700 font-content text-sm">
-              {credits[basename].map((
-                { japanese_role, japanese_name, role, name },
-              ) => (
-                <>
-                  <div>
-                    <span class="text-gray-500 font-mono text-xs">
-                      {japanese_role}
-                    </span>{" "}
-                    <br />
-                    <span>{role}</span>
-                  </div>
-                  <div>
-                    <span class="text-gray-500 font-mono text-xs">
-                      {japanese_name}
-                    </span>{" "}
-                    <br />
-                    <span>{name}</span>
-                  </div>
-                </>
-              ))}
+              {credits[basename].map(
+                ({ japanese_role, japanese_name, role, name }) => (
+                  <>
+                    <div>
+                      <span class="text-gray-500 font-mono text-xs">
+                        {japanese_role}
+                      </span>{" "}
+                      <br />
+                      <span>{role}</span>
+                    </div>
+                    <div>
+                      <span class="text-gray-500 font-mono text-xs">
+                        {japanese_name}
+                      </span>{" "}
+                      <br />
+                      <span>{name}</span>
+                    </div>
+                  </>
+                ),
+              )}
             </div>
           </div>
           <form method="dialog" class="modal-backdrop">
@@ -416,8 +409,8 @@ export default ({
                 </div>
                 {kaiju.portrayals.map((portrayal) => (
                   <>
-                    {portrayal.people
-                      ? portrayal.people.map((person) => (
+                    {portrayal.people ? (
+                      portrayal.people.map((person) => (
                         <div class="font-content text-sm sm:text-center text-gray-700">
                           <comp.person_showcase_link slug={person.slug}>
                             {person.name}
@@ -438,11 +431,11 @@ export default ({
                           </comp.qualifier_badge>
                         </div>
                       ))
-                      : (
-                        <comp.qualifier_badge>
-                          {portrayal.type}
-                        </comp.qualifier_badge>
-                      )}
+                    ) : (
+                      <comp.qualifier_badge>
+                        {portrayal.type}
+                      </comp.qualifier_badge>
+                    )}
                   </>
                 ))}
               </div>
