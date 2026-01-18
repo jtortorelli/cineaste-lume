@@ -1,0 +1,67 @@
+export const layout = "layouts/layout.vto";
+export const title = "People";
+export default ({ comp, search }, { icon }) => {
+  const people = search.pages("cineaste people", "url");
+  return (
+    <>
+      <div class="text-center w-fit m-auto">
+        <h1 class="font-display tracking-wider uppercase p-4 text-2xl text-gray-700">
+          People
+        </h1>
+      </div>
+      <div class="pb-6">
+        <div class="relative shadow-lg">
+          <div class="absolute inset-y-0 start-0 flex pl-4 items-center ps-3 pointer-events-none text-red-700">
+            <img
+              src={icon("search", "tabler", "outline")}
+              class="h-5 w-5"
+              inline
+            />
+          </div>
+          <input
+            type="text"
+            id="default-search"
+            class="font-content block w-full p-4 pl-12 ps-10 text-base text-red-700 border-none rounded-lg"
+          />
+        </div>
+      </div>
+      <div class="flex flex-col sm:flex-row sm:flex-wrap justify-center items-start gap-4">
+        {people.map((p) => (
+          <div
+            class="filterable flex flex-row sm:flex-col sm:w-32 items-center"
+            data-terms={`${p.name}
+          ${p.birth_name}
+          ${(p.aliases || []).map((a) => a.name).join(" ")}
+          ${(p.members || []).map((m) => `${m.name} ${m.birth_name}`).join(" ")}
+            `}
+          >
+            <div class="w-fit m-auto">
+              <a href={p.url}>
+                <img
+                  class="h-[100px] w-[100px] max-w-[150px] rounded-lg drop-shadow-lg"
+                  src={p.avatar_url}
+                />
+              </a>
+            </div>
+            <div class="sm:text-center pt-3">
+              <a href={p.url}>
+                <div class="font-content text-sm">{p.name}</div>
+                {p.profession && (
+                  <div class="font-content text-xs text-gray-500">
+                    {p.profession}
+                  </div>
+                )}
+                {p.type == "person" && (
+                  <div class="font-content text-xs text-gray-500">
+                    <comp.person_date_range p={p} />
+                  </div>
+                )}
+              </a>
+            </div>
+          </div>
+        ))}
+      </div>
+      <script src="/scripts/filter.js"></script>
+    </>
+  );
+};
