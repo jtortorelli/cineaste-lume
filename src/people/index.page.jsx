@@ -45,7 +45,9 @@ export default ({ comp, search }, { icon }) => {
             </div>
             <div class="sm:text-center pt-3">
               <a href={p.url}>
-                <div class="font-content text-sm">{p.name}</div>
+                <comp.cineaste_link href={p.url}>
+                  <div class="font-content text-sm">{p.name}</div>
+                </comp.cineaste_link>
                 {p.profession && (
                   <div class="font-content text-xs text-gray-500">
                     {p.profession}
