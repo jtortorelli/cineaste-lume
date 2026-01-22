@@ -25,223 +25,221 @@ export default (
 ) => (
   <>
     <div class="text-center w-fit m-auto">
-      <h1 class="font-display tracking-wider uppercase p-2 text-2xl text-gray-700">
+      <h1 class="font-display tracking-wider uppercase p-4 text-2xl text-gray-700">
         {title}
       </h1>
     </div>
+    <div class="pb-4 lg:shrink-0">
+      <div class="text-center w-fit m-auto">
+        <img
+          class="rounded-lg drop-shadow-lg"
+          height={400}
+          width={270}
+          src={poster_url}
+        />
+      </div>
+    </div>
     <comp.named_divider name="Overview" />
-    <div class="lg:grid lg:grid-flow-col lg:auto-cols-auto lg:gap-4 lg:justify-center lg:items-center lg:max-w-2xl m-auto">
-      <div class="pb-4 lg:shrink-0">
-        <div class="text-center w-fit m-auto">
+    <div class="font-content text-sm text-gray-700 w-96 m-auto">
+      <div class="flex pb-2 gap-2">
+        <div class="-translate-y-[2px]">
           <img
-            class="rounded-lg drop-shadow-lg"
-            height={400}
-            width={270}
-            src={poster_url}
+            class="inline h-4 w-4 text-gray-500"
+            src={icon("calendar-event", "tabler", "outline")}
+            inline
           />
         </div>
+        <div>{date(new Date(release_date), "d MMM yyyy")}</div>
       </div>
-      <div class="text-sm m-auto w-fit space-y-3 h-full">
-        <div class="text-gray-700 font-content flex items-center gap-1">
-          <div>
-            <img
-              class="inline h-5 w-4 text-gray-500"
-              src={icon("calendar-event", "tabler", "outline")}
-              inline
-            />
-          </div>
-          <div>{date(new Date(release_date), "d MMM yyyy")}</div>
+      <div class="flex pb-2 gap-2">
+        <div class="-translate-y-[2px]">
+          <img
+            class="inline h-4 w-4 text-gray-500"
+            src={icon("stopwatch", "tabler", "outline")}
+            inline
+          />
         </div>
-        <div class="text-gray-700 font-content flex items-center gap-1">
-          <div>
-            <img
-              class="inline h-5 w-4 text-gray-500"
-              src={icon("stopwatch", "tabler", "outline")}
-              inline
-            />
-          </div>
-          <div>{runtime}m</div>
+        <div>{runtime}m</div>
+      </div>
+      <div class="flex pb-2 gap-2">
+        <div class="-translate-y-[2px]">
+          <img
+            class="inline h-4 w-4 text-gray-500"
+            src={icon("language", "tabler", "outline")}
+            inline
+          />
         </div>
-        <div class="flex lg:break-inside-avoid-column gap-1 items-baseline">
-          <div>
-            <img
-              class="inline h-5 w-4 text-gray-500"
-              src={icon("language", "tabler", "outline")}
-              inline
-            />
-          </div>
-          <div class="space-y-1">
-            <div
-              class="font-japanese tracking-wide text-gray-700"
-              dangerouslySetInnerHTML={{ __html: japanese_title }}
-            ></div>
-            <div class="font-content italic text-xs text-gray-500">
-              {transliteration}
-            </div>
-            {transliteration !== translation && (
-              <div class="font-content italic text-xs text-gray-500">
+        <div>
+          <span
+            class="font-japanese tracking-wide"
+            dangerouslySetInnerHTML={{ __html: japanese_title }}
+          ></span>
+          <br />
+          <span class="font-content italic text-xs text-gray-500">
+            {transliteration}
+          </span>
+          {transliteration !== translation && (
+            <>
+              <br />
+              <span class="font-content italic text-xs text-gray-500">
                 {translation}
-              </div>
-            )}
-          </div>
+              </span>
+            </>
+          )}
         </div>
-        {original_works &&
-          original_works.length > 0 &&
-          original_works.map((work) => (
-            <div class="flex lg:break-inside-avoid-column gap-1 items-baseline">
-              <div>
-                <img
-                  class="inline h-5 w-4 text-gray-500"
-                  src={icon("book", "tabler", "outline")}
-                  inline
-                />
-              </div>
-              <div>
-                <div class="font-content italic text-gray-700">
-                  {work.title}
-                </div>
-                <div class="uppercase font-detail text-xs text-gray-500">
-                  {work.format} by
-                </div>
-                {work.authors &&
-                  work.authors.length > 0 &&
-                  work.authors.map((a) => (
-                    <div class="font-content text-gray-700">
-                      <comp.person_showcase_link slug={a.slug}>
-                        {a.name}
-                      </comp.person_showcase_link>
-                    </div>
-                  ))}
-                {work.studios &&
-                  work.studios.length > 0 &&
-                  work.studios.map((s) => (
-                    <div class="font-content text-gray-700">{s.name}</div>
-                  ))}
-              </div>
+      </div>
+      {original_works &&
+        original_works.length > 0 &&
+        original_works.map((work) => (
+          <div class="flex pb-2 gap-2">
+            <div class="-translate-y-[2px]">
+              <img
+                class="inline h-4 w-4 text-gray-500"
+                src={icon("book", "tabler", "outline")}
+                inline
+              />
             </div>
-          ))}
-
-        {aliases && aliases.length > 0 && (
-          <div class="space-y-1">
-            {aliases.map((alias) => (
-              <div class="lg:break-inside-avoid-column flex gap-1 items-baseline">
-                <div>
-                  <img
-                    class="inline h-5 w-4 text-gray-500"
-                    src={icon("at", "tabler", "outline")}
-                    inline
-                  />
-                </div>
-                <div>
-                  <div class="font-content italic text-gray-700">
-                    {alias.alias}
-                  </div>
-                  <div class="font-content text-xs text-gray-500">
-                    {alias.context}
-                  </div>
-                </div>
-              </div>
-            ))}
+            <div>
+              {work.title && (
+                <>
+                  <span class="italic">{work.title}</span>
+                  <br />
+                </>
+              )}
+              <span class="uppercase font-detail text-xs text-gray-500">
+                {work.format} by
+              </span>
+              {work.authors &&
+                work.authors.length > 0 &&
+                work.authors.map((a) => (
+                  <>
+                    <br />{" "}
+                    <comp.person_showcase_link slug={a.slug}>
+                      {a.name}
+                    </comp.person_showcase_link>
+                  </>
+                ))}
+              {work.studios &&
+                work.studios.length > 0 &&
+                work.studios.map((s) => (
+                  <>
+                    <br />
+                    {s.name}
+                  </>
+                ))}
+            </div>
           </div>
-        )}
-
-        {series && (
-          <div class="lg:break-inside-avoid-column space-y-1">
-            <div class="text-gray-700 flex font-content gap-1 items-baseline">
-              <div>
-                <img
-                  class="inline h-5 w-4 text-gray-500"
-                  src={icon("affiliate", "tabler", "outline")}
-                  inline
-                />
-              </div>
-              <div class="flex gap-1 items-baseline">
-                <div>
-                  <i>{series.title}</i> Series No. {series.entry_number}
-                  {film_series[series.slug] && (
-                    <>
-                      &nbsp;
-                      <button onclick="series_modal.showModal()">
-                        <img
-                          class="inline h-5 w-5 text-red-700 hover:cursor-pointer"
-                          src={icon("layers-subtract", "tabler", "outline")}
-                          inline
-                        />
-                      </button>
-                      <dialog id="series_modal" class="modal">
-                        <div class="modal-box">
-                          <form method="dialog">
-                            <button class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">
-                              <img
-                                class="h-5 w-5"
-                                src={icon("x", "tabler", "outline")}
-                                inline
-                              />
-                            </button>
-                          </form>
-                          <comp.named_divider
-                            name={`${film_series[series.slug].title} Series`}
-                          />
-                          <div class="text-gray-700 font-content text-sm">
-                            <ol class="list-decimal list-outside gap-2">
-                              {film_series[series.slug].entries.map(
-                                (series_entry) => (
-                                  <li class="ml-8 my-1">
-                                    {series_entry.slug ? (
-                                      <comp.film_showcase_link
-                                        slug={series_entry.slug}
-                                      >
-                                        <i>{series_entry.title}</i> (
-                                        {series_entry.year})
-                                      </comp.film_showcase_link>
-                                    ) : (
-                                      <>
-                                        <i>{series_entry.title}</i> (
-                                        {series_entry.year})
-                                      </>
-                                    )}
-                                  </li>
-                                ),
-                              )}
-                            </ol>
-                          </div>
-                        </div>
-                        <form method="dialog" class="modal-backdrop">
-                          <button>close</button>
-                        </form>
-                      </dialog>
-                    </>
-                  )}
-                </div>
-              </div>
+        ))}
+      {aliases &&
+        aliases.length > 0 &&
+        aliases.map((a) => (
+          <div class="flex pb-2 gap-2">
+            <div class="-translate-y-[2px]">
+              <img
+                class="inline h-4 w-4 text-gray-500"
+                src={icon("at", "tabler", "outline")}
+                inline
+              />
             </div>
-
-            {/* <.series_modal series={@series} /> */}
+            <div>
+              <span class="italic">{a.alias}</span>
+              <br />
+              <span class="text-xs text-gray-500">{a.context}</span>
+            </div>
+          </div>
+        ))}
+      {series && (
+        <div class="flex pb-2 gap-2">
+          <div class="-translate-y-[2px]">
+            <img
+              class="inline h-4 w-4 text-gray-500"
+              src={icon("affiliate", "tabler", "outline")}
+              inline
+            />
+          </div>
+          <div>
+            <span>
+              {series.title} Series No. {series.entry_number}{" "}
+              {film_series[series.slug] && (
+                <>
+                  &nbsp;
+                  <button
+                    class="-translate-y-[2px]"
+                    onclick="series_modal.showModal()"
+                  >
+                    <img
+                      class="inline h-5 w-5 text-red-700 hover:cursor-pointer"
+                      src={icon("layers-subtract", "tabler", "outline")}
+                      inline
+                    />
+                  </button>
+                  <dialog id="series_modal" class="modal">
+                    <div class="modal-box">
+                      <form method="dialog">
+                        <button class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">
+                          <img
+                            class="h-5 w-5"
+                            src={icon("x", "tabler", "outline")}
+                            inline
+                          />
+                        </button>
+                      </form>
+                      <comp.named_divider
+                        name={`${film_series[series.slug].title} Series`}
+                      />
+                      <div class="text-gray-700 font-content text-sm">
+                        <ol class="list-decimal list-outside gap-2">
+                          {film_series[series.slug].entries.map(
+                            (series_entry) => (
+                              <li class="ml-8 my-1">
+                                {series_entry.slug ? (
+                                  <comp.film_showcase_link
+                                    slug={series_entry.slug}
+                                  >
+                                    <i>{series_entry.title}</i> (
+                                    {series_entry.year})
+                                  </comp.film_showcase_link>
+                                ) : (
+                                  <>
+                                    <i>{series_entry.title}</i> (
+                                    {series_entry.year})
+                                  </>
+                                )}
+                              </li>
+                            ),
+                          )}
+                        </ol>
+                      </div>
+                    </div>
+                    <form method="dialog" class="modal-backdrop">
+                      <button>close</button>
+                    </form>
+                  </dialog>
+                </>
+              )}
+            </span>
             {series.previous_entry && (
-              <div class="flex gap-1 items-baseline font-content text-gray-700">
-                <div>
+              <>
+                <br />
+                <span class="pr-2">
                   <img
-                    class="inline h-5 w-4 text-gray-500"
+                    class="inline h-4 w-4 text-gray-500 -translate-y-[2px]"
                     src={icon("square-rounded-arrow-left", "tabler", "outline")}
                     inline
                   />
-                </div>
-                <div>
-                  <comp.film_showcase_link slug={series.previous_entry.slug}>
-                    <span class="italic text-wrap">
-                      {series.previous_entry.title}
-                    </span>
-                    &nbsp;
-                    <span class="text-sm">({series.previous_entry.year})</span>
-                  </comp.film_showcase_link>
-                </div>
-              </div>
+                </span>
+                <comp.film_showcase_link slug={series.previous_entry.slug}>
+                  <span class="italic">{series.previous_entry.title}</span> (
+                  {series.previous_entry.year})
+                </comp.film_showcase_link>
+              </>
             )}
             {series.next_entry && (
-              <div class="flex gap-1 items-baseline font-content text-gray-700">
-                <div>
+              <>
+                <br />
+                <span class="pr-2">
                   <img
-                    class="inline h-5 w-4 text-gray-500"
+                    class="inline h-4 w-4 text-gray-500 -translate-y-[2px]"
                     src={icon(
                       "square-rounded-arrow-right",
                       "tabler",
@@ -249,41 +247,25 @@ export default (
                     )}
                     inline
                   />
-                </div>
-                <div>
-                  <comp.film_showcase_link slug={series.next_entry.slug}>
-                    <span class="italic text-wrap">
-                      {series.next_entry.title}
-                    </span>
-                    &nbsp;
-                    <span class="text-sm">({series.next_entry.year})</span>
-                  </comp.film_showcase_link>
-                </div>
-              </div>
+                </span>
+                <comp.film_showcase_link slug={series.next_entry.slug}>
+                  <span class="italic">{series.next_entry.title}</span> (
+                  {series.next_entry.year})
+                </comp.film_showcase_link>
+              </>
             )}
           </div>
-        )}
-
-        <div class="font-content text-gray-700 flex gap-1 items-baseline">
-          <div>
-            <img
-              class="inline h-5 w-4 text-gray-500"
-              src={icon("buildings", "tabler", "outline")}
-              inline
-            />
-          </div>
-          <div>
-            <div class="font-content text-gray-700">
-              {studios &&
-                studios.map((studio) => (
-                  <>
-                    {studio}
-                    <br />
-                  </>
-                ))}
-            </div>
-          </div>
         </div>
+      )}
+      <div class="flex pb-2 gap-2">
+        <div class="-translate-y-[2px]">
+          <img
+            class="inline h-4 w-4 text-gray-500"
+            src={icon("buildings", "tabler", "outline")}
+            inline
+          />
+        </div>
+        <div>{studios && studios.join(", ")}</div>
       </div>
     </div>
     <comp.named_divider name="Staff" />

@@ -28,9 +28,7 @@ export default function ({ block, comp }, { icon }) {
               {cast.character_qualifiers && (
                 <>
                   <br />
-                  <span class="text-xs font-detail">
-                    {cast.character_qualifiers}
-                  </span>
+                  <span class="text-xs">({cast.character_qualifiers})</span>
                 </>
               )}
             </div>

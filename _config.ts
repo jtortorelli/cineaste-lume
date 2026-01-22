@@ -13,15 +13,20 @@ Deno.env.set("TZ", "Z");
 
 const site = lume({
   src: "./src",
+  server: {
+    debugBar: false,
+  },
 });
 
 site.use(date());
 site.use(jsx());
-site.use(sheets({
-  outputOptions: {
-    blankrows: true,
-  },
-}));
+site.use(
+  sheets({
+    outputOptions: {
+      blankrows: true,
+    },
+  }),
+);
 
 site.use(
   googleFonts({
@@ -40,12 +45,10 @@ site.add("/scripts");
 site.addEventListener("afterBuild", async (_event) => {
   const outDir = "_site";
 
-  for await (
-    const entry of walk(outDir, {
-      includeDirs: false,
-      exts: ["jpg", "gif", "png", "jpeg"],
-    })
-  ) {
+  for await (const entry of walk(outDir, {
+    includeDirs: false,
+    exts: ["jpg", "gif", "png", "jpeg"],
+  })) {
     const path = entry.path;
 
     if (path.includes(".webp")) {
