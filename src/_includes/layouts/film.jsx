@@ -40,7 +40,7 @@ export default (
       </div>
     </div>
     <comp.named_divider name="Overview" />
-    <div class="font-content text-sm text-gray-700 w-96 m-auto">
+    <div class="font-content text-sm text-gray-700 max-w-96 w-fit m-auto">
       <div class="flex pb-2 gap-2">
         <div class="-translate-y-[2px]">
           <img
