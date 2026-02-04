@@ -37,6 +37,14 @@ works:
     slug: invisible-man-1954
     title: Invisible Man
     year: 1954
+  - title: Half Human
+    slug: half-human-1955
+    year: 1955
+    roles:
+      - name: Railway Station Attendant
+        uncredited: true
+    poster_url: "/static/images/films/posters/half-human-1955.webp"
+    format: film
   - format: film
     poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:

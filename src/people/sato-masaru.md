@@ -26,6 +26,13 @@ works:
       - role: Music
     title: Throne of Blood
     year: 1957
+  - title: Half Human
+    slug: half-human-1955
+    format: film
+    year: 1955
+    poster_url: /static/images/films/posters/half-human-1955.webp
+    staff:
+      - role: Music
   - format: film
     poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     slug: hidden-fortress-1958

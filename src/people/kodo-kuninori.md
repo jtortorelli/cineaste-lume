@@ -43,6 +43,7 @@ works:
       - name: Village Chief
     title: Half Human
     year: 1955
+    slug: half-human-1955
   - format: film
     poster_url: /static/images/films/posters/samurai-iii-duel-at-ganryu-island-1956.webp
     roles:

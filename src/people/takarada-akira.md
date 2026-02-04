@@ -23,6 +23,13 @@ works:
     slug: godzilla-1954
     title: Godzilla
     year: 1954
+  - title: Half Human
+    slug: half-human-1955
+    year: 1955
+    roles:
+      - name: Îjima Takashi
+    poster_url: "/static/images/films/posters/half-human-1955.webp"
+    format: film
   - format: film
     poster_url: "/static/images/films/posters/three-treasures-1959.webp"
     roles:

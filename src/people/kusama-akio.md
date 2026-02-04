@@ -18,6 +18,13 @@ works:
     slug: seven-samurai-1954
     title: Seven Samurai
     year: 1954
+  - title: Half Human
+    slug: half-human-1955
+    year: 1955
+    roles:
+      - name: Villager
+    poster_url: "/static/images/films/posters/half-human-1955.webp"
+    format: film
   - format: film
     poster_url: /static/images/films/posters/samurai-iii-duel-at-ganryu-island-1956.webp
     roles:

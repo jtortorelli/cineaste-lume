@@ -269,7 +269,7 @@ export default (
       </div>
     </div>
     <comp.named_divider name="Staff" />
-    <div class="w-fit m-auto lg:columns-3 lg:gap-x-8">
+    <div class={`w-fit m-auto ${staff.length >= 6 && "lg:columns-3"} ${staff.length < 6 && staff.length >=4 && "lg:columns-2"} lg:gap-x-8`}>
       {staff.map((staff) => (
         <div class="lg:text-center text-left lg:break-inside-avoid-column pb-1">
           <div class="">

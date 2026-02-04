@@ -46,6 +46,13 @@ works:
         staff_alias: Tsumuraya Eiji
     title: Godzilla Raids Again
     year: 1955
+  - title: Half Human
+    slug: half-human-1955
+    poster_url: /static/images/films/posters/half-human-1955.webp
+    format: film
+    year: 1955
+    staff:
+      - role: Special Technology
   - format: film
     poster_url: /static/images/films/posters/rodan-1956.webp
     slug: rodan-1956

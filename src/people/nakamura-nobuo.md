@@ -15,6 +15,13 @@ name: Nakamura Nobuo
 profession: Actor
 type: person
 works:
+  - title: Half Human
+    slug: half-human-1955
+    year: 1955
+    roles:
+      - name: Koizumi Shigeki
+    poster_url: "/static/images/films/posters/half-human-1955.webp"
+    format: film
   - format: film
     poster_url: "/static/images/films/posters/throne-of-blood-1957.webp"
     roles:

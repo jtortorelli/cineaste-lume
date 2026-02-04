@@ -29,6 +29,7 @@ works:
       - name: Takeno Machiko
     title: Half Human
     year: 1955
+    slug: half-human-1955
   - format: film
     poster_url: /static/images/films/posters/mysterians-1957.webp
     roles:

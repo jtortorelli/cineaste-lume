@@ -38,6 +38,13 @@ works:
       - role: Screenplay
     title: Godzilla
     year: 1954
+  - title: Half Human
+    slug: half-human-1955
+    poster_url: /static/images/films/posters/half-human-1955.webp
+    staff:
+        - role: Director
+    format: film
+    year: 1955
   - format: film
     poster_url: /static/images/films/posters/rodan-1956.webp
     slug: rodan-1956

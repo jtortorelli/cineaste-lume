@@ -51,6 +51,13 @@ works:
     slug: samurai-ii-duel-at-ichijoji-temple-1955
     title: "Samurai II: Duel at Ichijoji Temple"
     year: 1955
+  - title: Half Human
+    slug: half-human-1955
+    year: 1955
+    roles:
+      - name: Kodama
+    poster_url: "/static/images/films/posters/half-human-1955.webp"
+    format: film
   - format: film
     poster_url: /static/images/films/posters/rodan-1956.webp
     roles:

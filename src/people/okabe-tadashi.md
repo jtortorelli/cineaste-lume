@@ -27,6 +27,13 @@ works:
     slug: invisible-man-1954
     title: Invisible Man
     year: 1954
+  - title: Half Human
+    slug: half-human-1955
+    year: 1955
+    roles:
+      - name: Takeno
+    poster_url: "/static/images/films/posters/half-human-1955.webp"
+    format: film
   - format: film
     poster_url: /static/images/films/posters/samurai-iii-duel-at-ganryu-island-1956.webp
     roles:

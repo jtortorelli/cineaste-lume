@@ -17,6 +17,13 @@ works:
     slug: invisible-man-1954
     title: Invisible Man
     year: 1954
+  - title: Half Human
+    slug: half-human-1955
+    year: 1955
+    roles:
+      - name: Ôba's Henchman
+    poster_url: "/static/images/films/posters/half-human-1955.webp"
+    format: film
   - format: film
     poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
