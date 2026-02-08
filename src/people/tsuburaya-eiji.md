@@ -22,6 +22,13 @@ spouses:
   - name: Tsuburaya Masano
 type: person
 works:
+  - title: The Invisible Man Appears
+    slug: invisible-man-appears-1949
+    poster_url: /static/images/films/posters/invisible-man-appears-1949.webp
+    format: film
+    year: 1949
+    staff:
+      - role: Special Photography
   - format: film
     poster_url: /static/images/films/posters/godzilla-1954.webp
     slug: godzilla-1954

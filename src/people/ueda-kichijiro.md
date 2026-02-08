@@ -16,6 +16,14 @@ profession: Actor
 type: person
 works:
   - format: film
+    poster_url: /static/images/films/posters/invisible-man-appears-1949.webp
+    roles:
+      - name: Sugimoto Otoji
+        uncredited: false
+    slug: invisible-man-appears-1949
+    title: The Invisible Man Appears
+    year: 1949
+  - format: film
     poster_url: /static/images/films/posters/rashomon-1950.webp
     roles:
       - name: The Peaseant
