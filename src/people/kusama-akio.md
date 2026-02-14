@@ -311,9 +311,6 @@ works:
     year: 1975
 ---
 
-A ubiquitous supporting actor who appeared in numerous films exclusively for
-Toho throughout the 50s and 60s, and even in the 70s after the contract system
-had dissolved.
+Kusama was a ubiquitous supporting actor who appeared in numerous films exclusively for Toho throughout the 1950s and 1960s. His career began during the war years, with early roles in films like _Kato Hayabusa Squadron_ (1944). He continued acting into the 1970s and 1980s even after the studio's contract system had dissolved, primarily in TV Dramas.
 
-He very rarely had speaking roles, his most prominent ones being in <i>Rodan</i>
-(1956) and <i>Varan the Unbelievable</i> (1958).
+He very rarely had speaking roles, his most prominent appearances being in the special effects films _Rodan_ (1956) and _Varan the Unbelievable_ (1958).

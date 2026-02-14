@@ -56,10 +56,6 @@ works:
     year: 1965
 ---
 
-Matsumoto initially took the adoptive surname "Nakamura" before inheriting the
-name of his mentor in kabuki, Matsumoto Koshirô VII, in 1935. He was reportely
-well known for his expertise in portraying female characters in kabuki theater.
+Born Nomura Hachirô, Matsumoto was a Kabuki actor who initially adopted the surname "Nakamura" before inheriting the name of his mentor, Matsumoto Koshirô VII, in 1935. As a Kabuki performer, he was known as an _onnagata_ (an actor specializing in female roles).
 
-Began appearing in films starting in 1956. He worked in science fiction and
-comedy genres, and worked for each of the major studios (Toho, Nikkatsuk,
-Shochiku, and Toei). He returned to kabuki theater in 1971 at age 68.
+He began appearing in films in 1956, working across genres including science fiction and comedy for major studios such as Toho, Nikkatsu, Shochiku, and Toei. He often played dignified or authoritative figures, such as doctors or officials. He returned to the Kabuki stage in 1971 at the age of 68.

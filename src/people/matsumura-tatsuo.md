@@ -97,16 +97,8 @@ works:
       - name: Professor Uchida Hyakken
 ---
 
-Active in both acting and football while in college.
+Matsumura was active in both acting and rugby while attending Hosei University. He co-founded theater companies both before and after World War II, but when his post-war troupe disbanded due to Japan's difficult economic conditions, he transitioned to television, gaining recognition in dramas.
 
-Co-founded theater companies both before and after the war. His post-war company
-floundered during Japan's bleak economy and was forced to disband. Matsumura
-entered TV instead and gradually transitioned into film.
+He made his film debut in 1959 and appeared in over 70 films, working with renowned directors like Kobayashi Masaki (_Harakiri_, 1962) and Yamada Yôji (_The Lovable Tramp_, 1966). He is also well known for his role in the long-running _Otoko wa Tsurai yo_ series.
 
-Appeared in films for notable directors like Kobayashi Masaki (_Hara-Kiri_,
-1962), Yamada Yôji (_The Lovable Tramp_, 1966) and Kurosawa Akira
-(_Dodes'kaden_, 1970).
-
-Matsumura played the lead role in Kurosawa's posthumously released work
-_Madadayo_ (1993), for which he was nominated for the Japanese Academy Prize for
-Best Actor.
+His collaboration with Kurosawa Akira included roles in _Dodes'ka-den_ (1970) and the lead role in Kurosawa's final film, _Madadayo_ (1993), for which he received a Japanese Academy Prize nomination for Best Actor. In his later years, he provided the voice for the popular NHK character Domo-kun.

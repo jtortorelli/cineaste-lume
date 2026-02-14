@@ -77,12 +77,8 @@ works:
     year: 1960
 ---
 
-Debuted as a child actor in 1920, at age 4.
+Matsuo began his career as a child actor at the Shinpa Theater in 1920, at the age of four. He made his film debut in 1924 and worked for several studios, including Makino Film Productions and Kawai Productions, playing lead roles in silent films.
 
-Appeared in films for Koyo Studios, Makino Film Productions, and Kawai
-Productions. He became a free agent in 1939, before joining Toho in 1941.
+He joined Toho in 1941 and transitioned into supporting roles after the war, appearing in numerous films such as _Rodan_ (1956) and _The Human Vapor_ (1960). He also had roles in the _Samurai_ trilogy alongside Mifune Toshiro.
 
-After the war, Matsuo transitioned into supporting roles.
-
-One of his last roles was a cameo in Fukuda Jun's _The Secret of the Telegian_
-(1960). After that he became a free agent again.
+After leaving Toho in 1959, he continued to work as a freelance actor, primarily in television dramas, into the 1960s.

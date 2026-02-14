@@ -66,7 +66,6 @@ works:
     year: 1968
 ---
 
-Actor with boyish features who began appearing in science fiction films and
-television just before the genre peaked in the late 60s. He has no credits
-following _Destroy All Monsters_ (1968) and it's believed that he quit acting
-after Toho's contract system expired.
+Maruyama was a supporting actor with boyish features who appeared in science fiction films and television during the genre's peak in the 1960s. His credits include roles in _Gorath_ (1962), _Son of Godzilla_ (1967), and _Destroy All Monsters_ (1968).
+
+He has no known credits following _Destroy All Monsters_ (1968), and it is believed that he quit acting after Toho's contract system dissolved.

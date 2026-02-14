@@ -263,6 +263,7 @@ export default ({
         sm:[&:has(>_:only-child)]:columns-1
         sm:[&:has(>_:only-child)]:w-96
         sm:[&:has(>_:only-child)]:justify-items-center
+
       ">
         {children}
       </div>
@@ -441,7 +442,7 @@ export default ({
                               <div>
                                 <div>{s.role}</div>
                                 {s.staff_alias && (
-                                  <div>
+                                  <div class="flex">
                                     <img
                                       class="h-3 w-3"
                                       src={icon("at", "tabler", "outline")}
@@ -486,7 +487,7 @@ export default ({
                                     {r.actor_alias}
                                   </>
                                 )}
-                                <div class="flex">
+                                <div class="flex flex-col">
                                   {r.qualifiers &&
                                     r.qualifiers.map((q) => (
                                       <comp.qualifier_badge>

@@ -61,13 +61,8 @@ works:
     year: 1985
 ---
 
-Diminuitive actor, active in theater, both in drama and comedy. Reportedly an
-accomplished tap dancer.
+Born Fukasawa Masao, "Little Man Mâchan" was a diminutive actor and former professional midget wrestler. He was active in theater, both in drama and comedy, and was reportedly an accomplished tap dancer.
 
-Most famous for his portrayal of Minilla, the Son of Godzilla, in several films
-in the late 60s and early 70s. He was 46 when he took on the role initially.
+He is most famous for his portrayal of Minilla, the Son of Godzilla, in several films in the late 1960s, beginning with _Son of Godzilla_ (1967). He was 46 years old when he took on the role. His popularity extended to Taiwan and across Southeast Asia.
 
-His popularity extended to Taiwan and across Southeast Asia.
-
-He made an uncredited appearance as the infant monster in the North Korean
-oddity <i>Pulgasari</i> (1985).
+Beyond the Godzilla series, he made an uncredited appearance as the infant monster in the North Korean film _Pulgasari_ (1985) and appeared as a dwarf in _The Lost World of Sinbad_ (1963).

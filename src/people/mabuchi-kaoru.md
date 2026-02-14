@@ -138,14 +138,9 @@ former member of the Japanese Communist Party who had been active in the 1930s,
 Mabuchi brought a distinct political consciousness and cynical edge to his
 scripts.
 
-His work is often contrasted with the lighter, more optimistic tone of his
-contemporary Sekizawa Shin'ichi. Mabuchi's scripts, such as _The Mysterians_
-(1957) and _The Human Vapor_ (1960), frequently featured darker themes and
-tragic characters. He cited the atmospheric horror film _Matango_ (1963) as his
-best work.
+His work is often contrasted with the lighter, more optimistic tone of his contemporary Sekizawa Shin'ichi. Mabuchi's scripts, such as _The Mysterians_ (1957) and _The Human Vapor_ (1960), frequently featured darker themes and tragic characters. He later co-wrote the script for the pollution-themed _Godzilla vs. Hedorah_ (1971), which further reflected his socially conscious approach. He cited the atmospheric horror film _Matango_ (1963) as his best work.
 
 Despite his success in the genre, Mabuchi reportedly had little personal
-affection for kaiju films, viewing them primarily as work. From 1965 onwards,
+affection for _kaijû_ films, viewing them primarily as work. From 1965 onwards,
 beginning with _Frankenstein Conquers the World_, he abandoned his alias --
-Kimura Takeshi -- and instead credited himself under his real name, which he
-felt offered him a degree of anonymity.
+Kimura Takeshi -- and instead credited himself under his real name.
