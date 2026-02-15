@@ -43,17 +43,3 @@ function filterElements() {
 }
 
 searchInput.addEventListener("input", filterElements);
-
-globalThis.addEventListener("beforeunload", () => {
-  // Clear input
-  searchInput.value = "";
-
-  // Show all elements
-  filterables.forEach((el) => {
-    el.style.display = "block";
-  });
-
-  // Clear query param from URL
-  const url = new URL(globalThis.location);
-  globalThis.history.replaceState({}, "", url);
-});

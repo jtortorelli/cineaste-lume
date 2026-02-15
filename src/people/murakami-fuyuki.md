@@ -90,9 +90,33 @@ works:
   - format: film
     poster_url: /static/images/films/posters/invasion-of-astro-monster-1965.webp
     roles:
-      - name: PM
+      - name: MP
         uncredited: false
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: S13 District Civil Welfare Committee
+        episode_count: 1
+  - title: Ultraman 80
+    format: tv series
+    year: 1980
+    title_card_url: /static/images/tv-series/title-cards/ultraman-80-1980.webp
+    roles:
+      - name: Old Man
+        episode_count: 1
+  - title: Ultraman Dyna
+    format: tv series
+    year: 1997
+    title_card_url: /static/images/tv-series/title-cards/ultraman-dyna-1997.webp
+    roles:
+      - name: Old Man
+        episode_count: 1
 ---
+Murakami graduated from Tokyo Imperial University (now the University of Tokyo) with a degree in Economics. He began his acting career after serving in World War II, joining Toho in 1950. With his intellectual demeanor, he became the studio's go-to actor for roles requiring gravity and intelligence, such as scientists, doctors, and government officials.
+
+He is best known to genre fans for his role as Dr. Tanabe in the original _Godzilla_ (1954). He also played the mad scientist in _The Human Vapor_ (1960) and a government minister in _Invasion of Astro-Monster_ (1965). In 1968, he co-founded the Romant Theater company, where he mentored younger actors. He continued to act until his death in 2007.

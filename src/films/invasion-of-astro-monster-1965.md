@@ -183,7 +183,7 @@ top_billed_cast:
     slug: sasaki-takamaru
   - avatar_url: /static/images/films/invasion-of-astro-monster-1965/cast-avatars/fuyuki-murakami-0.webp
     name: Murakami Fuyuki
-    role: PM
+    role: MP
     slug: murakami-fuyuki
   - avatar_url: /static/images/films/invasion-of-astro-monster-1965/cast-avatars/yoshibumi-tajima-0.webp
     name: Tajima Yoshibumi

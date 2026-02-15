@@ -148,8 +148,8 @@ works:
       - episode_count: 16
         name: Dr. Shinigami
     title: Kamen Rider
-    title_card_url: /static/images/tv-series/title-cards/kamen-rider-1973.webp
-    year: 1973
+    title_card_url: /static/images/tv-series/title-cards/kamen-rider-1971.webp
+    year: 1971
   - format: film
     poster_url: /static/images/films/posters/message-from-space-1978.webp
     roles:
