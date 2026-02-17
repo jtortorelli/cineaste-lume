@@ -187,6 +187,16 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Vigilante
+        episode_count: 1
+      - name: Bystander
+        episode_count: 1
+      - name: Policeman
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
@@ -223,6 +233,12 @@ works:
     slug: destroy-all-monsters-1968
     title: Destroy All Monsters
     year: 1968
+  - title: Return of Ultraman
+    format: tv series
+    title_card_url: /static/images/tv-series/title-cards/return-of-ultraman-1971.webp
+    roles:
+      - name: Old Man
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/submersion-of-japan-1973.webp
     roles:
@@ -250,3 +266,6 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
 ---
+Natsuki was a prolific supporting actor at Toho during the 1950s and 1960s. Recognizable by his high forehead and frequently worried expression, he appeared in dozens of films, often in uncredited background roles.
+
+His filmography includes appearances in Kurosawa Akira's _Seven Samurai_ (1954) and _Yojimbo_ (1961), as well as numerous Honda Ishiro special effects films. He is best remembered by genre fans for his role as a substation engineer in the original _Godzilla_ (1954), where he is featured in a lingering shot as he shuts down the power grid during the monster's rampage.

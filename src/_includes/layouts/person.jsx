@@ -363,19 +363,12 @@ export default ({
                               />
                             </div>
                             <div>
-                              <div>{s.role}</div>
-                              {s.episode_count && (
-                                <div>
-                                  {s.episode_count}{" "}
-                                  {s.episode_count > 1 ? "Episodes" : "Episode"}
-                                </div>
-                              )}
+                              <div>{s.role} <span class="font-detail uppercase text-gray-400">{s.episode_count && `${s.episode_count}${s.episode_count > 1 ? "eps" : "ep"}`}</span></div>
                             </div>
                           </div>
                         ))}
                       {entry.roles &&
-                        entry.roles.length > 0 &&
-                        entry.roles.map((r) => (
+                        entry.roles.length > 0 && (
                           <div class="font-content text-xs text-gray-500 flex gap-1">
                             <div>
                               <img
@@ -384,17 +377,18 @@ export default ({
                                 inline
                               />
                             </div>
-                            <div>
-                              <div>{r.name}</div>
-                              {r.episode_count && (
-                                <div>
-                                  {r.episode_count}{" "}
-                                  {r.episode_count > 1 ? "Episodes" : "Episode"}
-                                </div>
-                              )}
+                            <div class="flex flex-col">
+                        {entry.roles.map((r) => (
+                              <div><span
+                                    dangerouslySetInnerHTML={{
+                                      __html: process_role_name(r.name),
+                                    }}
+                                  >
+                                  </span> <span class="font-detail uppercase text-gray-400">{r.episode_count && `${r.episode_count}${r.episode_count > 1 ? "eps" : "ep"}`}</span></div>
+                            ))}
                             </div>
                           </div>
-                        ))}
+                        )}
                     </div>
                   </div>
                 )}

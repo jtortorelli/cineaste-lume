@@ -164,6 +164,13 @@ works:
     slug: ghidorah-the-three-headed-monster-1964
     title: Ghidorah, the Three-Headed Monster
     year: 1964
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Chief Hanzawa
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
@@ -172,6 +179,13 @@ works:
     slug: adventure-of-kigan-castle-1966
     title: The Adventure of Kigan Castle
     year: 1966
+  - title: Ultraman
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
+    roles:
+      - name: Professor Iwamoto
+        episode_count: 6
   - format: film
     poster_url: /static/images/films/posters/ebirah-horror-of-the-deep-1966.webp
     roles:
@@ -180,6 +194,13 @@ works:
     slug: ebirah-horror-of-the-deep-1966
     title: Ebirah, Horror of the Deep
     year: 1966
+  - title: Ultraseven
+    format: tv series
+    year: 1967
+    title_card_url: /static/images/tv-series/title-cards/ultraseven-1967.webp
+    roles:
+      - name: Officer Yanagawa
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
     roles:

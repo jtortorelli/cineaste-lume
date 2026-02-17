@@ -87,3 +87,6 @@ works:
     title: Submersion of Japan
     year: 1973
 ---
+Born in Vancouver, Canada, Nakamura moved to Japan in 1940. His fluency in English and "tough guy" features made him a natural fit for roles as gangsters, foreigners, and international villains. He often appeared in international co-productions and was frequently cast as Chinese or Western characters in Japanese films.
+
+In the _kaijû_ genre, he is known for playing the villainous henchman to Nelson in _Mothra_ (1961) and the kidnapped Dr. Okada in _Latitude Zero_ (1969), where he delivered his lines in English. He also played a newspaper executive in _The Human Vapor_ (1960). In 1967, he served as the Master of Ceremonies for the Peter, Paul and Mary tour in Japan.

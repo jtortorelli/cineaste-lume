@@ -15,6 +15,12 @@ name: Nakajima Haruo
 profession: Suit Actor
 type: person
 works:
+  - title: The Eagle of the Pacific
+    year: 1953
+    format: film
+    roles:
+      - name: Pilot
+    poster_url: /static/images/films/posters/eagle-of-the-pacific-1953.webp
   - format: film
     poster_url: /static/images/films/posters/seven-samurai-1954.webp
     roles:
@@ -242,6 +248,36 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Gomess
+        episode_count: 1
+      - name: Policeman
+        episode_count: 1
+      - name: Pagos
+        episode_count: 1
+    year: 1966
+  - title: Ultraman
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
+    roles:
+      - name: Neronga
+        episode_count: 1
+      - name: Gabora
+        episode_count: 1
+      - name: Jirahs
+        episode_count: 1
+      - name: Dad
+        episode_count: 1
+      - name: Kemur-<i>seijin</i>
+        episode_count: 1
+      - name: Policeman
+        episode_count: 1
+      - name: Keylla
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
@@ -274,6 +310,13 @@ works:
     slug: king-kong-escapes-1967
     title: King Kong Escapes
     year: 1967
+  - title: Ultraseven
+    format: tv series
+    year: 1967
+    title_card_url: /static/images/tv-series/title-cards/ultraseven-1967.webp
+    roles:
+      - name: U-Tom
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
     roles:
@@ -361,3 +404,8 @@ works:
     title: Godzilla vs. Gigan
     year: 1972
 ---
+Nakajima, born in Yamagata Prefecture, began his career as a stuntman in samurai films, notably appearing in Kurosawa Akira's _Seven Samurai_ (1954) and _The Hidden Fortress_ (1958). His willingness to perform dangerous stunts, such as jumping from a burning aircraft in _Eagle of the Pacific_ (1953), caught the attention of special effects director Tsuburaya Eiji.
+
+Nakajima is best known for pioneering the art of "suitmation" as the original suit actor for Godzilla. He played the King of the Monsters in 12 films, starting with the original _Godzilla_ (1954) and concluding with _Godzilla vs. Gigan_ (1972). To prepare for the role, Nakajima studied the movement of elephants and bears at the Ueno Zoo. He also portrayed other iconic _kaijû_, including Rodan, Mothra (larva), Mogera, Varan, Baragon, Gaira, and King Kong.
+
+After the death of Tsuburaya in 1970 and the decline of the studio system, Nakajima retired from suit acting in 1972. He remained at Toho, managing the studio's bowling alley and later its mahjong parlor. In his later years, he became a beloved figure on the convention circuit, known to fans as "Mr. Godzilla." He published his autobiography, _Monster Life_, in 2010. Nakajima died of pneumonia in 2017.

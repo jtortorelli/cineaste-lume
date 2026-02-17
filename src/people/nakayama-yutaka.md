@@ -2,7 +2,7 @@
 tags: ["cineaste", "people"]
 avatar_url: /static/images/people/nakayama-yutaka/avatar.webp
 birth_place: Himeji, Hyogo, Japan
-dob: 1939-09-23
+dob: 1931-09-23
 dob_resolution: exact
 japanese_name: 中山豊
 name: Nakayama Yutaka
@@ -104,6 +104,22 @@ works:
     slug: frankenstein-conquers-the-world-1965
     title: Frankenstein Conquers the World
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Advertising Agent
+        episode_count: 1
+      - name: Fisherman
+        episode_count: 1
+  - title: Ultraman
+    format: tv series
+    title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
+    roles:
+      - name: Fisherman
+        episode_count: 1
+      - name: Policeman
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/all-monsters-attack-1969.webp
     roles:
@@ -113,3 +129,4 @@ works:
     title: All Monsters Attack
     year: 1969
 ---
+Nakayama was a contract actor for Toho from 1954 until the studio system's dissolution in the early 1970s. He was a frequent supporting player in the _kaijû_ genre, appearing in films such as _Mothra_ (1961), _Gorath_ (1962), and _Frankenstein Conquers the World_ (1965). He is perhaps best remembered by fans for his role in _Ghidorah, the Three-Headed Monster_ (1964) as the tourist who loses his hat into the crater of Mt. Aso just before Rodan emerges.

@@ -158,8 +158,10 @@ works:
     year: 1966
     title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
     roles:
-      - episode_count: 3
-        name: Various Roles
+      - episode_count: 2
+        name: Air Traffic Controller
+      - name: Bank Employee
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
@@ -173,8 +175,10 @@ works:
     year: 1966
     title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
     roles:
-      - episode_count: 2
-        name: Various Roles
+      - episode_count: 1
+        name: Hunter
+      - name: Site Foreman
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
@@ -196,8 +200,10 @@ works:
     year: 1967
     title_card_url: /static/images/tv-series/title-cards/ultraseven-1967.webp
     roles:
-      - episode_count: 2
-        name: Various Roles
+      - episode_count: 1
+        name: Hunter
+      - name: Dr. Takada
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:

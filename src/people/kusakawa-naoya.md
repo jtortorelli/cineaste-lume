@@ -38,8 +38,10 @@ works:
     year: 1966
     title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
     roles:
-      - name: Various Roles
-        episode_count: 2
+      - name: Development Agency
+        episode_count: 1
+      - name: Doctor
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:

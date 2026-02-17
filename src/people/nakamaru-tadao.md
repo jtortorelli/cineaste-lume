@@ -53,6 +53,12 @@ works:
     slug: h-man-1958
     title: The H-Man
     year: 1959
+  - title: Desperado Outpost
+    format: film
+    year: 1959
+    poster_url: /static/images/films/posters/desperado-outpost-1959.webp
+    roles:
+      - name: Fujioka
   - format: film
     poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     roles:
@@ -83,6 +89,12 @@ works:
     slug: lost-world-of-sinbad-1963
     title: The Lost World of Sinbad
     year: 1963
+  - title: Key of Keys
+    format: film
+    year: 1965
+    poster_url: /static/images/films/posters/key-of-keys-1965.webp
+    roles:
+      - name: Gegen
   - format: film
     poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
@@ -108,3 +120,6 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
 ---
+Nakamaru began his acting career after joining Toho's "New Face" program in 1955. He quickly established himself as a versatile character actor, often cast in villainous or cool, intellectual roles. He was a frequent collaborator of director Okamoto Kihachi, appearing in films such as _Desperado Outpost_ (1959).
+
+He is perhaps best known to Western audiences for his role in _International Secret Police: Key of Keys_ (1965), which was re-edited and dubbed by Woody Allen into the comedy _What's Up, Tiger Lily?_ (1966); Nakamaru played the villainous Shepherd Wong (Gegen in the original). In the _kaijû_ genre, he played the Interpol Chief in _Terror of Mechagodzilla_ (1975). He continued to work in film and television until his death in 2009.

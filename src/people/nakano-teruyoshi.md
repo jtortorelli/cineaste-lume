@@ -11,6 +11,18 @@ japanese_name: 中野昭慶
 name: Nakano Teruyoshi
 profession: SFX Director
 type: person
+accolades:
+  - ceremony: 9th Japan Academy Prizes
+    category: Special Technique Award
+    status: won
+    films:
+      - title: The Return of Godzilla
+  - ceremony: 11th Japan Academy Prizes
+    category: Special Technique Award
+    status: won
+    films:
+      - title: Tokyo Blackout
+      - title: Princess from the Moon
 works:
   - format: film
     poster_url: /static/images/films/posters/matango-1963.webp
@@ -215,6 +227,12 @@ works:
       - role: SFX Director
     title: The Return of Godzilla
     year: 1985
+  - title: Pulgasari
+    year: 1985
+    format: film
+    poster_url: /static/images/films/posters/pulgasari-1985.webp
+    staff:
+      - role: SFX Director
   - format: film
     poster_url: /static/images/films/posters/tokyo-blackout-1987.webp
     slug: tokyo-blackout-1987
@@ -222,4 +240,13 @@ works:
       - role: SFX Director
     title: Tokyo Blackout
     year: 1987
+  - title: Princess from the Moon
+    year: 1987
+    format: film
+    poster_url: /static/images/films/posters/princess-from-the-moon-1987.webp
+    staff:
+      - role: SFX Director
 ---
+Born in Japanese-occupied Manchuria, Nakano joined Toho in 1959 and became an assistant special effects director under the legendary Tsuburaya Eiji. Following Tsuburaya's death and the departure of Arikawa Sadamasa, Nakano took over as the Director of Special Effects for the studio in the 1970s.
+
+Nakano is famous for his penchant for spectacular pyrotechnics, which became a hallmark of his work in films like _Godzilla vs. Mechagodzilla_ (1974) and _Terror of Mechagodzilla_ (1975). He successfully helmed the effects for the blockbuster disaster films _Submersion of Japan_ (1973) and _Prophecies of Nostradamus_ (1974). He returned to the Godzilla franchise for the reboot _The Return of Godzilla_ (1984) before retiring from film to design theme park attractions. In 1985, he directed the special effects for the North Korean _kaijû_ film _Pulgasari_.
