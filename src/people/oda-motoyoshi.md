@@ -26,3 +26,6 @@ works:
     title: Godzilla Raids Again
     year: 1955
 ---
+Oda was a highly efficient director at Toho, known for his ability to churn out films on schedule. His reliability earned him the nickname "Odabutsu-san" from his crew. He started his career as an assistant director under Yamamoto Kajiro, training alongside Kurosawa Akira and Honda Ishiro.
+
+While he directed over 50 films in various genres, Oda is most famous among genre fans for helming two significant entries in Toho's tokusatsu canon: _Invisible Man_ (1954) and _Godzilla Raids Again_ (1955). The latter, a direct sequel to the original _Godzilla_, established the "monster vs. monster" formula that would define the franchise. Oda retired from film directing in 1958 to work in television.

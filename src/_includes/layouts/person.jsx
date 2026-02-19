@@ -323,6 +323,75 @@ export default ({
             works.length > 0 &&
             works.map((entry) => (
               <>
+              {entry.format.toLowerCase() === "video game" && (
+                  <div class="flex flex-row w-60 items-start gap-3">
+                    <div class="shrink-0">
+                      <img
+                        class="rounded-lg drop-shadow-lg"
+                        width={75}
+                        src={entry.box_art_url}
+                      />
+                    </div>
+                    <div>
+                      <div class="font-content text-xs text-gray-500 flex items-center gap-1">
+                        <div>
+                          <img
+                            class="h-5 w-4 text-gray-500"
+                            src={icon("device-gamepad-2", "tabler", "outline")}
+                            inline
+                          />
+                        </div>
+                        <div>{entry.year}</div>
+                      </div>
+                      <div class="font-content text-sm text-gray-700 mb-1">
+                        <span class="italic">{entry.title}</span>
+                      </div>
+
+                      {entry.staff &&
+                        entry.staff.length > 0 &&
+                        entry.staff.map((s) => (
+                          <div class="font-content text-xs text-gray-500 flex">
+                            <div>
+                              <img
+                                class="h-4 w-4"
+                                src={icon(
+                                  "chair-director",
+                                  "tabler",
+                                  "outline",
+                                )}
+                                inline
+                              />
+                            </div>
+                            <div>
+                              <div>{s.role}</div>
+                            </div>
+                          </div>
+                        ))}
+                      {entry.roles &&
+                        entry.roles.length > 0 && (
+                          <div class="font-content text-xs text-gray-500 flex gap-1">
+                            <div>
+                              <img
+                                class="h-4 w-4"
+                                src={icon("masks-theater", "tabler", "outline")}
+                                inline
+                              />
+                            </div>
+                            <div class="flex flex-col">
+                        {entry.roles.map((r) => (
+                              <div><span
+                                    dangerouslySetInnerHTML={{
+                                      __html: process_role_name(r.name),
+                                    }}
+                                  >
+                                  </span> <span class="font-detail uppercase text-gray-400">{r.episode_count && `${r.episode_count}${r.episode_count > 1 ? "eps" : "ep"}`}</span></div>
+                            ))}
+                            </div>
+                          </div>
+                        )}
+                    </div>
+                  </div>
+                )}
                 {entry.format.toLowerCase() === "tv series" && (
                   <div class="flex flex-row w-60 items-start gap-3">
                     <div class="shrink-0">

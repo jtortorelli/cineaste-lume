@@ -83,6 +83,13 @@ works:
     slug: dogora-1964
     title: Dogora
     year: 1964
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Flight 206 Passsenger
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
@@ -131,6 +138,13 @@ works:
     slug: lake-of-dracula-1971
     title: Lake of Dracula
     year: 1971
+  - title: Return of Ultraman
+    format: tv series
+    year: 1971
+    title_card_url: /static/images/tv-series/title-cards/return-of-ultraman-1971.webp
+    roles:
+      - name: Hospital Clerk
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/godzilla-vs-hedorah-1971.webp
     roles:
@@ -148,3 +162,6 @@ works:
     title: Godzilla vs. Gigan
     year: 1972
 ---
+Omae was a constant presence in Toho films of the 1960s, appearing in numerous background roles as soldiers, technicians, and villagers. His face is familiar to eagle-eyed fans of the studio's Golden Age output.
+
+Some of his more visible roles include a satellite station scientist in _Dogora_ (1964) and an air traffic controller in _The War of the Gargantuas_ (1966). He also appeared as Sakura, the first victim of the monsters in _Space Amoeba_ (1970). He continued acting for a few years after the contract system collapsed, until around 1973.

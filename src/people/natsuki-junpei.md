@@ -189,6 +189,7 @@ works:
     year: 1965
   - title: Ultra Q
     format: tv series
+    year: 1966
     title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
     roles:
       - name: Vigilante
@@ -236,6 +237,7 @@ works:
   - title: Return of Ultraman
     format: tv series
     title_card_url: /static/images/tv-series/title-cards/return-of-ultraman-1971.webp
+    year: 1971
     roles:
       - name: Old Man
         episode_count: 1

@@ -105,6 +105,7 @@ works:
     title: Frankenstein Conquers the World
     year: 1965
   - title: Ultra Q
+    year: 1966
     format: tv series
     title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
     roles:
@@ -113,6 +114,7 @@ works:
       - name: Fisherman
         episode_count: 1
   - title: Ultraman
+    year: 1966
     format: tv series
     title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
     roles:

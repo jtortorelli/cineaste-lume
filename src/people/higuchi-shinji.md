@@ -165,6 +165,12 @@ works:
       - role: Director
     title: Shin Ultraman
     year: 2022
+  - title: Bullet Train Explosion
+    format: film
+    year: 2025
+    poster_url: /static/images/films/posters/bullet-train-explosion-2025.webp
+    staff:
+      - role: Director
 ---
 
 A pivotal figure in modern Japanese special effects and animation, Higuchi

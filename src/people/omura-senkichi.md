@@ -138,6 +138,45 @@ works:
     slug: frankenstein-conquers-the-world-1965
     title: Frankenstein Conquers the World
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Construction Worker
+        episode_count: 1
+  - title: Ultraman
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
+    roles:
+      - name: Miner
+        episode_count: 1
+  - title: Ultraseven
+    format: tv series
+    year: 1967
+    title_card_url: /static/images/tv-series/title-cards/ultraseven-1967.webp
+    roles:
+      - name: Drunk Salaryman
+        episode_count: 1
+      - name: Fisherman
+        episode_count: 1
+  - title: Return of Ultraman
+    format: tv series
+    year: 1971
+    title_card_url: /static/images/tv-series/title-cards/return-of-ultraman-1971.webp
+    roles:
+      - name: Apartment Manager
+        episode_count: 1
+  - title: Ultraman Ace
+    format: tv series
+    year: 1972
+    title_card_url: /static/images/tv-series/title-cards/ultraman-ace-1972.webp
+    roles:
+      - name: Janitor
+        episode_count: 1
+      - name: Steal-seijin
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/kagemusha-1980.webp
     roles:
@@ -155,3 +194,6 @@ works:
     title: Zatoichi
     year: 1989
 ---
+With his slight frame, expressive eyes, and distinctive features, Omura was a master of comic relief and character acting. He began his career as a child actor in the 1930s before becoming a staple of Toho's post-war cinema.
+
+He is beloved by _kaijû_ fans for his scene-stealing turn as the hat-retrieving tourist in _Ghidorah, the Three-Headed Monster_ (1964). Other memorable roles include the frightened guide in _King Kong vs. Godzilla_ (1962) and a sailor in _The H-Man_ (1958). He was also a regular in Kurosawa Akira's films, appearing in classics like _Seven Samurai_ (1954) and _Yojimbo_ (1961). Ômura has the distinction of being the first [human] face to appear in the _Ultra_ franchise, as a construction worker who discovers the monster Gomess in the very first episode of _Ultra Q_ (1966).

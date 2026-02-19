@@ -197,6 +197,15 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: SDF Officer
+        episode_count: 1
+      - name: Inoue
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
@@ -238,3 +247,6 @@ works:
     title: Godzilla vs. Hedorah
     year: 1971
 ---
+Oka was a prolific character actor at Toho, often cast in intellectual roles such as scientists, doctors, and reporters. While many of his roles were uncredited background parts, he was a constant presence in the studio's sci-fi output.
+
+He is recognizable as the dam worker guiding the scientist hikers in _Ghidorah, the Three-Headed Monster_ (1964) and as a reporter in _Invasion of Astro-Monster_ (1965). He also had a memorable small role as the pilot attacked by Rodan in the monster's debut film (1956).

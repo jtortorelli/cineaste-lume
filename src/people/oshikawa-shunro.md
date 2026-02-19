@@ -21,3 +21,6 @@ works:
     title: Atragon
     year: 1963
 ---
+Oshikawa is considered a pioneer of Japanese science fiction. Influenced by the adventure novels of Jules Verne, he wrote stories that combined technological speculation with the martial spirit of Meiji-era Japan.
+
+He is best known for his _Undersea Warship_ (_Kaitei Gunkan_) series of novels, which began publication in 1900. These stories introduced the concept of advanced submarines waging war against foreign powers, a theme that would resonate for decades. His work inspired the 1963 Toho film _Atragon_ (also titled _Kaitei Gunkan_ in Japan) and the later anime _Super Atragon_. He died young at age 38, but his legacy as the "Japanese Jules Verne" endures.

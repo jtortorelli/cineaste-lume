@@ -154,6 +154,20 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Asst. Professor Honda
+        episode_count: 4
+  - title: Ultraman
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
+    roles:
+      - name: Dr. Kitamura
+        episode_count: 5
   - format: film
     poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
@@ -204,6 +218,13 @@ works:
     slug: space-amoeba-1970
     title: Space Amoeba
     year: 1970
+  - title: Return of Ultraman
+    format: tv series
+    year: 1971
+    title_card_url: /static/images/tv-series/title-cards/return-of-ultraman-1971.webp
+    roles:
+      - name: Doctor
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/godzilla-vs-hedorah-1971.webp
     roles:
@@ -221,3 +242,6 @@ works:
     title: Godzilla vs. Gigan
     year: 1972
 ---
+Okabe was a familiar face in Toho's _kaijû_ films, frequently cast as a reporter or journalist. He appeared in this capacity in _Rodan_ (1956), _Frankenstein Conquers the World_ (1965), and _War of the Gargantuas_ (1966), often serving as part of the press corps exposition dumps.
+
+One of his earliest and most notable genre roles was as Tanabe's assistant in the original _Godzilla_ (1954). He also played a TV scientist in _Godzilla vs. Hedorah_ (1971). His career spanned from the post-war era to the early 1970s.

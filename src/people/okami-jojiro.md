@@ -16,6 +16,8 @@ works:
     slug: mysterians-1957
     title: The Mysterians
     year: 1957
+    staff:
+      - role: Original Story
   - format: film
     poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     slug: battle-in-outer-space-1959
@@ -35,4 +37,9 @@ works:
     slug: dogora-1964
     title: Dogora
     year: 1964
+    staff:
+      - role: Original Story
 ---
+Okami was an author and former air officer who wrote science fiction stories for magazines in the 1950s. His work caught the attention of Toho producer Tanaka Tomoyuki, who commissioned him to write treatments for potential films.
+
+His unpublished novel was the basis for _The Mysterians_ (1957); while Kayama Shigeru wrote the final screenplay, Okami's original concept provided the foundation for the alien invasion plot. Later, his novella _Space Mons_ was adapted into the film _Dogora_ (1964). Despite his influence on these key titles, he remains a relatively obscure figure in the history of Japanese sci-fi.

@@ -51,3 +51,6 @@ works:
     title: Throne of Blood
     year: 1957
 ---
+Onda began his career in the silent era as a _benshi_ (film narrator) before transitioning to screen acting. His authoritative presence made him a natural choice for roles as military officers, government officials, and stern authority figures.
+
+In the Godzilla franchise, he is known for playing MP Ôyama in the original _Godzilla_ (1954) and Captain Terasawa in _Godzilla Raids Again_ (1955). He also appeared in dramatic works like _Throne of Blood_ (1957) and _Samurai I: Musashi Miyamoto_ (1954).

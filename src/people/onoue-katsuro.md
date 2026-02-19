@@ -110,4 +110,27 @@ works:
       - role: SFX Supervisor
     title: Shin Godzilla
     year: 2016
+  - title: Shin Ultraman
+    format: film
+    year: 2022
+    poster_url: /static/images/films/posters/shin-ultraman-2022.webp
+    staff:
+      - role: Associate Director
+      - role: Photography
+  - title: Shin Kamen Rider
+    format: film
+    year: 2023
+    poster_url: /static/images/films/posters/shin-kamen-rider-2023.webp
+    staff:
+      - role: Associate Director
+  - title: Bullet Train Explosion
+    format: film
+    year: 2025
+    poster_url: /static/images/films/posters/bullet-train-explosion-2025.webp
+    staff:
+      - role: Associate Director
+      - role: 2nd Unit Director
 ---
+Onoue is a leading figure in modern Japanese special effects, known for his close creative partnership with director Higuchi Shinji. He began his career in the 1980s and has since worked on some of the biggest tokusatsu productions of the Heisei and Reiwa eras.
+
+He served as Associate Director and VFX Creative Director for the critical and commercial hit _Shin Godzilla_ (2016), sharing directing duties with Anno Hideaki and Higuchi. His resume includes SFX direction for _Onmyoji_ (2001), the live-action _Attack on Titan_ films (2015), and _Shin Ultraman_ (2022). He continues to push the boundaries of Japanese visual effects, blending practical tokusatsu techniques with modern CGI.
