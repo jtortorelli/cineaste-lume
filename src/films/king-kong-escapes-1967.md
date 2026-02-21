@@ -44,7 +44,7 @@ staff:
         slug: mabuchi-kaoru
     role: Screenplay
   - people:
-      - name: Arthur Rankin
+      - name: Arthur Rankin Jr.
         slug: rankin-arthur
     role: Technical Adviser
   - people:

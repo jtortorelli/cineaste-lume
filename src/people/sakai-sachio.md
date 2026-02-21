@@ -13,6 +13,12 @@ name: Sakai Sachio
 profession: Actor
 type: person
 works:
+  - title: One Wonderful Sunday
+    format: film
+    year: 1947
+    poster_url: /static/images/films/posters/one-wonderful-sunday-1947.webp
+    roles:
+      - name: Ticket Scalper
   - format: film
     poster_url: /static/images/films/posters/seven-samurai-1954.webp
     roles:
@@ -122,6 +128,15 @@ works:
     slug: whirlwind-1964
     title: Whirlwind
     year: 1964
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Advertising Manager
+        episode_count: 1
+      - name: 1/8 Planning Staff
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
@@ -162,6 +177,13 @@ works:
     slug: vampire-doll-1970
     title: The Vampire Doll
     year: 1971
+  - title: Ultraman Ace
+    format: tv series
+    year: 1972
+    title_card_url: /static/images/tv-series/title-cards/ultraman-ace-1972.webp
+    roles:
+      - name: Shinta's Father
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/zatoichi-1989.webp
     roles:
@@ -171,3 +193,10 @@ works:
     title: Zatoichi
     year: 1989
 ---
+Sakai Sachio (born Abe Yukio) was a Japanese actor known for his tall, timid demeanor and prominent ears. Author Stuart Galbraith IV once compared his screen presence to that of Shemp Howard.
+
+Sakai graduated from an industrial vocational school before being accepted into Toho's very first "New Face" actors' training class in 1946, alongside actor Mifune Toshirô. He immediately made his film debut in Kurosawa Akira's _One Wonderful Sunday_ (1947), and would go on to appear in a number of films for Kurosawa, Okamoto Kihachi, Inagaki Hiroshi, and Honda Ishirô. 
+
+Sakai became a staple supporting player at Toho. In Inagaki's _Samurai_ trilogy, Sakai inherited the prominent role of Matahachi starting in the second film, replacing actor Mikuni Rentarô. He was also a recurring actor in the popular _Young Guy_ series starring Kayama Yûzô. 
+
+In the sci-fi genre, Sakai is perhaps best remembered as the reporter Hagiwara in the original _Godzilla_ (1954), a character whose function in the narrative was largely replaced by Raymond Burr's character in the 1956 American localized version. He also appeared as a reporter in _Mothra vs. Godzilla_ (1964) and had memorable turns in _The Secret of the Telegian_ (1960) and _Space Amoeba_ (1970).

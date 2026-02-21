@@ -4,6 +4,7 @@ export default (
     active_period_start,
     active_period_end,
     avatar_url,
+    children,
     japanese_name,
     members,
     name,
@@ -72,7 +73,7 @@ export default (
             <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
               <div>
                 <img
-                  class="h-4 w-4 text-gray-500"
+                  class="h-5 w-4 text-gray-500"
                   src={icon("language", "tabler", "outline")}
                   inline
                 />
@@ -84,7 +85,7 @@ export default (
             <div className="flex lg:break-inside-avoid-column gap-1 items-middle">
               <div>
                 <img
-                  class="h-4 w-4 text-gray-500"
+                  class="h-5 w-4 text-gray-500"
                   src={icon("calendar-time", "tabler", "outline")}
                   inline
                 />
@@ -98,8 +99,12 @@ export default (
       </div>
       {type === "group" && members && members.length > 0 && (
         <>
-          <comp.named_divider name="Members" />
-          <div class="w-96 m-auto sm:w-fit flex flex-col sm:flex-row flex-wrap gap-6 justify-center">
+          <div class="inline-flex items-center justify-center text-center w-full">
+            <span class="absolute px-3 font-detail text-sm uppercase -translate-x-1/2 bg-white left-1/2 text-gray-500">
+              Members
+            </span>
+          </div>
+          <div class="w-96 m-auto sm:w-fit flex flex-col sm:flex-row flex-wrap gap-6 justify-center p-4">
             {members.map((member) => (
               <>
                 <div class="flex flex-col text-sm gap-3">
@@ -111,7 +116,7 @@ export default (
                       <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
                         <div>
                           <img
-                            class="h-4 w-4 text-gray-500"
+                            class="h-5 w-4 text-gray-500"
                             src={icon("sun-high", "tabler", "outline")}
                             inline
                           />
@@ -142,10 +147,10 @@ export default (
                   </div>
                   <div>
                     {member.dod && typeof member.dod !== "string" && (
-                      <div class="flex lg:break-inside-avoid-column gap-1 items-baseline">
+                      <div class="flex lg:break-inside-avoid-column gap-1 items-middle">
                         <div>
                           <img
-                            class="h-4 w-4 text-gray-500"
+                            class="h-5 w-4 text-gray-500"
                             src={icon("moon", "tabler", "outline")}
                             inline
                           />
@@ -175,6 +180,18 @@ export default (
           </div>
         </>
       )}
+      <div class="
+        text-sm font-content text-justify text-gray-700 pb-1 pt-2 mx-auto
+        w-96 sm:w-fit
+        columns-1 sm:columns-2 space-y-2
+           
+        sm:[&:has(>_:only-child)]:columns-1
+        sm:[&:has(>_:only-child)]:w-96
+        sm:[&:has(>_:only-child)]:justify-items-center
+
+      ">
+        {children}
+      </div>
       <comp.named_divider name="Selected Works" />
       <div class="full-filmography">
         <div class="flex flex-col sm:flex-row sm:flex-wrap gap-4 m-auto sm:w-fit w-96">

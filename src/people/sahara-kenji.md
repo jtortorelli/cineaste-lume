@@ -101,6 +101,12 @@ works:
     slug: ghidorah-the-three-headed-monster-1964
     title: Ghidorah, the Three-Headed Monster
     year: 1964
+  - title: None But the Brave
+    format: film
+    year: 1965
+    poster_url: /static/images/films/posters/none-but-the-brave-1965.webp
+    roles:
+      - name: Corporal Fujimoto
   - format: film
     poster_url: /static/images/films/posters/frankenstein-conquers-the-world-1965.webp
     roles:
@@ -115,6 +121,13 @@ works:
     poster_url: /static/images/films/posters/young-guy-at-sea-1965.webp
     roles:
       - name: Kaieda
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Manjôme Jun
+        episode_count: 28
   - format: film
     poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
@@ -123,6 +136,13 @@ works:
     slug: war-of-the-gargantuas-1966
     title: War of the Gargantuas
     year: 1966
+  - title: Ultraseven
+    format: tv series
+    year: 1967
+    title_card_url: /static/images/tv-series/title-cards/ultraseven-1967.webp
+    roles:
+      - name: Officer Takenaka
+        episode_count: 14
   - format: film
     poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
     roles:
@@ -155,6 +175,20 @@ works:
     slug: space-amoeba-1970
     title: Space Amoeba
     year: 1970
+  - title: Return of Ultraman
+    format: tv series
+    year: 1971
+    title_card_url: /static/images/tv-series/title-cards/return-of-ultraman-1971.webp
+    roles:
+      - name: Officer Satake
+        episode_count: 6
+  - title: Ultraman Leo
+    format: tv series
+    year: 1974
+    title_card_url: /static/images/tv-series/title-cards/ultraman-leo-1974.webp
+    roles:
+      - name: Nakamori Daisuke
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/godzilla-vs-mechagodzilla-1974.webp
     roles:
@@ -179,6 +213,13 @@ works:
     slug: conflagration-1975
     title: Conflagration
     year: 1975
+  - title: Ultraman 80
+    format: tv series
+    year: 1980
+    title_card_url: /static/images/tv-series/title-cards/ultraman-80-1980.webp
+    roles:
+      - name: Dr. Shirono
+        episode_count: 3
   - format: film
     poster_url: /static/images/films/posters/godzilla-vs-king-ghidorah-1991.webp
     roles:
@@ -203,6 +244,13 @@ works:
     slug: godzilla-vs-spacegodzilla-1994
     title: Godzilla vs. SpaceGodzilla
     year: 1994
+  - title: Ultraman Nexus
+    format: tv series
+    year: 2004
+    title_card_url: /static/images/tv-series/title-cards/ultraman-nexus-2004.webp
+    roles:
+      - name: Tôgô
+        episode_count: 7
   - format: film
     poster_url: /static/images/films/posters/godzilla-final-wars-2004.webp
     roles:
@@ -211,4 +259,34 @@ works:
     slug: godzilla-final-wars-2004
     title: "Godzilla: Final Wars"
     year: 2004
+  - title: Ultraman Max
+    format: tv series
+    year: 2005
+    title_card_url: /static/images/tv-series/title-cards/ultraman-max-2005.webp
+    roles:
+      - name: Sahashi Kenji
+        episode_count: 1
+  - title: Ultraman Mebius
+    format: tv series
+    year: 2006
+    title_card_url: /static/images/tv-series/title-cards/ultraman-mebius-2006.webp
+    roles:
+      - name: Chairman Takenaka
+        episode_count: 2
+  - title: Superior 8 Ultra Brothers
+    format: film
+    year: 2008
+    poster_url: /static/images/films/posters/superior-8-ultra-brothers-2008.webp
+    roles:
+      - name: Makime
+        episode_count: 2
 ---
+Sahara Kenji (born Katô Masayoshi) is a Japanese actor and arguably the most prolific sci-fi actor to ever work at Toho, starring in no less than thirteen _Godzilla_ films. He was admitted to Toho as part of their "New Face" training program in 1953. The following year, he made very brief uncredited appearances in the original _Godzilla_ (1954) as a reporter and as a young man on a cruise ship. 
+
+His first major lead role came shortly after, playing a miner in _Rodan_ (1956) opposite actress Shirakawa Yumi. They would headline two more films together in the 1950s: _The Mysterians_ (1957) and _The H-Man_ (1958). Sahara also worked frequently with actor Hirata Akihiko, and the two remained close personal friends until Hirata's death in 1984.
+
+Sahara was a favorite of both director Honda Ishirô and special effects maestro Tsuburaya Eiji, and his frequent appearances in the sci-fi genre earned him the nickname "Mr. Special Effects" around the Toho lot. In 1964, Sahara was part of a select group of Japanese actors appearing in the first Japanese-American co-production, Frank Sinatra's _None But the Brave_ (1965). Shortly afterward, he was offered the lead role in Tsuburaya's _Ultra Q_ television series. Sahara led the show to great success, spurring Tsuburaya to proceed with his _Ultraman_ concept. Honda, impressed with Sahara's work on _Ultra Q_, gave him the lead scientist role in _War of the Gargantuas_ (1966) as a reward for the actor's diligence.
+
+While he frequently played heroes, Sahara is perhaps best known for his villainous turns, such as the greedy Torahata from _Mothra vs. Godzilla_ (1964), as well as antagonistic roles in _Atragon_ (1963) and _Matango_ (1963). His most unusual role was as an industrial spy possessed by aliens in _Space Amoeba_ (1970).
+
+Sahara continued to appear in sci-fi films throughout the 1990s, mainly playing officials in various anti-Godzilla agencies, culminating with _Godzilla: Final Wars_ (2004). He holds the record for appearing in more _Godzilla_ films than any other actor.
