@@ -13,6 +13,12 @@ name: Sanjô Miki
 profession: Actress
 type: person
 works:
+  - title: The Quiet Duel
+    format: film
+    year: 1949
+    poster_url: /static/images/films/posters/quiet-duel-1949.webp
+    roles:
+      - name: Matsumoto Misao
   - format: film
     poster_url: /static/images/films/posters/invisible-man-1954.webp
     roles:
@@ -28,3 +34,10 @@ works:
     roles:
       - name: Ôta Harue
 ---
+Sanjô Miki was a Japanese actress. After graduating from the Tokyo Metropolitan Sakuramizu Women's Commercial School, she went to work in the accounting department of Daiei Studios.
+
+After the war, she caught the eye of Daiei president Nagata Masaichi and was approached to appear on camera. She debuted as an actress in 1946 and continued to appear in Daiei films until 1954, notably starring in Kurosawa Akira's _The Quiet Duel_ (1949). After 1954, she switched her contract to Toei. 
+
+She remained at Toei until the 1970s, at which point she finally switched to Toho. She had worked briefly with Toho in between her tenures at Daiei and Toei, during which time she appeared in _Invisible Man_ (1954). 
+
+Outside of acting, Sanjô once famously purchased a house that had been rented by sculptor Ando Takeshi. She found several of his possessions left behind in the home, including a trial plaster sculpture of the faithful dog Hachikô (Ando's final version of the bronze sculpture currently stands outside Shibuya Station).
