@@ -128,6 +128,17 @@ works:
     slug: dogora-1964
     title: Dogora
     year: 1964
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Vigilante
+        episode_count: 1
+      - name: Mansaku
+        episode_count: 1
+      - name: Ushiyama's Colleague
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/invasion-of-astro-monster-1965.webp
     roles:
@@ -207,3 +218,8 @@ works:
     title: Godzilla vs. Hedorah
     year: 1971
 ---
+Shinohara Masaki was a Japanese supporting actor and suitmation performer at Toho. 
+
+Shinohara served as a reliable extra and bit-part actor in numerous prominent Toho productions stretching from the early 1950s well into the 1970s. For genre fans, he is most notable for his suit actor roles, having portrayed a terrifying mushroom man in Honda Ishirô's _Matango_ (1963) and, crucially, stepping in to portray Rodan in _Invasion of Astro-Monster_ (1965), becoming the third suit actor to play the monster, after Nakajima Haruo and Uruki Kôji.
+
+He retired from acting in 1971 and successfully transitioned into a completely different career, spending decades managing a private taxi service. He passed away in 2018 at the age of ninety-one.

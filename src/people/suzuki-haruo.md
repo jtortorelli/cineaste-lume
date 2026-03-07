@@ -193,6 +193,24 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Reporter
+        episode_count: 1
+      - name: Researcher
+        episode_count: 1
+      - name: Detective
+        episode_count: 1
+  - title: Ultraman
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
+    roles:
+      - name: Zookeeper
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/king-kong-escapes-1967.webp
     roles:
@@ -201,6 +219,13 @@ works:
     slug: king-kong-escapes-1967
     title: King Kong Escapes
     year: 1967
+  - title: Ultraseven
+    format: tv series
+    year: 1967
+    title_card_url: /static/images/tv-series/title-cards/ultraseven-1967.webp
+    roles:
+      - name: Detective
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
     roles:
@@ -266,3 +291,8 @@ works:
     title: Terror of Mechagodzilla
     year: 1975
 ---
+Suzuki Haruo was a ubiquitous and highly reliable Japanese supporting actor and extra who enjoyed a decades-long career within the studio system. 
+
+Suzuki graduated from Kamakura Academia before successfully auditioning for Toho Studios. Between 1952 and 1976, Suzuki appeared steadily in major motion pictures and television dramas. For genre fans, he is primarily known for various supporting roles in almost thirty prominent sci-fi films, often easily mistaken by casual viewers for other recurring actors with a similar appearance (e.g., Nakayama Yutaka, Katô Shigeo). 
+
+His roles as an extra naturally rarely offered any dialogue. His most prominent speaking role was arguably the frustrated military general desperately trying to keep the giant electrical electrodes functioning ("Dammit! Why can't anything go right today?") during the climax of _Godzilla vs. Hedorah_ (1971).

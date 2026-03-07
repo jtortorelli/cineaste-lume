@@ -43,6 +43,22 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Gorô
+        episode_count: 1
+  - title: Ultraman
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
+    roles:
+      - name: Cameraman
+        episode_count: 1
+      - name: Policeman
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/ebirah-horror-of-the-deep-1966.webp
     roles:
@@ -59,6 +75,15 @@ works:
     slug: king-kong-escapes-1967
     title: King Kong Escapes
     year: 1967
+  - title: Ultraseven
+    format: tv series
+    year: 1967
+    title_card_url: /static/images/tv-series/title-cards/ultraseven-1967.webp
+    roles:
+      - name: Mailman
+        episode_count: 1
+      - name: Policeman
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
     roles:
@@ -91,4 +116,18 @@ works:
     slug: terror-of-mechagodzilla-1975
     title: Terror of Mechagodzilla
     year: 1975
+  - title: Kamen Rider Super-1
+    format: tv series
+    year: 1980
+    title_card_url: /static/images/tv-series/title-cards/kamen-rider-super-1-1980.webp
+    roles:
+      - name: Professor Ghost
+        episode_count: 15
 ---
+Suzuki Kazuo was a distinctive Japanese actor who carved out a unique niche playing slimy or cowardly villains during the Golden Age of Japanese cinema and television. 
+
+Suzuki began acting during his student days and formally entered the Haiyuza acting training school in 1954. He eventually signed an exclusive contract with Toho Studios in 1961. A diminutive, Peter Lorre-esque actor, he found himself typecast in villainous, deceptive, or treacherous roles. For feature films, he is particularly memorable to genre fans as the lock-picking assassin in _Ghidorah, the Three-Headed Monster_ (1964) and as a gun-toting alien operative in _Terror of Mechagodzilla_ (1975). 
+
+Following his departure from Toho's exclusive contract system, he affiliated with Kumazawa Productions and shifted his focus to television, frequently appearing in detective and _tokusatsu_ dramas. He achieved notable fame among younger viewers for portraying the recurring antagonist "Professor Ghost" in the superhero series _Kamen Rider Super-1_ (1980), as well as a variety of guest appearances spanning the _Ultra_ franchise. 
+
+His formal acting activities appear to have ceased altogether after 1984. While his exact date of death remains unrecorded, various entertainment resources confirm he has since passed away.

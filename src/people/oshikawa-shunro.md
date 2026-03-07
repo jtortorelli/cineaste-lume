@@ -20,6 +20,8 @@ works:
     slug: atragon-1963
     title: Atragon
     year: 1963
+    staff:
+      - role: Original Story
 ---
 Oshikawa is considered a pioneer of Japanese science fiction. Influenced by the adventure novels of Jules Verne, he wrote stories that combined technological speculation with the martial spirit of Meiji-era Japan.
 
