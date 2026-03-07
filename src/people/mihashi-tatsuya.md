@@ -95,6 +95,12 @@ works:
     roles:
       - name: Kitami Jirô
     poster_url: "/static/images/films/posters/killing-bottle-1967.webp"
+  - title: Tora! Tora! Tora!
+    format: film
+    year: 1970
+    poster_url: /static/images/films/posters/tora-tora-tora-1970.webp
+    roles:
+      - name: Commander Genda Minoru
   - format: film
     poster_url: "/static/images/films/posters/casshern-2004.webp"
     roles:

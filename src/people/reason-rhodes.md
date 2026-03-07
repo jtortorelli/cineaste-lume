@@ -12,6 +12,9 @@ japanese_name: ローズ・リーズン
 name: Rhodes Reason
 profession: Actor
 type: person
+family:
+  - name: Rex Reason
+    relationship: Brother
 works:
   - title: Sky King
     year: 1951

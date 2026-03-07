@@ -58,6 +58,12 @@ works:
     slug: latitude-zero-1969
     title: Latitude Zero
     year: 1969
+  - title: Tora! Tora! Tora!
+    format: film
+    year: 1970
+    poster_url: /static/images/films/posters/tora-tora-tora-1970.webp
+    roles:
+      - name: Minister Ribbentrop
   - format: film
     poster_url: /static/images/films/posters/submersion-of-japan-1973.webp
     roles:

@@ -112,6 +112,12 @@ works:
     year: 1965
     roles:
       - name: President Shôji
+  - title: Tora! Tora! Tora!
+    format: film
+    year: 1970
+    poster_url: /static/images/films/posters/tora-tora-tora-1970.webp
+    roles:
+      - name: Rear Admiral Yamaguchi Tamon
 ---
 
 Fujita Susumu was a powerful actor who rose to fame as the star of Kurosawa
