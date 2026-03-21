@@ -163,6 +163,13 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Defense Chief
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
@@ -180,3 +187,4 @@ works:
     title: Submersion of Japan
     year: 1973
 ---
+Tsuda Mitsuo was a character actor easily recognizable by his prominent ears and jaw, and he nearly always played soldiers or officials in Toho's science fiction films. He appeared in films for Toho as early as 1938 and remained with the studio through the late 1960s. One of his few speaking roles was as a minister questioning Sahara Kenji's scientist character in _The Mysterians_ (1957).

@@ -222,3 +222,4 @@ works:
     title: Destroy All Monsters
     year: 1968
 ---
+Tsubono Kamayuki was a frequent supporting actor in Toho films, especially in the sci-fi and war genres. He frequently played officers or military personnel. His more prominent roles include a detective partner in _The Human Vapor_ (1960) and a reporter in the opening scenes of _Invasion of Astro-Monster_ (1965).

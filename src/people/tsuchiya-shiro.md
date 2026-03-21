@@ -130,6 +130,13 @@ works:
     slug: dogora-1964
     title: Dogora
     year: 1964
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Space Agency Official
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
@@ -138,6 +145,13 @@ works:
     slug: adventure-of-kigan-castle-1966
     title: The Adventure of Kigan Castle
     year: 1966
+  - title: Ultraman
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
+    roles:
+      - name: Police Commissioner
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
@@ -147,3 +161,4 @@ works:
     title: War of the Gargantuas
     year: 1966
 ---
+Tsuchiya Shirô was a contract actor for Toho during the 1950s and 1960s. He appeared in a variety of films including sci-fi, war thrillers, gangster films, and comedies. His stern features often led to his casting as officials, gaunt villagers, or fishermen. Prior to 1955, his first name was occasionally credited as "Hirotoshi," though it remains unclear if this was an actual name or an error. Tsuchiya disappeared from film after 1970, presumably retiring when Toho's contract system ended.

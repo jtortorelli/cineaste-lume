@@ -148,6 +148,27 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Ono
+        episode_count: 1
+  - title: Ultraman
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
+    roles:
+      - name: Dr. Morita
+        episode_count: 1
+  - title: Ultraseven
+    format: tv series
+    year: 1967
+    title_card_url: /static/images/tv-series/title-cards/ultraseven-1967.webp
+    roles:
+      - name: Dr. Tsuchida
+        episode_count: 2
   - format: film
     poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
     roles:
@@ -189,3 +210,10 @@ works:
     title: Godzilla vs. King Ghidorah
     year: 1991
 ---
+Tsuchiya Yoshio was an eccentric character actor who was a favorite of both Kurosawa Akira and Honda Ishirô. He was picked up by Kurosawa straight out of acting school in 1952. Tsuchiya was initially interested in securing a role in Honda's upcoming _Godzilla_, but he was already committed to Kurosawa's _Seven Samurai_ (1954), where he played the farmer who leaves his home to recruit the samurai. One of his early roles in the science fiction genre was as the leader of the eponymous aliens in _The Mysterians_ (1957). Honda was initially reluctant to cast Tsuchiya since he was a younger actor and the role required his face to be concealed, but Tsuchiya's enthusiasm secured the part.
+
+Tsuchiya had a penchant for playing aliens (_The Mysterians_, _Invasion of Astro-Monster_), people possessed by aliens (_Battle in Outer Space_, _Destroy All Monsters_), and people on the verge of madness (_The Human Vapor_, _Matango_, _Son of Godzilla_). His most famous genre role is as the Controller of Planet X in _Invasion of Astro-Monster_ (1965). While on set, he suggested to Honda that Godzilla should perform the _shie_ victory dance in the film, and also spent his downtime pranking his American co-star, Nick Adams. He additionally offered a strong performance as the titular criminal in _The Human Vapor_ (1960) opposite Yachigusa Kaoru.
+
+His output dropped off in the early 1970s after he was released from his contract with Toho. Decades later, he returned to the science fiction genre, playing a memorable role as a war-veteran-turned-businessman in _Godzilla vs. King Ghidorah_ (1991).
+
+Tsuchiya passed away from lung cancer in February 2017.
