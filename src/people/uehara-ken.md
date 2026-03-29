@@ -97,3 +97,8 @@ works:
     roles:
       - name: Matsubara
 ---
+Uehara Ken was born to a wealthy family and graduated from Rikkyô University, where he was recognized for his musical talents. Uehara joined Shochiku in 1935, debuting in films for Shimizu Hiroshi; he quickly transitioned into lead roles.
+
+In 1937, Uehara formed the "Shochiku Trio" alongside actors Saburi Shin and Sano Shûji. They appeared in several lighthearted movies, which, while successful, were among Uehara's least favorite roles. After the war, he parted ways with Shochiku to become a freelance actor. He collaborated with prominent directors Ichikawa Kon, Kinoshita Keisuke, and Naruse Mikio, and frequently worked with Toho Studios during the 1950s. Becoming increasingly difficult for studios to market as a young male lead (partly because he was no longer a bachelor), Uehara accepted a contract from Toho in 1959. During this period, he appeared in a handful of science fiction films as older father-figure characters.
+
+Before the war, Uehara had a reputation as a playboy, which led to publicized personal issues during his first marriage to actress Kozakura Yôko. After Kozakura's death in 1970, Uehara married his mistress Obayashi Masami. The couple divorced in 1991, and Uehara passed away from heart failure in November of that year. Uehara Ken is the father of actor Kayama Yûzô from the popular _Young Guy_ film series.

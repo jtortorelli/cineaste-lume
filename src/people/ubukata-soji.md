@@ -91,6 +91,15 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Villager
+        episode_count: 1
+      - name: Police Chief
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
@@ -116,3 +125,4 @@ works:
     title: Godzilla vs. Hedorah
     year: 1971
 ---
+Ubukata Sôji was a supporting actor working exclusively for Toho. He appeared in many films throughout the 1950s and 1960s, typically cast as a mute background character observing the action. His most prominent genre role was as a scientist who is invited into the alien base in _The Mysterians_ (1957).

@@ -133,4 +133,12 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    year: 1966
+    format: tv series
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Sugimoto
+        episode_count: 3
 ---
+Uno Kôji was a supporting actor working for Toho throughout the 1950s and 1960s, identifiable by his long face and his thick, square-framed glasses. Among his more prominent genre appearances, he portrayed the hotel clerk in _Ghidorah, the Three-Headed Monster_ (1964) and an earth-based alien in _Invasion of Astro-Monster_ (1965). He had an early recurring role in the _Ultra_ franchise as a doomed photographer in _Ultra Q_ (1966).

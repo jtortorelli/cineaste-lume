@@ -162,6 +162,20 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Train Conductor
+        episode_count: 1
+  - title: Ultraman
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
+    roles:
+      - name: Reporter
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
@@ -170,4 +184,12 @@ works:
     slug: war-of-the-gargantuas-1966
     title: War of the Gargantuas
     year: 1966
+  - title: Ultraseven
+    format: tv series
+    year: 1967
+    title_card_url: /static/images/tv-series/title-cards/ultraseven-1967.webp
+    roles:
+      - name: Policeman
+        episode_count: 1
 ---
+Tsutsumi Yasuhisa was a frequent supporting actor under contract with Toho studios. His ability to appear frightened guaranteed him a nearly unbroken string of roles playing villagers, policemen, or soldiers reacting to the latest monster attack or alien invasion. One of his more recognizable roles is as a policeman killed by the title character in the early scenes of _The Human Vapor_ (1960).

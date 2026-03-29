@@ -30,3 +30,4 @@ works:
     title: The Three Treasures
     year: 1959
 ---
+Uehara Misa was selected out of college by director Kurosawa Akira to appear in _The Hidden Fortress_ (1958) as the renegade Princess Yuki. Kurosawa reportedly felt that Uehara's demeanor embodied the "elegant and wild" nature of the character he had written. Uehara underwent training in acting, equestrianism, and combat in order to participate in the production. _The Hidden Fortress_ proved to be a hit, and Uehara was recruited to appear in additional films for Toho. However, believing she lacked the talent to maintain an acting career, Uehara retired after only two years in the industry.
