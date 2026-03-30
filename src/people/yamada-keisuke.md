@@ -98,6 +98,22 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: "/static/images/tv-series/title-cards/ultra-q-1966.webp"
+    roles:
+      - name: Professor
+        episode_count: 1
+      - name: Flight 206 Passenger
+        episode_count: 1
+  - title: Ultraman
+    format: tv series
+    year: 1966
+    title_card_url: "/static/images/tv-series/title-cards/ultraman-1966.webp"
+    roles:
+      - name: Government Official
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
@@ -107,3 +123,4 @@ works:
     title: War of the Gargantuas
     year: 1966
 ---
+Elderly actor who didn't so much "act" as he "had a presence in" a number of sci-fi films for Toho, nearly always in the background and never with any dialogue. Very little is known about Yamada Keisuke; he's included here if only because of the sheer number of films in which he's easily recognizable.

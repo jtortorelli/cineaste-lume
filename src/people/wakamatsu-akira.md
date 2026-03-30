@@ -34,3 +34,4 @@ works:
     title: Invasion of Astro-Monster
     year: 1965
 ---
+Supporting actor under contract for Toho. Wakamatsu Akira typically played henchmen, minions, officers, or anybody that had to stand in the background of a scene and look menacing. He appears most prominently as a member of the diamond gang in _Dogora_ (1964).

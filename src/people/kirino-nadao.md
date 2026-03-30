@@ -91,6 +91,12 @@ works:
     slug: lost-world-of-sinbad-1963
     title: The Lost World of Sinbad
     year: 1963
+  - title: Trap of Suicide Kilometer
+    format: film
+    poster_url: /static/images/films/posters/trap-of-suicide-kilometer-1964.webp
+    year: 1964
+    roles:
+      - name: Henchman
   - format: film
     poster_url: "/static/images/films/posters/dogora-1964.webp"
     roles:
@@ -99,6 +105,12 @@ works:
     slug: dogora-1964
     title: Dogora
     year: 1964
+  - title: A Keg of Powder
+    format: film
+    poster_url: /static/images/films/posters/a-keg-of-powder-1964.webp
+    year: 1964
+    roles:
+      - name: No. 8
   - format: film
     poster_url: "/static/images/films/posters/frankenstein-conquers-the-world-1965.webp"
     roles:
@@ -115,6 +127,22 @@ works:
     slug: invasion-of-astro-monster-1965
     title: Invasion of Astro-Monster
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultra-q-1966.webp
+    roles:
+      - name: Reporter
+        episode_count: 1
+      - name: Orion's Dragon
+        episode_count: 1
+  - title: Ultraman
+    format: tv series
+    year: 1966
+    title_card_url: /static/images/tv-series/title-cards/ultraman-1966.webp
+    roles:
+      - name: Gotô
+        episode_count: 1
   - format: film
     poster_url: "/static/images/films/posters/war-of-the-gargantuas-1966.webp"
     roles:

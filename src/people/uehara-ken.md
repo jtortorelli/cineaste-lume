@@ -8,6 +8,13 @@ dob: 1909-11-07
 dob_resolution: exact
 dod: 1991-11-23
 dod_resolution: exact
+accolades:
+  - ceremony: 8th Mainichi Film Awards
+    category: Best Actor
+    status: won
+    films:
+      - title: Wife
+      - title: Husband and Wife
 family:
   - name: Kayama Yûzô
     relationship: son
@@ -20,6 +27,18 @@ spouses:
   - name: Obayashi Masami
 type: person
 works:
+  - title: Husband and Wife
+    format: film
+    year: 1953
+    poster_url: /static/images/films/posters/husband-and-wife-1953.webp
+    roles:
+      - name: Nakahara Isaku
+  - title: Wife
+    format: film
+    year: 1953
+    poster_url: /static/images/films/posters/wife-1953.webp
+    roles:
+      - name: Nakagawa Jûichi
   - format: film
     poster_url: /static/images/films/posters/secret-savings-president-1956.webp
     roles:

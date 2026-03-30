@@ -76,3 +76,4 @@ works:
     title: The Human Vapor
     year: 1960
 ---
+Long-faced, wide-mouthed supporting actor working exclusively for Toho. Yamada Minosuke typically played concerned-looking officials in sci-fi films, lingering in the background, although occasionally he was afforded roles with more opportunity for dialogue, such as the defense minister in _Godzilla Raids Again_ (1955) and as a newspaper executive in _The Human Vapor_ (1960). He also played Kagawa Kyôko's father in _The Three Treasures_ (1959).

@@ -31,3 +31,10 @@ works:
     roles:
       - name: Matsumoto
 ---
+Esteemed comedic actor recognizable by his baldness and well known for his _rakugo_ (a form of one-man storytelling) performances. Yanagiya Kingorô was born into a family of performers and debuted on stage at the young age of six. 
+
+In 1921 he joined the Japanese Army and served in Korea for a year. During his tour he contracted purpura—a series of rashes caused by broken blood vessels. The treatment administered by the military caused his hair to fall out, and he was discharged in 1922.
+
+Yanagiya first started appearing in film in the 1930s. He starred in a series of obscure comedies for director Saitô Torajirô at Shintoho studios. In the 1950s and 1960s, he appeared in the _Sazae-san_ series of films for director Aoyagi Nobuo.
+
+He maintained a series of affairs during his life and discreetly provided support to each of his mistresses and their families. This financial arrangement was completely unknown by his children until after his funeral.

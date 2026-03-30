@@ -27,3 +27,8 @@ works:
     title: Godzilla Raids Again
     year: 1955
 ---
+Wakayama Setsuko joined Toho through the first New Face program and debuted in film in 1947. She made notable appearances in Imai Tadashi's _Blue Mountains_ (1949) and especially in Makino Masahiro's multi-part film series _Jirocho Sangokushi_ (1952-1953). Wakayama appeared in one sci-fi film: _Godzilla Raids Again_ (1955), the first sequel of the series.
+
+She had a relatively short career; mysterious health issues forced her into early retirement in 1961, and she was unable to recover. Apparently her sister suffered from the same mysterious condition, and she feared a prolonged period of mental deterioration. 
+
+Wakayama was married to director Taniguchi Senkichi from 1949 to 1956; she was his second wife. She was found dead from suicide in the hospital in 1985 at the age of 55.

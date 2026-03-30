@@ -149,6 +149,13 @@ works:
     slug: frankenstein-conquers-the-world-1965
     title: Frankenstein Conquers the World
     year: 1965
+  - title: Ultra Q
+    format: tv series
+    year: 1966
+    title_card_url: "/static/images/tv-series/title-cards/ultra-q-1966.webp"
+    roles:
+      - name: Construction Worker
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/adventure-of-kigan-castle-1966.webp
     roles:
@@ -157,6 +164,15 @@ works:
     slug: adventure-of-kigan-castle-1966
     title: The Adventure of Kigan Castle
     year: 1966
+  - title: Ultraman
+    format: tv series
+    year: 1966
+    title_card_url: "/static/images/tv-series/title-cards/ultraman-1966.webp"
+    roles:
+      - name: Onida
+        episode_count: 1
+      - name: Hunter
+        episode_count: 1
   - format: film
     poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
     roles:
@@ -165,4 +181,25 @@ works:
     slug: war-of-the-gargantuas-1966
     title: War of the Gargantuas
     year: 1966
+  - title: Ultraseven
+    format: tv series
+    year: 1967
+    title_card_url: "/static/images/tv-series/title-cards/ultraseven-1967.webp"
+    roles:
+      - name: Icarus-seijin
+        episode_count: 1
+      - name: Mukai
+        episode_count: 1
+  - title: Ultraman Taro
+    format: tv series
+    year: 1973
+    title_card_url: "/static/images/tv-series/title-cards/ultraman-taro-1973.webp"
+    roles:
+      - name: ZAT Doctor
+        episode_count: 1
+      - name: Daisuke's Father
+        episode_count: 1
 ---
+Supporting actor working for Toho during the 1950s and 1960s. Yamamoto Ren had lead roles in his early films for director Makino Masahiro, but he transitioned to supporting roles after appearing in the original _Godzilla_ (1954), playing Masaji, the fisherman whose house is crushed when Godzilla attacks his island home. 
+
+He had close brushes with monsters in the eerie opening of _War of the Gargantuas_ (1966), in which he's accosted by both an octopus and one of the eponymous monsters at sea. He's also recognizable as the small-time crook set up to take the fall for the title character in _The Human Vapor_ (1960) and the mischievous cripple who summons the monster Gango in an episode of _Ultraman_ (1966).
