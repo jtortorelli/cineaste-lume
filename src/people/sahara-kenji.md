@@ -278,8 +278,7 @@ works:
     year: 2008
     poster_url: /static/images/films/posters/superior-8-ultra-brothers-2008.webp
     roles:
-      - name: Makime
-        episode_count: 2
+      - name: Manjôme Jun
 ---
 Sahara Kenji (born Katô Masayoshi) is a Japanese actor and arguably the most prolific sci-fi actor to ever work at Toho, starring in no less than thirteen _Godzilla_ films. He was admitted to Toho as part of their "New Face" training program in 1953. The following year, he made very brief uncredited appearances in the original _Godzilla_ (1954) as a reporter and as a young man on a cruise ship. 
 
