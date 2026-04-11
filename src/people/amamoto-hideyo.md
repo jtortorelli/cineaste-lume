@@ -126,7 +126,7 @@ works:
     roles:
       - name: Dr. Mizorogi Shôgo
         uncredited: false
-    title: Age of Assassins
+    title: The Age of Assassins
     year: 1967
   - format: film
     poster_url: /static/images/films/posters/kill-1968.webp

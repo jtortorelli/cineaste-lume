@@ -50,17 +50,17 @@ works:
     title: "Brutal Tales of Chivalry 2: Lion and Peony"
     year: 1966
   - format: film
-    poster_url: "/static/images/films/posters/brutal-tales-of-chivalry-3-lone-wolf-1967.webp"
+    poster_url: "/static/images/films/posters/brutal-tales-of-chivalry-3-lone-wolf-1966.webp"
     roles:
       - name: Katsuragi Ryûzô
     title: "Brutal Tales of Chivalry 3: Lone Wolf"
-    year: 1967
+    year: 1966
   - format: film
-    poster_url: "/static/images/films/posters/brutal-tales-of-chivalry-4-blood-stained-lion-1969.webp"
+    poster_url: "/static/images/films/posters/brutal-tales-of-chivalry-4-blood-stained-lion-1967.webp"
     roles:
       - name: Kazama Jûkichi
     title: "Brutal Tales of Chivalry 4: Blood-Stained Lion"
-    year: 1969
+    year: 1967
   - format: film
     poster_url: "/static/images/films/posters/brutal-tales-of-chivalry-5-lions-code-of-honor-1969.webp"
     roles:
@@ -68,17 +68,17 @@ works:
     title: "Brutal Tales of Chivalry 5: Lion's Code of Honor"
     year: 1969
   - format: film
-    poster_url: "/static/images/films/posters/brutal-tales-of-chivalry-6-man-slaying-lion-1970.webp"
+    poster_url: "/static/images/films/posters/brutal-tales-of-chivalry-6-man-slaying-lion-1969.webp"
     roles:
       - name: Kazama Jûkichi
     title: "Brutal Tales of Chivalry 6: Man-Slaying Lion"
-    year: 1970
+    year: 1969
   - format: film
-    poster_url: "/static/images/films/posters/brutal-tales-of-chivalry-7-hell-is-mans-destiny-1971.webp"
+    poster_url: "/static/images/films/posters/brutal-tales-of-chivalry-7-hell-is-mans-destiny-1970.webp"
     roles:
       - name: Kazama Jûkichi
     title: "Brutal Tales of Chivalry 7: Hell is Man's Destiny"
-    year: 1971
+    year: 1970
   - format: film
     poster_url: "/static/images/films/posters/brutal-tales-of-chivalry-8-the-roaring-lion-1971.webp"
     roles:

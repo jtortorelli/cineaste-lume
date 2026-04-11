@@ -1,4 +1,4 @@
-export const layout = "layouts/layout.vto";
+export const layout = "layouts/layout.jsx";
 export default (
   {
     active_period_start,

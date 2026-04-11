@@ -19,9 +19,9 @@ spouses:
 type: person
 works:
   - title: The Blue Pearl
-    year: 1952
+    year: 1951
     format: film
-    poster_url: /static/images/films/posters/blue-pearl-1952.webp
+    poster_url: /static/images/films/posters/blue-pearl-1951.webp
     staff:
       - role: Director
   - format: film

@@ -148,13 +148,13 @@ works:
     title: "Death Note: Light Up the New World"
     year: 2016
   - format: film
-    poster_url: /static/images/films/posters/inuyashiki-2017.webp
+    poster_url: /static/images/films/posters/inuyashiki-2018.webp
     staff:
       - role: SFX Director
     title: Inuyashiki
     year: 2018
   - format: film
-    poster_url: /static/images/films/posters/bleach-2017.webp
+    poster_url: /static/images/films/posters/bleach-2018.webp
     staff:
       - role: SFX Director
     title: Bleach

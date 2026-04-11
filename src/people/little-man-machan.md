@@ -51,18 +51,18 @@ works:
     title: All Monsters Attack
     year: 1969
   - format: film
-    poster_url: /static/images/films/posters/pulgasari-1985.webp
+    poster_url: /static/images/films/posters/pulgasari-1986.webp
     roles:
       - name: Infant Pulgasari
         qualifiers:
           - Suit Actor
         uncredited: true
     title: Pulgasari
-    year: 1985
+    year: 1986
 ---
 
 Born Fukasawa Masao, "Little Man Mâchan" was a diminutive actor and former professional midget wrestler. He was active in theater, both in drama and comedy, and was reportedly an accomplished tap dancer.
 
 He is most famous for his portrayal of Minilla, the Son of Godzilla, in several films in the late 1960s, beginning with _Son of Godzilla_ (1967). He was 46 years old when he took on the role. His popularity extended to Taiwan and across Southeast Asia.
 
-Beyond the Godzilla series, he made an uncredited appearance as the infant monster in the North Korean film _Pulgasari_ (1985) and appeared as a dwarf in _The Lost World of Sinbad_ (1963).
+Beyond the Godzilla series, he made an uncredited appearance as the infant monster in the North Korean film _Pulgasari_ (1986) and appeared as a dwarf in _The Lost World of Sinbad_ (1963).

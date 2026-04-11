@@ -121,9 +121,9 @@ works:
     title: "Gamera: Guardian of the Universe"
     year: 1995
   - title: The Great Buddha Arrival
-    year: 2019
+    year: 2018
     format: film
-    poster_url: "/static/images/films/posters/great-buddha-arrival-2019.webp"
+    poster_url: "/static/images/films/posters/great-buddha-arrival-2018.webp"
     roles:
       - name: Prime Minister Mashiro
 ---

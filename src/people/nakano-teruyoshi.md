@@ -228,9 +228,9 @@ works:
     title: The Return of Godzilla
     year: 1985
   - title: Pulgasari
-    year: 1985
+    year: 1986
     format: film
-    poster_url: /static/images/films/posters/pulgasari-1985.webp
+    poster_url: /static/images/films/posters/pulgasari-1986.webp
     staff:
       - role: SFX Director
   - format: film

@@ -1,4 +1,4 @@
-export const layout = "layouts/layout.vto";
+export const layout = "layouts/layout.jsx";
 export const title = "Films";
 
 export default ({ comp, search }, { date, icon }) => (

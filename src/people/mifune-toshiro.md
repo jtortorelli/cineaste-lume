@@ -217,8 +217,8 @@ works:
     year: 1961
   - title: The Important Man
     format: film
-    year: 1961
-    poster_url: "/static/images/films/posters/important-man-1961.webp"
+    year: 1962
+    poster_url: "/static/images/films/posters/important-man-1962.webp"
     roles:
       - name: Ánimas Trujano
   - format: film
@@ -274,23 +274,23 @@ works:
       - name: War Minister Anami Korechika
     poster_url: "/static/images/films/posters/japans-longest-day-1967.webp"
   - title: The Sands of Kurobe
-    year: 1967
+    year: 1968
     format: film
-    poster_url: "/static/images/films/posters/sands-of-kurobe-1967.webp"
+    poster_url: "/static/images/films/posters/sands-of-kurobe-1968.webp"
     roles:
       - name: Kitagawa
-  - title: Gion Matsuri
-    format: film
-    year: 1968
-    poster_url: "/static/images/films/posters/gion-matsuri-1968.webp"
-    roles:
-      - name: Kumaza
   - title: Admiral Yamamoto
     format: film
     year: 1968
     poster_url: "/static/images/films/posters/admiral-yamamoto-1968.webp"
     roles:
       - name: Admiral Yamamoto Isoroku
+  - title: Gion Matsuri
+    format: film
+    year: 1968
+    poster_url: "/static/images/films/posters/gion-matsuri-1968.webp"
+    roles:
+      - name: Kumaza
   - format: film
     poster_url: "/static/images/films/posters/zatoichi-meets-yojimbo-1970.webp"
     roles:

@@ -24,7 +24,7 @@ works:
     poster_url: /static/images/films/posters/crazy-adventure-1965.webp
     roles:
       - name: Adolf Hitler
-    title: Crazy Adventure
+    title: The Crazy Adventure
     year: 1965
   - format: film
     poster_url: /static/images/films/posters/golden-bat-1966.webp

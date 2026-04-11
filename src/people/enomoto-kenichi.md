@@ -13,12 +13,12 @@ profession: Actor
 type: person
 works:
   - format: film
-    poster_url: /static/images/films/posters/men-who-tread-on-the-tigers-tail-1945.webp
+    poster_url: /static/images/films/posters/men-who-tread-on-the-tigers-tail-1952.webp
     roles:
       - name: Porter
         uncredited: false
     title: The Men Who Tread on the Tiger's Tail
-    year: 1945
+    year: 1952
   - format: film
     poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:

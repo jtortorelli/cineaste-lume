@@ -47,9 +47,9 @@ works:
     title: The Vampire Doll
     year: 1971
   - title: The Great Buddha Arrival
-    year: 2019
+    year: 2018
     format: film
-    poster_url: /static/images/films/posters/great-buddha-arrival-2019.webp
+    poster_url: /static/images/films/posters/great-buddha-arrival-2018.webp
     roles:
       - name: Murata Yûko
 ---
@@ -66,6 +66,6 @@ atmospheric horror film _The Vampire Doll_ (1970), the first entry in Toho's
 Android Zero One in _Ultraseven_.
 
 She retired from acting in 1974 due to illness but remained a beloved figure
-among fans. She made a surprise return to the screen in the 2019 film _The Great
+among fans. She made a surprise return to the screen in the 2018 film _The Great
 Buddha Arrival_ and appeared in the KaijuCast documentary _Hail to the King: 60
 Years of Destruction_ (2015).

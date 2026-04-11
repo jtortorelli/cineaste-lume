@@ -28,12 +28,12 @@ works:
     title: "Sanshiro Sugata: Part Two"
     year: 1945
   - format: film
-    poster_url: "/static/images/films/posters/men-who-tread-on-the-tigers-tail-1945.webp"
+    poster_url: "/static/images/films/posters/men-who-tread-on-the-tigers-tail-1952.webp"
     roles:
       - name: Togashi
         uncredited: false
     title: The Men Who Tread on the Tiger's Tail
-    year: 1945
+    year: 1952
   - format: film
     poster_url: "/static/images/films/posters/mysterians-1957.webp"
     roles:
