@@ -25,6 +25,11 @@ original_works:
         slug: kayama-shigeru
     slug: monster-godzilla
     title: Monster Godzilla
+video_review:
+  star_rating: 3
+  youtube_url: https://youtu.be/S-Z8-9Usy4Q
+  rumble_url: https://rumble.com/v6vs2ep-godzilla-raids-again-review.html
+  odysee_url: https://odysee.com/@jingowestern:3/Godzilla-Raids-Again-Review:2
 poster_url: /static/images/films/posters/godzilla-raids-again-1955.webp
 release_date: 1955-04-24
 runtime: 82

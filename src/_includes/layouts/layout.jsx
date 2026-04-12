@@ -56,21 +56,21 @@ export default ({ title, name, children }, { icon }) => {
                 <p>
                   <a
                     href="https://x.com/jingowestern"
-                    class="inline-block align-middle text-black [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-black [&_path]:fill-gray-500"
+                    class="inline-block align-middle text-gray-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-gray-500 [&_path]:fill-gray-500"
                   >
                     <img src={icon("x", "simpleicons")} inline />
                   </a>
                   &nbsp;&nbsp;
                   <a
                     href="https://www.youtube.com/@jingowestern"
-                    class="inline-block align-middle text-red-600 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-red-600 [&_path]:fill-red-500"
+                    class="inline-block align-middle text-red-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-red-500 [&_path]:fill-red-500"
                   >
                     <img src={icon("youtube", "simpleicons")} inline />
                   </a>
                   &nbsp;&nbsp;
                   <a
                     href="https://rumble.com/c/c-7743057"
-                    class="inline-block align-middle text-green-600 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-green-600 [&_path]:fill-green-500"
+                    class="inline-block align-middle text-green-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-green-500 [&_path]:fill-green-500"
                   >
                     <img src={icon("rumble", "simpleicons")} inline />
                   </a>

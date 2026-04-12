@@ -18,6 +18,7 @@ export default (
     studios,
     comp,
     film_series,
+    video_review,
     credits,
     basename,
   },
@@ -39,6 +40,60 @@ export default (
         />
       </div>
     </div>
+    {video_review && (
+      <div class="text-center w-fit m-auto pt-2 pb-4">
+        <div class="font-content text-red-700">
+          godzillacineaste.net review
+        </div>
+        <div class="flex justify-center pt-1 gap-0.5">
+          {Array.from({ length: 4 }, (_, i) => {
+            const n = Math.min(
+              4,
+              Math.max(0, Number(video_review.star_rating) || 0),
+            );
+            const filled = i < n;
+            return (
+              <img
+                key={i}
+                class="inline h-6 w-6 text-amber-500"
+                src={icon("star", "tabler", filled ? "filled" : "outline")}
+                inline
+              />
+            );
+          })}
+        </div>
+        {(video_review.youtube_url ||
+          video_review.rumble_url ||
+          video_review.odysee_url) && (
+          <div class="flex justify-center items-center gap-3 pt-2">
+            {video_review.youtube_url && (
+              <a
+                href={video_review.youtube_url}
+                class="inline-block align-middle text-red-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-red-500 [&_path]:fill-red-500"
+              >
+                <img src={icon("youtube", "simpleicons")} inline />
+              </a>
+            )}
+            {video_review.rumble_url && (
+              <a
+                href={video_review.rumble_url}
+                class="inline-block align-middle text-green-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-green-500 [&_path]:fill-green-500"
+              >
+                <img src={icon("rumble", "simpleicons")} inline />
+              </a>
+            )}
+            {video_review.odysee_url && (
+              <a
+                href={video_review.odysee_url}
+                class="inline-block align-middle text-orange-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-orange-500 [&_path]:fill-orange-500"
+              >
+                <img src={icon("odysee", "simpleicons")} inline />
+              </a>
+            )}
+          </div>
+        )}
+      </div>
+    )}
     <comp.named_divider name="Overview" />
     <div class="font-content text-sm text-gray-700 max-w-96 w-fit m-auto">
       <div class="flex pb-2 gap-2">
@@ -269,7 +324,7 @@ export default (
       </div>
     </div>
     <comp.named_divider name="Staff" />
-    <div class={`w-fit m-auto ${staff.length >= 6 && "lg:columns-3"} ${staff.length < 6 && staff.length >=4 && "lg:columns-2"} lg:gap-x-8`}>
+    <div class={`w-fit m-auto ${staff.length >= 6 && "lg:columns-3"} ${staff.length < 6 && staff.length >= 4 && "lg:columns-2"} lg:gap-x-8`}>
       {staff.map((staff) => (
         <div class="lg:text-center text-left lg:break-inside-avoid-column pb-1">
           <div class="">
