@@ -198,6 +198,10 @@ top_billed_cast:
     name: Sakamoto Haruya
     role: Soldier
     slug: sakamoto-haruya
+  - avatar_url: /static/images/films/varan-the-unbelievable-1958/cast-avatars/nakajima-haruo-1.webp
+    name: Nakajima Haruo
+    role: Naval Officer
+    slug: nakajima-haruo
 translation: Giant Monster Varan
 transliteration: Daikaijû Baran
 ---

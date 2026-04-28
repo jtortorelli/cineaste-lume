@@ -107,6 +107,7 @@ works:
         qualifiers:
           - Suit Actor
         uncredited: false
+      - name: Naval Officer
     slug: varan-the-unbelievable-1958
     title: Varan the Unbelievable
     year: 1958

@@ -58,6 +58,14 @@ works:
     slug: throne-of-blood-1957
     title: Throne of Blood
     year: 1957
+  - title: The H-Man
+    poster_url: /static/images/films/posters/h-man-1958.webp
+    slug: h-man-1958
+    roles:
+      - name: Policeman
+        uncredited: true
+    year: 1958
+    format: film
   - format: film
     poster_url: /static/images/films/posters/varan-the-unbelievable-1958.webp
     roles:

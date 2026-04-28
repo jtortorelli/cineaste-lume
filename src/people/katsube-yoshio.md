@@ -52,6 +52,8 @@ works:
   - format: film
     poster_url: /static/images/films/posters/h-man-1958.webp
     roles:
+      - name: Bouncer
+        uncredited: true
       - name: Reporter
         uncredited: true
     slug: h-man-1958
