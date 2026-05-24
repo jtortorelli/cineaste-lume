@@ -66,7 +66,7 @@ works:
   - format: film
     poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:
-      - name: Hachihara
+      - name: Yahara
         uncredited: false
     slug: three-treasures-1959
     title: The Three Treasures

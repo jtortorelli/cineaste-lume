@@ -215,7 +215,7 @@ top_billed_cast:
   - avatar_url: /static/images/films/three-treasures-1959/cast-avatars/kichijiro-ueda-0.webp
     character_qualifiers:
     name: Ueda Kichijirô
-    role: Hachihara
+    role: Yahara
     slug: ueda-kichijiro
   - avatar_url: /static/images/films/three-treasures-1959/cast-avatars/yoshio-kosugi-0.webp
     character_qualifiers:
