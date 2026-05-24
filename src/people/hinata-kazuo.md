@@ -74,6 +74,8 @@ works:
   - format: film
     poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:
+      - name: Kumaso Partygoer
+        uncredited: true
       - name: Utte Villager
         uncredited: true
     slug: three-treasures-1959

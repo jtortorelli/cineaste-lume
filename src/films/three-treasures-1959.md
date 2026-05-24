@@ -62,6 +62,11 @@ supporting_cast:
     role: Yamato Villager
     slug: gondo-yukihiko
     uncredited: true
+  - avatar_url: /static/images/films/three-treasures-1959/cast-avatars/hinata-kazuo-1.webp
+    name: Hinata Kazuo
+    role: Kumaso Partygoer
+    slug: hinata-kazuo
+    uncredited: true
   - avatar_url: /static/images/films/three-treasures-1959/cast-avatars/kazuo-hinata-0.webp
     character_qualifiers:
     name: Hinata Kazuo
