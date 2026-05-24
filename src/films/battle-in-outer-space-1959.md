@@ -3,7 +3,7 @@ tags: ["cineaste", "films"]
 japanese_title: 宇宙大戦争
 poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
 release_date: 1959-12-26
-runtime: 91
+runtime: 93
 staff:
   - people:
       - name: Honda Ishirô
@@ -174,7 +174,7 @@ top_billed_cast:
     slug: conway-harold
   - avatar_url: /static/images/films/battle-in-outer-space-1959/cast-avatars/george-wyman-0.webp
     character_qualifiers:
-    name: Wyman George
+    name: George Wyman
     role: Doctor Ahmed
   - avatar_url: /static/images/films/battle-in-outer-space-1959/cast-avatars/elise-richter-0.webp
     character_qualifiers:
