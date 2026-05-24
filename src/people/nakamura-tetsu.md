@@ -29,7 +29,7 @@ works:
         uncredited: false
     slug: h-man-1958
     title: The H-Man
-    year: 1959
+    year: 1958
   - format: film
     poster_url: /static/images/films/posters/human-vapor-1960.webp
     roles:

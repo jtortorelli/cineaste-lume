@@ -14,6 +14,14 @@ profession: Actor
 type: person
 works:
   - format: film
+    poster_url: /static/images/films/posters/h-man-1958.webp
+    roles:
+      - name: Uchida
+        uncredited: false
+    slug: h-man-1958
+    title: The H-Man
+    year: 1958
+  - format: film
     poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Man at Fire Festival
@@ -21,14 +29,6 @@ works:
     slug: hidden-fortress-1958
     title: The Hidden Fortress
     year: 1958
-  - format: film
-    poster_url: /static/images/films/posters/h-man-1958.webp
-    roles:
-      - name: Uchida
-        uncredited: false
-    slug: h-man-1958
-    title: The H-Man
-    year: 1959
   - format: film
     poster_url: /static/images/films/posters/lost-world-of-sinbad-1963.webp
     roles:

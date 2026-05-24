@@ -74,7 +74,7 @@ works:
         uncredited: false
     slug: h-man-1958
     title: The H-Man
-    year: 1959
+    year: 1958
   - format: film
     poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:

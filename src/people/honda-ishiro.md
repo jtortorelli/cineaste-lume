@@ -60,19 +60,19 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
+    poster_url: /static/images/films/posters/h-man-1958.webp
+    slug: h-man-1958
+    staff:
+      - role: Director
+    title: The H-Man
+    year: 1958
+  - format: film
     poster_url: /static/images/films/posters/varan-the-unbelievable-1958.webp
     slug: varan-the-unbelievable-1958
     staff:
       - role: Director
     title: Varan the Unbelievable
     year: 1958
-  - format: film
-    poster_url: /static/images/films/posters/h-man-1958.webp
-    slug: h-man-1958
-    staff:
-      - role: Director
-    title: The H-Man
-    year: 1959
   - format: film
     poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     slug: battle-in-outer-space-1959

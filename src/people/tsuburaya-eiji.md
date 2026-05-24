@@ -84,19 +84,19 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
+    poster_url: /static/images/films/posters/h-man-1958.webp
+    slug: h-man-1958
+    staff:
+      - role: SFX Director
+    title: The H-Man
+    year: 1958
+  - format: film
     poster_url: /static/images/films/posters/varan-the-unbelievable-1958.webp
     slug: varan-the-unbelievable-1958
     staff:
       - role: SFX Director
     title: Varan the Unbelievable
     year: 1958
-  - format: film
-    poster_url: /static/images/films/posters/h-man-1958.webp
-    slug: h-man-1958
-    staff:
-      - role: SFX Director
-    title: The H-Man
-    year: 1959
   - format: film
     poster_url: /static/images/films/posters/three-treasures-1959.webp
     slug: three-treasures-1959

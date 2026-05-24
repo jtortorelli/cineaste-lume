@@ -53,6 +53,14 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
+    poster_url: /static/images/films/posters/h-man-1958.webp
+    roles:
+      - name: Detective Taguchi
+        uncredited: false
+    slug: h-man-1958
+    title: The H-Man
+    year: 1958
+  - format: film
     poster_url: /static/images/films/posters/varan-the-unbelievable-1958.webp
     roles:
       - name: Officer Katsumoto
@@ -68,14 +76,6 @@ works:
     slug: hidden-fortress-1958
     title: The Hidden Fortress
     year: 1958
-  - format: film
-    poster_url: /static/images/films/posters/h-man-1958.webp
-    roles:
-      - name: Detective Taguchi
-        uncredited: false
-    slug: h-man-1958
-    title: The H-Man
-    year: 1959
   - format: film
     poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:

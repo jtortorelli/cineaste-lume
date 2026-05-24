@@ -101,6 +101,14 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
+    poster_url: /static/images/films/posters/h-man-1958.webp
+    roles:
+      - name: Fisherman
+        uncredited: false
+    slug: h-man-1958
+    title: The H-Man
+    year: 1958
+  - format: film
     poster_url: /static/images/films/posters/varan-the-unbelievable-1958.webp
     roles:
       - name: Varan
@@ -119,14 +127,6 @@ works:
     slug: hidden-fortress-1958
     title: The Hidden Fortress
     year: 1958
-  - format: film
-    poster_url: /static/images/films/posters/h-man-1958.webp
-    roles:
-      - name: Fisherman
-        uncredited: false
-    slug: h-man-1958
-    title: The H-Man
-    year: 1959
   - format: film
     poster_url: /static/images/films/posters/secret-of-the-telegian-1960.webp
     roles:

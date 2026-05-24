@@ -46,6 +46,14 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
+    poster_url: /static/images/films/posters/h-man-1958.webp
+    roles:
+      - name: Taxi Driver
+        uncredited: false
+    slug: h-man-1958
+    title: The H-Man
+    year: 1958
+  - format: film
     poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Yamana Checkpoint Guard
@@ -53,14 +61,6 @@ works:
     slug: hidden-fortress-1958
     title: The Hidden Fortress
     year: 1958
-  - format: film
-    poster_url: /static/images/films/posters/h-man-1958.webp
-    roles:
-      - name: Taxi Driver
-        uncredited: false
-    slug: h-man-1958
-    title: The H-Man
-    year: 1959
   - format: film
     poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:

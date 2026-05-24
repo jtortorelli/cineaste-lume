@@ -52,6 +52,14 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
+    poster_url: /static/images/films/posters/h-man-1958.webp
+    roles:
+      - name: Soldier
+        uncredited: false
+    slug: h-man-1958
+    title: The H-Man
+    year: 1958
+  - format: film
     poster_url: /static/images/films/posters/varan-the-unbelievable-1958.webp
     roles:
       - name: Bomber Pilot
@@ -59,14 +67,6 @@ works:
     slug: varan-the-unbelievable-1958
     title: Varan the Unbelievable
     year: 1958
-  - format: film
-    poster_url: /static/images/films/posters/h-man-1958.webp
-    roles:
-      - name: Soldier
-        uncredited: false
-    slug: h-man-1958
-    title: The H-Man
-    year: 1959
   - format: film
     poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:

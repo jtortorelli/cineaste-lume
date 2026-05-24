@@ -55,6 +55,14 @@ works:
     poster_url: "/static/images/films/posters/half-human-1955.webp"
     format: film
   - format: film
+    poster_url: /static/images/films/posters/h-man-1958.webp
+    roles:
+      - name: Fisherman
+        uncredited: false
+    slug: h-man-1958
+    title: The H-Man
+    year: 1958
+  - format: film
     poster_url: /static/images/films/posters/varan-the-unbelievable-1958.webp
     roles:
       - name: Village Priest
@@ -62,14 +70,6 @@ works:
     slug: varan-the-unbelievable-1958
     title: Varan the Unbelievable
     year: 1958
-  - format: film
-    poster_url: /static/images/films/posters/h-man-1958.webp
-    roles:
-      - name: Fisherman
-        uncredited: false
-    slug: h-man-1958
-    title: The H-Man
-    year: 1959
   - format: film
     poster_url: /static/images/films/posters/three-treasures-1959.webp
     roles:

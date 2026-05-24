@@ -22,6 +22,14 @@ profession: Actor
 type: person
 works:
   - format: film
+    poster_url: /static/images/films/posters/h-man-1958.webp
+    roles:
+      - name: Doctor Maki
+        uncredited: false
+    slug: h-man-1958
+    title: The H-Man
+    year: 1958
+  - format: film
     poster_url: /static/images/films/posters/varan-the-unbelievable-1958.webp
     roles:
       - name: Doctor Sugimoto
@@ -29,14 +37,6 @@ works:
     slug: varan-the-unbelievable-1958
     title: Varan the Unbelievable
     year: 1958
-  - format: film
-    poster_url: /static/images/films/posters/h-man-1958.webp
-    roles:
-      - name: Doctor Maki
-        uncredited: false
-    slug: h-man-1958
-    title: The H-Man
-    year: 1959
   - format: film
     poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:

@@ -38,7 +38,7 @@ works:
     staff:
       - role: Art
     title: The H-Man
-    year: 1959
+    year: 1958
   - format: film
     poster_url: /static/images/films/posters/mothra-1961.webp
     slug: mothra-1961

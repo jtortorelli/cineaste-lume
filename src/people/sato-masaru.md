@@ -65,19 +65,19 @@ works:
     staff:
       - role: Music
   - format: film
+    poster_url: /static/images/films/posters/h-man-1958.webp
+    slug: h-man-1958
+    staff:
+      - role: Music
+    title: The H-Man
+    year: 1958
+  - format: film
     poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     slug: hidden-fortress-1958
     staff:
       - role: Music
     title: The Hidden Fortress
     year: 1958
-  - format: film
-    poster_url: /static/images/films/posters/h-man-1958.webp
-    slug: h-man-1958
-    staff:
-      - role: Music
-    title: The H-Man
-    year: 1959
   - format: film
     poster_url: /static/images/films/posters/yojimbo-1961.webp
     slug: yojimbo-1961

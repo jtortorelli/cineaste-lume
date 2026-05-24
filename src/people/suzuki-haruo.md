@@ -50,6 +50,14 @@ works:
     title: The Mysterians
     year: 1957
   - format: film
+    poster_url: /static/images/films/posters/h-man-1958.webp
+    roles:
+      - name: Policeman
+        uncredited: true
+    slug: h-man-1958
+    title: The H-Man
+    year: 1958
+  - format: film
     poster_url: /static/images/films/posters/hidden-fortress-1958.webp
     roles:
       - name: Yamana Cavalry
@@ -57,14 +65,6 @@ works:
     slug: hidden-fortress-1958
     title: The Hidden Fortress
     year: 1958
-  - format: film
-    poster_url: /static/images/films/posters/h-man-1958.webp
-    roles:
-      - name: Policeman
-        uncredited: true
-    slug: h-man-1958
-    title: The H-Man
-    year: 1959
   - format: film
     poster_url: /static/images/films/posters/battle-in-outer-space-1959.webp
     roles:
