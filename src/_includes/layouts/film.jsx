@@ -1,4 +1,26 @@
 export const layout = "layouts/layout.jsx";
+
+function staffFromCsv(rows) {
+  const groups = [];
+  const roleIndex = new Map();
+
+  for (const { role, person_display_name, person_slug } of rows) {
+    const person = {
+      name: person_display_name,
+      ...(person_slug ? { slug: person_slug } : {}),
+    };
+
+    if (roleIndex.has(role)) {
+      groups[roleIndex.get(role)].people.push(person);
+    } else {
+      roleIndex.set(role, groups.length);
+      groups.push({ role, people: [person] });
+    }
+  }
+
+  return groups;
+}
+
 export default (
   {
     title,
@@ -21,9 +43,15 @@ export default (
     video_review,
     credits,
     basename,
+    staffs
   },
   { date, icon },
-) => (
+) => {
+  const displayStaff = staffs[basename]
+    ? staffFromCsv(staffs[basename])
+    : staff;
+
+  return (
   <>
     <div class="text-center w-fit m-auto">
       <h1 class="font-display tracking-wider uppercase p-4 text-2xl text-gray-700">
@@ -65,33 +93,33 @@ export default (
         {(video_review.youtube_url ||
           video_review.rumble_url ||
           video_review.odysee_url) && (
-          <div class="flex justify-center items-center gap-3 pt-2">
-            {video_review.youtube_url && (
-              <a
-                href={video_review.youtube_url}
-                class="inline-block align-middle text-red-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-red-500 [&_path]:fill-red-500"
-              >
-                <img src={icon("youtube", "simpleicons")} inline />
-              </a>
-            )}
-            {video_review.rumble_url && (
-              <a
-                href={video_review.rumble_url}
-                class="inline-block align-middle text-green-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-green-500 [&_path]:fill-green-500"
-              >
-                <img src={icon("rumble", "simpleicons")} inline />
-              </a>
-            )}
-            {video_review.odysee_url && (
-              <a
-                href={video_review.odysee_url}
-                class="inline-block align-middle text-orange-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-orange-500 [&_path]:fill-orange-500"
-              >
-                <img src={icon("odysee", "simpleicons")} inline />
-              </a>
-            )}
-          </div>
-        )}
+            <div class="flex justify-center items-center gap-3 pt-2">
+              {video_review.youtube_url && (
+                <a
+                  href={video_review.youtube_url}
+                  class="inline-block align-middle text-red-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-red-500 [&_path]:fill-red-500"
+                >
+                  <img src={icon("youtube", "simpleicons")} inline />
+                </a>
+              )}
+              {video_review.rumble_url && (
+                <a
+                  href={video_review.rumble_url}
+                  class="inline-block align-middle text-green-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-green-500 [&_path]:fill-green-500"
+                >
+                  <img src={icon("rumble", "simpleicons")} inline />
+                </a>
+              )}
+              {video_review.odysee_url && (
+                <a
+                  href={video_review.odysee_url}
+                  class="inline-block align-middle text-orange-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-orange-500 [&_path]:fill-orange-500"
+                >
+                  <img src={icon("odysee", "simpleicons")} inline />
+                </a>
+              )}
+            </div>
+          )}
       </div>
     )}
     <comp.named_divider name="Overview" />
@@ -324,8 +352,8 @@ export default (
       </div>
     </div>
     <comp.named_divider name="Staff" />
-    <div class={`w-fit m-auto ${staff.length >= 6 && "lg:columns-3"} ${staff.length < 6 && staff.length >= 4 && "lg:columns-2"} lg:gap-x-8`}>
-      {staff.map((staff) => (
+    <div class={`w-fit m-auto ${displayStaff.length >= 6 && "lg:columns-3"} ${displayStaff.length < 6 && displayStaff.length >= 4 && "lg:columns-2"} lg:gap-x-8`}>
+      {displayStaff.map((staff) => (
         <div class="lg:text-center text-left lg:break-inside-avoid-column pb-1">
           <div class="">
             <span class="font-content text-xs text-gray-500">{staff.role}</span>
@@ -482,4 +510,5 @@ export default (
       </>
     )}
   </>
-);
+  );
+};
