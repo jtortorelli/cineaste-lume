@@ -43,13 +43,15 @@ export default (
     video_review,
     credits,
     basename,
-    staffs
+    staffs,
+    casts,
   },
   { date, icon },
 ) => {
   const displayStaff = staffs[basename]
     ? staffFromCsv(staffs[basename])
     : staff;
+  const castCsv = casts[basename];
 
   return (
   <>
@@ -448,12 +450,18 @@ export default (
         </dialog>
       </>
     )}
-    <comp.named_divider name="top billed cast" />
-    <comp.cast_block block={top_billed_cast} />
-    {supporting_cast && supporting_cast.length > 0 && (
+    {castCsv ? (
+      <comp.cast_block_from_csv rows={castCsv} />
+    ) : (
       <>
-        <comp.named_divider name="supporting cast" />
-        <comp.cast_block block={supporting_cast} />
+        <comp.named_divider name="top billed cast" />
+        <comp.cast_block block={top_billed_cast} />
+        {supporting_cast && supporting_cast.length > 0 && (
+          <>
+            <comp.named_divider name="supporting cast" />
+            <comp.cast_block block={supporting_cast} />
+          </>
+        )}
       </>
     )}
     {kaiju && kaiju.length > 0 && (
