@@ -214,7 +214,7 @@ works:
     slug: stand-by-me-doraemon-2014
     staff:
       - role: Music
-    title: Stand By Me, Doraemon
+    title: Stand By Me Doraemon
     year: 2014
   - format: film
     poster_url: /static/images/films/posters/rurouni-kenshin-the-legend-ends-2014.webp
@@ -290,7 +290,7 @@ works:
     poster_url: /static/images/films/posters/voice-of-sin-2020.webp
     staff:
       - role: Music
-  - title: Stand By Me, Doraemon 2
+  - title: Stand By Me Doraemon 2
     format: film
     year: 2020
     poster_url: /static/images/films/posters/stand-by-me-doraemon-2-2020.webp

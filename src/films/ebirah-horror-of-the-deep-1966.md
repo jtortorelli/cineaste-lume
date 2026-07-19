@@ -26,18 +26,6 @@ kaiju:
 poster_url: /static/images/films/posters/ebirah-horror-of-the-deep-1966.webp
 release_date: 1966-12-17
 runtime: 87
-series:
-  entry_number: 7
-  next_entry:
-    slug: son-of-godzilla-1967
-    title: Son of Godzilla
-    year: 1967
-  previous_entry:
-    slug: invasion-of-astro-monster-1965
-    title: Invasion of Astro-Monster
-    year: 1965
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Fukuda Jun

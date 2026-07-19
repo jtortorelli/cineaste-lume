@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichis-pilgrimage-1966.webp
 release_date: 1966-08-13
 runtime: 82
-series:
-  entry_number: 14
-  next_entry:
-    slug: zatoichis-cane-sword-1967
-    title: Zatoichi's Cane Sword
-    year: 1967
-  previous_entry:
-    slug: zatoichis-vengeance-1966
-    title: Zatoichi's Vengeance
-    year: 1966
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Ikehiro Kazuo

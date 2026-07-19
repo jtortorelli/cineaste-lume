@@ -22,18 +22,6 @@ kaiju:
 poster_url: /static/images/films/posters/gamera-vs-guiron-1969.webp
 release_date: 1969-03-21
 runtime: 82
-series:
-  entry_number: 5
-  next_entry:
-    slug: gamera-vs-jiger-1970
-    title: Gamera vs. Jiger
-    year: 1970
-  previous_entry:
-    slug: gamera-vs-viras-1968
-    title: Gamera vs. Viras
-    year: 1968
-  slug: gamera
-  title: Gamera
 staff:
   - people:
       - name: Yuasa Noriaki

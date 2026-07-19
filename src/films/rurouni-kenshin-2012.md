@@ -13,15 +13,6 @@ original_works:
 poster_url: /static/images/films/posters/rurouni-kenshin-2012.webp
 release_date: 2012-08-25
 runtime: 134
-series:
-  entry_number: 1
-  next_entry:
-    slug: rurouni-kenshin-kyoto-inferno-2014
-    title: "Rurouni Kenshin: Kyoto Inferno"
-    year: 2014
-  previous_entry:
-  slug: rurouni-kenshin
-  title: Rurouni Kenshin
 staff:
   - people:
       - name: Ôtomo Keishi

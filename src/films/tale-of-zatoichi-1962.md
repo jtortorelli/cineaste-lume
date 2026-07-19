@@ -11,15 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/tale-of-zatoichi-1962.webp
 release_date: 1962-04-18
 runtime: 96
-series:
-  entry_number: 1
-  next_entry:
-    slug: tale-of-zatoichi-continues-1962
-    title: The Tale of Zatoichi Continues
-    year: 1962
-  previous_entry:
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Misumi Kenji

@@ -34,18 +34,6 @@ kaiju:
 poster_url: /static/images/films/posters/gamera-super-monster-1980.webp
 release_date: 1980-03-20
 runtime: 109
-series:
-  entry_number: 8
-  next_entry:
-    slug: gamera-guardian-of-the-universe-1995
-    title: "Gamera: Guardian of the Universe"
-    year: 1995
-  previous_entry:
-    slug: gamera-vs-zigra-1971
-    title: Gamera vs. Zigra
-    year: 1971
-  slug: gamera
-  title: Gamera
 staff:
   - people:
       - name: Yuasa Noriaki

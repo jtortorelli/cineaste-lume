@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/library-wars-the-last-mission-2015.webp
 release_date: 2015-10-10
 runtime: 120
-series:
-  entry_number: 2
-  next_entry:
-  previous_entry:
-    slug: library-wars-2013
-    title: Library Wars
-    year: 2013
-  slug: library-wars
-  title: Library Wars
 staff:
   - people:
       - name: Satô Shinsuke

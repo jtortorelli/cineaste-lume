@@ -29,18 +29,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-vs-spacegodzilla-1994.webp
 release_date: 1994-12-10
 runtime: 108
-series:
-  entry_number: 21
-  next_entry:
-    slug: godzilla-vs-destoroyah-1995
-    title: Godzilla vs. Destoroyah
-    year: 1995
-  previous_entry:
-    slug: godzilla-vs-mechagodzilla-ii-1993
-    title: Godzilla vs. Mechagodzilla II
-    year: 1993
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Yamashita Kenshô

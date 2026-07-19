@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/samurai-iii-duel-at-ganryu-island-1956.webp
 release_date: 1956-01-03
 runtime: 104
-series:
-  entry_number: 3
-  next_entry:
-  previous_entry:
-    slug: samurai-ii-duel-at-ichijoji-temple-1955
-    title: "Samurai II: Duel at Ichijoji Temple"
-    year: 1955
-  slug: musashi-miyamoto
-  title: Musashi Miyamoto
 staff:
   - people:
       - name: Inagaki Hiroshi

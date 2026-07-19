@@ -40,7 +40,7 @@ accolades:
     category: Best Animated Picture
     status: won
     films:
-      - title: Stand By Me, Doraemon
+      - title: Stand By Me Doraemon
   - ceremony: 78th Mainichi Film Awards
     category: Best Director
     status: nominated
@@ -170,7 +170,7 @@ works:
     staff:
       - role: Director
       - role: Screenplay
-    title: Stand By Me, Doraemon
+    title: Stand By Me Doraemon
     year: 2014
   - format: film
     poster_url: /static/images/films/posters/parasyte-part-1-2014.webp
@@ -229,7 +229,7 @@ works:
     staff:
       - role: Director
       - role: Screenplay
-  - title: Stand By Me, Doraemon 2
+  - title: Stand By Me Doraemon 2
     format: film
     year: 2020
     poster_url: /static/images/films/posters/stand-by-me-doraemon-2-2020.webp
@@ -260,7 +260,7 @@ Yamazaki's third film, _Always: Sunset on Third Street_ (2005), was a massive cr
 
 His passion project _Space Battleship Yamato_ (2010) spent nearly a year in post-production to concentrate on its visuals. The film went on to best _Harry Potter and the Deathly Hallows Part 1_ at the Japanese box office. 
 
-Yamazaki's _Always: Sunset on Third Street 3_ (2012) was the first full-length Japanese film to be shot entirely on 3D cameras. He has also branched out into 3D animated films, co-directing _Friends: Naki on Monster Island_ (2011) and _Stand By Me, Doraemon_ (2014) with Yagi Ryûichi.
+Yamazaki's _Always: Sunset on Third Street 3_ (2012) was the first full-length Japanese film to be shot entirely on 3D cameras. He has also branched out into 3D animated films, co-directing _Friends: Naki on Monster Island_ (2011) and _Stand By Me Doraemon_ (2014) with Yagi Ryûichi.
 
 His films are generally family-friendly fare, with the notable exception of the _Parasyte_ films, which are his only full-on horror works. He is married to director/screenwriter Satô Shimako. They collaborated together on Satô's _Eko Eko Azarak_ films (1995, 1996), _K-20_ (2008), and _Space Battleship Yamato_. 
 

@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/samurai-i-musashi-miyamoto-1954.webp
 release_date: 1954-09-26
 runtime: 94
-series:
-  entry_number: 1
-  next_entry:
-    slug: samurai-ii-duel-at-ichijoji-temple-1955
-    title: "Samurai II: Duel at Ichijoji Temple"
-    year: 1955
-  previous_entry:
-  slug: musashi-miyamoto
-  title: Musashi Miyamoto
 staff:
   - people:
       - name: Inagaki Hiroshi

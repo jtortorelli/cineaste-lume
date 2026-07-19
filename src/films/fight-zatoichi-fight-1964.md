@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/fight-zatoichi-fight-1964.webp
 release_date: 1964-10-17
 runtime: 87
-series:
-  entry_number: 8
-  next_entry:
-    slug: adventures-of-zatoichi-1964
-    title: Adventures of Zatoichi
-    year: 1964
-  previous_entry:
-    slug: zatoichis-flashing-sword-1964
-    title: Zatoichi's Flashing Sword
-    year: 1964
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Misumi Kenji

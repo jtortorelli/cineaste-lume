@@ -14,15 +14,6 @@ kaiju:
 poster_url: /static/images/films/posters/wrath-of-daimajin-1966.webp
 release_date: 1966-12-10
 runtime: 87
-series:
-  entry_number: 3
-  next_entry:
-  previous_entry:
-    slug: return-of-daimajin-1966
-    title: Return of Daimajin
-    year: 1966
-  slug: daimajin
-  title: Daimajin
 staff:
   - people:
       - name: Mori Kazuo

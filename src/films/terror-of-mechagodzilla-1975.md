@@ -26,18 +26,6 @@ kaiju:
 poster_url: /static/images/films/posters/terror-of-mechagodzilla-1975.webp
 release_date: 1975-03-15
 runtime: 83
-series:
-  entry_number: 15
-  next_entry:
-    slug: return-of-godzilla-1984
-    title: The Return of Godzilla
-    year: 1985
-  previous_entry:
-    slug: godzilla-vs-mechagodzilla-1974
-    title: Godzilla vs. Mechagodzilla
-    year: 1974
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Honda Ishirô

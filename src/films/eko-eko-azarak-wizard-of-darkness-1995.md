@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/eko-eko-azarak-wizard-of-darkness-1995.webp
 release_date: 1995-04-08
 runtime: 80
-series:
-  entry_number: 1
-  next_entry:
-    slug: eko-eko-azarak-ii-birth-of-the-wizard-1996
-    title: "Eko Eko Azarak II: Birth of the Wizard"
-    year: 1996
-  previous_entry:
-  slug: eko-eko-azarak
-  title: Eko Eko Azarak
 staff:
   - people:
       - name: Satô Shimako

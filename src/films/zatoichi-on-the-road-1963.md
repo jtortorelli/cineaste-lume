@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-on-the-road-1963.webp
 release_date: 1963-11-30
 runtime: 88
-series:
-  entry_number: 5
-  next_entry:
-    slug: zatoichi-and-the-chest-of-gold-1964
-    title: Zatoichi and the Chest of Gold
-    year: 1964
-  previous_entry:
-    slug: zatoichi-the-fugitive-1963
-    title: Zatoichi the Fugitive
-    year: 1963
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Yasuda Kimiyoshi

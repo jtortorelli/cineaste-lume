@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/death-note-the-last-name-2006.webp
 release_date: 2006-11-03
 runtime: 140
-series:
-  entry_number: 2
-  next_entry:
-    slug: l-change-the-world-2008
-    title: "L: Change the World"
-    year: 2008
-  previous_entry:
-    slug: death-note-2006
-    title: Death Note
-    year: 2006
-  slug: death-note
-  title: Death Note
 staff:
   - people:
       - name: Kaneko Shûsuke

@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/adventures-of-zatoichi-1964.webp
 release_date: 1964-12-30
 runtime: 86
-series:
-  entry_number: 9
-  next_entry:
-    slug: zatoichis-revenge-1965
-    title: Zatoichi's Revenge
-    year: 1965
-  previous_entry:
-    slug: fight-zatoichi-fight-1964
-    title: Fight, Zatoichi, Fight
-    year: 1964
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Yasuda Kimiyoshi

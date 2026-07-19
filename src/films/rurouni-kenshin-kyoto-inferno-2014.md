@@ -13,18 +13,6 @@ original_works:
 poster_url: /static/images/films/posters/rurouni-kenshin-kyoto-inferno-2014.webp
 release_date: 2014-08-01
 runtime: 139
-series:
-  entry_number: 2
-  next_entry:
-    slug: rurouni-kenshin-the-legend-ends-2014
-    title: "Rurouni Kenshin: The Legend Ends"
-    year: 2014
-  previous_entry:
-    slug: rurouni-kenshin-2012
-    title: Rurouni Kenshin
-    year: 2012
-  slug: rurouni-kenshin
-  title: Rurouni Kenshin
 staff:
   - people:
       - name: Ôtomo Keishi

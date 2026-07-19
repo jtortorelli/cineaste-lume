@@ -13,15 +13,6 @@ original_works:
 poster_url: /static/images/films/posters/attack-on-titan-2015.webp
 release_date: 2015-08-01
 runtime: 98
-series:
-  entry_number: 1
-  next_entry:
-    slug: attack-on-titan-end-of-the-world-2015
-    title: "Attack on Titan: End of the World"
-    year: 2015
-  previous_entry:
-  slug: attack-on-titan
-  title: Attack on Titan
 staff:
   - people:
       - name: Higuchi Shinji

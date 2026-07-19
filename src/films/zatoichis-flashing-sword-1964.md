@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichis-flashing-sword-1964.webp
 release_date: 1964-07-11
 runtime: 82
-series:
-  entry_number: 7
-  next_entry:
-    slug: fight-zatoichi-fight-1964
-    title: Fight, Zatoichi, Fight
-    year: 1964
-  previous_entry:
-    slug: zatoichi-and-the-chest-of-gold-1964
-    title: Zatoichi and the Chest of Gold
-    year: 1964
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Ikehiro Kazuo

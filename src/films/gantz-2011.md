@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/gantz-2011.webp
 release_date: 2011-01-29
 runtime: 130
-series:
-  entry_number: 1
-  next_entry:
-    slug: gantz-perfect-answer-2011
-    title: "Gantz: Perfect Answer"
-    year: 2011
-  previous_entry:
-  slug: gantz
-  title: Gantz
 staff:
   - people:
       - name: Satô Shinsuke

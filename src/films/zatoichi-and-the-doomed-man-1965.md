@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-and-the-doomed-man-1965.webp
 release_date: 1965-09-18
 runtime: 78
-series:
-  entry_number: 11
-  next_entry:
-    slug: zatoichi-and-the-chess-expert-1965
-    title: Zatoichi and the Chess Expert
-    year: 1965
-  previous_entry:
-    slug: zatoichis-revenge-1965
-    title: Zatoichi's Revenge
-    year: 1965
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Mori Kazuo

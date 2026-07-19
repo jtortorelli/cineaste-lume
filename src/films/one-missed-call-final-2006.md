@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/one-missed-call-final-2006.webp
 release_date: 2006-06-24
 runtime: 105
-series:
-  entry_number: 3
-  next_entry:
-  previous_entry:
-    slug: one-missed-call-2-2005
-    title: One Missed Call 2
-    year: 2005
-  slug: one-missed-call
-  title: One Missed Call
 staff:
   - people:
       - name: Asou Manabu

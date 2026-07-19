@@ -14,15 +14,6 @@ kaiju:
 poster_url: /static/images/films/posters/gamera-the-giant-monster-1965.webp
 release_date: 1965-11-27
 runtime: 78
-series:
-  entry_number: 1
-  next_entry:
-    slug: gamera-vs-barugon-1966
-    title: Gamera vs. Barugon
-    year: 1966
-  previous_entry:
-  slug: gamera
-  title: Gamera
 staff:
   - people:
       - name: Yuasa Noriaki

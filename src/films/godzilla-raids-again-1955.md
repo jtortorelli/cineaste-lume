@@ -33,18 +33,6 @@ video_review:
 poster_url: /static/images/films/posters/godzilla-raids-again-1955.webp
 release_date: 1955-04-24
 runtime: 82
-series:
-  entry_number: 2
-  next_entry:
-    slug: king-kong-vs-godzilla-1962
-    title: King Kong vs. Godzilla
-    year: 1962
-  previous_entry:
-    slug: godzilla-1954
-    title: Godzilla
-    year: 1954
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Oda Motoyoshi

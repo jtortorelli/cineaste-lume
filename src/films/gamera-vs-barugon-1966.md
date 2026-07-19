@@ -18,18 +18,6 @@ kaiju:
 poster_url: /static/images/films/posters/gamera-vs-barugon-1966.webp
 release_date: 1966-04-17
 runtime: 101
-series:
-  entry_number: 2
-  next_entry:
-    slug: gamera-vs-gyaos-1967
-    title: Gamera vs. Gyaos
-    year: 1967
-  previous_entry:
-    slug: gamera-the-giant-monster-1965
-    title: Gamera, the Giant Monster
-    year: 1965
-  slug: gamera
-  title: Gamera
 staff:
   - people:
       - name: Tanaka Shigeo

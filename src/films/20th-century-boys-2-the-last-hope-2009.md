@@ -10,18 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/20th-century-boys-2-the-last-hope-2009.webp
 release_date: 2009-01-31
 runtime: 139
-series:
-  entry_number: 2
-  next_entry:
-    slug: 20th-century-boys-3-redemption-2009
-    title: "20th Century Boys 3: Redemption"
-    year: 2009
-  previous_entry:
-    slug: 20th-century-boys-1-the-beginning-of-the-end-2008
-    title: "20th Century Boys 1: The Beginning of the End"
-    year: 2008
-  slug: 20th-century-boys
-  title: 20th Century Boys
 staff:
   - people:
       - name: Tsutsumi Yukihiko

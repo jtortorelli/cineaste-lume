@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/battle-royale-2000.webp
 release_date: 2000-12-16
 runtime: 114
-series:
-  entry_number: 1
-  next_entry:
-    slug: battle-royale-ii-requiem-2003
-    title: "Battle Royale II: Requiem"
-    year: 2003
-  previous_entry:
-  slug: battle-royale
-  title: Battle Royale
 staff:
   - people:
       - name: Fukasaku Kinji

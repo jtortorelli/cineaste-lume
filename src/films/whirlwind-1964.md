@@ -4,15 +4,6 @@ japanese_title: 士魂魔道 大龍巻
 poster_url: /static/images/films/posters/whirlwind-1964.webp
 release_date: 1964-01-03
 runtime: 106
-series:
-  entry_number: 2
-  next_entry:
-  previous_entry:
-    slug: daredevil-in-the-castle-1961
-    title: Daredevil in the Castle
-    year: 1961
-  slug: osaka-castle
-  title: Osaka Castle
 staff:
   - people:
       - name: Inagaki Hiroshi

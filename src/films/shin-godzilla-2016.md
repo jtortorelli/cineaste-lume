@@ -14,15 +14,6 @@ kaiju:
 poster_url: /static/images/films/posters/shin-godzilla-2016.webp
 release_date: 2016-07-29
 runtime: 119
-series:
-  entry_number: 29
-  next_entry:
-  previous_entry:
-    slug: godzilla-final-wars-2004
-    title: "Godzilla: Final Wars"
-    year: 2004
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: An'no Hideaki

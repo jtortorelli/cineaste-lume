@@ -28,14 +28,6 @@ video_review:
 poster_url: /static/images/films/posters/godzilla-1954.webp
 release_date: 1954-11-03
 runtime: 97
-series:
-  entry_number: 1
-  next_entry:
-    slug: godzilla-raids-again-1955
-    title: Godzilla Raids Again
-    year: 1955
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Honda Ishirô

@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/azumi-2003.webp
 release_date: 2003-05-10
 runtime: 142
-series:
-  entry_number: 1
-  next_entry:
-    slug: azumi-2-death-or-love-2005
-    title: "Azumi 2: Death or Love"
-    year: 2005
-  previous_entry:
-  slug: azumi
-  title: Azumi
 staff:
   - people:
       - name: Kitamura Ryûhei

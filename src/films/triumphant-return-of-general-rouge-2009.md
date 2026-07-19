@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/triumphant-return-of-general-rouge-2009.webp
 release_date: 2009-03-07
 runtime: 123
-series:
-  entry_number: 2
-  next_entry:
-  previous_entry:
-    slug: glorious-team-batista-2008
-    title: The Glorious Team Batista
-    year: 2008
-  slug: team-batista
-  title: Team Batista
 staff:
   - people:
       - name: Nakamura Yoshihiro

@@ -14,18 +14,6 @@ kaiju:
 poster_url: /static/images/films/posters/return-of-godzilla-1984.webp
 release_date: 1985-12-15
 runtime: 103
-series:
-  entry_number: 16
-  next_entry:
-    slug: godzilla-vs-biollante-1989
-    title: Godzilla vs. Biollante
-    year: 1989
-  previous_entry:
-    slug: terror-of-mechagodzilla-1975
-    title: Terror of Mechagodzilla
-    year: 1975
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Hashimoto Kôji

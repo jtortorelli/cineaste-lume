@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-the-outlaw-1967.webp
 release_date: 1967-08-12
 runtime: 96
-series:
-  entry_number: 16
-  next_entry:
-    slug: zatoichi-challenged-1967
-    title: Zatoichi Challenged
-    year: 1967
-  previous_entry:
-    slug: zatoichis-cane-sword-1967
-    title: Zatoichi's Cane Sword
-    year: 1967
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Yamamoto Satsuo

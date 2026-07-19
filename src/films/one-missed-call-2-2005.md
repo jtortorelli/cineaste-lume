@@ -10,18 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/one-missed-call-2-2005.webp
 release_date: 2005-02-05
 runtime: 106
-series:
-  entry_number: 2
-  next_entry:
-    slug: one-missed-call-final-2006
-    title: "One Missed Call: Final"
-    year: 2006
-  previous_entry:
-    slug: one-missed-call-2003
-    title: One Missed Call
-    year: 2003
-  slug: one-missed-call
-  title: One Missed Call
 staff:
   - people:
       - name: Tsukamoto Renpei

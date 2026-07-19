@@ -23,18 +23,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-vs-king-ghidorah-1991.webp
 release_date: 1991-12-14
 runtime: 103
-series:
-  entry_number: 18
-  next_entry:
-    slug: godzilla-vs-mothra-1992
-    title: Godzilla vs. Mothra
-    year: 1992
-  previous_entry:
-    slug: godzilla-vs-biollante-1989
-    title: Godzilla vs. Biollante
-    year: 1989
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Ômori Kazuki

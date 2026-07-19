@@ -7,15 +7,6 @@ japanese_title: 仮面ライダー THE FIRST
 poster_url: /static/images/films/posters/kamen-rider-the-first-2005.webp
 release_date: 2005-11-05
 runtime: 90
-series:
-  entry_number: 1
-  next_entry:
-    slug: kamen-rider-the-next-2007
-    title: "Kamen Rider: The Next"
-    year: 2007
-  previous_entry:
-  slug: kamen-rider
-  title: Kamen Rider
 staff:
   - people:
       - name: Nagaishi Takao

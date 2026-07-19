@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/azumi-2-death-or-love-2005.webp
 release_date: 2005-03-12
 runtime: 112
-series:
-  entry_number: 2
-  next_entry:
-  previous_entry:
-    slug: azumi-2003
-    title: Azumi
-    year: 2003
-  slug: azumi
-  title: Azumi
 staff:
   - people:
       - name: Kaneko Shûsuke

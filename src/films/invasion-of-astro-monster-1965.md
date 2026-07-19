@@ -31,18 +31,6 @@ kaiju:
 poster_url: /static/images/films/posters/invasion-of-astro-monster-1965.webp
 release_date: 1965-12-19
 runtime: 94
-series:
-  entry_number: 6
-  next_entry:
-    slug: ebirah-horror-of-the-deep-1966
-    title: Ebirah, Horror of the Deep
-    year: 1966
-  previous_entry:
-    slug: ghidorah-the-three-headed-monster-1964
-    title: Ghidorah, the Three-Headed Monster
-    year: 1964
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Honda Ishirô

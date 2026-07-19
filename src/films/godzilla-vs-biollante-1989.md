@@ -24,18 +24,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-vs-biollante-1989.webp
 release_date: 1989-12-16
 runtime: 105
-series:
-  entry_number: 17
-  next_entry:
-    slug: godzilla-vs-king-ghidorah-1991
-    title: Godzilla vs. King Ghidorah
-    year: 1991
-  previous_entry:
-    slug: return-of-godzilla-1984
-    title: The Return of Godzilla
-    year: 1985
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Ômori Kazuki

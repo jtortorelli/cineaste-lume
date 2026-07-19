@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-meets-the-one-armed-swordsman-1971.webp
 release_date: 1971-01-13
 runtime: 94
-series:
-  entry_number: 22
-  next_entry:
-    slug: zatoichi-at-large-1972
-    title: Zatoichi at Large
-    year: 1972
-  previous_entry:
-    slug: zatoichi-goes-to-the-fire-festival-1970
-    title: Zatoichi Goes to the Fire Festival
-    year: 1970
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Yasuda Kimiyoshi

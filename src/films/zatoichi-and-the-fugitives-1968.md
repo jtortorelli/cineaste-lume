@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-and-the-fugitives-1968.webp
 release_date: 1968-08-10
 runtime: 82
-series:
-  entry_number: 18
-  next_entry:
-    slug: samaritan-zatoichi-1968
-    title: Samaritan Zatoichi
-    year: 1968
-  previous_entry:
-    slug: zatoichi-challenged-1967
-    title: Zatoichi Challenged
-    year: 1967
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Yasuda Kimiyoshi

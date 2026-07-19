@@ -15,18 +15,6 @@ kaiju:
 poster_url: /static/images/films/posters/rebirth-of-mothra-ii-1997.webp
 release_date: 1997-12-13
 runtime: 100
-series:
-  entry_number: 2
-  next_entry:
-    slug: rebirth-of-mothra-iii-1998
-    title: Rebirth of Mothra III
-    year: 1998
-  previous_entry:
-    slug: rebirth-of-mothra-1996
-    title: Rebirth of Mothra
-    year: 1996
-  slug: rebirth-of-mothra
-  title: Rebirth of Mothra
 staff:
   - people:
       - name: Miyoshi Kunio

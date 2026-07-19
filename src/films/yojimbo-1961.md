@@ -4,15 +4,6 @@ japanese_title: 用心棒
 poster_url: /static/images/films/posters/yojimbo-1961.webp
 release_date: 1961-04-25
 runtime: 110
-series:
-  entry_number: 1
-  next_entry:
-    slug: sanjuro-1962
-    title: Sanjuro
-    year: 1962
-  previous_entry:
-  slug: yojimbo
-  title: Yojimbo
 staff:
   - people:
       - name: Kurosawa Akira

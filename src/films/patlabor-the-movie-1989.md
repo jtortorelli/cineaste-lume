@@ -4,15 +4,6 @@ japanese_title: 機動警察パトレイバー the Movie
 poster_url: /static/images/films/posters/patlabor-the-movie-1989.webp
 release_date: 1989-07-15
 runtime: 100
-series:
-  entry_number: 1
-  next_entry:
-    slug: patlabor-2-the-movie-1993
-    title: "Patlabor 2: The Movie"
-    year: 1993
-  previous_entry:
-  slug: patlabor
-  title: Patlabor
 staff:
   - people:
       - name: Oshii Mamoru

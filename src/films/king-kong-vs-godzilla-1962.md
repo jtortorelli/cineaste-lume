@@ -21,18 +21,6 @@ kaiju:
 poster_url: /static/images/films/posters/king-kong-vs-godzilla-1962.webp
 release_date: 1962-08-11
 runtime: 97
-series:
-  entry_number: 3
-  next_entry:
-    slug: mothra-vs-godzilla-1964
-    title: Mothra vs. Godzilla
-    year: 1964
-  previous_entry:
-    slug: godzilla-raids-again-1955
-    title: Godzilla Raids Again
-    year: 1955
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Honda Ishirô

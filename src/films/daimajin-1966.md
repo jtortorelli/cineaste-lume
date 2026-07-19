@@ -11,15 +11,6 @@ kaiju:
 poster_url: /static/images/films/posters/daimajin-1966.webp
 release_date: 1966-04-17
 runtime: 84
-series:
-  entry_number: 1
-  next_entry:
-    slug: return-of-daimajin-1966
-    title: Return of Daimajin
-    year: 1966
-  previous_entry:
-  slug: daimajin
-  title: Daimajin
 staff:
   - people:
       - name: Yasuda Kimiyoshi

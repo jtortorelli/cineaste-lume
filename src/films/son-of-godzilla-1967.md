@@ -31,18 +31,6 @@ kaiju:
 poster_url: /static/images/films/posters/son-of-godzilla-1967.webp
 release_date: 1967-12-16
 runtime: 86
-series:
-  entry_number: 8
-  next_entry:
-    slug: destroy-all-monsters-1968
-    title: Destroy All Monsters
-    year: 1968
-  previous_entry:
-    slug: ebirah-horror-of-the-deep-1966
-    title: Ebirah, Horror of the Deep
-    year: 1966
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Fukuda Jun

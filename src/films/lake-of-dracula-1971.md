@@ -4,18 +4,6 @@ japanese_title: 呪いの館 血を吸う眼
 poster_url: /static/images/films/posters/lake-of-dracula-1971.webp
 release_date: 1971-06-16
 runtime: 82
-series:
-  entry_number: 2
-  next_entry:
-    slug: evil-of-dracula-1974
-    title: Evil of Dracula
-    year: 1974
-  previous_entry:
-    slug: vampire-doll-1970
-    title: The Vampire Doll
-    year: 1970
-  slug: bloodthirsty
-  title: Bloodthirsty
 staff:
   - people:
       - name: Yamamoto Michio

@@ -17,15 +17,6 @@ kaiju:
 poster_url: /static/images/films/posters/gamera-the-brave-2006.webp
 release_date: 2006-04-29
 runtime: 96
-series:
-  entry_number: 12
-  next_entry:
-  previous_entry:
-    slug: gamera-3-revenge-of-iris-1999
-    title: "Gamera 3: Revenge of Iris"
-    year: 1999
-  slug: gamera
-  title: Gamera
 staff:
   - people:
       - name: Tasaki Ryûta

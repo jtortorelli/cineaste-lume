@@ -4,15 +4,6 @@ japanese_title: ゼイラム2
 poster_url: /static/images/films/posters/zeiram-2-1994.webp
 release_date: 1994-12-17
 runtime: 100
-series:
-  entry_number: 2
-  next_entry:
-  previous_entry:
-    slug: zeiram-1991
-    title: Zëiram
-    year: 1991
-  slug: zeiram
-  title: Zëiram
 staff:
   - people:
       - name: Amemiya Keita

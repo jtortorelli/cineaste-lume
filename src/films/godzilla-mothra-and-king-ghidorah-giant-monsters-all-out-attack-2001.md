@@ -27,18 +27,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001.webp
 release_date: 2001-12-15
 runtime: 105
-series:
-  entry_number: 25
-  next_entry:
-    slug: godzilla-against-mechagodzilla-2002
-    title: Godzilla Against Mechagodzilla
-    year: 2002
-  previous_entry:
-    slug: godzilla-vs-megaguirus-2000
-    title: Godzilla vs. Megaguirus
-    year: 2000
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Kaneko Shûsuke

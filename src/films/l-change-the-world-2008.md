@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/l-change-the-world-2008.webp
 release_date: 2008-02-09
 runtime: 129
-series:
-  entry_number: 3
-  next_entry:
-    slug: death-note-light-up-the-new-world-2016
-    title: "Death Note: Light Up the New World"
-    year: 2016
-  previous_entry:
-    slug: death-note-the-last-name-2006
-    title: "Death Note: The Last Name"
-    year: 2006
-  slug: death-note
-  title: Death Note
 staff:
   - people:
       - name: Nakata Hideo

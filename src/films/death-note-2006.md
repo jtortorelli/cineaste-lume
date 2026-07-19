@@ -11,15 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/death-note-2006.webp
 release_date: 2006-06-17
 runtime: 126
-series:
-  entry_number: 1
-  next_entry:
-    slug: death-note-the-last-name-2006
-    title: "Death Note: The Last Name"
-    year: 2006
-  previous_entry:
-  slug: death-note
-  title: Death Note
 staff:
   - people:
       - name: Kaneko Shûsuke

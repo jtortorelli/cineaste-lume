@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-at-large-1972.webp
 release_date: 1972-01-15
 runtime: 90
-series:
-  entry_number: 23
-  next_entry:
-    slug: zatoichi-in-desperation-1972
-    title: Zatoichi in Desperation
-    year: 1972
-  previous_entry:
-    slug: zatoichi-meets-the-one-armed-swordsman-1971
-    title: Zatoichi Meets the One-Armed Swordsman
-    year: 1971
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Mori Kazuo

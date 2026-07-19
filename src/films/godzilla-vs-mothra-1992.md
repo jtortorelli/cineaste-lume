@@ -28,18 +28,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-vs-mothra-1992.webp
 release_date: 1992-12-12
 runtime: 102
-series:
-  entry_number: 19
-  next_entry:
-    slug: godzilla-vs-mechagodzilla-ii-1993
-    title: Godzilla vs. Mechagodzilla II
-    year: 1993
-  previous_entry:
-    slug: godzilla-vs-king-ghidorah-1991
-    title: Godzilla vs. King Ghidorah
-    year: 1991
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Ôkawara Takao

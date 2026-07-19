@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-meets-yojimbo-1970.webp
 release_date: 1970-01-15
 runtime: 115
-series:
-  entry_number: 20
-  next_entry:
-    slug: zatoichi-goes-to-the-fire-festival-1970
-    title: Zatoichi Goes to the Fire Festival
-    year: 1970
-  previous_entry:
-    slug: samaritan-zatoichi-1968
-    title: Samaritan Zatoichi
-    year: 1968
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Okamoto Kihachi

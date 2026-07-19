@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichis-cane-sword-1967.webp
 release_date: 1967-01-03
 runtime: 93
-series:
-  entry_number: 15
-  next_entry:
-    slug: zatoichi-the-outlaw-1967
-    title: Zatoichi the Outlaw
-    year: 1967
-  previous_entry:
-    slug: zatoichis-pilgrimage-1966
-    title: Zatoichi's Pilgrimage
-    year: 1966
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Yasuda Kimiyoshi

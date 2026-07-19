@@ -4,15 +4,6 @@ japanese_title: 幽霊屋敷の恐怖 血を吸う人形
 poster_url: /static/images/films/posters/vampire-doll-1970.webp
 release_date: 1970-07-04
 runtime: 71
-series:
-  entry_number: 1
-  next_entry:
-    slug: lake-of-dracula-1971
-    title: Lake of Dracula
-    year: 1971
-  previous_entry:
-  slug: bloodthirsty
-  title: Bloodthirsty
 staff:
   - people:
       - name: Yamamoto Michio

@@ -84,18 +84,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-final-wars-2004.webp
 release_date: 2004-12-04
 runtime: 125
-series:
-  entry_number: 28
-  next_entry:
-    slug: shin-godzilla-2016
-    title: Shin Godzilla
-    year: 2016
-  previous_entry:
-    slug: godzilla-tokyo-sos-2003
-    title: "Godzilla: Tokyo S.O.S."
-    year: 2003
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Kitamura Ryûhei

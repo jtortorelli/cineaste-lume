@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/one-missed-call-2003.webp
 release_date: 2003-11-03
 runtime: 112
-series:
-  entry_number: 1
-  next_entry:
-    slug: one-missed-call-2-2005
-    title: One Missed Call 2
-    year: 2005
-  previous_entry:
-  slug: one-missed-call
-  title: One Missed Call
 staff:
   - people:
       - name: Miike Takashi

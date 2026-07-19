@@ -13,18 +13,6 @@ original_works:
 poster_url: /static/images/films/posters/spiral-1998.webp
 release_date: 1998-01-31
 runtime: 97
-series:
-  entry_number: 2
-  next_entry:
-    slug: ring-2-1999
-    title: Ring 2
-    year: 1999
-  previous_entry:
-    slug: ring-1998
-    title: Ring
-    year: 1998
-  slug: ring
-  title: Ring
 staff:
   - people:
       - name: Îda George

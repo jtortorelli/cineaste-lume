@@ -36,18 +36,6 @@ kaiju:
 poster_url: /static/images/films/posters/ghidorah-the-three-headed-monster-1964.webp
 release_date: 1964-12-20
 runtime: 93
-series:
-  entry_number: 5
-  next_entry:
-    slug: invasion-of-astro-monster-1965
-    title: Invasion of Astro-Monster
-    year: 1965
-  previous_entry:
-    slug: mothra-vs-godzilla-1964
-    title: Mothra vs. Godzilla
-    year: 1964
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Honda Ishirô

@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/assassination-classroom-graduation-2016.webp
 release_date: 2016-03-25
 runtime: 117
-series:
-  entry_number: 2
-  next_entry:
-  previous_entry:
-    slug: assassination-classroom-2015
-    title: Assassination Classroom
-    year: 2015
-  slug: assassination-classroom
-  title: Assassination Classroom
 staff:
   - people:
       - name: Hasumi Eiichirô

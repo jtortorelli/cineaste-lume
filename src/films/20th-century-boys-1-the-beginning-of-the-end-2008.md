@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/20th-century-boys-1-the-beginning-of-the-end-2008.webp
 release_date: 2008-08-30
 runtime: 142
-series:
-  entry_number: 1
-  next_entry:
-    slug: 20th-century-boys-2-the-last-hope-2009
-    title: "20th Century Boys 2: The Last Hope"
-    year: 2009
-  previous_entry:
-  slug: 20th-century-boys
-  title: 20th Century Boys
 staff:
   - people:
       - name: Tsutsumi Yukihiko

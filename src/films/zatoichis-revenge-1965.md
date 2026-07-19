@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichis-revenge-1965.webp
 release_date: 1965-04-03
 runtime: 84
-series:
-  entry_number: 10
-  next_entry:
-    slug: zatoichi-and-the-doomed-man-1965
-    title: Zatoichi and the Doomed Man
-    year: 1965
-  previous_entry:
-    slug: adventures-of-zatoichi-1964
-    title: Adventures of Zatoichi
-    year: 1964
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Inoue Akira

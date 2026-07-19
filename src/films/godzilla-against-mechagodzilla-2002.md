@@ -17,18 +17,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-against-mechagodzilla-2002.webp
 release_date: 2002-12-14
 runtime: 88
-series:
-  entry_number: 26
-  next_entry:
-    slug: godzilla-tokyo-sos-2003
-    title: "Godzilla: Tokyo S.O.S."
-    year: 2003
-  previous_entry:
-    slug: godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001
-    title: "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack"
-    year: 2001
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Tezuka Masaaki

@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-in-desperation-1972.webp
 release_date: 1972-09-02
 runtime: 95
-series:
-  entry_number: 24
-  next_entry:
-    slug: zatoichis-conspiracy-1973
-    title: Zatoichi's Conspiracy
-    year: 1973
-  previous_entry:
-    slug: zatoichi-at-large-1972
-    title: Zatoichi at Large
-    year: 1972
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Katsu Shintarô

@@ -11,15 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-1989.webp
 release_date: 1989-02-04
 runtime: 116
-series:
-  entry_number: 26
-  next_entry:
-  previous_entry:
-    slug: zatoichis-conspiracy-1973
-    title: Zatoichi's Conspiracy
-    year: 1973
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Katsu Shintarô

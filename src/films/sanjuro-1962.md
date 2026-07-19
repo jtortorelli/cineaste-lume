@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/sanjuro-1962.webp
 release_date: 1962-01-01
 runtime: 96
-series:
-  entry_number: 2
-  next_entry:
-  previous_entry:
-    slug: yojimbo-1961
-    title: Yojimbo
-    year: 1961
-  slug: yojimbo
-  title: Yojimbo
 staff:
   - people:
       - name: Kurosawa Akira

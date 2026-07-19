@@ -10,18 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/always-sunset-on-third-street-2-2007.webp
 release_date: 2007-11-03
 runtime: 146
-series:
-  entry_number: 2
-  next_entry:
-    slug: always-sunset-on-third-street-3-2012
-    title: "Always: Sunset on Third Street 3"
-    year: 2012
-  previous_entry:
-    slug: always-sunset-on-third-street-2005
-    title: "Always: Sunset on Third Street"
-    year: 2005
-  slug: always-sunset-on-third-street
-  title: "Always: Sunset on Third Street"
 staff:
   - people:
       - name: Yamazaki Takashi

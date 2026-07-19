@@ -11,15 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/death-note-light-up-the-new-world-2016.webp
 release_date: 2016-10-29
 runtime: 135
-series:
-  entry_number: 4
-  next_entry:
-  previous_entry:
-    slug: l-change-the-world-2008
-    title: "L: Change the World"
-    year: 2008
-  slug: death-note
-  title: Death Note
 staff:
   - people:
       - name: Satô Shinsuke

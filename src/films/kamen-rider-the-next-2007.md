@@ -4,15 +4,6 @@ japanese_title: 仮面ライダー THE NEXT
 poster_url: /static/images/films/posters/kamen-rider-the-next-2007.webp
 release_date: 2007-10-27
 runtime: 113
-series:
-  entry_number: 2
-  next_entry:
-  previous_entry:
-    slug: kamen-rider-the-first-2005
-    title: "Kamen Rider: The First"
-    year: 2005
-  slug: kamen-rider
-  title: Kamen Rider
 staff:
   - people:
       - name: Tasaki Ryûta

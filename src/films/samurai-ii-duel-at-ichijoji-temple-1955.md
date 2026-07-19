@@ -10,18 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/samurai-ii-duel-at-ichijoji-temple-1955.webp
 release_date: 1955-07-12
 runtime: 103
-series:
-  entry_number: 2
-  next_entry:
-    slug: samurai-iii-duel-at-ganryu-island-1956
-    title: "Samurai III: Duel at Ganryu Island"
-    year: 1956
-  previous_entry:
-    slug: samurai-i-musashi-miyamoto-1954
-    title: "Samurai I: Musashi Miyamoto"
-    year: 1954
-  slug: musashi-miyamoto
-  title: Musashi Miyamoto
 staff:
   - people:
       - name: Inagaki Hiroshi

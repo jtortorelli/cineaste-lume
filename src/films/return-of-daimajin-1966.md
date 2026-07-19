@@ -14,18 +14,6 @@ kaiju:
 poster_url: /static/images/films/posters/return-of-daimajin-1966.webp
 release_date: 1966-08-13
 runtime: 79
-series:
-  entry_number: 2
-  next_entry:
-    slug: wrath-of-daimajin-1966
-    title: Wrath of Daimajin
-    year: 1966
-  previous_entry:
-    slug: daimajin-1966
-    title: Daimajin
-    year: 1966
-  slug: daimajin
-  title: Daimajin
 staff:
   - people:
       - name: Misumi Kenji

@@ -4,15 +4,6 @@ japanese_title: 血を吸う薔薇
 poster_url: /static/images/films/posters/evil-of-dracula-1974.webp
 release_date: 1974-07-20
 runtime: 83
-series:
-  entry_number: 3
-  next_entry:
-  previous_entry:
-    slug: lake-of-dracula-1971
-    title: Lake of Dracula
-    year: 1971
-  slug: bloodthirsty
-  title: Bloodthirsty
 staff:
   - people:
       - name: Yamamoto Michio

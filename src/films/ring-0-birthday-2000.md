@@ -13,15 +13,6 @@ original_works:
 poster_url: /static/images/films/posters/ring-0-birthday-2000.webp
 release_date: 2000-01-22
 runtime: 99
-series:
-  entry_number: 4
-  next_entry:
-  previous_entry:
-    slug: ring-2-1999
-    title: Ring 2
-    year: 1999
-  slug: ring
-  title: Ring
 staff:
   - people:
       - name: Tsuruta Norio

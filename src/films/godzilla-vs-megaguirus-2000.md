@@ -16,18 +16,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-vs-megaguirus-2000.webp
 release_date: 2000-12-16
 runtime: 105
-series:
-  entry_number: 24
-  next_entry:
-    slug: godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-2001
-    title: "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack"
-    year: 2001
-  previous_entry:
-    slug: godzilla-2000-millennium-1999
-    title: "Godzilla 2000: Millennium"
-    year: 1999
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Tezuka Masaaki

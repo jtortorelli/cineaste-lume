@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/daredevil-in-the-castle-1961.webp
 release_date: 1961-01-03
 runtime: 95
-series:
-  entry_number: 1
-  next_entry:
-    slug: whirlwind-1964
-    title: Whirlwind
-    year: 1964
-  previous_entry:
-  slug: osaka-castle
-  title: Osaka Castle
 staff:
   - people:
       - name: Inagaki Hiroshi

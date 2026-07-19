@@ -15,15 +15,6 @@ kaiju:
 poster_url: /static/images/films/posters/rebirth-of-mothra-iii-1998.webp
 release_date: 1998-12-12
 runtime: 100
-series:
-  entry_number: 3
-  next_entry:
-  previous_entry:
-    slug: rebirth-of-mothra-ii-1997
-    title: Rebirth of Mothra II
-    year: 1997
-  slug: rebirth-of-mothra
-  title: Rebirth of Mothra
 staff:
   - people:
       - name: Yoneda Okihiro

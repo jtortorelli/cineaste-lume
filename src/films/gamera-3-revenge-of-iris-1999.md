@@ -24,18 +24,6 @@ kaiju:
 poster_url: /static/images/films/posters/gamera-3-revenge-of-iris-1999.webp
 release_date: 1999-03-06
 runtime: 108
-series:
-  entry_number: 11
-  next_entry:
-    slug: gamera-the-brave-2006
-    title: Gamera the Brave
-    year: 2006
-  previous_entry:
-    slug: gamera-2-attack-of-legion-1996
-    title: "Gamera 2: Attack of Legion"
-    year: 1996
-  slug: gamera
-  title: Gamera
 staff:
   - people:
       - name: Kaneko Shûsuke

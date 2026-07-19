@@ -55,18 +55,6 @@ kaiju:
 poster_url: /static/images/films/posters/all-monsters-attack-1969.webp
 release_date: 1969-12-20
 runtime: 70
-series:
-  entry_number: 10
-  next_entry:
-    slug: godzilla-vs-hedorah-1971
-    title: Godzilla vs. Hedorah
-    year: 1971
-  previous_entry:
-    slug: destroy-all-monsters-1968
-    title: Destroy All Monsters
-    year: 1968
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Honda Ishirô

@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-and-the-chest-of-gold-1964.webp
 release_date: 1964-03-14
 runtime: 83
-series:
-  entry_number: 6
-  next_entry:
-    slug: zatoichis-flashing-sword-1964
-    title: Zatoichi's Flashing Sword
-    year: 1964
-  previous_entry:
-    slug: zatoichi-on-the-road-1963
-    title: Zatoichi on the Road
-    year: 1963
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Ikehiro Kazuo

@@ -20,18 +20,6 @@ kaiju:
 poster_url: /static/images/films/posters/gamera-vs-gyaos-1967.webp
 release_date: 1967-03-15
 runtime: 87
-series:
-  entry_number: 3
-  next_entry:
-    slug: gamera-vs-viras-1968
-    title: Gamera vs. Viras
-    year: 1968
-  previous_entry:
-    slug: gamera-vs-barugon-1966
-    title: Gamera vs. Barugon
-    year: 1966
-  slug: gamera
-  title: Gamera
 staff:
   - people:
       - name: Yuasa Noriaki

@@ -14,18 +14,6 @@ kaiju:
 poster_url: /static/images/films/posters/gamera-vs-zigra-1971.webp
 release_date: 1971-07-17
 runtime: 88
-series:
-  entry_number: 7
-  next_entry:
-    slug: gamera-super-monster-1980
-    title: "Gamera: Super Monster"
-    year: 1980
-  previous_entry:
-    slug: gamera-vs-jiger-1970
-    title: Gamera vs. Jiger
-    year: 1970
-  slug: gamera
-  title: Gamera
 staff:
   - people:
       - name: Yuasa Noriaki

@@ -65,18 +65,6 @@ kaiju:
 poster_url: /static/images/films/posters/destroy-all-monsters-1968.webp
 release_date: 1968-08-01
 runtime: 89
-series:
-  entry_number: 9
-  next_entry:
-    slug: all-monsters-attack-1969
-    title: All Monsters Attack
-    year: 1969
-  previous_entry:
-    slug: son-of-godzilla-1967
-    title: Son of Godzilla
-    year: 1967
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Honda Ishirô

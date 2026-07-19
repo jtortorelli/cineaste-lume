@@ -34,18 +34,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-vs-megalon-1973.webp
 release_date: 1973-03-17
 runtime: 82
-series:
-  entry_number: 13
-  next_entry:
-    slug: godzilla-vs-mechagodzilla-1974
-    title: Godzilla vs. Mechagodzilla
-    year: 1974
-  previous_entry:
-    slug: godzilla-vs-gigan-1972
-    title: Godzilla vs. Gigan
-    year: 1972
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Fukuda Jun

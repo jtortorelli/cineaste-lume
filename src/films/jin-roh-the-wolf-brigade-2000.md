@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/jin-roh-the-wolf-brigade-2000.webp
 release_date: 2000-06-03
 runtime: 98
-series:
-  entry_number: 3
-  next_entry:
-  previous_entry:
-    slug: stray-dog-kerberos-panzer-cops-1991
-    title: "Stray Dog: Kerberos Panzer Cops"
-    year: 1991
-  slug: kerberos
-  title: Kerberos
 staff:
   - people:
       - name: Okiura Hiroyuki

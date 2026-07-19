@@ -23,18 +23,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-vs-destoroyah-1995.webp
 release_date: 1995-12-09
 runtime: 103
-series:
-  entry_number: 22
-  next_entry:
-    slug: godzilla-2000-millennium-1999
-    title: "Godzilla 2000: Millennium"
-    year: 1999
-  previous_entry:
-    slug: godzilla-vs-spacegodzilla-1994
-    title: Godzilla vs. SpaceGodzilla
-    year: 1994
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Ôkawara Takao

@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-goes-to-the-fire-festival-1970.webp
 release_date: 1970-08-12
 runtime: 96
-series:
-  entry_number: 21
-  next_entry:
-    slug: zatoichi-meets-the-one-armed-swordsman-1971
-    title: Zatoichi Meets the One-Armed Swordsman
-    year: 1971
-  previous_entry:
-    slug: zatoichi-meets-yojimbo-1970
-    title: Zatoichi Meets Yojimbo
-    year: 1970
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Misumi Kenji

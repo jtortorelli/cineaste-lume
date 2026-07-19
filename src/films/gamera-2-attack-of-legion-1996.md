@@ -31,18 +31,6 @@ kaiju:
 poster_url: /static/images/films/posters/gamera-2-attack-of-legion-1996.webp
 release_date: 1996-07-13
 runtime: 99
-series:
-  entry_number: 10
-  next_entry:
-    slug: gamera-3-revenge-of-iris-1999
-    title: "Gamera 3: Revenge of Iris"
-    year: 1999
-  previous_entry:
-    slug: gamera-guardian-of-the-universe-1995
-    title: "Gamera: Guardian of the Universe"
-    year: 1995
-  slug: gamera
-  title: Gamera
 staff:
   - people:
       - name: Kaneko Shûsuke

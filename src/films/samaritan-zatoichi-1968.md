@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/samaritan-zatoichi-1968.webp
 release_date: 1968-12-28
 runtime: 82
-series:
-  entry_number: 19
-  next_entry:
-    slug: zatoichi-meets-yojimbo-1970
-    title: Zatoichi Meets Yojimbo
-    year: 1970
-  previous_entry:
-    slug: zatoichi-and-the-fugitives-1968
-    title: Zatoichi and the Fugitives
-    year: 1968
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Misumi Kenji

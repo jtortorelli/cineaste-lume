@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichis-vengeance-1966.webp
 release_date: 1966-05-03
 runtime: 83
-series:
-  entry_number: 13
-  next_entry:
-    slug: zatoichis-pilgrimage-1966
-    title: Zatoichi's Pilgrimage
-    year: 1966
-  previous_entry:
-    slug: zatoichi-and-the-chess-expert-1965
-    title: Zatoichi and the Chess Expert
-    year: 1965
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Tanaka Tokuzô

@@ -4,18 +4,6 @@ japanese_title: ケルベロス-地獄の番犬
 poster_url: /static/images/films/posters/stray-dog-kerberos-panzer-cops-1991.webp
 release_date: 1991-03-23
 runtime: 99
-series:
-  entry_number: 2
-  next_entry:
-    slug: jin-roh-the-wolf-brigade-2000
-    title: "Jin-Roh: The Wolf Brigade"
-    year: 2000
-  previous_entry:
-    slug: red-spectacles-1987
-    title: The Red Spectacles
-    year: 1987
-  slug: kerberos
-  title: Kerberos
 staff:
   - people:
       - name: Oshii Mamoru

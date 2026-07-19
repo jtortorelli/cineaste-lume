@@ -25,18 +25,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-tokyo-sos-2003.webp
 release_date: 2003-12-13
 runtime: 91
-series:
-  entry_number: 27
-  next_entry:
-    slug: godzilla-final-wars-2004
-    title: "Godzilla: Final Wars"
-    year: 2004
-  previous_entry:
-    slug: godzilla-against-mechagodzilla-2002
-    title: Godzilla Against Mechagodzilla
-    year: 2002
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Tezuka Masaaki

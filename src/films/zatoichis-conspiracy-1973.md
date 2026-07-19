@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichis-conspiracy-1973.webp
 release_date: 1973-04-21
 runtime: 88
-series:
-  entry_number: 25
-  next_entry:
-    slug: zatoichi-1989
-    title: Zatoichi
-    year: 1989
-  previous_entry:
-    slug: zatoichi-in-desperation-1972
-    title: Zatoichi in Desperation
-    year: 1972
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Yasuda Kimiyoshi

@@ -50,7 +50,7 @@ studios:
   - Kyushu Asahi Broadcasting Co., Ltd.
   - Hokkaido Television Broadcasting
   - Hiroshima Home Television Co.,Ltd.
-title: Stand By Me, Doraemon
+title: Stand By Me Doraemon
 top_billed_cast:
   - avatar_url: /static/images/films/stand-by-me-doraemon-2014/cast-avatars/wasabi-mizuta-0.webp
     character_qualifiers:

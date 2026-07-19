@@ -18,18 +18,6 @@ kaiju:
 poster_url: /static/images/films/posters/gamera-guardian-of-the-universe-1995.webp
 release_date: 1995-03-11
 runtime: 95
-series:
-  entry_number: 9
-  next_entry:
-    slug: gamera-2-attack-of-legion-1996
-    title: "Gamera 2: Attack of Legion"
-    year: 1996
-  previous_entry:
-    slug: gamera-super-monster-1980
-    title: "Gamera: Super Monster"
-    year: 1980
-  slug: gamera
-  title: Gamera
 staff:
   - people:
       - name: Kaneko Shûsuke

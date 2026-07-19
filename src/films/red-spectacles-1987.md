@@ -4,15 +4,6 @@ japanese_title: 紅い眼鏡/The Red Spectacles
 poster_url: /static/images/films/posters/red-spectacles-1987.webp
 release_date: 1987-02-07
 runtime: 116
-series:
-  entry_number: 1
-  next_entry:
-    slug: stray-dog-kerberos-panzer-cops-1991
-    title: "Stray Dog: Kerberos Panzer Cops"
-    year: 1991
-  previous_entry:
-  slug: kerberos
-  title: Kerberos
 staff:
   - people:
       - name: Oshii Mamoru

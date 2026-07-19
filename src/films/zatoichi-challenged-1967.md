@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-challenged-1967.webp
 release_date: 1967-12-30
 runtime: 87
-series:
-  entry_number: 17
-  next_entry:
-    slug: zatoichi-and-the-fugitives-1968
-    title: Zatoichi and the Fugitives
-    year: 1968
-  previous_entry:
-    slug: zatoichi-the-outlaw-1967
-    title: Zatoichi the Outlaw
-    year: 1967
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Misumi Kenji

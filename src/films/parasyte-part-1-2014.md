@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/parasyte-part-1-2014.webp
 release_date: 2014-11-29
 runtime: 109
-series:
-  entry_number: 1
-  next_entry:
-    slug: parasyte-part-2-2015
-    title: "Parasyte: Part 2"
-    year: 2015
-  previous_entry:
-  slug: parasyte
-  title: Parasyte
 staff:
   - people:
       - name: Yamazaki Takashi

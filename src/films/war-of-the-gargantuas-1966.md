@@ -19,15 +19,6 @@ kaiju:
 poster_url: /static/images/films/posters/war-of-the-gargantuas-1966.webp
 release_date: 1966-07-31
 runtime: 88
-series:
-  entry_number: 2
-  next_entry:
-  previous_entry:
-    slug: frankenstein-conquers-the-world-1965
-    title: Frankenstein Conquers the World
-    year: 1965
-  slug: frankenstein
-  title: Frankenstein
 staff:
   - people:
       - name: Honda Ishirô

@@ -27,18 +27,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-vs-mechagodzilla-ii-1993.webp
 release_date: 1993-12-11
 runtime: 108
-series:
-  entry_number: 20
-  next_entry:
-    slug: godzilla-vs-spacegodzilla-1994
-    title: Godzilla vs. SpaceGodzilla
-    year: 1994
-  previous_entry:
-    slug: godzilla-vs-mothra-1992
-    title: Godzilla vs. Mothra
-    year: 1992
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Ôkawara Takao

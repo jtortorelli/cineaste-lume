@@ -13,15 +13,6 @@ original_works:
 poster_url: /static/images/films/posters/kaiji-2009.webp
 release_date: 2009-10-10
 runtime: 129
-series:
-  entry_number: 1
-  next_entry:
-    slug: kaiji-2-2011
-    title: Kaiji 2
-    year: 2011
-  previous_entry:
-  slug: kaiji
-  title: Kaiji
 staff:
   - people:
       - name: Satô Tôya

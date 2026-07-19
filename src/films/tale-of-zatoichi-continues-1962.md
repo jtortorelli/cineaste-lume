@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/tale-of-zatoichi-continues-1962.webp
 release_date: 1962-10-12
 runtime: 73
-series:
-  entry_number: 2
-  next_entry:
-    slug: new-tale-of-zatoichi-1963
-    title: New Tale of Zatoichi
-    year: 1963
-  previous_entry:
-    slug: tale-of-zatoichi-1962
-    title: The Tale of Zatoichi
-    year: 1962
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Mori Kazuo

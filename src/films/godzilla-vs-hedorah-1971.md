@@ -22,18 +22,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-vs-hedorah-1971.webp
 release_date: 1971-07-24
 runtime: 85
-series:
-  entry_number: 11
-  next_entry:
-    slug: godzilla-vs-gigan-1972
-    title: Godzilla vs. Gigan
-    year: 1972
-  previous_entry:
-    slug: all-monsters-attack-1969
-    title: All Monsters Attack
-    year: 1969
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Banno Yoshimitsu

@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-and-the-chess-expert-1965.webp
 release_date: 1965-12-24
 runtime: 87
-series:
-  entry_number: 12
-  next_entry:
-    slug: zatoichis-vengeance-1966
-    title: Zatoichi's Vengeance
-    year: 1966
-  previous_entry:
-    slug: zatoichi-and-the-doomed-man-1965
-    title: Zatoichi and the Doomed Man
-    year: 1965
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Misumi Kenji

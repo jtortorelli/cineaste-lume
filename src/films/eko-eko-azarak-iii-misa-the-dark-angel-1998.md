@@ -10,15 +10,6 @@ original_works:
 poster_url: /static/images/films/posters/eko-eko-azarak-iii-misa-the-dark-angel-1998.webp
 release_date: 1998-01-15
 runtime: 95
-series:
-  entry_number: 3
-  next_entry:
-  previous_entry:
-    slug: eko-eko-azarak-ii-birth-of-the-wizard-1996
-    title: "Eko Eko Azarak II: Birth of the Wizard"
-    year: 1996
-  slug: eko-eko-azarak
-  title: Eko Eko Azarak
 staff:
   - people:
       - name: Ueno Katsuhito

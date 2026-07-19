@@ -20,18 +20,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-2000-millennium-1999.webp
 release_date: 1999-12-11
 runtime: 108
-series:
-  entry_number: 23
-  next_entry:
-    slug: godzilla-vs-megaguirus-2000
-    title: Godzilla vs. Megaguirus
-    year: 2000
-  previous_entry:
-    slug: godzilla-vs-destoroyah-1995
-    title: Godzilla vs. Destoroyah
-    year: 1995
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Ôkawara Takao

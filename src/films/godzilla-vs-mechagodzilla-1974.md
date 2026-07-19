@@ -34,18 +34,6 @@ kaiju:
 poster_url: /static/images/films/posters/godzilla-vs-mechagodzilla-1974.webp
 release_date: 1974-03-21
 runtime: 84
-series:
-  entry_number: 14
-  next_entry:
-    slug: terror-of-mechagodzilla-1975
-    title: Terror of Mechagodzilla
-    year: 1975
-  previous_entry:
-    slug: godzilla-vs-megalon-1973
-    title: Godzilla vs. Megalon
-    year: 1973
-  slug: godzilla
-  title: Godzilla
 staff:
   - people:
       - name: Fukuda Jun

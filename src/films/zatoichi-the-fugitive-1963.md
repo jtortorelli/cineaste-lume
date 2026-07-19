@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/zatoichi-the-fugitive-1963.webp
 release_date: 1963-08-10
 runtime: 86
-series:
-  entry_number: 4
-  next_entry:
-    slug: zatoichi-on-the-road-1963
-    title: Zatoichi on the Road
-    year: 1963
-  previous_entry:
-    slug: new-tale-of-zatoichi-1963
-    title: New Tale of Zatoichi
-    year: 1963
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Tanaka Tokuzô

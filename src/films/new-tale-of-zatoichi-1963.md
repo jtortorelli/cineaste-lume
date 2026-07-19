@@ -11,18 +11,6 @@ original_works:
 poster_url: /static/images/films/posters/new-tale-of-zatoichi-1963.webp
 release_date: 1963-03-15
 runtime: 91
-series:
-  entry_number: 3
-  next_entry:
-    slug: zatoichi-the-fugitive-1963
-    title: Zatoichi the Fugitive
-    year: 1963
-  previous_entry:
-    slug: tale-of-zatoichi-continues-1962
-    title: The Tale of Zatoichi Continues
-    year: 1962
-  slug: zatoichi
-  title: Zatoichi
 staff:
   - people:
       - name: Tanaka Tokuzô
