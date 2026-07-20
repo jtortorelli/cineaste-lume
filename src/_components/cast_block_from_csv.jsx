@@ -8,7 +8,7 @@ function castEntryFromCsvRow(row) {
     name: row.name,
   };
 
-  if (isTruthy(row.showcase) && row.slug) entry.slug = row.slug;
+  if (isTruthy(row.showcased) && row.slug) entry.slug = row.slug;
   if (row.avatar_url) entry.avatar_url = row.avatar_url;
   if (isTruthy(row.uncredited)) entry.uncredited = true;
   if (row.alias) entry.alias = row.alias;
