@@ -42,7 +42,7 @@ accolades:
     category: Best Supporting Actress
     status: won
     films:
-      - title: Younger Brother
+      - title: Her Brother
   - ceremony: 29th Mainichi Film Awards
     category: Best Actress
     status: won
@@ -152,7 +152,7 @@ works:
     slug: three-treasures-1959
     title: The Three Treasures
     year: 1959
-  - title: Younger Brother
+  - title: Her Brother
     format: film
     year: 1960
     poster_url: /static/images/films/posters/younger-brother-1960.webp

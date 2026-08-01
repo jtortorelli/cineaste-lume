@@ -121,7 +121,7 @@ works:
     poster_url: /static/images/films/posters/river-kino-1966.webp
     roles:
       - name: Hana
-    title: The River Kino
+    title: The Kii River
     year: 1966
   - format: film
     poster_url: /static/images/films/posters/presidents-thousand-and-one-nights-1967.webp
@@ -190,20 +190,20 @@ accolades:
     category: Best Actress
     status: won
     films:
-      - title: The River Kino
+      - title: The Kii River
   - ceremony: 22nd Mainichi Film Awards
     category: Best Actress
     status: won
     films:
-      - title: The River Kino
+      - title: The Kii River
   - ceremony: 40th Kinema Junpo Awards
     category: Best Actress
     status: won
     films:
-      - title: The River Kino
+      - title: The Kii River
 ---
 Tsukasa Yôko is an actress who appeared in numerous comedies and samurai films. She first began modeling for the Mei Ushiyama agency in 1954 before being offered a contract with Toho later that year. Tsukasa appeared opposite actor Mifune Toshirô in several films, including _The Three Treasures_ (1959, as his love interest), _Yojimbo_ (1961, as a kidnapped wife he rescues), and _Samurai Rebellion_ (1967, as his daughter-in-law).
 
-In 1966, Tsukasa starred in the acclaimed film _The River Kino_ and swept "Best Actress" awards across multiple ceremonies. In 1969, she married bureaucrat Aizawa Hideyuki.
+In 1966, Tsukasa starred in the acclaimed film _The Kii River_ and swept "Best Actress" awards across multiple ceremonies. In 1969, she married bureaucrat Aizawa Hideyuki.
 
 Tsukasa was awarded the Medal of Honor with Purple Ribbon in 2003, and the Order of the Rising Sun, 4th Class, in 2010.

@@ -98,7 +98,7 @@ works:
   - format: film
     roles:
       - name: Hatada Tsuru
-    title: Tsunagu
+    title: Until the Break of Dawn
     poster_url: "/static/images/films/posters/tsunagu-2012.webp"
     year: 2012
 ---
