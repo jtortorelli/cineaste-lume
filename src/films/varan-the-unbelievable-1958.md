@@ -1,5 +1,7 @@
 ---
 tags: ["cineaste", "films"]
+video_review:
+  star_rating: 2
 japanese_title: 大怪獣バラン
 kaiju:
   - avatar_url: /static/images/films/varan-the-unbelievable-1958/kaiju-avatars/katsumi-tezuka-0.webp

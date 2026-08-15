@@ -1,5 +1,7 @@
 ---
 tags: ["cineaste", "films"]
+video_review:
+  star_rating: 3
 japanese_title: 地球防衛軍
 kaiju:
   - avatar_url: /static/images/films/mysterians-1957/kaiju-avatars/haruo-nakajima-0.webp

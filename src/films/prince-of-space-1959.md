@@ -1,5 +1,7 @@
 ---
 tags: ["cineaste", "films"]
+video_review:
+  star_rating: 2
 title: Prince of Space
 japanese_title: "遊星王子"
 translation: "Planet Prince"

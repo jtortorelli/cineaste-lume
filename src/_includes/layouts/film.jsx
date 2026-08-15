@@ -1,5 +1,7 @@
 export const layout = "layouts/layout.jsx";
 
+import { hasWrittenReview } from "../../films/review_loader.ts";
+
 function staffFromCsv(rows) {
   const groups = [];
   const roleIndex = new Map();
@@ -159,58 +161,17 @@ export default (
           />
         </div>
       </div>
-      {video_review && (
+      {hasWrittenReview(basename) && (
         <div class="text-center w-fit m-auto pt-2 pb-4">
           <div class="font-content text-red-700">
-            godzillacineaste.net review
+            <comp.cineaste_link href={`/films/${basename}/review/`}>
+              godzillacineaste.net review
+            </comp.cineaste_link>
           </div>
-          <div class="flex justify-center pt-1 gap-0.5">
-            {Array.from({ length: 4 }, (_, i) => {
-              const n = Math.min(
-                4,
-                Math.max(0, Number(video_review.star_rating) || 0),
-              );
-              const filled = i < n;
-              return (
-                <img
-                  key={i}
-                  class="inline h-6 w-6 text-amber-500"
-                  src={icon("star", "tabler", filled ? "filled" : "outline")}
-                  inline
-                />
-              );
-            })}
-          </div>
-          {(video_review.youtube_url ||
-            video_review.rumble_url ||
-            video_review.odysee_url) && (
-              <div class="flex justify-center items-center gap-3 pt-2">
-                {video_review.youtube_url && (
-                  <a
-                    href={video_review.youtube_url}
-                    class="inline-block align-middle text-red-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-red-500 [&_path]:fill-red-500"
-                  >
-                    <img src={icon("youtube", "simpleicons")} inline />
-                  </a>
-                )}
-                {video_review.rumble_url && (
-                  <a
-                    href={video_review.rumble_url}
-                    class="inline-block align-middle text-green-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-green-500 [&_path]:fill-green-500"
-                  >
-                    <img src={icon("rumble", "simpleicons")} inline />
-                  </a>
-                )}
-                {video_review.odysee_url && (
-                  <a
-                    href={video_review.odysee_url}
-                    class="inline-block align-middle text-orange-500 [&_svg]:inline [&_svg]:h-4 [&_svg]:w-4 [&_svg]:fill-orange-500 [&_path]:fill-orange-500"
-                  >
-                    <img src={icon("odysee", "simpleicons")} inline />
-                  </a>
-                )}
-              </div>
-            )}
+          <comp.review_stars
+            star_rating={video_review?.star_rating}
+            show_label={true}
+          />
         </div>
       )}
       <comp.named_divider name="Overview" />

@@ -1,5 +1,7 @@
 ---
 tags: ["cineaste", "films"]
+video_review:
+  star_rating: 2
 title: The Invisible Man vs. The Human Fly
 japanese_title: "透明人間と蝿男"
 translation: "Invisible Man and Fly Man"
